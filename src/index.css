@@ -1,1 +1,347 @@
 @import "tailwindcss";
+
+@theme {
+  --font-display: "Noto Serif Devanagari", serif;
+  --font-body: "Mukta", "Noto Sans Devanagari", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", monospace;
+
+  --color-ink: #0a0d1f;
+  --color-ink2: #10142b;
+  --color-fog: #f2f5ff;
+  --color-dim: #a7b1d4;
+  --color-faint: #6d7799;
+  --color-glass: rgba(255, 255, 255, 0.07);
+  --color-glass2: rgba(255, 255, 255, 0.12);
+  --color-gline: rgba(255, 255, 255, 0.12);
+  --color-gline2: rgba(255, 255, 255, 0.22);
+  --color-wire: #ff3b30;
+  --color-gold: #ffd60a;
+  --color-ok: #30d158;
+  --color-cy: #64d2ff;
+  --color-bl: #0a84ff;
+  --color-or: #ff9f0a;
+  --color-pk: #ff375f;
+  --color-pp: #bf5af2;
+  --color-tl: #40c8e0;
+}
+
+html {
+  color-scheme: dark;
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-ink);
+  color: var(--color-fog);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  min-height: 100dvh;
+}
+
+::selection {
+  background: rgba(10, 132, 255, 0.55);
+  color: #fff;
+}
+
+/* ---------- ambient wallpaper ---------- */
+.wallpaper {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  background: linear-gradient(135deg, #0a0d1f 0%, #1a1f3a 50%, #0a0d1f 100%);
+}
+
+.wallpaper-veil {
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+  background:
+    linear-gradient(180deg, rgba(10, 13, 31, 0.55) 0%, rgba(10, 13, 31, 0.72) 40%, rgba(10, 13, 31, 0.86) 100%),
+    radial-gradient(120% 80% at 50% 0%, transparent 40%, rgba(10, 13, 31, 0.5) 100%);
+}
+
+.noise::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 2;
+  pointer-events: none;
+  opacity: 0.045;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-size: 150px 150px;
+}
+
+/* ---------- glass helpers ---------- */
+.glass {
+  background: var(--color-glass);
+  border: 1px solid var(--color-gline);
+  backdrop-filter: blur(22px) saturate(160%);
+  -webkit-backdrop-filter: blur(22px) saturate(160%);
+  box-shadow: 0 8px 32px rgba(4, 6, 18, 0.35), inset 0 1px 0 rgba(255, 255, 255, 0.08);
+}
+
+.glass-soft {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  backdrop-filter: blur(16px) saturate(150%);
+  -webkit-backdrop-filter: blur(16px) saturate(150%);
+}
+
+.glass-strong {
+  background: rgba(16, 20, 43, 0.72);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  backdrop-filter: blur(30px) saturate(170%);
+  -webkit-backdrop-filter: blur(30px) saturate(170%);
+  box-shadow: 0 18px 60px rgba(2, 4, 14, 0.55), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+}
+
+/* ---------- iOS-style switch ---------- */
+.ioswitch {
+  position: relative;
+  width: 46px;
+  height: 28px;
+  border-radius: 999px;
+  background: rgba(120, 120, 128, 0.32);
+  transition: background 0.25s ease;
+  flex-shrink: 0;
+  border: none;
+  cursor: pointer;
+}
+
+.ioswitch::after {
+  content: "";
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 24px;
+  height: 24px;
+  border-radius: 999px;
+  background: #fff;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.35);
+  transition: transform 0.25s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.ioswitch.on {
+  background: var(--color-ok);
+}
+
+.ioswitch.on::after {
+  transform: translateX(18px);
+}
+
+/* ---------- ticker ---------- */
+@keyframes tickerMove {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.ticker-track {
+  animation: tickerMove var(--ticker-dur, 90s) linear infinite;
+  will-change: transform;
+}
+
+.ticker-shell:hover .ticker-track {
+  animation-play-state: paused;
+}
+
+@keyframes blinkSoft {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.25;
+  }
+}
+
+.blink-soft {
+  animation: blinkSoft 1.1s steps(1) infinite;
+}
+
+/* ---------- living motion ---------- */
+@keyframes newFlash {
+  0% {
+    box-shadow: 0 0 0 2px rgba(255, 59, 48, 0.85), 0 0 34px rgba(255, 59, 48, 0.35);
+    background-color: rgba(255, 59, 48, 0.16);
+  }
+  100% {
+    box-shadow: 0 8px 32px rgba(4, 6, 18, 0.35);
+  }
+}
+
+.card-new {
+  animation: newFlash 2.4s ease-out 1;
+}
+
+@keyframes rowIn {
+  from {
+    opacity: 0;
+    transform: translateX(14px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.row-in {
+  animation: rowIn 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes sheetUp {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: none;
+  }
+}
+
+.animate-sheet-up {
+  animation: sheetUp 0.4s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes popIn {
+  from {
+    opacity: 0;
+    transform: translateY(22px) scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.animate-pop-in {
+  animation: popIn 0.35s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes bannerIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.animate-banner-in {
+  animation: bannerIn 0.35s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.25s ease-out both;
+}
+
+@keyframes pulseDot {
+  0% {
+    box-shadow: 0 0 0 0 rgba(255, 59, 48, 0.6);
+  }
+  70% {
+    box-shadow: 0 0 0 7px rgba(255, 59, 48, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(255, 59, 48, 0);
+  }
+}
+
+.pulse-dot {
+  animation: pulseDot 1.6s ease-out infinite;
+}
+
+.reveal {
+  opacity: 0;
+  transform: translateY(18px);
+  transition: opacity 0.6s ease, transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.reveal.is-in {
+  opacity: 1;
+  transform: none;
+}
+
+/* card hover lift */
+.card-lift {
+  transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.3s, background-color 0.3s, box-shadow 0.3s;
+}
+
+.card-lift:hover {
+  transform: translateY(-4px);
+  border-color: rgba(255, 255, 255, 0.26);
+  background: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 18px 44px rgba(4, 6, 18, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.12);
+}
+
+/* press effect */
+.press {
+  transition: transform 0.15s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.press:active {
+  transform: scale(0.96);
+}
+
+/* ---------- scrollbars ---------- */
+.scroll-thin::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+.scroll-thin::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.scroll-thin::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.18);
+  border-radius: 99px;
+}
+
+.scroll-thin {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.18) transparent;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ticker-track,
+  .card-new,
+  .row-in,
+  .animate-sheet-up,
+  .animate-pop-in,
+  .animate-banner-in,
+  .blink-soft,
+  .pulse-dot {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+  .card-lift {
+    transition: none;
+  }
+}

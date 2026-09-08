@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { CATEGORIES, FEED_MAP, FEEDS } from "./data/feeds";
+import { CATEGORIES, FEED_MAP, FEEDS, np } from "./data/feeds";
 import type { CategoryId } from "./data/feeds";
 import { useNews } from "./hooks/useNews";
 import type { Article } from "./lib/rss";
@@ -207,9 +207,4 @@ export default function App() {
       <Toast toasts={toasts} onDismiss={(id) => setToasts((prev) => prev.filter((t) => t.id !== id))} />
     </div>
   );
-}
-
-function np(n: number): string {
-  const NE_DIGITS = ["०", "१", "२", "३", "४", "५", "६", "७", "८", "९"];
-  return String(n).replace(/\d/g, (d) => NE_DIGITS[Number(d)]);
 }
