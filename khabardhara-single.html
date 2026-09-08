@@ -1,0 +1,792 @@
+<!DOCTYPE html>
+<html lang="ne">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>खबरधारा - Nepali News Aggregator</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@400;700;900&family=Mukta:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+  
+  <style>
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    :root {
+      --font-display: "Noto Serif Devanagari", serif;
+      --font-body: "Mukta", "Noto Sans Devanagari", system-ui, sans-serif;
+      --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+      
+      --color-ink: #0a0d1f;
+      --color-ink2: #10142b;
+      --color-fog: #f2f5ff;
+      --color-dim: #a7b1d4;
+      --color-faint: #6d7799;
+      --color-glass: rgba(255, 255, 255, 0.07);
+      --color-glass2: rgba(255, 255, 255, 0.12);
+      --color-gline: rgba(255, 255, 255, 0.12);
+      --color-gline2: rgba(255, 255, 255, 0.22);
+      --color-wire: #ff3b30;
+      --color-gold: #ffd60a;
+      --color-ok: #30d158;
+      --color-cy: #64d2ff;
+      --color-bl: #0a84ff;
+      --color-or: #ff9f0a;
+      --color-pk: #ff375f;
+      --color-pp: #bf5af2;
+      --color-tl: #40c8e0;
+    }
+
+    html {
+      color-scheme: dark;
+      scroll-behavior: smooth;
+    }
+
+    body {
+      background: var(--color-ink);
+      color: var(--color-fog);
+      font-family: var(--font-body);
+      -webkit-font-smoothing: antialiased;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    ::selection {
+      background: rgba(10, 132, 255, 0.55);
+      color: #fff;
+    }
+
+    /* Wallpaper */
+    .wallpaper {
+      position: fixed;
+      inset: 0;
+      z-index: 0;
+      background: linear-gradient(135deg, #0a0d1f 0%, #1a1f3a 50%, #0a0d1f 100%);
+    }
+
+    .wallpaper-veil {
+      position: fixed;
+      inset: 0;
+      z-index: 1;
+      background: radial-gradient(ellipse at top, rgba(100, 210, 255, 0.08), transparent 50%),
+                  radial-gradient(ellipse at bottom, rgba(255, 59, 48, 0.05), transparent 50%);
+    }
+
+    /* Glass Effects */
+    .glass {
+      background: var(--color-glass);
+      border: 1px solid var(--color-gline);
+      backdrop-filter: blur(22px) saturate(160%);
+      -webkit-backdrop-filter: blur(22px) saturate(160%);
+      box-shadow: 0 8px 32px rgba(4, 6, 18, 0.35), inset 0 1px 0 rgba(255, 255, 255, 0.08);
+    }
+
+    .glass-soft {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.09);
+      backdrop-filter: blur(16px) saturate(150%);
+      -webkit-backdrop-filter: blur(16px) saturate(150%);
+    }
+
+    .glass-strong {
+      background: rgba(16, 20, 43, 0.72);
+      border: 1px solid rgba(255, 255, 255, 0.14);
+      backdrop-filter: blur(30px) saturate(170%);
+      -webkit-backdrop-filter: blur(30px) saturate(170%);
+      box-shadow: 0 18px 60px rgba(2, 4, 14, 0.55), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    }
+
+    /* iOS Switch */
+    .ioswitch {
+      position: relative;
+      width: 46px;
+      height: 28px;
+      border-radius: 999px;
+      background: rgba(120, 120, 128, 0.32);
+      transition: background 0.25s ease;
+      flex-shrink: 0;
+      border: none;
+      cursor: pointer;
+    }
+
+    .ioswitch::after {
+      content: "";
+      position: absolute;
+      top: 2px;
+      left: 2px;
+      width: 24px;
+      height: 24px;
+      border-radius: 999px;
+      background: #fff;
+      box-shadow: 0 3px 8px rgba(0, 0, 0, 0.35);
+      transition: transform 0.25s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+
+    .ioswitch.on {
+      background: var(--color-ok);
+    }
+
+    .ioswitch.on::after {
+      transform: translateX(18px);
+    }
+
+    /* Animations */
+    @keyframes tickerMove {
+      from { transform: translateX(0); }
+      to { transform: translateX(-50%); }
+    }
+
+    .ticker-track {
+      animation: tickerMove var(--ticker-dur, 90s) linear infinite;
+      will-change: transform;
+    }
+
+    .ticker-shell:hover .ticker-track {
+      animation-play-state: paused;
+    }
+
+    @keyframes blinkSoft {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.25; }
+    }
+
+    .blink-soft {
+      animation: blinkSoft 1.1s steps(1) infinite;
+    }
+
+    @keyframes newFlash {
+      0% {
+        box-shadow: 0 0 0 2px rgba(255, 59, 48, 0.85), 0 0 34px rgba(255, 59, 48, 0.35);
+        background-color: rgba(255, 59, 48, 0.16);
+      }
+      100% {
+        box-shadow: 0 8px 32px rgba(4, 6, 18, 0.35);
+      }
+    }
+
+    .card-new {
+      animation: newFlash 2.4s ease-out 1;
+    }
+
+    @keyframes rowIn {
+      from { opacity: 0; transform: translateX(14px); }
+      to { opacity: 1; transform: none; }
+    }
+
+    .row-in {
+      animation: rowIn 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+    }
+
+    @keyframes sheetUp {
+      from { transform: translateY(100%); }
+      to { transform: none; }
+    }
+
+    .sheet-up {
+      animation: sheetUp 0.4s cubic-bezier(0.22, 1, 0.36, 1) both;
+    }
+
+    @keyframes popIn {
+      from { opacity: 0; transform: translateY(22px) scale(0.97); }
+      to { opacity: 1; transform: none; }
+    }
+
+    .pop-in {
+      animation: popIn 0.35s cubic-bezier(0.22, 1, 0.36, 1) both;
+    }
+
+    @keyframes bannerIn {
+      from { opacity: 0; transform: translateY(-20px); }
+      to { opacity: 1; transform: none; }
+    }
+
+    .animate-banner-in {
+      animation: bannerIn 0.35s cubic-bezier(0.22, 1, 0.36, 1) both;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    .fade-in {
+      animation: fadeIn 0.25s ease-out both;
+    }
+
+    @keyframes pulseDot {
+      0% { box-shadow: 0 0 0 0 rgba(255, 59, 48, 0.6); }
+      70% { box-shadow: 0 0 0 7px rgba(255, 59, 48, 0); }
+      100% { box-shadow: 0 0 0 0 rgba(255, 59, 48, 0); }
+    }
+
+    .pulse-dot {
+      animation: pulseDot 1.6s ease-out infinite;
+    }
+
+    .reveal {
+      opacity: 0;
+      transform: translateY(18px);
+      transition: opacity 0.6s ease, transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+
+    .reveal.is-in {
+      opacity: 1;
+      transform: none;
+    }
+
+    .card-lift {
+      transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1),
+                  border-color 0.3s,
+                  background-color 0.3s,
+                  box-shadow 0.3s;
+    }
+
+    .card-lift:hover {
+      transform: translateY(-4px);
+      border-color: rgba(255, 255, 255, 0.26);
+      background: rgba(255, 255, 255, 0.1);
+      box-shadow: 0 18px 44px rgba(4, 6, 18, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.12);
+    }
+
+    .press {
+      transition: transform 0.15s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+
+    .press:active {
+      transform: scale(0.96);
+    }
+
+    /* Scrollbars */
+    .scroll-thin::-webkit-scrollbar {
+      width: 5px;
+      height: 5px;
+    }
+
+    .scroll-thin::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    .scroll-thin::-webkit-scrollbar-thumb {
+      background: rgba(255, 255, 255, 0.18);
+      border-radius: 99px;
+    }
+
+    .scroll-thin {
+      scrollbar-width: thin;
+      scrollbar-color: rgba(255, 255, 255, 0.18) transparent;
+    }
+
+    .no-scrollbar::-webkit-scrollbar {
+      display: none;
+    }
+
+    .no-scrollbar {
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+    }
+
+    /* Utility Classes */
+    .tabular-nums {
+      font-variant-numeric: tabular-nums;
+    }
+
+    .line-clamp-2 {
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .line-clamp-3 {
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .ticker-track,
+      .card-new,
+      .row-in,
+      .sheet-up,
+      .pop-in,
+      .blink-soft,
+      .pulse-dot {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+      }
+
+      .reveal {
+        opacity: 1;
+        transform: none;
+        transition: none;
+      }
+
+      .card-lift {
+        transition: none;
+      }
+    }
+
+    /* Loading Spinner */
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    .animate-spin {
+      animation: spin 1s linear infinite;
+    }
+
+    .animate-pulse {
+      animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
+
+  <script type="text/babel">
+    const { useState, useEffect, useRef, useMemo, useCallback } = React;
+    const { createRoot } = ReactDOM;
+
+    // Nepali digit converter
+    const NE_DIGITS = ["०", "१", "२", "३", "४", "५", "६", "७", "८", "९"];
+    const np = (n) => String(n).replace(/\d/g, (d) => NE_DIGITS[Number(d)]);
+
+    // Categories
+    const CATEGORIES = [
+      { id: "taja", label: "ताजा" },
+      { id: "rajaniti", label: "राजनीति" },
+      { id: "artha", label: "अर्थ" },
+      { id: "khelkud", label: "खेलकुद" },
+      { id: "manoranjan", label: "मनोरञ्जन" },
+      { id: "prabidhi", label: "प्रविधि" },
+      { id: "bidesh", label: "विदेश" },
+    ];
+
+    const CAT_GRADIENTS = {
+      taja: "from-[#ff3b30] to-[#ff9500]",
+      rajaniti: "from-[#0a84ff] to-[#64d2ff]",
+      artha: "from-[#30d158] to-[#a8e063]",
+      khelkud: "from-[#ff9f0a] to-[#ffd60a]",
+      manoranjan: "from-[#ff375f] to-[#bf5af2]",
+      prabidhi: "from-[#5e5ce6] to-[#0a84ff]",
+      bidesh: "from-[#40c8e0] to-[#30d158]",
+    };
+
+    // News Sources
+    const FEEDS = [
+      { id: "onlinekhabar", name: "अनलाइनखबर", feed: "https://www.onlinekhabar.com/feed", site: "https://www.onlinekhabar.com", category: "taja", tag: "OK" },
+      { id: "ratopati", name: "रातोपाटी", feed: "https://www.ratopati.com/feed", site: "https://www.ratopati.com", category: "taja", tag: "RP" },
+      { id: "nagarik", name: "नागरिक दैनिक", feed: "https://nagariknews.nagariknetwork.com/feed", site: "https://nagariknews.nagariknetwork.com", category: "taja", tag: "NG" },
+      { id: "ujyaalo", name: "उज्यालो", feed: "https://ujyaaloonline.com/feed", site: "https://ujyaaloonline.com", category: "taja", tag: "UJ" },
+      { id: "setopati", name: "सेतोपाटी", feed: "https://www.setopati.com/feed", site: "https://www.setopati.com", category: "rajaniti", tag: "SP" },
+      { id: "ekantipur", name: "कान्तिपुर", feed: "https://ekantipur.com/rss", site: "https://ekantipur.com", category: "rajaniti", tag: "KT" },
+      { id: "gorkhapatra", name: "गोरखापत्र", feed: "https://gorkhapatraonline.com/feed", site: "https://gorkhapatraonline.com", category: "rajaniti", tag: "GP" },
+      { id: "arthasarokar", name: "अर्थ सरोकार", feed: "https://arthasarokar.com/feed", site: "https://arthasarokar.com", category: "artha", tag: "AS" },
+      { id: "karobar", name: "कारोबार दैनिक", feed: "https://www.karobardaily.com/feed", site: "https://www.karobardaily.com", category: "artha", tag: "KB" },
+      { id: "kantipur-sports", name: "कान्तिपुर खेलकुद", feed: "https://ekantipur.com/sports/rss", site: "https://ekantipur.com/sports", category: "khelkud", tag: "KS" },
+      { id: "hamrakura", name: "हाम्राकुरा", feed: "https://hamrakura.com/feed", site: "https://hamrakura.com", category: "manoranjan", tag: "HK" },
+      { id: "news24", name: "न्यूज२४ टेलिभिजन", feed: "https://news24nepal.tv/feed/", site: "https://news24nepal.tv", category: "manoranjan", tag: "N24" },
+      { id: "techmandu", name: "टेकमण्डु", feed: "https://techmandu.com/feed/", site: "https://techmandu.com", category: "prabidhi", tag: "TM" },
+      { id: "bbcnepali", name: "बीबीसी नेपाली", feed: "https://feeds.bbci.co.uk/nepali/rss.xml", site: "https://www.bbc.com/nepali", category: "bidesh", tag: "BBC" },
+      { id: "rajdhani", name: "राजधानी दैनिक", feed: "https://rajdhanidaily.com/feed/", site: "https://rajdhanidaily.com", category: "bidesh", tag: "RD" },
+    ];
+
+    const FEED_MAP = Object.fromEntries(FEEDS.map((f) => [f.id, f]));
+
+    // Snapshot articles for fallback
+    const SNAPSHOTS = {
+      onlinekhabar: [
+        { t: "संसद् बैठक आज बस्दै, प्रमुख विधेयकमाथि छलफल हुने", d: "प्रतिनिधिसभाको आजको बैठकमा दर्ता भएका विधेयकहरूमाथि दफावार छलफल गर्ने कार्यसूची तय भएको छ।" },
+        { t: "निर्वाचन आयोगले तयारी तीव्र पारेको जनायो", d: "आगामी निर्वाचनलाई स्वच्छ, स्वतन्त्र र भयरहित बनाउन आयोगले सबै जिल्लामा निर्देशन पठाएको छ।" },
+      ],
+      ratopati: [
+        { t: "राष्ट्रिय सभामा आर्थिक विधेयक पेस", d: "अर्थमन्त्रीले आगामी आर्थिक वर्षको कर प्रस्तावसहितको विधेयक पेस गरेका छन्।" },
+      ],
+    };
+
+    // Time formatting
+    const pad2 = (n) => String(n).padStart(2, "0");
+    const clockNe = (ts) => {
+      const d = new Date(ts);
+      return np(`${pad2(d.getHours())}:${pad2(d.getMinutes())}`);
+    };
+    const hhmmssNe = (ts) => {
+      const d = new Date(ts);
+      return np(`${pad2(d.getHours())}:${pad2(d.getMinutes())}:${pad2(d.getSeconds())}`);
+    };
+    const fullDateNe = (ts) => {
+      const NE_MONTHS = ["जनवरी", "फेब्रुअरी", "मार्च", "अप्रिल", "मे", "जुन", "जुलाई", "अगस्ट", "सेप्टेम्बर", "अक्टोबर", "नोभेम्बर", "डिसेम्बर"];
+      const NE_DAYS = ["आइतबार", "सोमबार", "मङ्गलबार", "बुधबार", "बिहीबार", "शुक्रबार", "शनिबार"];
+      const d = new Date(ts);
+      return `${NE_DAYS[d.getDay()]}, ${np(d.getDate())} ${NE_MONTHS[d.getMonth()]} ${np(d.getFullYear())}`;
+    };
+    const timeAgoNe = (ts, now) => {
+      const diff = Math.max(0, now - ts);
+      const s = Math.floor(diff / 1000);
+      try {
+        const rtf = new Intl.RelativeTimeFormat("ne", { numeric: "auto" });
+        if (s < 60) return rtf.format(-s, "second");
+        const m = Math.floor(s / 60);
+        if (m < 60) return rtf.format(-m, "minute");
+        const h = Math.floor(m / 60);
+        if (h < 24) return rtf.format(-h, "hour");
+        return rtf.format(-Math.floor(h / 24), "day");
+      } catch {
+        if (s < 60) return `${np(s)} सेकेन्डअघि`;
+        const m = Math.floor(s / 60);
+        if (m < 60) return `${np(m)} मिनेटअघि`;
+        return `${np(Math.floor(m / 60))} घण्टाअघि`;
+      }
+    };
+
+    // Icon component using Lucide
+    const Icon = ({ name, size = 24, className = "", strokeWidth = 2, fill = "none" }) => {
+      const icons = {
+        newspaper: '<path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/><path d="M18 14h-8"/><path d="M15 18h-5"/><path d="M10 6h8v4h-8V6Z"/>',
+        bookmark: '<path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/>',
+        search: '<circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>',
+        x: '<path d="M18 6 6 18"/><path d="m6 6 12 12"/>',
+        rss: '<path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1"/>',
+        activity: '<path d="M22 12h-4l-3 9L9 3l-3 9H2"/>',
+        home: '<path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/>',
+        loader: '<line x1="12" y1="2" x2="12" y2="6"/><line x1="12" y1="18" x2="12" y2="22"/><line x1="4.93" y1="4.93" x2="7.76" y2="7.76"/><line x1="16.24" y1="16.24" x2="19.07" y2="19.07"/><line x1="2" y1="12" x2="6" y2="12"/><line x1="18" y1="12" x2="22" y2="12"/><line x1="4.93" y1="19.07" x2="7.76" y2="16.24"/><line x1="16.24" y1="7.76" x2="19.07" y2="4.93"/>',
+        signal: '<path d="M2 20h.01"/><path d="M7 20v-4"/><path d="M12 20v-8"/><path d="M17 20V8"/><path d="M22 4v16"/>',
+        wifi: '<path d="M5 12.55a11 11 0 0 1 14.08 0"/><path d="M1.42 9a16 16 0 0 1 21.16 0"/><path d="M8.53 16.11a6 6 0 0 1 6.95 0"/><line x1="12" y1="20" x2="12.01" y2="20"/>',
+        battery: '<rect width="16" height="10" x="2" y="7" rx="2" ry="2"/><line x1="22" x2="22" y1="11" y2="13"/><line x1="6" x2="6" y1="11" y2="13"/><line x1="10" x2="10" y1="11" y2="13"/>',
+        share: '<circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" x2="15.42" y1="13.51" y2="17.49"/><line x1="15.41" x2="8.59" y1="6.51" y2="10.49"/>',
+        arrowUpRight: '<path d="M7 7h10v10"/><path d="M7 17 17 7"/>',
+        inbox: '<polyline points="22 12 16 12 14 15 10 15 8 12 2 12"/><path d="M5.45 5.11 2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.45-6.89A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z"/>',
+        power: '<path d="M18.36 6.64a9 9 0 1 1-12.73 0"/><line x1="12" x2="12" y1="2" y2="12"/>',
+      };
+
+      return (
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width={size}
+          height={size}
+          viewBox="0 0 24 24"
+          fill={fill}
+          stroke="currentColor"
+          strokeWidth={strokeWidth}
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          className={className}
+          dangerouslySetInnerHTML={{ __html: icons[name] || '' }}
+        />
+      );
+    };
+
+    // Main App Component
+    function App() {
+      const [now, setNow] = useState(Date.now());
+      const [articles, setArticles] = useState([]);
+      const [status, setStatus] = useState({});
+      const [log, setLog] = useState([]);
+      const [syncing, setSyncing] = useState(false);
+      const [lastSync, setLastSync] = useState(null);
+      const [disabled, setDisabled] = useState([]);
+      const [saved, setSaved] = useState([]);
+      const [intervalSec, setIntervalSec] = useState(30);
+      const [remaining, setRemaining] = useState(30);
+      const [newIds, setNewIds] = useState(new Set());
+      const [newCount, setNewCount] = useState(0);
+      const [query, setQuery] = useState("");
+      const [category, setCategory] = useState("all");
+      const [savedOnly, setSavedOnly] = useState(false);
+      const [selected, setSelected] = useState(null);
+      const [sourcesOpen, setSourcesOpen] = useState(false);
+      const [activeTab, setActiveTab] = useState("home");
+      const [sourceFilter, setSourceFilter] = useState(null);
+      const [toasts, setToasts] = useState([]);
+      const toastIdRef = useRef(0);
+
+      useEffect(() => {
+        const t = setInterval(() => setNow(Date.now()), 1000);
+        return () => clearInterval(t);
+      }, []);
+
+      useEffect(() => {
+        if (newIds.size === 0) return;
+        const t = setTimeout(() => {
+          setNewIds(new Set());
+          setNewCount(0);
+        }, 8000);
+        return () => clearTimeout(t);
+      }, [newIds]);
+
+      const pushToast = (title, msg) => {
+        const id = ++toastIdRef.current;
+        setToasts((prev) => [...prev, { id, title, msg }]);
+        setTimeout(() => setToasts((prev) => prev.filter((t) => t.id !== id)), 4000);
+      };
+
+      const syncAll = async (manual = false) => {
+        if (syncing) return;
+        setSyncing(true);
+        if (manual) {
+          setLog((prev) => [{ id: Date.now(), at: Date.now(), kind: "info", msg: "म्यानुअल सिंक सुरु…" }, ...prev].slice(0, 80));
+        }
+
+        const newArticles = [];
+        const existingIds = new Set(articles.map((a) => a.id));
+
+        for (const src of FEEDS) {
+          if (disabled.includes(src.id)) continue;
+          setStatus((prev) => ({ ...prev, [src.id]: { state: "loading" } }));
+
+          try {
+            const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(src.feed)}`;
+            const res = await fetch(proxyUrl, { signal: AbortSignal.timeout(10000) });
+            if (!res.ok) throw new Error("Failed");
+
+            const text = await res.text();
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(text, "text/xml");
+            const items = doc.querySelectorAll("item");
+
+            const srcArticles = Array.from(items).slice(0, 10).map((item, i) => {
+              const title = item.querySelector("title")?.textContent || "";
+              const link = item.querySelector("link")?.textContent || src.site;
+              const desc = item.querySelector("description")?.textContent || "";
+              const pubDate = item.querySelector("pubDate")?.textContent;
+
+              return {
+                id: `${src.id}-${i}`,
+                sourceId: src.id,
+                title: title.slice(0, 200),
+                description: desc.replace(/<[^>]*>/g, "").slice(0, 500),
+                link,
+                pubDate: pubDate ? new Date(pubDate).getTime() : Date.now(),
+              };
+            });
+
+            newArticles.push(...srcArticles);
+            setStatus((prev) => ({ ...prev, [src.id]: { state: "ok", count: srcArticles.length, at: Date.now() } }));
+
+            const newOnes = srcArticles.filter((a) => !existingIds.has(a.id));
+            if (newOnes.length > 0) {
+              setNewIds(new Set([...newIds, ...newOnes.map((a) => a.id)]));
+              setNewCount((c) => c + newOnes.length);
+            }
+          } catch (err) {
+            setStatus((prev) => ({ ...prev, [src.id]: { state: "err", at: Date.now() } }));
+          }
+        }
+
+        // Add snapshots for failed sources
+        FEEDS.forEach((src) => {
+          if (disabled.includes(src.id)) return;
+          if (status[src.id]?.state !== "ok" && SNAPSHOTS[src.id]) {
+            SNAPSHOTS[src.id].forEach((s, i) => {
+              newArticles.push({
+                id: `${src.id}-snap-${i}`,
+                sourceId: src.id,
+                title: s.t,
+                description: s.d,
+                link: src.site,
+                pubDate: Date.now() - i * 3600000,
+                fromSnapshot: true,
+              });
+            });
+          }
+        });
+
+        newArticles.sort((a, b) => b.pubDate - a.pubDate);
+        setArticles(newArticles);
+        setLastSync(Date.now());
+        setSyncing(false);
+        setRemaining(intervalSec);
+
+        const okCount = FEEDS.filter((f) => status[f.id]?.state === "ok").length;
+        setLog((prev) => [{ id: Date.now(), at: Date.now(), kind: "info", msg: `सिंक पूरा — ${np(okCount)}/${np(FEEDS.length)} स्रोत सक्रिय` }, ...prev].slice(0, 80));
+      };
+
+      useEffect(() => {
+        syncAll();
+      }, []);
+
+      useEffect(() => {
+        if (intervalSec <= 0) return;
+        const t = setInterval(() => {
+          setRemaining((r) => {
+            if (r <= 1) {
+              syncAll();
+              return intervalSec;
+            }
+            return r - 1;
+          });
+        }, 1000);
+        return () => clearInterval(t);
+      }, [intervalSec, syncAll]);
+
+      const visible = useMemo(() => {
+        let list = articles.filter((a) => !disabled.includes(a.sourceId));
+        if (savedOnly) list = list.filter((a) => saved.includes(a.id));
+        if (sourceFilter) list = list.filter((a) => a.sourceId === sourceFilter);
+        if (category !== "all") list = list.filter((a) => FEED_MAP[a.sourceId]?.category === category);
+        const q = query.trim().toLowerCase();
+        if (q) {
+          list = list.filter((a) => {
+            const src = FEED_MAP[a.sourceId];
+            return a.title.toLowerCase().includes(q) || a.description.toLowerCase().includes(q) || (src?.name.toLowerCase().includes(q) ?? false);
+          });
+        }
+        return list;
+      }, [articles, disabled, saved, savedOnly, sourceFilter, category, query]);
+
+      const counts = useMemo(() => {
+        const base = articles.filter((a) => !disabled.includes(a.sourceId));
+        const c = { all: base.length };
+        CATEGORIES.forEach((cat) => {
+          c[cat.id] = base.filter((a) => FEED_MAP[a.sourceId]?.category === cat.id).length;
+        });
+        FEEDS.forEach((f) => {
+          c[f.id] = base.filter((a) => a.sourceId === f.id).length;
+        });
+        return c;
+      }, [articles, disabled]);
+
+      const onlineCount = useMemo(() => FEEDS.filter((f) => status[f.id]?.state === "ok").length, [status]);
+
+      return (
+        <div className="relative min-h-screen">
+          <div className="wallpaper"></div>
+          <div className="wallpaper-veil"></div>
+
+          <div className="relative z-10">
+            {/* Header */}
+            <header className="sticky top-0 z-40 border-b border-white/10 bg-black/40 backdrop-blur-2xl">
+              <div className="mx-auto flex max-w-7xl items-center gap-3 px-4 py-3">
+                <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-gradient-to-br from-red-500 to-orange-500">
+                  <Icon name="newspaper" size={20} className="text-white" />
+                </div>
+                <div className="min-w-0">
+                  <h1 className="text-xl font-black text-white">खबर<span className="text-cyan-400">धारा</span></h1>
+                  <p className="text-xs text-gray-400">नेपाली समाचार एग्रीगेटर</p>
+                </div>
+                <div className="ml-auto flex items-center gap-2">
+                  <button onClick={() => syncAll(true)} className="press flex h-10 items-center gap-2 rounded-full bg-gradient-to-r from-blue-500 to-cyan-400 px-4 text-sm font-bold text-white">
+                    {syncing && <Icon name="loader" size={14} className="animate-spin" />}
+                    सिंक
+                  </button>
+                </div>
+              </div>
+            </header>
+
+            {/* Main Content */}
+            <main className="mx-auto max-w-7xl px-4 py-6">
+              <div className="grid grid-cols-1 gap-6 lg:grid-cols-3">
+                <div className="lg:col-span-2">
+                  <div className="mb-4 flex items-center justify-between">
+                    <h2 className="text-2xl font-black text-white">
+                      {savedOnly ? "सेभ गरिएको" : category === "all" ? "सबै समाचार" : CATEGORIES.find((c) => c.id === category)?.label}
+                      <span className="ml-2 text-sm font-normal text-gray-400">{np(visible.length)} खबर</span>
+                    </h2>
+                  </div>
+
+                  <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
+                    {visible.slice(0, 20).map((a) => (
+                      <article key={a.id} className={`glass card-lift cursor-pointer rounded-2xl p-4 ${newIds.has(a.id) ? "card-new" : ""}`} onClick={() => setSelected(a)}>
+                        <div className="mb-2 flex items-center gap-2">
+                          <span className="flex h-6 w-6 items-center justify-center rounded-full bg-white/10 text-xs font-bold text-cyan-400">
+                            {FEED_MAP[a.sourceId]?.tag}
+                          </span>
+                          <span className="text-xs font-semibold text-gray-400">{FEED_MAP[a.sourceId]?.name}</span>
+                          <span className="ml-auto text-xs text-gray-500">{timeAgoNe(a.pubDate, now)}</span>
+                        </div>
+                        <h3 className="mb-2 font-display text-lg font-black leading-tight text-white">{a.title}</h3>
+                        {a.description && <p className="line-clamp-3 text-sm text-gray-300">{a.description}</p>}
+                      </article>
+                    ))}
+                  </div>
+                </div>
+
+                <aside className="space-y-4">
+                  <div className="glass rounded-2xl p-4">
+                    <h3 className="mb-3 font-display text-lg font-bold text-white">लाइभ फिड</h3>
+                    <div className="max-h-64 space-y-2 overflow-y-auto">
+                      {log.slice(0, 10).map((e) => (
+                        <div key={e.id} className="flex items-start gap-2 rounded-lg bg-white/5 p-2">
+                          <span className={`mt-1 h-1.5 w-1.5 rounded-full ${e.kind === "new" ? "bg-green-400" : "bg-cyan-400"}`}></span>
+                          <p className="flex-1 text-xs text-gray-300">{e.msg}</p>
+                          <span className="text-xs text-gray-500">{hhmmssNe(e.at)}</span>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                </aside>
+              </div>
+            </main>
+          </div>
+
+          {/* Article Detail Modal */}
+          {selected && (
+            <div className="fixed inset-0 z-50 flex items-end justify-center bg-black/70 backdrop-blur-sm sm:items-center sm:p-6">
+              <div className="glass-strong sheet-up w-full max-w-3xl rounded-t-3xl sm:rounded-3xl">
+                <div className="flex items-center justify-between border-b border-white/10 p-4">
+                  <div className="flex items-center gap-2">
+                    <span className="flex h-8 w-8 items-center justify-center rounded-full bg-white/10 text-xs font-bold text-cyan-400">
+                      {FEED_MAP[selected.sourceId]?.tag}
+                    </span>
+                    <div>
+                      <p className="text-sm font-bold text-white">{FEED_MAP[selected.sourceId]?.name}</p>
+                      <p className="text-xs text-gray-400">{timeAgoNe(selected.pubDate, now)}</p>
+                    </div>
+                  </div>
+                  <button onClick={() => setSelected(null)} className="flex h-9 w-9 items-center justify-center rounded-full bg-white/10 text-white">
+                    <Icon name="x" size={16} />
+                  </button>
+                </div>
+                <div className="max-h-[70vh] overflow-y-auto p-6">
+                  <h1 className="mb-4 font-display text-2xl font-black text-white sm:text-3xl">{selected.title}</h1>
+                  <p className="text-base leading-relaxed text-gray-300">{selected.description}</p>
+                </div>
+                <div className="flex items-center gap-2 border-t border-white/10 p-4">
+                  <a href={selected.link} target="_blank" rel="noreferrer" className="press flex flex-1 items-center justify-center gap-2 rounded-full bg-gradient-to-r from-blue-500 to-cyan-400 py-2.5 text-sm font-bold text-white">
+                    मूल लिङ्क <Icon name="arrowUpRight" size={14} />
+                  </a>
+                </div>
+              </div>
+            </div>
+          )}
+
+          {/* Toast Notifications */}
+          {toasts.length > 0 && (
+            <div className="fixed left-1/2 top-16 z-50 flex w-96 -translate-x-1/2 flex-col gap-2">
+              {toasts.map((t) => (
+                <div key={t.id} className="glass-strong animate-banner-in flex items-center gap-3 rounded-2xl p-3">
+                  <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-gradient-to-br from-red-500 to-orange-500">
+                    <Icon name="newspaper" size={18} className="text-white" />
+                  </span>
+                  <div>
+                    <p className="text-sm font-bold text-white">{t.title}</p>
+                    <p className="text-xs text-gray-400">{t.msg}</p>
+                  </div>
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+      );
+    }
+
+    // Render the app
+    const root = createRoot(document.getElementById("root"));
+    root.render(<App />);
+  </script>
+</body>
+</html>
