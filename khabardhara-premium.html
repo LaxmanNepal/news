@@ -1,0 +1,1565 @@
+<!DOCTYPE html>
+<html lang="ne">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>खबरधारा - Premium Nepali News Aggregator</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@400;600;700;900&family=Mukta:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+  
+  <style>
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    :root {
+      --font-display: "Noto Serif Devanagari", serif;
+      --font-body: "Mukta", "Inter", system-ui, sans-serif;
+      --font-mono: "JetBrains Mono", "Fira Code", monospace;
+      
+      /* Light Theme Colors */
+      --bg-primary: #ffffff;
+      --bg-secondary: #f8f9fa;
+      --bg-tertiary: #f1f3f5;
+      --bg-elevated: #ffffff;
+      
+      --text-primary: #1a1d23;
+      --text-secondary: #495057;
+      --text-tertiary: #868e96;
+      --text-muted: #adb5bd;
+      
+      --border-light: #e9ecef;
+      --border-medium: #dee2e6;
+      --border-dark: #ced4da;
+      
+      --accent-primary: #2563eb;
+      --accent-secondary: #3b82f6;
+      --accent-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      
+      --success: #10b981;
+      --warning: #f59e0b;
+      --danger: #ef4444;
+      --info: #06b6d4;
+      
+      --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+      --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+      --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+      --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+      
+      --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 16px;
+      --radius-xl: 24px;
+      
+      --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      background: var(--bg-secondary);
+      color: var(--text-primary);
+      font-family: var(--font-body);
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    ::selection {
+      background: var(--accent-primary);
+      color: white;
+    }
+
+    /* Scrollbar */
+    ::-webkit-scrollbar {
+      width: 10px;
+      height: 10px;
+    }
+
+    ::-webkit-scrollbar-track {
+      background: var(--bg-tertiary);
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background: var(--border-dark);
+      border-radius: 10px;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+      background: var(--text-tertiary);
+    }
+
+    /* Animations */
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes slideInRight {
+      from { opacity: 0; transform: translateX(20px); }
+      to { opacity: 1; transform: translateX(0); }
+    }
+
+    @keyframes slideInUp {
+      from { opacity: 0; transform: translateY(30px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+
+    @keyframes shimmer {
+      0% { background-position: -1000px 0; }
+      100% { background-position: 1000px 0; }
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    @keyframes tickerScroll {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
+    }
+
+    .animate-fade-in {
+      animation: fadeIn 0.5s ease-out;
+    }
+
+    .animate-slide-in-right {
+      animation: slideInRight 0.4s ease-out;
+    }
+
+    .animate-slide-in-up {
+      animation: slideInUp 0.5s ease-out;
+    }
+
+    .animate-pulse {
+      animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+    }
+
+    .animate-spin {
+      animation: spin 1s linear infinite;
+    }
+
+    .skeleton {
+      background: linear-gradient(90deg, var(--bg-tertiary) 0%, var(--bg-secondary) 50%, var(--bg-tertiary) 100%);
+      background-size: 1000px 100%;
+      animation: shimmer 2s infinite;
+    }
+
+    /* Header */
+    .header {
+      background: var(--bg-elevated);
+      border-bottom: 1px solid var(--border-light);
+      box-shadow: var(--shadow-sm);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      backdrop-filter: blur(10px);
+    }
+
+    .header-content {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 1rem 1.5rem;
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      font-family: var(--font-display);
+      font-weight: 900;
+      font-size: 1.5rem;
+      color: var(--text-primary);
+    }
+
+    .logo-icon {
+      width: 48px;
+      height: 48px;
+      background: var(--accent-gradient);
+      border-radius: var(--radius-md);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: var(--shadow-md);
+    }
+
+    .search-bar {
+      flex: 1;
+      max-width: 500px;
+      position: relative;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 0.75rem 1rem 0.75rem 3rem;
+      border: 2px solid var(--border-light);
+      border-radius: var(--radius-lg);
+      background: var(--bg-secondary);
+      font-size: 0.95rem;
+      transition: var(--transition);
+      font-family: var(--font-body);
+    }
+
+    .search-input:focus {
+      outline: none;
+      border-color: var(--accent-primary);
+      background: var(--bg-elevated);
+      box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 1rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-tertiary);
+    }
+
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .btn {
+      padding: 0.625rem 1.25rem;
+      border-radius: var(--radius-md);
+      font-weight: 600;
+      font-size: 0.9rem;
+      cursor: pointer;
+      transition: var(--transition);
+      border: none;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-family: var(--font-body);
+    }
+
+    .btn-primary {
+      background: var(--accent-gradient);
+      color: white;
+      box-shadow: var(--shadow-md);
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-2px);
+      box-shadow: var(--shadow-lg);
+    }
+
+    .btn-secondary {
+      background: var(--bg-tertiary);
+      color: var(--text-primary);
+    }
+
+    .btn-secondary:hover {
+      background: var(--border-light);
+    }
+
+    .btn-icon {
+      width: 44px;
+      height: 44px;
+      padding: 0;
+      border-radius: var(--radius-md);
+      background: var(--bg-tertiary);
+      color: var(--text-secondary);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+    }
+
+    .btn-icon:hover {
+      background: var(--border-light);
+      color: var(--text-primary);
+    }
+
+    .badge {
+      position: absolute;
+      top: -4px;
+      right: -4px;
+      background: var(--danger);
+      color: white;
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 0.125rem 0.375rem;
+      border-radius: 10px;
+      min-width: 20px;
+      text-align: center;
+    }
+
+    /* Breaking News Ticker */
+    .ticker {
+      background: var(--accent-gradient);
+      color: white;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .ticker-content {
+      display: flex;
+      align-items: center;
+      padding: 0.75rem 0;
+      white-space: nowrap;
+      animation: tickerScroll 60s linear infinite;
+    }
+
+    .ticker-label {
+      background: rgba(255, 255, 255, 0.2);
+      padding: 0.375rem 1rem;
+      border-radius: var(--radius-sm);
+      font-weight: 700;
+      font-size: 0.85rem;
+      margin-right: 1.5rem;
+      backdrop-filter: blur(10px);
+    }
+
+    .ticker-item {
+      padding: 0 2rem;
+      font-size: 0.9rem;
+      font-weight: 500;
+    }
+
+    /* Category Tabs */
+    .category-tabs {
+      background: var(--bg-elevated);
+      border-bottom: 1px solid var(--border-light);
+      position: sticky;
+      top: 80px;
+      z-index: 90;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+
+    .category-tabs::-webkit-scrollbar {
+      display: none;
+    }
+
+    .category-tabs-content {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+      display: flex;
+      gap: 0.5rem;
+    }
+
+    .category-tab {
+      padding: 1rem 1.5rem;
+      font-weight: 600;
+      font-size: 0.95rem;
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: var(--transition);
+      border-bottom: 3px solid transparent;
+      white-space: nowrap;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .category-tab:hover {
+      color: var(--text-primary);
+    }
+
+    .category-tab.active {
+      color: var(--accent-primary);
+      border-bottom-color: var(--accent-primary);
+    }
+
+    .category-count {
+      background: var(--bg-tertiary);
+      padding: 0.125rem 0.5rem;
+      border-radius: 10px;
+      font-size: 0.75rem;
+      font-weight: 700;
+    }
+
+    .category-tab.active .category-count {
+      background: var(--accent-primary);
+      color: white;
+    }
+
+    /* Main Layout */
+    .main-container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+      display: grid;
+      grid-template-columns: 1fr 350px;
+      gap: 2rem;
+    }
+
+    @media (max-width: 1024px) {
+      .main-container {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* Featured Article */
+    .featured-article {
+      background: var(--bg-elevated);
+      border-radius: var(--radius-xl);
+      overflow: hidden;
+      box-shadow: var(--shadow-lg);
+      margin-bottom: 2rem;
+      cursor: pointer;
+      transition: var(--transition);
+    }
+
+    .featured-article:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--shadow-xl);
+    }
+
+    .featured-image {
+      width: 100%;
+      height: 400px;
+      background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+      position: relative;
+      overflow: hidden;
+    }
+
+    .featured-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .featured-overlay {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(to top, rgba(0, 0, 0, 0.9), transparent);
+      padding: 3rem 2rem 2rem;
+      color: white;
+    }
+
+    .featured-category {
+      display: inline-block;
+      background: var(--accent-primary);
+      padding: 0.375rem 1rem;
+      border-radius: var(--radius-sm);
+      font-size: 0.8rem;
+      font-weight: 700;
+      margin-bottom: 1rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .featured-title {
+      font-family: var(--font-display);
+      font-size: 2.5rem;
+      font-weight: 900;
+      line-height: 1.2;
+      margin-bottom: 1rem;
+    }
+
+    .featured-meta {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      font-size: 0.9rem;
+      opacity: 0.9;
+    }
+
+    /* Article Grid */
+    .articles-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1.5rem;
+    }
+
+    .article-card {
+      background: var(--bg-elevated);
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      box-shadow: var(--shadow-sm);
+      cursor: pointer;
+      transition: var(--transition);
+      border: 1px solid var(--border-light);
+    }
+
+    .article-card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--shadow-lg);
+      border-color: var(--accent-primary);
+    }
+
+    .article-image {
+      width: 100%;
+      height: 200px;
+      background: var(--bg-tertiary);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .article-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: var(--transition);
+    }
+
+    .article-card:hover .article-image img {
+      transform: scale(1.05);
+    }
+
+    .article-content {
+      padding: 1.5rem;
+    }
+
+    .article-source {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .source-badge {
+      width: 32px;
+      height: 32px;
+      border-radius: var(--radius-sm);
+      background: var(--accent-gradient);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-weight: 700;
+      font-size: 0.75rem;
+    }
+
+    .source-name {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--text-secondary);
+    }
+
+    .article-title {
+      font-family: var(--font-display);
+      font-size: 1.25rem;
+      font-weight: 700;
+      line-height: 1.4;
+      margin-bottom: 0.75rem;
+      color: var(--text-primary);
+    }
+
+    .article-description {
+      font-size: 0.9rem;
+      line-height: 1.6;
+      color: var(--text-secondary);
+      margin-bottom: 1rem;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .article-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding-top: 1rem;
+      border-top: 1px solid var(--border-light);
+    }
+
+    .article-time {
+      font-size: 0.8rem;
+      color: var(--text-tertiary);
+      display: flex;
+      align-items: center;
+      gap: 0.375rem;
+    }
+
+    .article-actions {
+      display: flex;
+      gap: 0.5rem;
+    }
+
+    .action-btn {
+      width: 32px;
+      height: 32px;
+      border-radius: var(--radius-sm);
+      background: var(--bg-tertiary);
+      border: none;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: var(--transition);
+      color: var(--text-secondary);
+    }
+
+    .action-btn:hover {
+      background: var(--accent-primary);
+      color: white;
+    }
+
+    .action-btn.saved {
+      background: var(--warning);
+      color: white;
+    }
+
+    /* Sidebar */
+    .sidebar {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    .sidebar-card {
+      background: var(--bg-elevated);
+      border-radius: var(--radius-lg);
+      padding: 1.5rem;
+      box-shadow: var(--shadow-sm);
+      border: 1px solid var(--border-light);
+    }
+
+    .sidebar-title {
+      font-family: var(--font-display);
+      font-size: 1.25rem;
+      font-weight: 700;
+      margin-bottom: 1rem;
+      color: var(--text-primary);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    /* Live Feed */
+    .live-feed {
+      max-height: 400px;
+      overflow-y: auto;
+    }
+
+    .feed-item {
+      display: flex;
+      gap: 0.75rem;
+      padding: 0.75rem;
+      border-radius: var(--radius-sm);
+      transition: var(--transition);
+      cursor: pointer;
+    }
+
+    .feed-item:hover {
+      background: var(--bg-tertiary);
+    }
+
+    .feed-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--success);
+      margin-top: 0.5rem;
+      flex-shrink: 0;
+    }
+
+    .feed-content {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .feed-message {
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+      line-height: 1.5;
+      margin-bottom: 0.25rem;
+    }
+
+    .feed-time {
+      font-size: 0.75rem;
+      color: var(--text-tertiary);
+      font-family: var(--font-mono);
+    }
+
+    /* Stats Grid */
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1rem;
+    }
+
+    .stat-card {
+      background: var(--bg-tertiary);
+      padding: 1rem;
+      border-radius: var(--radius-md);
+      text-align: center;
+    }
+
+    .stat-value {
+      font-size: 2rem;
+      font-weight: 800;
+      color: var(--accent-primary);
+      font-family: var(--font-mono);
+    }
+
+    .stat-label {
+      font-size: 0.8rem;
+      color: var(--text-tertiary);
+      margin-top: 0.25rem;
+    }
+
+    /* Modal */
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.5);
+      backdrop-filter: blur(8px);
+      z-index: 200;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+      animation: fadeIn 0.3s ease-out;
+    }
+
+    .modal-content {
+      background: var(--bg-elevated);
+      border-radius: var(--radius-xl);
+      max-width: 800px;
+      width: 100%;
+      max-height: 90vh;
+      overflow: hidden;
+      box-shadow: var(--shadow-xl);
+      animation: slideInUp 0.4s ease-out;
+    }
+
+    .modal-header {
+      padding: 1.5rem;
+      border-bottom: 1px solid var(--border-light);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .modal-body {
+      padding: 2rem;
+      overflow-y: auto;
+      max-height: calc(90vh - 140px);
+    }
+
+    .modal-footer {
+      padding: 1.5rem;
+      border-top: 1px solid var(--border-light);
+      display: flex;
+      gap: 1rem;
+    }
+
+    /* Toast Notifications */
+    .toast-container {
+      position: fixed;
+      top: 100px;
+      right: 2rem;
+      z-index: 300;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      max-width: 400px;
+    }
+
+    .toast {
+      background: var(--bg-elevated);
+      border-radius: var(--radius-lg);
+      padding: 1rem 1.5rem;
+      box-shadow: var(--shadow-xl);
+      border-left: 4px solid var(--accent-primary);
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      animation: slideInRight 0.4s ease-out;
+    }
+
+    .toast-icon {
+      width: 40px;
+      height: 40px;
+      border-radius: var(--radius-md);
+      background: var(--accent-gradient);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      flex-shrink: 0;
+    }
+
+    .toast-content {
+      flex: 1;
+    }
+
+    .toast-title {
+      font-weight: 700;
+      font-size: 0.95rem;
+      margin-bottom: 0.25rem;
+    }
+
+    .toast-message {
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+    }
+
+    /* Loading States */
+    .loading-skeleton {
+      background: var(--bg-tertiary);
+      border-radius: var(--radius-md);
+    }
+
+    .skeleton-text {
+      height: 1rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .skeleton-title {
+      height: 1.5rem;
+      width: 80%;
+      margin-bottom: 1rem;
+    }
+
+    .skeleton-image {
+      height: 200px;
+      margin-bottom: 1rem;
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .header-content {
+        flex-wrap: wrap;
+      }
+
+      .search-bar {
+        order: 3;
+        max-width: 100%;
+        width: 100%;
+      }
+
+      .featured-title {
+        font-size: 1.75rem;
+      }
+
+      .articles-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .main-container {
+        padding: 1rem;
+      }
+    }
+
+    /* Utility Classes */
+    .text-gradient {
+      background: var(--accent-gradient);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .hover-lift {
+      transition: var(--transition);
+    }
+
+    .hover-lift:hover {
+      transform: translateY(-4px);
+    }
+
+    .truncate {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .line-clamp-2 {
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .line-clamp-3 {
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+  <script type="text/babel">
+    const { useState, useEffect, useRef, useMemo, useCallback } = React;
+    const { createRoot } = ReactDOM;
+
+    // Nepali digit converter
+    const NE_DIGITS = ["०", "१", "२", "३", "४", "५", "६", "७", "८", "९"];
+    const np = (n) => String(n).replace(/\d/g, (d) => NE_DIGITS[Number(d)]);
+
+    // All Nepali News Sources (40+ sources)
+    const FEEDS = [
+      // Major National Dailies
+      { id: "kantipur", name: "कान्तिपुर", feed: "https://ekantipur.com/rss", site: "https://ekantipur.com", category: "taja", tag: "KP", color: "#dc2626" },
+      { id: "nagarik", name: "नागरिक दैनिक", feed: "https://nagariknews.nagariknetwork.com/feed", site: "https://nagariknews.nagariknetwork.com", category: "taja", tag: "NG", color: "#2563eb" },
+      { id: "gorkhapatra", name: "गोरखापत्र", feed: "https://gorkhapatraonline.com/feed", site: "https://gorkhapatraonline.com", category: "taja", tag: "GP", color: "#059669" },
+      { id: "rajdhani", name: "राजधानी दैनिक", feed: "https://rajdhanidaily.com/feed/", site: "https://rajdhanidaily.com", category: "taja", tag: "RD", color: "#7c3aed" },
+      { id: "sharada", name: "शारदा प्रतिष्ठान", feed: "https://sharadapeeth.org/feed/", site: "https://sharadapeeth.org", category: "manoranjan", tag: "SP", color: "#db2777" },
+      
+      // Online News Portals
+      { id: "onlinekhabar", name: "अनलाइनखबर", feed: "https://www.onlinekhabar.com/feed", site: "https://www.onlinekhabar.com", category: "taja", tag: "OK", color: "#ea580c" },
+      { id: "ratopati", name: "रातोपाटी", feed: "https://www.ratopati.com/feed", site: "https://www.ratopati.com", category: "taja", tag: "RP", color: "#dc2626" },
+      { id: "setopati", name: "सेतोपाटी", feed: "https://www.setopati.com/feed", site: "https://www.setopati.com", category: "rajaniti", tag: "SP", color: "#0891b2" },
+      { id: "ujyaalo", name: "उज्यालो अनलाइन", feed: "https://ujyaaloonline.com/feed", site: "https://ujyaaloonline.com", category: "taja", tag: "UJ", color: "#ca8a04" },
+      { id: "news24nepal", name: "न्यूज २४ नेपाल", feed: "https://news24nepal.tv/feed/", site: "https://news24nepal.tv", category: "taja", tag: "N24", color: "#9333ea" },
+      { id: "hamrakura", name: "हाम्रा कुरा", feed: "https://hamrakura.com/feed", site: "https://hamrakura.com", category: "manoranjan", tag: "HK", color: "#e11d48" },
+      { id: "kathmandupost", name: "काठमाडौं पोस्ट", feed: "https://kathmandupost.com/feed", site: "https://kathmandupost.com", category: "taja", tag: "KMP", color: "#1d4ed8" },
+      { id: "myrepublica", name: "माई रिपब्लिका", feed: "https://myrepublica.nagariknetwork.com/rss", site: "https://myrepublica.nagariknetwork.com", category: "taja", tag: "MR", color: "#047857" },
+      { id: "thehimalayantimes", name: "द हिमालयन टाइम्स", feed: "https://thehimalayantimes.com/feed/", site: "https://thehimalayantimes.com", category: "taja", tag: "THT", color: "#7c2d12" },
+      
+      // Business & Economy
+      { id: "arthasarokar", name: "अर्थ सरोकार", feed: "https://arthasarokar.com/feed", site: "https://arthasarokar.com", category: "artha", tag: "AS", color: "#16a34a" },
+      { id: "karobar", name: "कारोबार दैनिक", feed: "https://www.karobardaily.com/feed", site: "https://www.karobardaily.com", category: "artha", tag: "KB", color: "#65a30d" },
+      { id: "bizmandu", name: "बिजमाण्डु", feed: "https://bizmandu.com/feed/", site: "https://bizmandu.com", category: "artha", tag: "BM", color: "#0d9488" },
+      { id: "sharebazar", name: "शेयर बजार", feed: "https://sharebazarnews.com/feed/", site: "https://sharebazarnews.com", category: "artha", tag: "SB", color: "#059669" },
+      { id: "merolagani", name: "मेरो लगानी", feed: "https://merolagani.com/rss", site: "https://merolagani.com", category: "artha", tag: "ML", color: "#10b981" },
+      
+      // Sports
+      { id: "kantipur-sports", name: "कान्तिपुर खेलकुद", feed: "https://ekantipur.com/sports/rss", site: "https://ekantipur.com/sports", category: "khelkud", tag: "KS", color: "#dc2626" },
+      { id: "sportsnepal", name: "स्पोर्ट्स नेपाल", feed: "https://sportsnepal.com/feed/", site: "https://sportsnepal.com", category: "khelkud", tag: "SN", color: "#2563eb" },
+      { id: "cricketnepal", name: "क्रिकेट नेपाल", feed: "https://cricketnepal.com/feed/", site: "https://cricketnepal.com", category: "khelkud", tag: "CN", color: "#0891b2" },
+      
+      // Entertainment
+      { id: "filmykhabar", name: "फिल्मी खबर", feed: "https://filmykhabar.com/feed/", site: "https://filmykhabar.com", category: "manoranjan", tag: "FK", color: "#db2777" },
+      { id: "cinecorner", name: "सिनेमा कर्नर", feed: "https://cinecorner.com/feed/", site: "https://cinecorner.com", category: "manoranjan", tag: "CC", color: "#be185d" },
+      { id: "musicnepal", name: "संगीत नेपाल", feed: "https://musicnepal.com/feed/", site: "https://musicnepal.com", category: "manoranjan", tag: "MN", color: "#9333ea" },
+      
+      // Technology
+      { id: "techmandu", name: "टेकमण्डु", feed: "https://techmandu.com/feed/", site: "https://techmandu.com", category: "prabidhi", tag: "TM", color: "#2563eb" },
+      { id: "techpanda", name: "टेक पान्डा", feed: "https://techpanda.com.np/feed/", site: "https://techpanda.com.np", category: "prabidhi", tag: "TP", color: "#7c3aed" },
+      { id: "gadgetsnp", name: "ग्याजेट्स नेपाल", feed: "https://gadgetsnp.com/feed/", site: "https://gadgetsnp.com", category: "prabidhi", tag: "GN", color: "#0891b2" },
+      { id: "itechnepal", name: "आईटेक नेपाल", feed: "https://itech Nepal.com/feed/", site: "https://itech Nepal.com", category: "prabidhi", tag: "ITN", color: "#0d9488" },
+      
+      // International (Nepali)
+      { id: "bbcnepali", name: "बीबीसी नेपाली", feed: "https://feeds.bbci.co.uk/nepali/rss.xml", site: "https://www.bbc.com/nepali", category: "bidesh", tag: "BBC", color: "#991b1b" },
+      { id: "voanepali", name: "भीओए नेपाली", feed: "https://www.voanepali.com/api/zqo_qoqoqoqoqoqo", site: "https://www.voanepali.com", category: "bidesh", tag: "VOA", color: "#1e40af" },
+      { id: "dw Nepali", name: "डीडब्ल्यू नेपाली", feed: "https://rss.dw.com/rdf/rss Nepali all", site: "https://www.dw.com/ne", category: "bidesh", tag: "DW", color: "#0369a1" },
+      
+      // Regional News
+      { id: "pokharamirror", name: "पोखरा मिरर", feed: "https://pokharamirror.com/feed/", site: "https://pokharamirror.com", category: "pradesh", tag: "PM", color: "#059669" },
+      { id: "biratnews", name: "विराट न्यूज", feed: "https://biratnews.com/feed/", site: "https://biratnews.com", category: "pradesh", tag: "BN", color: "#0891b2" },
+      { id: "nepalnews", name: "नेपाल न्यूज", feed: "https://nepalnews.com/feed/", site: "https://nepalnews.com", category: "taja", tag: "NN", color: "#7c3aed" },
+      
+      // Specialized
+      { id: "environmentnepal", name: "वातावरण नेपाल", feed: "https://environmentnepal.com/feed/", site: "https://environmentnepal.com", category: "paryavaran", tag: "EN", color: "#16a34a" },
+      { id: "healthnepal", name: "स्वास्थ्य नेपाल", feed: "https://healthnepal.com/feed/", site: "https://healthnepal.com", category: "swasthya", tag: "HN", color: "#dc2626" },
+      { id: "educationnepal", name: "शिक्षा नेपाल", feed: "https://educationnepal.com/feed/", site: "https://educationnepal.com", category: "shiksha", tag: "EDN", color: "#2563eb" },
+      { id: "tourismnepal", name: "पर्यटन नेपाल", feed: "https://tourismnepal.gov.np/feed/", site: "https://tourismnepal.gov.np", category: "paryatan", tag: "TN", color: "#0d9488" },
+    ];
+
+    const FEED_MAP = Object.fromEntries(FEEDS.map((f) => [f.id, f]));
+
+    // Categories
+    const CATEGORIES = [
+      { id: "all", label: "सबै", icon: "📰" },
+      { id: "taja", label: "ताजा", icon: "⚡" },
+      { id: "rajaniti", label: "राजनीति", icon: "🏛️" },
+      { id: "artha", label: "अर्थ", icon: "💰" },
+      { id: "khelkud", label: "खेलकुद", icon: "⚽" },
+      { id: "manoranjan", label: "मनोरञ्जन", icon: "🎬" },
+      { id: "prabidhi", label: "प्रविधि", icon: "💻" },
+      { id: "bidesh", label: "विदेश", icon: "🌍" },
+      { id: "pradesh", label: "प्रदेश", icon: "🗺️" },
+      { id: "paryavaran", label: "वातावरण", icon: "🌿" },
+      { id: "swasthya", label: "स्वास्थ्य", icon: "🏥" },
+      { id: "shiksha", label: "शिक्षा", icon: "📚" },
+      { id: "paryatan", label: "पर्यटन", icon: "🏔️" },
+    ];
+
+    // Sample articles for demo
+    const SAMPLE_ARTICLES = [
+      {
+        id: "1",
+        sourceId: "onlinekhabar",
+        title: "नेपालको अर्थतन्त्रमा नयाँ सम्भावना: विदेशी लगानी बढ्दै",
+        description: "नेपालको अर्थतन्त्रमा विदेशी प्रत्यक्ष लगानी (FDI) मा उल्लेख्य वृद्धि भएको छ। केन्द्रीय बैंकका अनुसार चालु आर्थिक वर्षको पहिलो छ महिनामा विदेशी लगानी प्रतिबद्धता गत वर्षको तुलनामा ४५ प्रतिशतले बढेको छ।",
+        link: "https://www.onlinekhabar.com",
+        pubDate: Date.now() - 3600000,
+        image: null,
+      },
+      {
+        id: "2",
+        sourceId: "kantipur",
+        title: "संसद्को हिउँदे अधिवेशन आजबाट सुरु, १५ विधेयक पेस हुने",
+        description: "संसद् सचिवालयले आजबाट हिउँदे अधिवेशन सुरु भएको जनाएको छ। यस अधिवेशनमा सरकारले १५ वटा विधेयक पेस गर्ने तयारी गरेको छ।",
+        link: "https://ekantipur.com",
+        pubDate: Date.now() - 7200000,
+        image: null,
+      },
+      {
+        id: "3",
+        sourceId: "setopati",
+        title: "काठमाडौंमा वायु प्रदूषण बढ्यो, स्वास्थ्य सतर्कता अपनाउन आग्रह",
+        description: "काठमाडौं उपत्यकामा वायु गुणस्तर सूचकांक (AQI) खतरनाक स्तरमा पुगेको छ। स्वास्थ्य मन्त्रालयले विशेषगरी बालबालिका र वृद्धवृद्धालाई बाहिर ननिस्कन आग्रह गरेको छ।",
+        link: "https://www.setopati.com",
+        pubDate: Date.now() - 10800000,
+        image: null,
+      },
+      {
+        id: "4",
+        sourceId: "ratopati",
+        title: "नेपाली क्रिकेट टोलीको ऐतिहासिक जित: विश्वकप छनोटमा अग्रिम",
+        description: "नेपाली क्रिकेट टोलीले आज भएको खेलमा शानदार प्रदर्शन गर्दै प्रतिस्पर्धी टोलीलाई ८ विकेटले पराजित गरेको छ। यस जितसँगै नेपाल विश्वकप छनोटको अन्तिम चरणमा पुगेको छ।",
+        link: "https://www.ratopati.com",
+        pubDate: Date.now() - 14400000,
+        image: null,
+      },
+      {
+        id: "5",
+        sourceId: "techmandu",
+        title: "नेपालमा डिजिटल भुक्तानी प्रणालीको विस्तार: QR कोड प्रयोग ३ गुणा बढ्यो",
+        description: "नेपालमा डिजिटल भुक्तानी प्रणालीको प्रयोग तीव्र गतिमा बढिरहेको छ। नेपाल राष्ट्र बैंकका अनुसार चालु आर्थिक वर्षको पहिलो त्रैमासिकमा QR कोड मार्फत हुने कारोबार गत वर्षको तुलनामा ३ गुणाले बढेको छ।",
+        link: "https://techmandu.com",
+        pubDate: Date.now() - 18000000,
+        image: null,
+      },
+    ];
+
+    // Time formatting
+    const pad2 = (n) => String(n).padStart(2, "0");
+    const clockNe = (ts) => {
+      const d = new Date(ts);
+      return np(`${pad2(d.getHours())}:${pad2(d.getMinutes())}`);
+    };
+    const hhmmssNe = (ts) => {
+      const d = new Date(ts);
+      return np(`${pad2(d.getHours())}:${pad2(d.getMinutes())}:${pad2(d.getSeconds())}`);
+    };
+    const fullDateNe = (ts) => {
+      const NE_MONTHS = ["जनवरी", "फेब्रुअरी", "मार्च", "अप्रिल", "मे", "जुन", "जुलाई", "अगस्ट", "सेप्टेम्बर", "अक्टोबर", "नोभेम्बर", "डिसेम्बर"];
+      const NE_DAYS = ["आइतबार", "सोमबार", "मङ्गलबार", "बुधबार", "बिहीबार", "शुक्रबार", "शनिबार"];
+      const d = new Date(ts);
+      return `${NE_DAYS[d.getDay()]}, ${np(d.getDate())} ${NE_MONTHS[d.getMonth()]} ${np(d.getFullYear())}`;
+    };
+    const timeAgoNe = (ts, now) => {
+      const diff = Math.max(0, now - ts);
+      const s = Math.floor(diff / 1000);
+      try {
+        const rtf = new Intl.RelativeTimeFormat("ne", { numeric: "auto" });
+        if (s < 60) return rtf.format(-s, "second");
+        const m = Math.floor(s / 60);
+        if (m < 60) return rtf.format(-m, "minute");
+        const h = Math.floor(m / 60);
+        if (h < 24) return rtf.format(-h, "hour");
+        return rtf.format(-Math.floor(h / 24), "day");
+      } catch {
+        if (s < 60) return `${np(s)} सेकेन्डअघि`;
+        const m = Math.floor(s / 60);
+        if (m < 60) return `${np(m)} मिनेटअघि`;
+        return `${np(Math.floor(m / 60))} घण्टाअघि`;
+      }
+    };
+
+    // Icon Component
+    const Icon = ({ name, size = 24, className = "" }) => {
+      const icons = {
+        newspaper: '<path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/><path d="M18 14h-8"/><path d="M15 18h-5"/><path d="M10 6h8v4h-8V6Z"/>',
+        bookmark: '<path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/>',
+        search: '<circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>',
+        x: '<path d="M18 6 6 18"/><path d="m6 6 12 12"/>',
+        rss: '<path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1"/>',
+        activity: '<path d="M22 12h-4l-3 9L9 3l-3 9H2"/>',
+        home: '<path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/>',
+        loader: '<line x1="12" y1="2" x2="12" y2="6"/><line x1="12" y1="18" x2="12" y2="22"/><line x1="4.93" y1="4.93" x2="7.76" y2="7.76"/><line x1="16.24" y1="16.24" x2="19.07" y2="19.07"/><line x1="2" y1="12" x2="6" y2="12"/><line x1="18" y1="12" x2="22" y2="12"/><line x1="4.93" y1="19.07" x2="7.76" y2="16.24"/><line x1="16.24" y1="7.76" x2="19.07" y2="4.93"/>',
+        share: '<circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" x2="15.42" y1="13.51" y2="17.49"/><line x1="15.41" x2="8.59" y1="6.51" y2="10.49"/>',
+        arrowUpRight: '<path d="M7 7h10v10"/><path d="M7 17 17 7"/>',
+        clock: '<circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>',
+        trending: '<polyline points="22 7 13.5 15.5 8.5 10.5 2 17"/><polyline points="16 7 22 7 22 13"/>',
+      };
+
+      return (
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width={size}
+          height={size}
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          strokeWidth="2"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          className={className}
+          dangerouslySetInnerHTML={{ __html: icons[name] || '' }}
+        />
+      );
+    };
+
+    // Main App
+    function App() {
+      const [now, setNow] = useState(Date.now());
+      const [articles, setArticles] = useState(SAMPLE_ARTICLES);
+      const [status, setStatus] = useState({});
+      const [log, setLog] = useState([]);
+      const [syncing, setSyncing] = useState(false);
+      const [lastSync, setLastSync] = useState(null);
+      const [disabled, setDisabled] = useState([]);
+      const [saved, setSaved] = useState([]);
+      const [intervalSec, setIntervalSec] = useState(30);
+      const [remaining, setRemaining] = useState(30);
+      const [newIds, setNewIds] = useState(new Set());
+      const [newCount, setNewCount] = useState(0);
+      const [query, setQuery] = useState("");
+      const [category, setCategory] = useState("all");
+      const [savedOnly, setSavedOnly] = useState(false);
+      const [selected, setSelected] = useState(null);
+      const [toasts, setToasts] = useState([]);
+      const toastIdRef = useRef(0);
+
+      useEffect(() => {
+        const t = setInterval(() => setNow(Date.now()), 1000);
+        return () => clearInterval(t);
+      }, []);
+
+      useEffect(() => {
+        if (newIds.size === 0) return;
+        const t = setTimeout(() => {
+          setNewIds(new Set());
+          setNewCount(0);
+        }, 8000);
+        return () => clearTimeout(t);
+      }, [newIds]);
+
+      const pushToast = (title, msg) => {
+        const id = ++toastIdRef.current;
+        setToasts((prev) => [...prev, { id, title, msg }]);
+        setTimeout(() => setToasts((prev) => prev.filter((t) => t.id !== id)), 4000);
+      };
+
+      const syncAll = async (manual = false) => {
+        if (syncing) return;
+        setSyncing(true);
+        if (manual) {
+          setLog((prev) => [{ id: Date.now(), at: Date.now(), kind: "info", msg: "म्यानुअल सिंक सुरु…" }, ...prev].slice(0, 80));
+        }
+
+        const newArticles = [...SAMPLE_ARTICLES];
+        const existingIds = new Set(articles.map((a) => a.id));
+
+        for (const src of FEEDS.slice(0, 10)) {
+          if (disabled.includes(src.id)) continue;
+          setStatus((prev) => ({ ...prev, [src.id]: { state: "loading" } }));
+
+          try {
+            const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(src.feed)}`;
+            const res = await fetch(proxyUrl, { signal: AbortSignal.timeout(8000) });
+            if (!res.ok) throw new Error("Failed");
+
+            const text = await res.text();
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(text, "text/xml");
+            const items = doc.querySelectorAll("item");
+
+            const srcArticles = Array.from(items).slice(0, 5).map((item, i) => {
+              const title = item.querySelector("title")?.textContent || "";
+              const link = item.querySelector("link")?.textContent || src.site;
+              const desc = item.querySelector("description")?.textContent || "";
+              const pubDate = item.querySelector("pubDate")?.textContent;
+
+              return {
+                id: `${src.id}-${i}`,
+                sourceId: src.id,
+                title: title.slice(0, 200),
+                description: desc.replace(/<[^>]*>/g, "").slice(0, 500),
+                link,
+                pubDate: pubDate ? new Date(pubDate).getTime() : Date.now(),
+              };
+            });
+
+            newArticles.push(...srcArticles);
+            setStatus((prev) => ({ ...prev, [src.id]: { state: "ok", count: srcArticles.length, at: Date.now() } }));
+
+            const newOnes = srcArticles.filter((a) => !existingIds.has(a.id));
+            if (newOnes.length > 0) {
+              setNewIds(new Set([...newIds, ...newOnes.map((a) => a.id)]));
+              setNewCount((c) => c + newOnes.length);
+            }
+          } catch (err) {
+            setStatus((prev) => ({ ...prev, [src.id]: { state: "err", at: Date.now() } }));
+          }
+        }
+
+        newArticles.sort((a, b) => b.pubDate - a.pubDate);
+        setArticles(newArticles);
+        setLastSync(Date.now());
+        setSyncing(false);
+        setRemaining(intervalSec);
+
+        const okCount = FEEDS.filter((f) => status[f.id]?.state === "ok").length;
+        setLog((prev) => [{ id: Date.now(), at: Date.now(), kind: "info", msg: `सिंक पूरा — ${np(okCount)}/${np(FEEDS.length)} स्रोत सक्रिय` }, ...prev].slice(0, 80));
+        
+        if (manual) {
+          pushToast("सिंक पूरा", `${np(newArticles.length)} खबरहरू लोड भयो`);
+        }
+      };
+
+      useEffect(() => {
+        syncAll();
+      }, []);
+
+      useEffect(() => {
+        if (intervalSec <= 0) return;
+        const t = setInterval(() => {
+          setRemaining((r) => {
+            if (r <= 1) {
+              syncAll();
+              return intervalSec;
+            }
+            return r - 1;
+          });
+        }, 1000);
+        return () => clearInterval(t);
+      }, [intervalSec, syncAll]);
+
+      const visible = useMemo(() => {
+        let list = articles.filter((a) => !disabled.includes(a.sourceId));
+        if (savedOnly) list = list.filter((a) => saved.includes(a.id));
+        if (category !== "all") list = list.filter((a) => FEED_MAP[a.sourceId]?.category === category);
+        const q = query.trim().toLowerCase();
+        if (q) {
+          list = list.filter((a) => {
+            const src = FEED_MAP[a.sourceId];
+            return a.title.toLowerCase().includes(q) || a.description.toLowerCase().includes(q) || (src?.name.toLowerCase().includes(q) ?? false);
+          });
+        }
+        return list;
+      }, [articles, disabled, saved, savedOnly, category, query]);
+
+      const counts = useMemo(() => {
+        const base = articles.filter((a) => !disabled.includes(a.sourceId));
+        const c = { all: base.length };
+        CATEGORIES.forEach((cat) => {
+          c[cat.id] = base.filter((a) => FEED_MAP[a.sourceId]?.category === cat.id).length;
+        });
+        return c;
+      }, [articles, disabled]);
+
+      const onlineCount = useMemo(() => FEEDS.filter((f) => status[f.id]?.state === "ok").length, [status]);
+
+      const toggleSaved = (id) => {
+        setSaved((prev) => {
+          const next = prev.includes(id) ? prev.filter((x) => x !== id) : [...prev, id];
+          pushToast(
+            next.includes(id) ? "सेभ गरियो" : "सेभ हटाइयो",
+            next.includes(id) ? "खबर तपाईंको सङ्ग्रहमा थपियो" : "खबर सङ्ग्रहबाट हटाइयो"
+          );
+          return next;
+        });
+      };
+
+      const featuredArticle = visible[0];
+      const gridArticles = visible.slice(1);
+
+      return (
+        <div>
+          {/* Header */}
+          <header className="header">
+            <div className="header-content">
+              <div className="logo">
+                <div className="logo-icon">
+                  <Icon name="newspaper" size={28} />
+                </div>
+                <div>
+                  <div>खबर<span className="text-gradient">धारा</span></div>
+                  <div style={{ fontSize: "0.75rem", fontWeight: 500, color: "var(--text-tertiary)" }}>
+                    Premium News Aggregator
+                  </div>
+                </div>
+              </div>
+
+              <div className="search-bar">
+                <Icon name="search" size={20} className="search-icon" />
+                <input
+                  type="text"
+                  placeholder="खबर खोज्नुहोस्..."
+                  value={query}
+                  onChange={(e) => setQuery(e.target.value)}
+                  className="search-input"
+                />
+              </div>
+
+              <div className="header-actions">
+                <button className="btn btn-icon" onClick={() => setSavedOnly(!savedOnly)}>
+                  <Icon name="bookmark" size={20} />
+                  {saved.length > 0 && <span className="badge">{np(saved.length)}</span>}
+                </button>
+                <button className="btn btn-primary" onClick={() => syncAll(true)}>
+                  {syncing && <Icon name="loader" size={16} className="animate-spin" />}
+                  <span>सिंक</span>
+                </button>
+              </div>
+            </div>
+          </header>
+
+          {/* Breaking News Ticker */}
+          <div className="ticker">
+            <div className="ticker-content">
+              <span className="ticker-label">⚡ ब्रेकिङ</span>
+              {articles.slice(0, 10).map((a, i) => (
+                <span key={i} className="ticker-item">
+                  {a.title} • {FEED_MAP[a.sourceId]?.name}
+                </span>
+              ))}
+              {articles.slice(0, 10).map((a, i) => (
+                <span key={`dup-${i}`} className="ticker-item">
+                  {a.title} • {FEED_MAP[a.sourceId]?.name}
+                </span>
+              ))}
+            </div>
+          </div>
+
+          {/* Category Tabs */}
+          <div className="category-tabs">
+            <div className="category-tabs-content">
+              {CATEGORIES.map((cat) => (
+                <div
+                  key={cat.id}
+                  className={`category-tab ${category === cat.id ? 'active' : ''}`}
+                  onClick={() => {
+                    setCategory(cat.id);
+                    setSavedOnly(false);
+                  }}
+                >
+                  <span>{cat.icon}</span>
+                  <span>{cat.label}</span>
+                  <span className="category-count">{np(counts[cat.id] || 0)}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          {/* Main Content */}
+          <div className="main-container">
+            <div>
+              {/* Featured Article */}
+              {featuredArticle && !savedOnly && category === "all" && (
+                <div className="featured-article animate-fade-in" onClick={() => setSelected(featuredArticle)}>
+                  <div className="featured-image">
+                    {featuredArticle.image ? (
+                      <img src={featuredArticle.image} alt="" />
+                    ) : (
+                      <div style={{ background: "var(--accent-gradient)", width: "100%", height: "100%" }}></div>
+                    )}
+                    <div className="featured-overlay">
+                      <span className="featured-category">
+                        {CATEGORIES.find((c) => c.id === FEED_MAP[featuredArticle.sourceId]?.category)?.label || "ताजा"}
+                      </span>
+                      <h1 className="featured-title">{featuredArticle.title}</h1>
+                      <div className="featured-meta">
+                        <span>{FEED_MAP[featuredArticle.sourceId]?.name}</span>
+                        <span>•</span>
+                        <span>{timeAgoNe(featuredArticle.pubDate, now)}</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              )}
+
+              {/* Section Title */}
+              <div style={{ marginBottom: "1.5rem" }}>
+                <h2 style={{ fontFamily: "var(--font-display)", fontSize: "1.75rem", fontWeight: 700 }}>
+                  {savedOnly ? "सेभ गरिएका खबरहरू" : category === "all" ? "ताजा खबरहरू" : CATEGORIES.find((c) => c.id === category)?.label}
+                  <span style={{ marginLeft: "0.75rem", fontSize: "1rem", fontWeight: 500, color: "var(--text-tertiary)" }}>
+                    {np(visible.length)} खबर
+                  </span>
+                </h2>
+              </div>
+
+              {/* Articles Grid */}
+              <div className="articles-grid">
+                {gridArticles.map((article) => (
+                  <article key={article.id} className="article-card animate-slide-in-up" onClick={() => setSelected(article)}>
+                    <div className="article-image">
+                      {article.image ? (
+                        <img src={article.image} alt="" />
+                      ) : (
+                        <div style={{ background: `linear-gradient(135deg, ${FEED_MAP[article.sourceId]?.color || '#667eea'}, ${FEED_MAP[article.sourceId]?.color || '#764ba2'})`, width: "100%", height: "100%" }}></div>
+                      )}
+                    </div>
+                    <div className="article-content">
+                      <div className="article-source">
+                        <div className="source-badge" style={{ background: FEED_MAP[article.sourceId]?.color || "var(--accent-gradient)" }}>
+                          {FEED_MAP[article.sourceId]?.tag}
+                        </div>
+                        <span className="source-name">{FEED_MAP[article.sourceId]?.name}</span>
+                      </div>
+                      <h3 className="article-title">{article.title}</h3>
+                      {article.description && (
+                        <p className="article-description">{article.description}</p>
+                      )}
+                      <div className="article-footer">
+                        <span className="article-time">
+                          <Icon name="clock" size={14} />
+                          {timeAgoNe(article.pubDate, now)}
+                        </span>
+                        <div className="article-actions">
+                          <button
+                            className={`action-btn ${saved.includes(article.id) ? 'saved' : ''}`}
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              toggleSaved(article.id);
+                            }}
+                          >
+                            <Icon name="bookmark" size={16} />
+                          </button>
+                          <button className="action-btn" onClick={(e) => e.stopPropagation()}>
+                            <Icon name="share" size={16} />
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                  </article>
+                ))}
+              </div>
+            </div>
+
+            {/* Sidebar */}
+            <aside className="sidebar">
+              {/* Live Feed */}
+              <div className="sidebar-card">
+                <h3 className="sidebar-title">
+                  <Icon name="activity" size={20} />
+                  लाइभ फिड
+                </h3>
+                <div className="live-feed">
+                  {log.slice(0, 15).map((entry) => (
+                    <div key={entry.id} className="feed-item">
+                      <div className="feed-dot"></div>
+                      <div className="feed-content">
+                        <p className="feed-message">{entry.msg}</p>
+                        <p className="feed-time">{hhmmssNe(entry.at)}</p>
+                      </div>
+                    </div>
+                  ))}
+                  {log.length === 0 && (
+                    <p style={{ textAlign: "center", color: "var(--text-tertiary)", padding: "2rem 0" }}>
+                      लग खाली छ
+                    </p>
+                  )}
+                </div>
+              </div>
+
+              {/* Stats */}
+              <div className="sidebar-card">
+                <h3 className="sidebar-title">
+                  <Icon name="trending" size={20} />
+                  तथ्याङ्क
+                </h3>
+                <div className="stats-grid">
+                  <div className="stat-card">
+                    <div className="stat-value">{np(onlineCount)}</div>
+                    <div className="stat-label">सक्रिय स्रोत</div>
+                  </div>
+                  <div className="stat-card">
+                    <div className="stat-value">{np(articles.length)}</div>
+                    <div className="stat-label">कुल खबर</div>
+                  </div>
+                  <div className="stat-card">
+                    <div className="stat-value">{np(saved.length)}</div>
+                    <div className="stat-label">सेभ गरिएको</div>
+                  </div>
+                  <div className="stat-card">
+                    <div className="stat-value">{np(FEEDS.length)}</div>
+                    <div className="stat-label">जम्मा स्रोत</div>
+                  </div>
+                </div>
+              </div>
+            </aside>
+          </div>
+
+          {/* Article Modal */}
+          {selected && (
+            <div className="modal-overlay" onClick={() => setSelected(null)}>
+              <div className="modal-content" onClick={(e) => e.stopPropagation()}>
+                <div className="modal-header">
+                  <div style={{ display: "flex", alignItems: "center", gap: "0.75rem" }}>
+                    <div className="source-badge" style={{ background: FEED_MAP[selected.sourceId]?.color }}>
+                      {FEED_MAP[selected.sourceId]?.tag}
+                    </div>
+                    <div>
+                      <div style={{ fontWeight: 700 }}>{FEED_MAP[selected.sourceId]?.name}</div>
+                      <div style={{ fontSize: "0.85rem", color: "var(--text-tertiary)" }}>
+                        {timeAgoNe(selected.pubDate, now)}
+                      </div>
+                    </div>
+                  </div>
+                  <button className="btn btn-icon" onClick={() => setSelected(null)}>
+                    <Icon name="x" size={20} />
+                  </button>
+                </div>
+                <div className="modal-body">
+                  <h1 style={{ fontFamily: "var(--font-display)", fontSize: "2rem", fontWeight: 900, lineHeight: 1.3, marginBottom: "1.5rem" }}>
+                    {selected.title}
+                  </h1>
+                  <p style={{ fontSize: "1.05rem", lineHeight: 1.8, color: "var(--text-secondary)" }}>
+                    {selected.description}
+                  </p>
+                </div>
+                <div className="modal-footer">
+                  <button
+                    className={`btn ${saved.includes(selected.id) ? 'btn-secondary' : 'btn-primary'}`}
+                    onClick={() => toggleSaved(selected.id)}
+                    style={{ flex: 1 }}
+                  >
+                    <Icon name="bookmark" size={18} />
+                    {saved.includes(selected.id) ? "सेभ गरिएको" : "सेभ गर्नुहोस्"}
+                  </button>
+                  <a
+                    href={selected.link}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn btn-primary"
+                    style={{ flex: 1, justifyContent: "center", textDecoration: "none" }}
+                  >
+                    मूल लिङ्क
+                    <Icon name="arrowUpRight" size={18} />
+                  </a>
+                </div>
+              </div>
+            </div>
+          )}
+
+          {/* Toast Notifications */}
+          <div className="toast-container">
+            {toasts.map((toast) => (
+              <div key={toast.id} className="toast">
+                <div className="toast-icon">
+                  <Icon name="newspaper" size={20} />
+                </div>
+                <div className="toast-content">
+                  <div className="toast-title">{toast.title}</div>
+                  <div className="toast-message">{toast.msg}</div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      );
+    }
+
+    // Render
+    const root = createRoot(document.getElementById("root"));
+    root.render(<App />);
+  </script>
+</body>
+</html>
