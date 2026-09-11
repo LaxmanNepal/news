@@ -11,6 +11,9 @@ export interface Article {
   pubDate: number;
   category?: CategoryId | "taja";
   fromSnapshot?: boolean;
+  trendingScore?: number;
+  breaking?: boolean;
+  clusterId?: string;
 }
 
 export type FeedStatus =
