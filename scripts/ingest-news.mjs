@@ -1,61 +1,24 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import { FEEDS, SNAPSHOTS } from "./feeds.mjs";
-
-const OUT = path.resolve("data");
-const MAX_PER_SOURCE = 40;
-const MAX_AGE_MS = 7 * 24 * 60 * 60 * 1000;
-const TIMEOUT_MS = 12000;
-const CATEGORY_RULES = {
-  rajaniti: ["सरकार", "मन्त्री", "मंत्री", "प्रधानमन्त्री", "संसद", "निर्वाचन", "चुनाव", "दल", "एमाले", "कांग्रेस", "माओवादी", "राजनीति", "राष्ट्रपति", "अदालत", "कानुन"],
-  artha: ["नेप्से", "सेयर", "शेयर", "बैंक", "बजेट", "अर्थतन्त्र", "अर्थ", "व्यापार", "व्यवसाय", "कर", "राजस्व", "लगानी", "रुपैयाँ", "डलर", "बजार", "आयात", "निर्यात"],
-  khelkud: ["क्रिकेट", "फुटबल", "खेल", "खेलाडी", "विश्वकप", "ओलम्पिक", "गोल", "रन", "विकेट", "टेनिस", "बास्केटबल"],
-  manoranjan: ["फिल्म", "चलचित्र", "सिनेमा", "अभिनेता", "अभिनेत्री", "गायक", "गायिका", "गीत", "संगीत", "मनोरञ्जन", "टेलिभिजन", "कलाकार"],
-  prabidhi: ["प्रविधि", "टेक", "मोबाइल", "स्मार्टफोन", "आईफोन", "एन्ड्रोइड", "एआई", "कृत्रिम बुद्धिमत्ता", "एप", "एप्लिकेसन", "इन्टरनेट", "सफ्टवेयर", "कम्प्युटर", "ग्याजेट", "डिजिटल"],
-  bidesh: ["अमेरिका", "भारत", "चीन", "बेलायत", "ब्रिटेन", "विदेश", "अन्तर्राष्ट्रिय", "विश्व", "राष्ट्रसंघ", "रुस", "युक्रेन", "इजरायल", "गाजा", "पाकिस्तान", "दक्षिण एसिया"]
-};
-function stripHtml(value = "") { return value.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/gi, "$1").replace(/<script[\s\S]*?<\/script>/gi, " ").replace(/<style[\s\S]*?<\/style>/gi, " ").replace(/<[^>]+>/g, " ").replace(/&nbsp;/gi, " ").replace(/\s+/g, " ").trim(); }
-function decodeXml(value = "") { return value.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/gi, "$1").replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n))); }
-function firstMatch(block, patterns) { for (const pattern of patterns) { const match = block.match(pattern); if (match?.[1]) return stripHtml(decodeXml(match[1])); } return ""; }
-function normalizeUrl(value = "") { try { const u = new URL(value); u.hash = ""; ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content", "fbclid", "gclid", "output", "amp"].forEach((key) => u.searchParams.delete(key)); return u.toString().replace(/\/$/, ""); } catch { return value.trim().toLowerCase(); } }
-function normalizeText(value = "") { return value.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, "").trim(); }
-function imageFrom(block) { const patterns = [/<(?:media:)?(?:content|thumbnail)[^>]+url=["']([^"']+)["']/i, /<enclosure[^>]+url=["']([^"']+)["'][^>]*>/i, /<img[^>]+(?:src|data-src|data-lazy-src)=["']([^"']+)["']/i, /<image[^>]*>[\s\S]*?<url[^>]*>([\s\S]*?)<\/url>[\s\S]*?<\/image>/i]; for (const pattern of patterns) { const match = block.match(pattern)?.[1]; if (match) return decodeXml(match.trim()); } return undefined; }
-function classifyArticle(title, description, sourceCategory) { const text = `${title} ${description}`; let best = sourceCategory === "taja" ? "taja" : sourceCategory; let bestScore = 0; for (const [category, keywords] of Object.entries(CATEGORY_RULES)) { const score = keywords.reduce((sum, keyword) => sum + (text.includes(keyword) ? 1 : 0), 0); if (score > bestScore) { bestScore = score; best = category; } } return best; }
-function parseFeed(xml, src) {
-  const itemBlocks = [...xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)].map((m) => m[0]);
-  const entryBlocks = itemBlocks.length ? [] : [...xml.matchAll(/<entry\b[\s\S]*?<\/entry>/gi)].map((m) => m[0]);
-  const blocks = [...itemBlocks, ...entryBlocks].slice(0, MAX_PER_SOURCE);
-  const now = Date.now();
-  return blocks.map((block) => {
-    const title = firstMatch(block, [/<title[^>]*>([\s\S]*?)<\/title>/i]);
-    const description = firstMatch(block, [/<description[^>]*>([\s\S]*?)<\/description>/i, /<summary[^>]*>([\s\S]*?)<\/summary>/i, /<content[^>]*>([\s\S]*?)<\/content>/i]).slice(0, 700);
-    const link = normalizeUrl(firstMatch(block, [/<link[^>]+href=["']([^"']+)["'][^>]*\/?\s*>/i, /<link[^>]*>([\s\S]*?)<\/link>/i]) || src.site);
-    const dateRaw = firstMatch(block, [/<pubDate[^>]*>([\s\S]*?)<\/pubDate>/i, /<published[^>]*>([\s\S]*?)<\/published>/i, /<updated[^>]*>([\s\S]*?)<\/updated>/i, /<dc:date[^>]*>([\s\S]*?)<\/dc:date>/i]);
-    const parsedDate = Date.parse(dateRaw); const pubDate = Number.isFinite(parsedDate) ? parsedDate : now;
-    const image = imageFrom(block); const category = classifyArticle(title, description, src.category);
-    return { sourceId: src.id, title: title.slice(0, 240), description, link, ...(image ? { image } : {}), pubDate, category };
-  }).filter((a) => a.title && now - a.pubDate < MAX_AGE_MS);
-}
-async function fetchWithTimeout(url) { const controller = new AbortController(); const timer = setTimeout(() => controller.abort(), TIMEOUT_MS); try { const response = await fetch(url, { signal: controller.signal, headers: { "user-agent": "KhabarDhara-NewsBot/3.0", accept: "application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.8" } }); if (!response.ok) throw new Error(`HTTP ${response.status}`); return await response.text(); } finally { clearTimeout(timer); } }
-async function loadSource(src) { try { const xml = await fetchWithTimeout(src.feed); const articles = parseFeed(xml, src); if (!articles.length) throw new Error("No articles parsed"); return { src, articles, ok: true }; } catch (error) { return { src, articles: [], ok: false, error: error instanceof Error ? error.message : String(error) }; } }
-await fs.mkdir(OUT, { recursive: true });
-const results = await Promise.all(FEEDS.map(loadSource));
-const byUrl = new Map(); const byTitle = new Map(); const articles = []; const sources = [];
-for (const result of results) {
-  sources.push({ id: result.src.id, name: result.src.name, site: result.src.site, feed: result.src.feed, category: result.src.category, tag: result.src.tag, ok: result.ok, count: result.articles.length, ...(result.ok ? {} : { error: result.error }) });
-  for (const article of result.articles) {
-    const urlKey = normalizeUrl(article.link); const titleKey = normalizeText(article.title);
-    if (urlKey && byUrl.has(urlKey)) continue;
-    if (titleKey && byTitle.has(titleKey)) { const existing = byTitle.get(titleKey); if (article.pubDate > existing.pubDate) Object.assign(existing, article, { sourceId: existing.sourceId, id: existing.id }); continue; }
-    const normalized = { ...article, id: `${article.sourceId}::${Buffer.from(urlKey || titleKey).toString("base64url").slice(0, 32)}` };
-    articles.push(normalized); if (urlKey) byUrl.set(urlKey, normalized); if (titleKey) byTitle.set(titleKey, normalized);
-  }
-}
-for (const src of FEEDS) { const result = results.find((r) => r.src.id === src.id); if (!result?.ok && SNAPSHOTS[src.id]) SNAPSHOTS[src.id].forEach((snap, index) => articles.push({ id: `${src.id}::snap-${index}`, sourceId: src.id, title: snap.t, description: snap.d, link: src.site, pubDate: Date.now() - index * 1800000, fromSnapshot: true, category: classifyArticle(snap.t, snap.d, src.category) })); }
-articles.sort((a, b) => b.pubDate - a.pubDate);
-const generatedAt = new Date().toISOString();
-const categoryIds = ["rajaniti", "artha", "khelkud", "manoranjan", "prabidhi", "bidesh"];
-const files = { "news.json": { generatedAt, articleCount: articles.length, sourceCount: FEEDS.length, articles }, "latest.json": { generatedAt, articles: articles.slice(0, 100) }, "taja.json": { generatedAt, articles: articles.slice(0, 100) }, "sources.json": { generatedAt, sources }, "meta.json": { generatedAt, sourceCount: FEEDS.length, successfulSources: results.filter((r) => r.ok).length, articleCount: articles.length, categories: categoryIds } };
-for (const category of categoryIds) files[`${category}.json`] = { generatedAt, category, articles: articles.filter((a) => a.category === category).slice(0, 100) };
-for (const [name, value] of Object.entries(files)) await fs.writeFile(path.join(OUT, name), JSON.stringify(value, null, 2) + "\n", "utf8");
-console.log(`KhabarDhara ingestion complete: ${articles.length} unique articles from ${results.filter((r) => r.ok).length}/${FEEDS.length} sources.`);
+const OUT=path.resolve("data"), MAX_PER_SOURCE=40, MAX_AGE_MS=7*86400000, TIMEOUT_MS=12000;
+const BREAKING_WORDS=["तत्काल","ब्रेकिङ","ब्रेकिंग","अत्यावश्यक","आपतकाल","भूकम्प","बाढी","पहिरो","आगो","विस्फोट","दुर्घटना","मृत्यु","गिरफ्तार","राजीनामा","आपत्कालीन"];
+const CATEGORY_RULES={rajaniti:["सरकार","मन्त्री","मंत्री","प्रधानमन्त्री","संसद","निर्वाचन","चुनाव","दल","एमाले","कांग्रेस","माओवादी","राजनीति","राष्ट्रपति","अदालत","कानुन"],artha:["नेप्से","सेयर","शेयर","बैंक","बजेट","अर्थतन्त्र","अर्थ","व्यापार","व्यवसाय","कर","राजस्व","लगानी","रुपैयाँ","डलर","बजार","आयात","निर्यात"],khelkud:["क्रिकेट","फुटबल","खेल","खेलाडी","विश्वकप","ओलम्पिक","गोल","रन","विकेट","टेनिस","बास्केटबल"],manoranjan:["फिल्म","चलचित्र","सिनेमा","अभिनेता","अभिनेत्री","गायक","गायिका","गीत","संगीत","मनोरञ्जन","टेलिभिजन","कलाकार"],prabidhi:["प्रविधि","टेक","मोबाइल","स्मार्टफोन","आईफोन","एन्ड्रोइड","एआई","कृत्रिम बुद्धिमत्ता","एप","एप्लिकेसन","इन्टरनेट","सफ्टवेयर","कम्प्युटर","ग्याजेट","डिजिटल"],bidesh:["अमेरिका","भारत","चीन","बेलायत","ब्रिटेन","विदेश","अन्तर्राष्ट्रिय","विश्व","राष्ट्रसंघ","रुस","युक्रेन","इजरायल","गाजा","पाकिस्तान","दक्षिण एसिया"]};
+function stripHtml(v=""){return v.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/gi,"$1").replace(/<script[\s\S]*?<\/script>/gi," ").replace(/<style[\s\S]*?<\/style>/gi," ").replace(/<[^>]+>/g," ").replace(/&nbsp;/gi," ").replace(/\s+/g," ").trim()}
+function decodeXml(v=""){return v.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/gi,"$1").replace(/&amp;/g,"&").replace(/&lt;/g,"<").replace(/&gt;/g,">").replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&#(\d+);/g,(_,n)=>String.fromCharCode(Number(n)))}
+function firstMatch(b,ps){for(const p of ps){const m=b.match(p);if(m?.[1])return stripHtml(decodeXml(m[1]))}return ""}
+function normalizeUrl(v=""){try{const u=new URL(v);u.hash="";["utm_source","utm_medium","utm_campaign","utm_term","utm_content","fbclid","gclid","output","amp"].forEach(k=>u.searchParams.delete(k));return u.toString().replace(/\/$/,"")}catch{return v.trim().toLowerCase()}}
+function normalizeText(v=""){return v.toLowerCase().replace(/[^\p{L}\p{N}]+/gu," ").trim()}
+function tokens(v=""){return new Set(normalizeText(v).split(/\s+/).filter(x=>x.length>1))}
+function similarity(a,b){const A=tokens(a),B=tokens(b);if(!A.size||!B.size)return 0;let n=0;for(const x of A)if(B.has(x))n++;return n/(A.size+B.size-n)}
+function imageFrom(b){const ps=[/<(?:media:)?(?:content|thumbnail)[^>]+url=["']([^"']+)["']/i,/<enclosure[^>]+url=["']([^"']+)["'][^>]*>/i,/<img[^>]+(?:src|data-src|data-lazy-src)=["']([^"']+)["']/i,/<image[^>]*>[\s\S]*?<url[^>]*>([\s\S]*?)<\/url>[\s\S]*?<\/image>/i];for(const p of ps){const m=b.match(p)?.[1];if(m)return decodeXml(m.trim())}}
+function classify(t,d,sc){const text=`${t} ${d}`;let best=sc,bestScore=0;for(const[cat,words]of Object.entries(CATEGORY_RULES)){const score=words.reduce((n,w)=>n+(text.includes(w)?1:0),0);if(score>bestScore){bestScore=score;best=cat}}return best}
+function intel(t,d,date,sc){const text=`${t} ${d}`,age=Math.max(0,(Date.now()-date)/3600000),recency=Math.max(0,48-age)/48,hits=BREAKING_WORDS.reduce((n,w)=>n+(text.includes(w)?1:0),0),breaking=hits>0&&age<=18;return{trendingScore:Math.round(Math.min(100,recency*62+Math.min(hits,4)*8+(sc!=="taja"?8:0))),breaking}}
+function parseFeed(xml,src){const items=[...xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)].map(m=>m[0]),entries=items.length?[]:[...xml.matchAll(/<entry\b[\s\S]*?<\/entry>/gi)].map(m=>m[0]),now=Date.now();return[...items,...entries].slice(0,MAX_PER_SOURCE).map(b=>{const title=firstMatch(b,[/<title[^>]*>([\s\S]*?)<\/title>/i]),description=firstMatch(b,[/<description[^>]*>([\s\S]*?)<\/description>/i,/<summary[^>]*>([\s\S]*?)<\/summary>/i,/<content[^>]*>([\s\S]*?)<\/content>/i]).slice(0,700),link=normalizeUrl(firstMatch(b,[/<link[^>]+href=["']([^"']+)["'][^>]*\/?\s*>/i,/<link[^>]*>([\s\S]*?)<\/link>/i])||src.site),rawDate=firstMatch(b,[/<pubDate[^>]*>([\s\S]*?)<\/pubDate>/i,/<published[^>]*>([\s\S]*?)<\/published>/i,/<updated[^>]*>([\s\S]*?)<\/updated>/i,/<dc:date[^>]*>([\s\S]*?)<\/dc:date>/i]),parsed=Date.parse(rawDate),pubDate=Number.isFinite(parsed)?parsed:now,category=classify(title,description,src.category),intelData=intel(title,description,pubDate,src.category),image=imageFrom(b);return{sourceId:src.id,title:title.slice(0,240),description,link,...(image?{image}:{}),pubDate,category,...intelData}}).filter(a=>a.title&&now-a.pubDate<MAX_AGE_MS)}
+async function fetchWithTimeout(url){const c=new AbortController(),timer=setTimeout(()=>c.abort(),TIMEOUT_MS);try{const r=await fetch(url,{signal:c.signal,headers:{"user-agent":"KhabarDhara-NewsBot/5.0",accept:"application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.8"}});if(!r.ok)throw new Error(`HTTP ${r.status}`);return await r.text()}finally{clearTimeout(timer)}}
+async function loadSource(src){try{const articles=parseFeed(await fetchWithTimeout(src.feed),src);if(!articles.length)throw new Error("No articles parsed");return{src,articles,ok:true}}catch(error){return{src,articles:[],ok:false,error:error instanceof Error?error.message:String(error)}}}
+await fs.mkdir(OUT,{recursive:true});const results=await Promise.all(FEEDS.map(loadSource)),byUrl=new Map(),articles=[],titleBuckets=new Map(),sources=[];
+for(const result of results){sources.push({id:result.src.id,name:result.src.name,site:result.src.site,feed:result.src.feed,category:result.src.category,tag:result.src.tag,ok:result.ok,count:result.articles.length,...(result.ok?{}:{error:result.error})});for(const article of result.articles){const urlKey=normalizeUrl(article.link);if(urlKey&&byUrl.has(urlKey))continue;const candidates=titleBuckets.get(article.category)||[];const duplicate=candidates.find(x=>similarity(x.title,article.title)>=0.86);if(duplicate){if(article.pubDate>duplicate.pubDate)Object.assign(duplicate,article,{sourceId:duplicate.sourceId,id:duplicate.id,clusterId:duplicate.clusterId});continue}const titleKey=normalizeText(article.title),clusterId=`cluster-${Buffer.from(titleKey).toString("base64url").slice(0,20)}`,normalized={...article,clusterId,id:`${article.sourceId}::${Buffer.from(urlKey||titleKey).toString("base64url").slice(0,32)}`};articles.push(normalized);if(urlKey)byUrl.set(urlKey,normalized);candidates.push(normalized);titleBuckets.set(article.category,candidates)}}
+for(const src of FEEDS){const result=results.find(r=>r.src.id===src.id);if(!result?.ok&&SNAPSHOTS[src.id])SNAPSHOTS[src.id].forEach((snap,i)=>{const pubDate=Date.now()-i*1800000;articles.push({id:`${src.id}::snap-${i}`,sourceId:src.id,title:snap.t,description:snap.d,link:src.site,pubDate,fromSnapshot:true,category:classify(snap.t,snap.d,src.category),...intel(snap.t,snap.d,pubDate,src.category)})})}
+const generatedAt=new Date().toISOString(),categoryIds=["rajaniti","artha","khelkud","manoranjan","prabidhi","bidesh"],latest=[...articles].sort((a,b)=>b.pubDate-a.pubDate),trending=[...articles].sort((a,b)=>(b.trendingScore??0)-(a.trendingScore??0)||b.pubDate-a.pubDate);
+const files={"news.json":{generatedAt,articleCount:articles.length,sourceCount:FEEDS.length,articles:trending},"latest.json":{generatedAt,articles:latest.slice(0,100)},"taja.json":{generatedAt,articles:latest.slice(0,100)},"trending.json":{generatedAt,articles:trending.slice(0,100)},"breaking.json":{generatedAt,articles:latest.filter(a=>a.breaking).slice(0,50)},"sources.json":{generatedAt,sources},"meta.json":{generatedAt,sourceCount:FEEDS.length,successfulSources:results.filter(r=>r.ok).length,articleCount:articles.length,breakingCount:articles.filter(a=>a.breaking).length,categories:categoryIds}};for(const category of categoryIds)files[`${category}.json`]={generatedAt,category,articles:trending.filter(a=>a.category===category).slice(0,100)};for(const[name,value]of Object.entries(files))await fs.writeFile(path.join(OUT,name),JSON.stringify(value,null,2)+"\n","utf8");console.log(`KhabarDhara V3 intelligence: ${articles.length} unique; ${results.filter(r=>r.ok).length}/${FEEDS.length} healthy.`);
