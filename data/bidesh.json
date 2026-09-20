@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T20:25:24.088Z",
+  "generatedAt": "2026-09-20T22:36:09.484Z",
   "category": "bidesh",
   "articles": [
     {
@@ -10,7 +10,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/manaslu-himal.jpg",
       "pubDate": 1789917767000,
       "category": "bidesh",
-      "trendingScore": 79,
+      "trendingScore": 77,
       "breaking": true,
       "clusterId": "cluster-4KS5IOCkiSDgpKrgpLkg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -23,7 +23,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/unnamed.jpg",
       "pubDate": 1789914639000,
       "category": "bidesh",
-      "trendingScore": 78,
+      "trendingScore": 76,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksiDgpKog4KSt",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -36,7 +36,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/news-photo-dhi-4.jpg",
       "pubDate": 1789910306000,
       "category": "bidesh",
-      "trendingScore": 77,
+      "trendingScore": 74,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCkueCksuCkqiDg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -49,7 +49,7 @@
       "image": "https://npcdn.ratopati.com/media/news/lumbini_morning-(10)_FOdLGyfgrb.jpg",
       "pubDate": 1789931214000,
       "category": "bidesh",
-      "trendingScore": 60,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KS44KSuIOCkquCkpiDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -62,7 +62,7 @@
       "image": "https://npcdn.ratopati.com/media/news/trump_Jl3awVUaUl.webp",
       "pubDate": 1789925157000,
       "category": "bidesh",
-      "trendingScore": 58,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSH4KSwIOCkqOCklSDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -74,7 +74,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021537/who-are-the-houthi-rebels-attacking-saudi-arabia",
       "pubDate": 1789920535000,
       "category": "bidesh",
-      "trendingScore": 56,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkieCkpiDgpIXg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -86,7 +86,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021742/us-has-two-options-destroy-iran-or-make-a-deal-trump",
       "pubDate": 1789919705000,
       "category": "bidesh",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -98,7 +98,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021727/iranian-military-claims-us-is-preparing-to-attack-iran-again",
       "pubDate": 1789915999000,
       "category": "bidesh",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSH4KSwIOCkqCDgpLgg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -111,8 +111,8 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d471/live/22551aa0-b359-11f1-b1d1-571ed4d7ff2c.jpg",
       "pubDate": 1789871375000,
       "category": "bidesh",
-      "trendingScore": 55,
-      "breaking": true,
+      "trendingScore": 52,
+      "breaking": false,
       "clusterId": "cluster-4KSsIOCkoiDgpKrgpJsg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
     },
@@ -123,7 +123,7 @@
       "link": "https://arthasarokar.com/2026/09/ncell-and-nato-collaborate-to-enable-tourists-to-access-telecommunications-services-in-nepal.html",
       "pubDate": 1789886241000,
       "category": "bidesh",
-      "trendingScore": 52,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSo4KS4IOCksiDg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -136,7 +136,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Ncell-X-NATO-150x150.png",
       "pubDate": 1789882721000,
       "category": "bidesh",
-      "trendingScore": 51,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSo4KS4IOCksiDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -149,7 +149,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/508c/live/a1284b20-b1b7-11f1-bdcf-d393eb724fa3.jpg",
       "pubDate": 1789880873000,
       "category": "bidesh",
-      "trendingScore": 50,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSG4KSIIOCktSDg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -162,7 +162,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d250/live/a3945a10-9f98-11f1-a83c-33ebef033ca4.png",
       "pubDate": 1789794300000,
       "category": "bidesh",
-      "trendingScore": 19,
+      "trendingScore": 16,
       "breaking": false,
       "clusterId": "cluster-4KS2IOCksCDgpK4g4KSo",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
