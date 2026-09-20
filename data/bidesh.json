@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-09-20T14:54:35.565Z",
+  "generatedAt": "2026-09-20T17:56:33.107Z",
   "category": "bidesh",
   "articles": [
+    {
+      "sourceId": "rajdhani",
+      "title": "हिउँपहिरोमा पुरिएर मनास्लुमा दुई जनाको मृत्यु",
+      "description": "गोरखा । हिउँपहिरोमा पुरिएर मनास्लु हिमालमा दुई जनाको मृत्यु भएको छ । भारतीय मूलका जर्मनीका नागरिक र उनका सहयोगी नेपाली नागरिकको गएराति हिउँ पहिरोमा पुरिएर मृत्यु भएको हो । सुतिरहेको टेण्टमा माथिबाट आएको हिउँ पहिरोले पुरिएर जर्मनीका आरोही ध्रुवज्योति गुहा र उनका आरोहण सहयोगी फुर्सेम्बा शेर्पाको मृत्यु भएको जिल्ला प्रहरी कार्यालयले जनाएको छ । दुवै […] The post हिउँपहिरोमा पुरिएर मनास्लुमा दुई जनाको मृत्यु appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDaily.com - Online Nepali News Portal-Latest Nepali Online News portal of Nepali Polities, economics, news, top stories, national, international, politics, sports, business, finance, entertainment, photo-gallery, aud",
+      "link": "https://rajdhanidaily.com/id/148639",
+      "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/manaslu-himal.jpg",
+      "pubDate": 1789917767000,
+      "category": "bidesh",
+      "trendingScore": 83,
+      "breaking": true,
+      "clusterId": "cluster-4KS5IOCkiSDgpKrgpLkg",
+      "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
+    },
     {
       "sourceId": "rajdhani",
       "title": "पाल्पा भालेबासमा जीप दुर्घटना, एक जनाको मृत्यु ५ जना घाइते",
@@ -10,7 +23,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/unnamed.jpg",
       "pubDate": 1789914639000,
       "category": "bidesh",
-      "trendingScore": 85,
+      "trendingScore": 82,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksiDgpKog4KSt",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -23,7 +36,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/news-photo-dhi-4.jpg",
       "pubDate": 1789910306000,
       "category": "bidesh",
-      "trendingScore": 84,
+      "trendingScore": 80,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCkueCksuCkqiDg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -36,10 +49,59 @@
       "image": "https://npcdn.ratopati.com/media/news/manasllu_FqkqzTnEMw.webp",
       "pubDate": 1789914699000,
       "category": "bidesh",
-      "trendingScore": 78,
+      "trendingScore": 74,
       "breaking": true,
       "clusterId": "cluster-4KSu4KSoIOCkuCDgpLIg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "इरानको विषयमा छिट्टै ‘केही ठुलो’ हुँदैछ, ट्रम्पले दिए यस्तो चेतावनी",
+      "description": "काठमाडौँ । अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले अमेरिका&ndash;इरान द्वन्द्वलाई लिएर निकट भविष्यमा &lsquo;धेरै ठूला घटनाहरू&rsquo; हुन लागेको र यस विषयमा आफू नै &lsquo;निर्णयकर्ता&rsquo; भएको सङ्केत गरेका छन् । फक्स न्युजसँग कुरा गर्दै ट्रम्पले आफ्ना प्रमुख विदेश मामला सम्वाददातालाई",
+      "link": "https://www.ratopati.com/story/593520/trump-warns-something-big-is-coming-soon-regarding-iran",
+      "image": "https://npcdn.ratopati.com/media/news/trump_Jl3awVUaUl.webp",
+      "pubDate": 1789925157000,
+      "category": "bidesh",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KSH4KSwIOCkqOCklSDg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "साउदी अरबमाथि आक्रमण गरिरहेका हुथी विद्रोही को हुन् ?",
+      "description": "हुथीहरू यमनको पश्चिमी तट हुँदै बाब अल-मन्देबतर्फ अघि बढेका छन् र केही दक्षिणी लाल सागरका टापुहरू नियन्त्रणमा लिएका छन्। संयुक्त राष्ट्रसंघले पनि यमनको पश्चिमी तट र बाब अल-मन्देब वरिपरिको अवस्था तीव्र रूपमा अस्थिर बनेको जनाएको छ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2021537/who-are-the-houthi-rebels-attacking-saudi-arabia",
+      "pubDate": 1789920535000,
+      "category": "bidesh",
+      "trendingScore": 60,
+      "breaking": false,
+      "clusterId": "cluster-4KS4IOCkieCkpiDgpIXg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "अमेरिकासँग इरानलाई ध्वस्त पार्ने वा सम्झौता गर्ने दुई विकल्प छन् : ट्रम्प",
+      "description": "ट्रम्पले अगाडि भनेका छन्, ‘मेरो प्रश्न- के म सम्पूर्ण इरानलाई ध्वस्त पार्नेछु भन्ने हो । उनीहरूले आफूलाई सम्हाल्नुपर्छ ।’",
+      "link": "https://www.onlinekhabar.com/2026/09/2021742/us-has-two-options-destroy-iran-or-make-a-deal-trump",
+      "pubDate": 1789919705000,
+      "category": "bidesh",
+      "trendingScore": 59,
+      "breaking": false,
+      "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "इरानी सेनाको दाबी– अमेरिका फेरि इरानमाथि आक्रमणको तयारी गर्दैछ",
+      "description": "इरानी सेनाको खातम अल–अन्बिया केन्द्रीय मुख्यालयले केही क्षेत्रीय देशको समर्थनमा अमेरिकाले इरानमाथि आक्रमणको तयारी गरिरहेको सूचना प्राप्त भएको दाबी गरेको छ ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2021727/iranian-military-claims-us-is-preparing-to-attack-iran-again",
+      "pubDate": 1789915999000,
+      "category": "bidesh",
+      "trendingScore": 58,
+      "breaking": false,
+      "clusterId": "cluster-4KSH4KSwIOCkqCDgpLgg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "bbcnepali",
@@ -49,73 +111,10 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d471/live/22551aa0-b359-11f1-b1d1-571ed4d7ff2c.jpg",
       "pubDate": 1789871375000,
       "category": "bidesh",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKrgpJsg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "साउदी अरबमाथि आक्रमण गरिरहेका हुथी विद्रोही को हुन् ?",
-      "description": "हुथीहरू यमनको पश्चिमी तट हुँदै बाब अल-मन्देबतर्फ अघि बढेका छन् र केही दक्षिणी लाल सागरका टापुहरू नियन्त्रणमा लिएका छन्। संयुक्त राष्ट्रसंघले पनि यमनको पश्चिमी तट र बाब अल-मन्देब वरिपरिको अवस्था तीव्र रूपमा अस्थिर बनेको जनाएको छ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2021537/who-are-the-houthi-rebels-attacking-saudi-arabia",
-      "pubDate": 1789913455000,
-      "category": "bidesh",
-      "trendingScore": 61,
-      "breaking": false,
-      "clusterId": "cluster-4KS4IOCkieCkpiDgpIXg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "रास्वपाको अन्तर्राष्ट्रिय सम्बन्ध तथा कूटनीतिक विभाग सदस्यमा कार्की नियुक्त",
-      "description": "काठमाडौँ । राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)को अन्तर्राष्ट्रिय सम्बन्ध तथा कूटनीतिक विभाग सदस्यमा युवा नेता हिक्मत जंग कार्की नियुक्त भएका छन् । आइतबार बसेको सचिवालय बैठकले कार्कीलाई सदस्यमा नियुक्त गर्ने निर्णय गरेको प्रवक्ता जगदीश खरेलले जारी",
-      "link": "https://www.ratopati.com/story/593491/karki-appointed-as-member-of-rsvps-international-relations-and-diplomacy-department",
-      "image": "https://npcdn.ratopati.com/media/news/hikmat-karki-_BaV5tYMAwi.png",
-      "pubDate": 1789913256000,
-      "category": "bidesh",
-      "trendingScore": 61,
-      "breaking": false,
-      "clusterId": "cluster-4KSwIOCkuCDgpLXgpKog",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "नागरिकका लेखक डा. घिमिरेलाई बाबियाखर्क साकोसले गर्‍यो अभिनन्दन",
-      "description": "नागरिक न्यूजका लेखक तथा नेपाल संस्कृत विश्वविद्यालयका उपप्राध्यापक डा. उमेशप्रसाद घिमिरेलाई बाबियाखर्क बचत तथा ऋण सहकारी संस्था (साकोस) ले अभिनन्दन गरेको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/social-affairs/babiyakharka-sakos-felicitates-dr-ghimire-author-of-nagarik-82-76.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1789912801_Umesh_Ghimire.jpg",
-      "pubDate": 1789912809000,
-      "category": "bidesh",
-      "trendingScore": 61,
-      "breaking": false,
-      "clusterId": "cluster-4KSoIOCkl-CksCDgpJXg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "सर्त पूरा नभएसम्म होर्मुज खुला हुँदैन : इरान",
-      "description": "फेब्रुअरीको अन्त्यतिर अमेरिका–इजरायली हमलाबाट सुरु भएको मध्यपूर्व द्वन्द्वमा अमेरिका र इरान महिनौँदेखि गतिरोधमा फसेका छन्।...",
-      "link": "https://nagariknews.nagariknetwork.com/international/hormuz-will-not-be-opened-until-conditions-are-met-iran-74-11.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1776506800_hormuz.png",
-      "pubDate": 1789908717000,
-      "category": "bidesh",
-      "trendingScore": 59,
-      "breaking": false,
-      "clusterId": "cluster-4KS44KSwIOCkpCDgpKog",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "२०औं एसियन गेम्सः दबदबा बढाउँदै चीन, पछ्याउँदै जापान",
-      "description": "४ असोज, काठमाडौं । जापानमा जारी २०औं एसियन गेम्समा चीन ११ स्वर्ण पदक जित्दै शीर्ष स्थानमा छ । यो समाचार तयार पार्दासम्म चीनले ११ स्वर्णसहित ६ रजत र ३ कास्य पदक जितेको छ । आयोजक जापानले चीनलाई पछ्याइरहेको छ । जापानले ६ स्वर्ण, ६ रजत र ७ कास्य पदक जितेको छ । दक्षिण कोरियाले ३ […]",
-      "link": "https://www.onlinekhabar.com/2026/09/2021526/20th-asian-games-china-increasing-its-dominance-followed-by-japan",
-      "pubDate": 1789906920000,
-      "category": "bidesh",
-      "trendingScore": 59,
-      "breaking": false,
-      "clusterId": "cluster-4KWo4KWm4KSUIOCkj-Ck",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "arthasarokar",
@@ -124,7 +123,7 @@
       "link": "https://arthasarokar.com/2026/09/ncell-and-nato-collaborate-to-enable-tourists-to-access-telecommunications-services-in-nepal.html",
       "pubDate": 1789886241000,
       "category": "bidesh",
-      "trendingScore": 59,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSo4KS4IOCksiDg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -137,7 +136,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Ncell-X-NATO-150x150.png",
       "pubDate": 1789882721000,
       "category": "bidesh",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSo4KS4IOCksiDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -150,10 +149,23 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/508c/live/a1284b20-b1b7-11f1-bdcf-d393eb724fa3.jpg",
       "pubDate": 1789880873000,
       "category": "bidesh",
-      "trendingScore": 57,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSG4KSIIOCktSDg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "पत्रकारले प्रश्न गर्नुअघि अनुमति लिनुपर्छ, तपाईँहरू मुखमा माइक ल्याएर घोच्नुहुन्छ : ओली",
+      "description": "पछिल्लो समय पत्रकारले अनुमति नलिई प्रश्न गर्ने प्रवृत्ति बढेको भन्दै उनले अन्तर्राष्ट्रियस्तरमा ‘स्ट्यान्डर्ड पत्रकारिता’मा प्रश्न सोध्ने र समाचार प्रकाशन गर्ने विषयमा सम्बन्धित व्यक्तिसँग समन्वय गर्ने अभ्यास रहेको बताए।...",
+      "link": "https://nagariknews.nagariknetwork.com/politics/journalists-should-seek-permission-before-asking-questions-you-are-just-putting-a-microphone-in-their-mouth-and-poking-them-oli-br-49-41.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1789291186_Kp%20Oli.jpg",
+      "pubDate": 1789897071000,
+      "category": "bidesh",
+      "trendingScore": 51,
+      "breaking": false,
+      "clusterId": "cluster-4KSq4KSkIOCksOCklSDg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "bbcnepali",
@@ -163,7 +175,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d250/live/a3945a10-9f98-11f1-a83c-33ebef033ca4.png",
       "pubDate": 1789794300000,
       "category": "bidesh",
-      "trendingScore": 26,
+      "trendingScore": 22,
       "breaking": false,
       "clusterId": "cluster-4KS2IOCksCDgpK4g4KSo",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"

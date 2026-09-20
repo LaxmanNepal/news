@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T14:54:35.565Z",
+  "generatedAt": "2026-09-20T17:56:33.107Z",
   "category": "manoranjan",
   "articles": [
     {
@@ -9,10 +9,22 @@
       "link": "https://www.setopati.com/art/bollywood/398813",
       "pubDate": 1789910460000,
       "category": "manoranjan",
-      "trendingScore": 68,
+      "trendingScore": 64,
       "breaking": false,
       "clusterId": "cluster-4KSu4KS5IOCksCDgpJwg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "भाका अनौठो, शब्द रोचक : यसरी भाइरल भयो ‘भकारीका धान’",
+      "description": "यो गीत गाउन गला माझिरहनुपर्दैन । स्वरयन्त्रलाई आरोह–अवरोहमा पुर्‍याउनु पर्दैन । स्वर सुरिलो र भाका मधुर हुनु पनि जरुरी छैन ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2021639/how-did-bhakarika-dhan-mera-badure-go-viral",
+      "pubDate": 1789920735000,
+      "category": "manoranjan",
+      "trendingScore": 60,
+      "breaking": false,
+      "clusterId": "cluster-4KStIOCklSDgpIXgpKgg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "onlinekhabar",
@@ -21,35 +33,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021693/exhibition-date-set-for-tunnel-26-jointly-built-by-nepal-bhutan-and-india",
       "pubDate": 1789913843000,
       "category": "manoranjan",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkqiDgpLIg4KSt",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "भाका अनौठो, शब्द रोचक : यसरी भाइरल भयो ‘भकारीका धान’",
-      "description": "यो गीत गाउन गला माझिरहनुपर्दैन । स्वरयन्त्रलाई आरोह–अवरोहमा पुर्‍याउनु पर्दैन । स्वर सुरिलो र भाका मधुर हुनु पनि जरुरी छैन ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2021639/how-did-bhakarika-dhan-mera-badure-go-viral",
-      "pubDate": 1789912155000,
-      "category": "manoranjan",
-      "trendingScore": 61,
-      "breaking": false,
-      "clusterId": "cluster-4KStIOCklSDgpIXgpKgg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "अशोक दर्जीलाई सन्तोष सेनको सुझाव: पुराना गुनासामा अल्झिनु होइन, राम्रो सिर्जना गर",
-      "description": "सामाजिक सञ्जालमा बालकलाकार तथा गायक अशोक दर्जीको आर्थिक अवस्थाबारे चर्चा भइरहेका बेला निर्देशक सन्तोष सेनले उनलाई काममा केन्द्रित हुन सुझाव दिएका छन्।...",
-      "link": "https://nagariknews.nagariknetwork.com/arts/director-santosh-s-advice-to-ashok-don-t-act-like-an-empty-and-innocent-person-89-31.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1789908849_11.jpg",
-      "pubDate": 1789908867000,
-      "category": "manoranjan",
-      "trendingScore": 59,
-      "breaking": false,
-      "clusterId": "cluster-4KSF4KS2IOCklSDgpKbg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     }
   ]
 }
