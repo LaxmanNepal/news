@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T17:56:33.107Z",
+  "generatedAt": "2026-09-20T20:25:24.088Z",
   "category": "prabidhi",
   "articles": [
     {
@@ -8,11 +8,24 @@
       "title": "नेपालमा डिजिटल भुक्तानीको प्रयोग तीव्र गतिमा बढ्दै",
       "description": "मोबाइल वालेट र क्यूआर भुक्तानीले साना व्यापारीसम्म पहुँच बढाएको छ।",
       "link": "https://techmandu.com",
-      "pubDate": 1789926993107,
+      "pubDate": 1789935924088,
       "fromSnapshot": true,
       "category": "prabidhi",
       "trendingScore": 70,
       "breaking": false
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "भोटेकोशी बाढी: तमु धीं नेपालद्वारा ७० लाख ४७ हजार सङ्कलन",
+      "description": "पोखरा । भोटेकोशी बाढीबाट प्रभावित नागरिकको राहत तथा पुनर्स्थापनाका लागि तमु धीं नेपालले सञ्चालन गरेको राहत सङ्कलन अभियानमा रु ७० लाख ४७ हजार बराबरको रकम जम्मा भएको छ । गत भदौ १४ गतेदेखि सहयोग सङ्कलन अभियान",
+      "link": "https://www.ratopati.com/story/593527/bhotekoshi-flood-tamu-dhee-nepal-collects-70-lakh-47-thousand",
+      "image": "https://npcdn.ratopati.com/media/news/rasuwa-badhi_27y4wVkjOC.webp",
+      "pubDate": 1789931011000,
+      "category": "prabidhi",
+      "trendingScore": 68,
+      "breaking": true,
+      "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "onlinekhabar",
@@ -21,7 +34,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2019967/the-flood-in-bhotekoshi-has-subsided-but-the-fear-in-the-minds-of-children-has-not-diminished",
       "pubDate": 1789920717000,
       "category": "prabidhi",
-      "trendingScore": 68,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -34,7 +47,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/08/nuwakot_badi-150x150.jpg",
       "pubDate": 1789891342000,
       "category": "prabidhi",
-      "trendingScore": 65,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -47,7 +60,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2025/09/Dangue.jpg",
       "pubDate": 1789910528000,
       "category": "prabidhi",
-      "trendingScore": 64,
+      "trendingScore": 61,
       "breaking": false,
       "clusterId": "cluster-4KShIOCklyDgpKgg4KSv",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -60,7 +73,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/krishnabhir-sadak-150x150.jpg",
       "pubDate": 1789881095000,
       "category": "prabidhi",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCktyDgpKPgpK0g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -72,7 +85,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021387/trafficker-murder-case-hope-for-justice-revived-after-main-accused-is-arrested-after-22-months",
       "pubDate": 1789920618000,
       "category": "prabidhi",
-      "trendingScore": 60,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KWo4KWoIOCkruCkuSDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -85,7 +98,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a223/live/0ccb5b40-b4da-11f1-bc1f-3f186ca4140c.jpg",
       "pubDate": 1789899503000,
       "category": "prabidhi",
-      "trendingScore": 60,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KSbIOCksCDgpKrgpKIg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -98,23 +111,10 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/05/baideshik-rojgari_bideshi-150x150.jpg",
       "pubDate": 1789887003000,
       "category": "prabidhi",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCknOCklyDgpLAg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "रास्वपाले पार्टीका गतिविधि पुनः सुरु गर्ने, यस्ता छन् अन्य ७ निर्णयहरु",
-      "description": "रास्वपाले भोटेकोशी विपद्का कारण स्थगित गरिएका पार्टीका सम्पूर्ण आधिकारिक गतिविधि पुनः सञ्चालन गर्ने निर्णय गरेको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/politics/rashtriya-swayamsevak-sangh-rss-will-resume-party-activities-here-are-7-other-decisions-br-91-41.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1789886354_rsp%20sachibalaya.jpg",
-      "pubDate": 1789906648000,
-      "category": "prabidhi",
-      "trendingScore": 55,
-      "breaking": false,
-      "clusterId": "cluster-4KSwIOCkuCDgpLXgpKog",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "bbcnepali",
@@ -124,7 +124,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7240/live/45a99c10-b313-11f1-bc1f-3f186ca4140c.jpg",
       "pubDate": 1789870828000,
       "category": "prabidhi",
-      "trendingScore": 50,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSo4KSvIOCkqiDgpKAg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -137,7 +137,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Sajha-Yatayat-150x150.png",
       "pubDate": 1789820277000,
       "category": "prabidhi",
-      "trendingScore": 32,
+      "trendingScore": 29,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCknSDgpK8g4KSk",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -150,7 +150,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0115/live/3cf974a0-b3e5-11f1-b1d1-571ed4d7ff2c.jpg",
       "pubDate": 1789817754000,
       "category": "prabidhi",
-      "trendingScore": 31,
+      "trendingScore": 28,
       "breaking": false,
       "clusterId": "cluster-4KSV4KSrIOCkqiDgpI_g",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -163,7 +163,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c55a/live/aab06fe0-b191-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1789785283000,
       "category": "prabidhi",
-      "trendingScore": 19,
+      "trendingScore": 16,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCksiDgpKYg4KS3",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -180,6 +180,32 @@
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkryDgpKbgpK4g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "इन्ड्राइभको सेफ ड्राइभिङ अनलाइन कोर्स पूरा गर्ने चालकको संख्या १,५०० नाघ्यो",
+      "description": "इन्ड्राइभका अनुसार हालसम्म १,५०० भन्दा बढी चालक पार्टनरले कोर्स पूरा गरी डिजिटल प्रमाणपत्रसमेत प्राप्त गरिसकेका छन्।...",
+      "link": "https://nagariknews.nagariknetwork.com/Corporate/number-of-drivers-completing-indrive-s-safe-driving-online-course-exceeds-1-500-57-24.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1789643319_inDrive%202.jpg",
+      "pubDate": 1789643349000,
+      "category": "prabidhi",
+      "trendingScore": 0,
+      "breaking": false,
+      "clusterId": "cluster-4KSH4KSoIOCkoSDgpLAg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "एक्स्ट्रिम इनर्जी ड्रिंक प्रस्तुत २०२६ : पीएमजिओ साउथ एसिया फाइनल्स काठमाडौंमा हुँदै",
+      "description": "नेपालमा पब्जी मोबाइल गेमिङको ठूलो प्रतियोगिताका रूपमा पीएमजिओ साउथ एसिया फाइनल्स २०२६ आयोजना हुने भएको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/Corporate/extreme-energy-drink-presents-2026-pmgo-south-asia-finals-to-be-held-in-kathmandu-49-50.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1789451119_xtreme.jpg",
+      "pubDate": 1789451130000,
+      "category": "prabidhi",
+      "trendingScore": 0,
+      "breaking": false,
+      "clusterId": "cluster-4KSP4KSVIOCkuCDgpJ8g",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     }
   ]
 }

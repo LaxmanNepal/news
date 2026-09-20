@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-09-20T17:56:33.107Z",
+  "generatedAt": "2026-09-20T20:25:24.088Z",
   "articles": [
+    {
+      "sourceId": "ratopati",
+      "title": "भोटेकोशी बाढी: तमु धीं नेपालद्वारा ७० लाख ४७ हजार सङ्कलन",
+      "description": "पोखरा । भोटेकोशी बाढीबाट प्रभावित नागरिकको राहत तथा पुनर्स्थापनाका लागि तमु धीं नेपालले सञ्चालन गरेको राहत सङ्कलन अभियानमा रु ७० लाख ४७ हजार बराबरको रकम जम्मा भएको छ । गत भदौ १४ गतेदेखि सहयोग सङ्कलन अभियान",
+      "link": "https://www.ratopati.com/story/593527/bhotekoshi-flood-tamu-dhee-nepal-collects-70-lakh-47-thousand",
+      "image": "https://npcdn.ratopati.com/media/news/rasuwa-badhi_27y4wVkjOC.webp",
+      "pubDate": 1789931011000,
+      "category": "prabidhi",
+      "trendingScore": 68,
+      "breaking": true,
+      "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "‘ठुलो बाढी आउँदैछ’ भन्ने सूचना पत्याउन नसक्दा धेरै क्षति",
+      "description": "नुवाकोट । बिहानको खाना खाइसकेपछि विदुर नगरपालिका&ndash;१ ढुङ्गेका छत्र प्याकुरेल नियमित काममा जाने तयारीमा थिए । त्रिशूली नदीको किनारबाट केही दूरीमा घर भएकाले नदीमा ठुलो बाढी आए पनि आफ्नो घरसम्म त्यसको असर पुग्ला भन्ने उनलाई",
+      "link": "https://www.ratopati.com/story/593526/many-damages-caused-by-not-believing-the-information-that-a-big-flood-is-coming",
+      "image": "https://npcdn.ratopati.com/media/news/rasuwa-badhi-uddar_tgVgOqdvtf.webp",
+      "pubDate": 1789930852000,
+      "category": "taja",
+      "trendingScore": 68,
+      "breaking": true,
+      "clusterId": "cluster-4KSgIOCksiDgpKwg4KSi",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
     {
       "sourceId": "karobar",
       "title": "एलपी ग्यास आपूर्ति सहज बन्दैछः साह",
@@ -9,7 +35,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/08/nagendra-shaha-150x150.jpg",
       "pubDate": 1789921633000,
       "category": "rajaniti",
-      "trendingScore": 84,
+      "trendingScore": 81,
       "breaking": true,
       "clusterId": "cluster-4KSP4KSy4KSqIOCklyDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -21,7 +47,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021650/the-prime-minister-should-keep-meeting-with-the-intelligence-agencies-but-he-doesnt",
       "pubDate": 1789920907000,
       "category": "rajaniti",
-      "trendingScore": 68,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksOCkpyDgpKjg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -33,7 +59,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021224/is-public-investment-in-flood-damaged-hydropower-plants-safe",
       "pubDate": 1789920814000,
       "category": "artha",
-      "trendingScore": 68,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpLIg4KSV",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -45,7 +71,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2019967/the-flood-in-bhotekoshi-has-subsided-but-the-fear-in-the-minds-of-children-has-not-diminished",
       "pubDate": 1789920717000,
       "category": "prabidhi",
-      "trendingScore": 68,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -57,7 +83,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021642/what-is-the-future-of-hydroelectric-projects-damaged-by-floods",
       "pubDate": 1789920689000,
       "category": "artha",
-      "trendingScore": 68,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKwg4KSf",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -69,7 +95,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021581/no-need-to-wait-12-years-to-claim-for-insured-missing-in-rasuwa-floods",
       "pubDate": 1789920457000,
       "category": "rajaniti",
-      "trendingScore": 76,
+      "trendingScore": 72,
       "breaking": true,
       "clusterId": "cluster-4KSw4KS4IOCktSDgpKwg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -81,7 +107,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021744/girl-dies-mother-injured-after-truck-hits-motorcycle",
       "pubDate": 1789920383000,
       "category": "artha",
-      "trendingScore": 68,
+      "trendingScore": 64,
       "breaking": true,
       "clusterId": "cluster-4KSfIOCksOCkleCksiDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -93,7 +119,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021530/we-only-have-seeds-left-in-timur",
       "pubDate": 1789920339000,
       "category": "khelkud",
-      "trendingScore": 68,
+      "trendingScore": 64,
       "breaking": true,
       "clusterId": "cluster-4KSfIOCkriDgpLAg4KSu",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -105,7 +131,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021563/industrialist-said-rice-prices-have-decreased",
       "pubDate": 1789920093000,
       "category": "rajaniti",
-      "trendingScore": 68,
+      "trendingScore": 64,
       "breaking": true,
       "clusterId": "cluster-4KSJ4KSmIOCkryDgpJcg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -118,7 +144,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/manaslu-himal.jpg",
       "pubDate": 1789917767000,
       "category": "bidesh",
-      "trendingScore": 83,
+      "trendingScore": 79,
       "breaking": true,
       "clusterId": "cluster-4KS5IOCkiSDgpKrgpLkg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -131,22 +157,9 @@
       "image": "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg",
       "pubDate": 1789916645000,
       "category": "taja",
-      "trendingScore": 66,
+      "trendingScore": 63,
       "breaking": true,
       "clusterId": "cluster-4KS4IOCkoSDgpKjgpJUg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "सुनसरीमा रुखले च्यापिएर महिलाको मृत्यु",
-      "description": "सुनसरी । सुनसरीमा आज रुख ढलेर च्यापिँदा बर्जु गाउँपालिकामा एक महिलाको मृत्यु भएको छ । मृत्यु हुनेमा बर्जु गाउँपालिका&ndash;६ चिमडीकी ३८ वर्षीया सीता यादव रहेको जिल्ला प्रहरी कार्यालय सुनसरीका सूचना अधिकारी चन्द्रबहादुर खड्काले जानकारी दिए । आज",
-      "link": "https://www.ratopati.com/story/593497/woman-dies-after-being-crushed-by-tree-in-sunsari",
-      "image": "https://npcdn.ratopati.com/media/news/sunsari_pvfbl1s23g_vjne62ed14_IiiW3jJSil.jpg",
-      "pubDate": 1789915976000,
-      "category": "taja",
-      "trendingScore": 66,
-      "breaking": true,
-      "clusterId": "cluster-4KS4IOCkqOCkuOCksCDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
@@ -156,23 +169,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021723/woman-dies-after-being-crushed-by-tree-in-sunsari-while-cutting-grass",
       "pubDate": 1789915414000,
       "category": "taja",
-      "trendingScore": 66,
+      "trendingScore": 63,
       "breaking": true,
       "clusterId": "cluster-4KS4IOCkqOCkuOCksCDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "मनास्लुमा हिमपहिरो जाँदा नेपाली गाइडसहित दुई जनाकाे मृत्यु",
-      "description": "काठमाडौँ। नेपालको मनास्लु हिमालमा हिमपहिरोमा परी भारतीय&ndash;जर्मन पर्वतारोही ध्रुव ज्योति गुहा र नेपाली शेर्पा गाइड फुरसेम्बा शेर्पाको मृत्यु भएको छ। शनिबार राति मनास्लुको क्याम्प&ndash;३ मा उनीहरू बसेको टेन्टमाथि ठूलो हिमपहिरो खसेपछि दुवै जना सम्पर्कविहीन भएका थिए।",
-      "link": "https://www.ratopati.com/story/593495/indian-german-climbers-along-with-nepali-guide-die-in-avalanche-on-manaslu",
-      "image": "https://npcdn.ratopati.com/media/news/manasllu_FqkqzTnEMw.webp",
-      "pubDate": 1789914699000,
-      "category": "bidesh",
-      "trendingScore": 74,
-      "breaking": true,
-      "clusterId": "cluster-4KSu4KSoIOCkuCDgpLIg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "rajdhani",
@@ -182,7 +182,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/unnamed.jpg",
       "pubDate": 1789914639000,
       "category": "bidesh",
-      "trendingScore": 82,
+      "trendingScore": 78,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksiDgpKog4KSt",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -194,7 +194,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021715/two-people-buried-in-manaslu-avalanche-die",
       "pubDate": 1789914466000,
       "category": "taja",
-      "trendingScore": 74,
+      "trendingScore": 70,
       "breaking": true,
       "clusterId": "cluster-4KSu4KSoIOCkuCDgpLIg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -206,7 +206,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021636/one-person-killed-five-injured-in-vehicle-accident-in-palpa",
       "pubDate": 1789911127000,
       "category": "taja",
-      "trendingScore": 72,
+      "trendingScore": 69,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksiDgpKog4KSu",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -218,7 +218,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021626/rasuwa-flood-281-bodies-managed-in-gokarneshwor",
       "pubDate": 1789910699000,
       "category": "artha",
-      "trendingScore": 64,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSw4KS4IOCktSDgpKwg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -230,7 +230,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021614/australian-artist-joins-in-raising-15000-for-flood-victims-in-canberra",
       "pubDate": 1789910611000,
       "category": "artha",
-      "trendingScore": 72,
+      "trendingScore": 69,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSh",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -242,7 +242,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021613/australian-governor-general-expresses-solidarity-with-nepali-community-after-rasuwa-floods",
       "pubDate": 1789910377000,
       "category": "taja",
-      "trendingScore": 72,
+      "trendingScore": 69,
       "breaking": true,
       "clusterId": "cluster-4KSw4KS4IOCktSDgpKwg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -255,7 +255,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/news-photo-dhi-4.jpg",
       "pubDate": 1789910306000,
       "category": "bidesh",
-      "trendingScore": 80,
+      "trendingScore": 77,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCkueCksuCkqiDg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -268,36 +268,10 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/818291033_1128844056485125_7817759650353200592_n.jpg",
       "pubDate": 1789909942000,
       "category": "rajaniti",
-      "trendingScore": 72,
+      "trendingScore": 69,
       "breaking": true,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "बाढीमा बेपत्ता भएकाको मृत्यु प्रमाणपत्र दिन कानुनी अड्चन फुकाउन रास्वपाको निर्देशन",
-      "description": "सत्तारूढ राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले रसुवा बाढीमा परेर बेपत्ता भएका व्यक्तिहरूको मृत्यु प्रमाणपत्र दिन कानुनी अड्चन फुकाउन सरकारलाई सुझाव दिएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/politics/rsp-directs-to-remove-legal-hurdles-in-issuing-death-certificates-to-those-missing-in-floods-68-96.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1777800004_rabi.jpg",
-      "pubDate": 1789903731000,
-      "category": "rajaniti",
-      "trendingScore": 70,
-      "breaking": true,
-      "clusterId": "cluster-4KSsIOCkoiDgpK4g4KSs",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "साढे ३ घण्टा ढिला गरी सुरु भयो एमाले सचिवालय बैठक",
-      "description": "नेकपा एमालेको पुनर्गठन प्रतिवेदनबाट अध्यक्ष केपी शर्मा ओलीको राजीनामा र विशेष महाधिवेशनको विषय हटाइएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/politics/uml-secretariat-meeting-begins-3-5-hours-late-28-77.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1789902646_oli2.png",
-      "pubDate": 1789902781000,
-      "category": "rajaniti",
-      "trendingScore": 61,
-      "breaking": true,
-      "clusterId": "cluster-4KS4IOCkoiDgpakg4KSY",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "karobar",
@@ -307,7 +281,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/08/nuwakot_badi-150x150.jpg",
       "pubDate": 1789891342000,
       "category": "prabidhi",
-      "trendingScore": 65,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -319,7 +293,7 @@
       "link": "https://arthasarokar.com/2026/09/bhotekoshi-floods-14-branches-of-11-commercial-banks-swept-away-damages-worth-rs-73-billion.html",
       "pubDate": 1789890531000,
       "category": "artha",
-      "trendingScore": 65,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -332,7 +306,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/krishnabhir-sadak-150x150.jpg",
       "pubDate": 1789881095000,
       "category": "prabidhi",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCktyDgpKPgpK0g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -345,7 +319,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Rasuwa-Bhotekoshi-Trishuli-Flood_NPL-1-150x150.jpeg",
       "pubDate": 1789875907000,
       "category": "artha",
-      "trendingScore": 60,
+      "trendingScore": 56,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpLIg4KSY",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -357,7 +331,7 @@
       "link": "https://arthasarokar.com/2026/09/bhotekoshi-flood-impact-tourist-arrivals-decline-in-mustang.html",
       "pubDate": 1789872438000,
       "category": "artha",
-      "trendingScore": 66,
+      "trendingScore": 63,
       "breaking": true,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -370,7 +344,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d471/live/22551aa0-b359-11f1-b1d1-571ed4d7ff2c.jpg",
       "pubDate": 1789871375000,
       "category": "bidesh",
-      "trendingScore": 58,
+      "trendingScore": 55,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKrgpJsg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"

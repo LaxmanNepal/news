@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T17:56:33.107Z",
+  "generatedAt": "2026-09-20T20:25:24.088Z",
   "category": "bidesh",
   "articles": [
     {
@@ -10,7 +10,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/manaslu-himal.jpg",
       "pubDate": 1789917767000,
       "category": "bidesh",
-      "trendingScore": 83,
+      "trendingScore": 79,
       "breaking": true,
       "clusterId": "cluster-4KS5IOCkiSDgpKrgpLkg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -23,7 +23,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/unnamed.jpg",
       "pubDate": 1789914639000,
       "category": "bidesh",
-      "trendingScore": 82,
+      "trendingScore": 78,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksiDgpKog4KSt",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -36,22 +36,22 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/news-photo-dhi-4.jpg",
       "pubDate": 1789910306000,
       "category": "bidesh",
-      "trendingScore": 80,
+      "trendingScore": 77,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCkueCksuCkqiDg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
     },
     {
       "sourceId": "ratopati",
-      "title": "मनास्लुमा हिमपहिरो जाँदा नेपाली गाइडसहित दुई जनाकाे मृत्यु",
-      "description": "काठमाडौँ। नेपालको मनास्लु हिमालमा हिमपहिरोमा परी भारतीय&ndash;जर्मन पर्वतारोही ध्रुव ज्योति गुहा र नेपाली शेर्पा गाइड फुरसेम्बा शेर्पाको मृत्यु भएको छ। शनिबार राति मनास्लुको क्याम्प&ndash;३ मा उनीहरू बसेको टेन्टमाथि ठूलो हिमपहिरो खसेपछि दुवै जना सम्पर्कविहीन भएका थिए।",
-      "link": "https://www.ratopati.com/story/593495/indian-german-climbers-along-with-nepali-guide-die-in-avalanche-on-manaslu",
-      "image": "https://npcdn.ratopati.com/media/news/manasllu_FqkqzTnEMw.webp",
-      "pubDate": 1789914699000,
+      "title": "सम्पदामैत्री विकास र स्थानीय सहभागितामा जोड",
+      "description": "रुपन्देही । बुद्ध जन्मस्थल लुम्बिनीमा सम्पदामैत्री पूर्वाधार निर्माणसँगै स्थानीय समुदायलाई आयआर्जनसँग जोड्दै अन्तर्राष्ट्रिय आध्यात्मिक केन्द्रका रूपमा विकास गर्नुपर्ने सुझावसहित ती नदिने अन्तर्राष्ट्रिय सम्मेलन सम्पन्न भएको छ । &lsquo;बृहत्तर लुम्बिनी क्षेत्रमा सम्पदा संरक्षण, पर्यटन प्रवर्द्धन र स्थानीयको",
+      "link": "https://www.ratopati.com/story/593528/emphasis-on-heritage-friendly-development-and-local-participation",
+      "image": "https://npcdn.ratopati.com/media/news/lumbini_morning-(10)_FOdLGyfgrb.jpg",
+      "pubDate": 1789931214000,
       "category": "bidesh",
-      "trendingScore": 74,
-      "breaking": true,
-      "clusterId": "cluster-4KSu4KSoIOCkuCDgpLIg",
+      "trendingScore": 60,
+      "breaking": false,
+      "clusterId": "cluster-4KS44KSuIOCkquCkpiDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
@@ -62,7 +62,7 @@
       "image": "https://npcdn.ratopati.com/media/news/trump_Jl3awVUaUl.webp",
       "pubDate": 1789925157000,
       "category": "bidesh",
-      "trendingScore": 61,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KSH4KSwIOCkqOCklSDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -74,7 +74,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021537/who-are-the-houthi-rebels-attacking-saudi-arabia",
       "pubDate": 1789920535000,
       "category": "bidesh",
-      "trendingScore": 60,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkieCkpiDgpIXg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -86,7 +86,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021742/us-has-two-options-destroy-iran-or-make-a-deal-trump",
       "pubDate": 1789919705000,
       "category": "bidesh",
-      "trendingScore": 59,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -98,7 +98,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021727/iranian-military-claims-us-is-preparing-to-attack-iran-again",
       "pubDate": 1789915999000,
       "category": "bidesh",
-      "trendingScore": 58,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSH4KSwIOCkqCDgpLgg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -111,7 +111,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d471/live/22551aa0-b359-11f1-b1d1-571ed4d7ff2c.jpg",
       "pubDate": 1789871375000,
       "category": "bidesh",
-      "trendingScore": 58,
+      "trendingScore": 55,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKrgpJsg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -123,7 +123,7 @@
       "link": "https://arthasarokar.com/2026/09/ncell-and-nato-collaborate-to-enable-tourists-to-access-telecommunications-services-in-nepal.html",
       "pubDate": 1789886241000,
       "category": "bidesh",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSo4KS4IOCksiDg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -136,7 +136,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Ncell-X-NATO-150x150.png",
       "pubDate": 1789882721000,
       "category": "bidesh",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSo4KS4IOCksiDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -149,23 +149,10 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/508c/live/a1284b20-b1b7-11f1-bdcf-d393eb724fa3.jpg",
       "pubDate": 1789880873000,
       "category": "bidesh",
-      "trendingScore": 53,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSG4KSIIOCktSDg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "पत्रकारले प्रश्न गर्नुअघि अनुमति लिनुपर्छ, तपाईँहरू मुखमा माइक ल्याएर घोच्नुहुन्छ : ओली",
-      "description": "पछिल्लो समय पत्रकारले अनुमति नलिई प्रश्न गर्ने प्रवृत्ति बढेको भन्दै उनले अन्तर्राष्ट्रियस्तरमा ‘स्ट्यान्डर्ड पत्रकारिता’मा प्रश्न सोध्ने र समाचार प्रकाशन गर्ने विषयमा सम्बन्धित व्यक्तिसँग समन्वय गर्ने अभ्यास रहेको बताए।...",
-      "link": "https://nagariknews.nagariknetwork.com/politics/journalists-should-seek-permission-before-asking-questions-you-are-just-putting-a-microphone-in-their-mouth-and-poking-them-oli-br-49-41.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1789291186_Kp%20Oli.jpg",
-      "pubDate": 1789897071000,
-      "category": "bidesh",
-      "trendingScore": 51,
-      "breaking": false,
-      "clusterId": "cluster-4KSq4KSkIOCksOCklSDg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "bbcnepali",
@@ -175,7 +162,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d250/live/a3945a10-9f98-11f1-a83c-33ebef033ca4.png",
       "pubDate": 1789794300000,
       "category": "bidesh",
-      "trendingScore": 22,
+      "trendingScore": 19,
       "breaking": false,
       "clusterId": "cluster-4KS2IOCksCDgpK4g4KSo",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
