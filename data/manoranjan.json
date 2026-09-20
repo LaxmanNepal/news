@@ -1,42 +1,30 @@
 {
-  "generatedAt": "2026-09-20T06:23:34.686Z",
+  "generatedAt": "2026-09-20T11:41:45.525Z",
   "category": "manoranjan",
   "articles": [
     {
-      "sourceId": "onlinekhabar",
-      "title": "यसपालीको ‘पलेँटी’ मा गुञ्जँदै छन् नीर शाहका गीत",
-      "description": "काठमाडौं । राष्ट्रिय विपद्का कारण स्थगित भएको अगस्ट महिनाको ‘पलेँटी’ यही सेप्टेम्बर महिनाको सप्ताहन्तमा हुने भएको छ । हरेक अंग्रेजी महिनाको अन्तिम शुक्रवार नेपालयको ‘आर’शालामा आयोजना हुँदै आएको श्रृंखलामा गत महिना नै गीतकार तथा अभिनेता नीर शाहलाई प्रस्तुत गरिने जनाइएको थियो । भोटेकोशी बाढीबाट उत्पन्न शोकका कारण स्थगित सोही कार्यक्रम आउँदो हप्ता हुने भएको हो । कार्यक्रममा […]",
-      "link": "https://www.onlinekhabar.com/2026/09/2021144/neer-shahs-songs-are-resonating-in-this-years-palenti",
-      "pubDate": 1789882583000,
-      "category": "manoranjan",
-      "trendingScore": 69,
-      "breaking": true,
-      "clusterId": "cluster-4KSv4KS44KSqIOCksiDg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
       "sourceId": "nagarik",
-      "title": "एकैसाथ नेपाल र भुटानमा ‘टनेल २६’",
-      "description": "निर्माण टिमले चलचित्रको आधिकारिक पोस्टर सार्वजनिक गर्दै प्रदर्शन मिति घोषणा गरेको हो।",
-      "link": "https://nagariknews.nagariknetwork.com/arts/tunnel-26-to-be-opened-in-nepal-and-bhutan-on-october-23-29-25.html",
-      "image": "https://images.nagariknewscdn.com/2024/third-party/1789884308_dd%20khu%20dd%20khu%2098.jpg",
-      "pubDate": 1789883784000,
+      "title": "आलियाकी आमा ६९ वर्षीया सोनीको अभियन चर्चा",
+      "description": "हरिश व्यासको निर्देशनमा बनेको पारिवारिक ड्रामा तथा कमेडी चलचित्र ‘ओम का हरि’ सेप्टेम्बर १८ मा हलमा रिलिज भएको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/arts/alia-bhatt-s-mother-ready-for-every-role-even-at-the-age-of-69-29-99.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1789901303_Aaliya%20Bhatta.png",
+      "pubDate": 1789899001000,
       "category": "manoranjan",
-      "trendingScore": 61,
+      "trendingScore": 60,
       "breaking": false,
-      "clusterId": "cluster-4KSP4KSVIOCkuCDgpKUg",
+      "clusterId": "cluster-4KSG4KSyIOCkryDgpJUg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
-      "title": "च्याब्रुङको तालमा धड्किँदै लिम्बु पहिचान (तस्वीरहरू)",
-      "description": "आधुनिक संगीत र डिजिटल प्रविधिले मनोरञ्जनको स्वरूप बदलिरहेका बेला पनि च्याब्रुङको धुन पूर्वी नेपालका लिम्बु बस्तीमा सुनिन छाडेको छैन ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2021052/limbu-identity-beating-in-the-chhaybrung-lake-photos",
-      "pubDate": 1789876154000,
+      "title": "‘कमेडी च्याम्पियन’ को चौथो सिजन प्रसारण सुरु, जजमा थपिए बुद्धि तामाङ",
+      "description": "काठमाडौं । टिभी रियालिटी शो ‘कमेडी च्याम्पियन’ को चौथो सिजन शनिबारदेखि प्रसारण सुरु भएको छ । यसपटक शोमा चार जना जज छन् । अभिनेता बुद्धि तामाङ नयाँ जजका रूपमा शोमा जोडिएका छन् । अन्य जजमा शोका निर्देशक विशाल भण्डारी, अभिनेत्री ऋचा शर्मा र अभिनेता जितु नेपाल छन् । शनिबार राति ग्रान्ड शोको प्रिमियर गरिएको थियो, […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2021279/comedy-champion-season-4-begins-buddhi-tamang-joins-the-judging-panel",
+      "pubDate": 1789891607000,
       "category": "manoranjan",
-      "trendingScore": 59,
+      "trendingScore": 57,
       "breaking": false,
-      "clusterId": "cluster-4KSaIOCkryDgpKwg4KSw",
+      "clusterId": "cluster-4KSV4KSuIOCkoSDgpJog",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     }
   ]
