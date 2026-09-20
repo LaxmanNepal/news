@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2026-09-20T06:23:34.686Z",
+  "category": "manoranjan",
+  "articles": [
+    {
+      "sourceId": "onlinekhabar",
+      "title": "यसपालीको ‘पलेँटी’ मा गुञ्जँदै छन् नीर शाहका गीत",
+      "description": "काठमाडौं । राष्ट्रिय विपद्का कारण स्थगित भएको अगस्ट महिनाको ‘पलेँटी’ यही सेप्टेम्बर महिनाको सप्ताहन्तमा हुने भएको छ । हरेक अंग्रेजी महिनाको अन्तिम शुक्रवार नेपालयको ‘आर’शालामा आयोजना हुँदै आएको श्रृंखलामा गत महिना नै गीतकार तथा अभिनेता नीर शाहलाई प्रस्तुत गरिने जनाइएको थियो । भोटेकोशी बाढीबाट उत्पन्न शोकका कारण स्थगित सोही कार्यक्रम आउँदो हप्ता हुने भएको हो । कार्यक्रममा […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2021144/neer-shahs-songs-are-resonating-in-this-years-palenti",
+      "pubDate": 1789882583000,
+      "category": "manoranjan",
+      "trendingScore": 69,
+      "breaking": true,
+      "clusterId": "cluster-4KSv4KS44KSqIOCksiDg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "एकैसाथ नेपाल र भुटानमा ‘टनेल २६’",
+      "description": "निर्माण टिमले चलचित्रको आधिकारिक पोस्टर सार्वजनिक गर्दै प्रदर्शन मिति घोषणा गरेको हो।",
+      "link": "https://nagariknews.nagariknetwork.com/arts/tunnel-26-to-be-opened-in-nepal-and-bhutan-on-october-23-29-25.html",
+      "image": "https://images.nagariknewscdn.com/2024/third-party/1789884308_dd%20khu%20dd%20khu%2098.jpg",
+      "pubDate": 1789883784000,
+      "category": "manoranjan",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KSP4KSVIOCkuCDgpKUg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "च्याब्रुङको तालमा धड्किँदै लिम्बु पहिचान (तस्वीरहरू)",
+      "description": "आधुनिक संगीत र डिजिटल प्रविधिले मनोरञ्जनको स्वरूप बदलिरहेका बेला पनि च्याब्रुङको धुन पूर्वी नेपालका लिम्बु बस्तीमा सुनिन छाडेको छैन ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2021052/limbu-identity-beating-in-the-chhaybrung-lake-photos",
+      "pubDate": 1789876154000,
+      "category": "manoranjan",
+      "trendingScore": 59,
+      "breaking": false,
+      "clusterId": "cluster-4KSaIOCkryDgpKwg4KSw",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    }
+  ]
+}

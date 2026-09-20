@@ -1,4 +1,161 @@
 {
-  "generatedAt": null,
-  "sources": []
+  "generatedAt": "2026-09-20T06:23:34.686Z",
+  "sources": [
+    {
+      "id": "onlinekhabar",
+      "name": "अनलाइनखबर",
+      "site": "https://www.onlinekhabar.com",
+      "feed": "https://www.onlinekhabar.com/feed",
+      "category": "taja",
+      "tag": "OK",
+      "ok": true,
+      "count": 40
+    },
+    {
+      "id": "ratopati",
+      "name": "रातोपाटी",
+      "site": "https://www.ratopati.com",
+      "feed": "https://www.ratopati.com/feed",
+      "category": "taja",
+      "tag": "RP",
+      "ok": true,
+      "count": 30
+    },
+    {
+      "id": "nagarik",
+      "name": "नागरिक दैनिक",
+      "site": "https://nagariknews.nagariknetwork.com",
+      "feed": "https://nagariknews.nagariknetwork.com/feed",
+      "category": "taja",
+      "tag": "NG",
+      "ok": true,
+      "count": 20
+    },
+    {
+      "id": "ujyaalo",
+      "name": "उज्यालो",
+      "site": "https://ujyaaloonline.com",
+      "feed": "https://ujyaaloonline.com/feed",
+      "category": "taja",
+      "tag": "UJ",
+      "ok": true,
+      "count": 5
+    },
+    {
+      "id": "setopati",
+      "name": "सेतोपाटी",
+      "site": "https://www.setopati.com",
+      "feed": "https://www.setopati.com/feed",
+      "category": "rajaniti",
+      "tag": "SP",
+      "ok": true,
+      "count": 5
+    },
+    {
+      "id": "ekantipur",
+      "name": "कान्तिपुर",
+      "site": "https://ekantipur.com",
+      "feed": "https://ekantipur.com/rss",
+      "category": "rajaniti",
+      "tag": "KT",
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 404"
+    },
+    {
+      "id": "gorkhapatra",
+      "name": "गोरखापत्र",
+      "site": "https://gorkhapatraonline.com",
+      "feed": "https://gorkhapatraonline.com/feed",
+      "category": "rajaniti",
+      "tag": "GP",
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 404"
+    },
+    {
+      "id": "arthasarokar",
+      "name": "अर्थ सरोकार",
+      "site": "https://arthasarokar.com",
+      "feed": "https://arthasarokar.com/feed",
+      "category": "artha",
+      "tag": "AS",
+      "ok": true,
+      "count": 20
+    },
+    {
+      "id": "karobar",
+      "name": "कारोबार दैनिक",
+      "site": "https://www.karobardaily.com",
+      "feed": "https://www.karobardaily.com/feed",
+      "category": "artha",
+      "tag": "KB",
+      "ok": true,
+      "count": 40
+    },
+    {
+      "id": "kantipur-sports",
+      "name": "कान्तिपुर खेलकुद",
+      "site": "https://ekantipur.com/sports",
+      "feed": "https://ekantipur.com/sports/rss",
+      "category": "khelkud",
+      "tag": "KS",
+      "ok": false,
+      "count": 0,
+      "error": "No articles parsed"
+    },
+    {
+      "id": "hamrakura",
+      "name": "हाम्राकुरा",
+      "site": "https://hamrakura.com",
+      "feed": "https://hamrakura.com/feed",
+      "category": "manoranjan",
+      "tag": "HK",
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 404"
+    },
+    {
+      "id": "news24",
+      "name": "न्यूज२४ टेलिभिजन",
+      "site": "https://news24nepal.tv",
+      "feed": "https://news24nepal.tv/feed/",
+      "category": "manoranjan",
+      "tag": "N24",
+      "ok": false,
+      "count": 0,
+      "error": "No articles parsed"
+    },
+    {
+      "id": "techmandu",
+      "name": "टेकमण्डु",
+      "site": "https://techmandu.com",
+      "feed": "https://techmandu.com/feed/",
+      "category": "prabidhi",
+      "tag": "TM",
+      "ok": false,
+      "count": 0,
+      "error": "No articles parsed"
+    },
+    {
+      "id": "bbcnepali",
+      "name": "बीबीसी नेपाली",
+      "site": "https://www.bbc.com/nepali",
+      "feed": "https://feeds.bbci.co.uk/nepali/rss.xml",
+      "category": "bidesh",
+      "tag": "BBC",
+      "ok": true,
+      "count": 20
+    },
+    {
+      "id": "rajdhani",
+      "name": "राजधानी दैनिक",
+      "site": "https://rajdhanidaily.com",
+      "feed": "https://rajdhanidaily.com/feed/",
+      "category": "bidesh",
+      "tag": "RD",
+      "ok": true,
+      "count": 10
+    }
+  ]
 }
