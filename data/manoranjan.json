@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T22:36:09.484Z",
+  "generatedAt": "2026-09-21T00:29:03.479Z",
   "category": "manoranjan",
   "articles": [
     {
@@ -9,7 +9,7 @@
       "link": "https://www.setopati.com/art/bollywood/398813",
       "pubDate": 1789910460000,
       "category": "manoranjan",
-      "trendingScore": 58,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KSu4KS5IOCksCDgpJwg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -21,7 +21,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021639/how-did-bhakarika-dhan-mera-badure-go-viral",
       "pubDate": 1789920735000,
       "category": "manoranjan",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KStIOCklSDgpIXgpKgg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -33,75 +33,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021693/exhibition-date-set-for-tunnel-26-jointly-built-by-nepal-bhutan-and-india",
       "pubDate": 1789913843000,
       "category": "manoranjan",
-      "trendingScore": 51,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkqiDgpLIg4KSt",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "अशोक दर्जीलाई सन्तोष सेनको सुझाव: पुराना गुनासामा अल्झिनु होइन, राम्रो सिर्जना गर",
-      "description": "सामाजिक सञ्जालमा बालकलाकार तथा गायक अशोक दर्जीको आर्थिक अवस्थाबारे चर्चा भइरहेका बेला निर्देशक सन्तोष सेनले उनलाई काममा केन्द्रित हुन सुझाव दिएका छन्।...",
-      "link": "https://nagariknews.nagariknetwork.com/arts/director-santosh-s-advice-to-ashok-don-t-act-like-an-empty-and-innocent-person-89-31.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1789908849_11.jpg",
-      "pubDate": 1789908867000,
-      "category": "manoranjan",
-      "trendingScore": 49,
-      "breaking": false,
-      "clusterId": "cluster-4KSF4KS2IOCklSDgpKbg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "आलियाकी आमा ६९ वर्षीया सोनीको अभियन चर्चा",
-      "description": "हरिश व्यासको निर्देशनमा बनेको पारिवारिक ड्रामा तथा कमेडी चलचित्र ‘ओम का हरि’ सेप्टेम्बर १८ मा हलमा रिलिज भएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/arts/alia-bhatt-s-mother-ready-for-every-role-even-at-the-age-of-69-29-99.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1789901303_Aaliya%20Bhatta.png",
-      "pubDate": 1789899001000,
-      "category": "manoranjan",
-      "trendingScore": 46,
-      "breaking": false,
-      "clusterId": "cluster-4KSG4KSyIOCkryDgpJUg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "उमेर र तौललाई लिएर ट्रोल भएपछि सलमानको कडा जवाफ, कट्रिनाको पनि बचाउ गरे",
-      "description": "‘बिग बोस २०’ का होस्ट बलिउड अभिनेता सलमान खानले आफ्नो उमेर, रूप, कपाल र तौललाई लिएर सामाजिक सञ्जालमा भइरहेका टिप्पणीको जवाफ दिएका छन्।...",
-      "link": "https://nagariknews.nagariknetwork.com/arts/salman-s-strong-reply-after-being-trolled-for-his-age-and-weight-he-also-defended-katrina-65-24.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1789887201_Salman%20(1).jpg",
-      "pubDate": 1789887330000,
-      "category": "manoranjan",
-      "trendingScore": 42,
-      "breaking": false,
-      "clusterId": "cluster-4KSJ4KSuIOCksCDgpLAg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "एकैसाथ नेपाल र भुटानमा ‘टनेल २६’",
-      "description": "निर्माण टिमले चलचित्रको आधिकारिक पोस्टर सार्वजनिक गर्दै प्रदर्शन मिति घोषणा गरेको हो।",
-      "link": "https://nagariknews.nagariknetwork.com/arts/tunnel-26-to-be-opened-in-nepal-and-bhutan-on-october-23-29-25.html",
-      "image": "https://images.nagariknewscdn.com/2024/third-party/1789884308_dd%20khu%20dd%20khu%2098.jpg",
-      "pubDate": 1789883784000,
-      "category": "manoranjan",
-      "trendingScore": 40,
-      "breaking": false,
-      "clusterId": "cluster-4KSP4KSVIOCkuCDgpKUg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "दुई छोरीकी आमा बनिन् दीपिका पादुकोण",
-      "description": "बलिउड अभिनेत्री दीपिका पादुकोण दोस्रो पटक आमा बनेकी छन्।",
-      "link": "https://nagariknews.nagariknetwork.com/arts/deepika-padukone-becomes-mother-of-two-daughters-32-85.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1789883311_3.jpg",
-      "pubDate": 1789883436000,
-      "category": "manoranjan",
-      "trendingScore": 40,
-      "breaking": false,
-      "clusterId": "cluster-4KSmIOCkiCDgpJsg4KSw",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     }
   ]
 }

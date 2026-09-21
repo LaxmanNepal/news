@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T22:36:09.484Z",
+  "generatedAt": "2026-09-21T00:29:03.479Z",
   "category": "bidesh",
   "articles": [
     {
@@ -10,7 +10,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/manaslu-himal.jpg",
       "pubDate": 1789917767000,
       "category": "bidesh",
-      "trendingScore": 77,
+      "trendingScore": 74,
       "breaking": true,
       "clusterId": "cluster-4KS5IOCkiSDgpKrgpLkg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -23,23 +23,23 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/unnamed.jpg",
       "pubDate": 1789914639000,
       "category": "bidesh",
-      "trendingScore": 76,
+      "trendingScore": 73,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksiDgpKog4KSt",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
     },
     {
-      "sourceId": "rajdhani",
-      "title": "कोहलपुरबाट कैलाली आउँदै गरेको माइक्रोमा गुडिरहेकै अवस्थामा आगलागी",
-      "description": "धनगढी । कोहलपुरबाट कैलालीतर्फ आउँदै गरेको माइक्रोबसमा बर्दियामा गुडिरहेको अवस्थामा अचानक आगलागी भएको छ । महेन्द्र राजमार्गअन्तर्गत आइतबार बर्दियाको बारबर्दिया नगरपालिका–७, रम्मापुरस्थित ५ नम्बर चोक नजिक माइक्रोमा आगलागी भएको हो । प्रहरीका अनुसार सुपप्र ०१–००२ ज ४३३ नम्बरको माइक्रोबस राजमार्गमा गुडिरहेको अवस्थामा आगो लागेको थियो । आगलागीपछि माइक्रोमा सवार चालक र सहचालकले तत्काल बाहिर निस्किएर […] The post कोहलपुरबाट कैलाली आउँदै गरेको माइक्रोमा गुडिरहेकै अवस्थामा आगलागी appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDaily.com - Online Nepali News Portal-Latest Nepali Online News portal of Nepali Polities, economics, news, top stories, national, international, pol",
-      "link": "https://rajdhanidaily.com/id/148626",
-      "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/news-photo-dhi-4.jpg",
-      "pubDate": 1789910306000,
+      "sourceId": "nagarik",
+      "title": "हिउँपहिरोले टेन्ट पुर्दा मनास्लुमा दुई जनाको मृत्यू",
+      "description": "हिउँपहिरोमा पुरिएर मनास्लु हिमालमा दुई जनाको मृत्यु भएको छ। भारतीय मूलका जर्मनीका नागरिक र उनका सहयोगी नेपाली नागरिकको गएराति हिउँ पहिरोमा पुरिएर मृत्यु भएको हो।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/two-people-die-in-avalanche-in-manaslu-29-92.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1757089035_Manaslu-basecamp-2.jpg",
+      "pubDate": 1789915751000,
       "category": "bidesh",
-      "trendingScore": 74,
+      "trendingScore": 66,
       "breaking": true,
-      "clusterId": "cluster-4KSVIOCkueCksuCkqiDg",
-      "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
+      "clusterId": "cluster-4KS5IOCkiSDgpKrgpLkg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "ratopati",
@@ -49,7 +49,7 @@
       "image": "https://npcdn.ratopati.com/media/news/lumbini_morning-(10)_FOdLGyfgrb.jpg",
       "pubDate": 1789931214000,
       "category": "bidesh",
-      "trendingScore": 57,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KS44KSuIOCkquCkpiDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -62,7 +62,7 @@
       "image": "https://npcdn.ratopati.com/media/news/trump_Jl3awVUaUl.webp",
       "pubDate": 1789925157000,
       "category": "bidesh",
-      "trendingScore": 55,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSH4KSwIOCkqOCklSDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -74,7 +74,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021537/who-are-the-houthi-rebels-attacking-saudi-arabia",
       "pubDate": 1789920535000,
       "category": "bidesh",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkieCkpiDgpIXg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -86,7 +86,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021742/us-has-two-options-destroy-iran-or-make-a-deal-trump",
       "pubDate": 1789919705000,
       "category": "bidesh",
-      "trendingScore": 53,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -98,7 +98,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021727/iranian-military-claims-us-is-preparing-to-attack-iran-again",
       "pubDate": 1789915999000,
       "category": "bidesh",
-      "trendingScore": 52,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSH4KSwIOCkqCDgpLgg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -111,10 +111,23 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d471/live/22551aa0-b359-11f1-b1d1-571ed4d7ff2c.jpg",
       "pubDate": 1789871375000,
       "category": "bidesh",
-      "trendingScore": 52,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkoiDgpKrgpJsg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "नागरिकका लेखक डा. घिमिरेलाई बाबियाखर्क साकोसले गर्‍यो अभिनन्दन",
+      "description": "नागरिक न्यूजका लेखक तथा नेपाल संस्कृत विश्वविद्यालयका उपप्राध्यापक डा. उमेशप्रसाद घिमिरेलाई बाबियाखर्क बचत तथा ऋण सहकारी संस्था (साकोस) ले अभिनन्दन गरेको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/babiyakharka-sakos-felicitates-dr-ghimire-author-of-nagarik-82-76.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1789912801_Umesh_Ghimire.jpg",
+      "pubDate": 1789912809000,
+      "category": "bidesh",
+      "trendingScore": 48,
+      "breaking": false,
+      "clusterId": "cluster-4KSoIOCkl-CksCDgpJXg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "arthasarokar",
@@ -123,7 +136,7 @@
       "link": "https://arthasarokar.com/2026/09/ncell-and-nato-collaborate-to-enable-tourists-to-access-telecommunications-services-in-nepal.html",
       "pubDate": 1789886241000,
       "category": "bidesh",
-      "trendingScore": 49,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSo4KS4IOCksiDg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -136,7 +149,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Ncell-X-NATO-150x150.png",
       "pubDate": 1789882721000,
       "category": "bidesh",
-      "trendingScore": 48,
+      "trendingScore": 46,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSo4KS4IOCksiDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -149,22 +162,9 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/508c/live/a1284b20-b1b7-11f1-bdcf-d393eb724fa3.jpg",
       "pubDate": 1789880873000,
       "category": "bidesh",
-      "trendingScore": 47,
+      "trendingScore": 45,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSG4KSIIOCktSDg",
-      "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
-    },
-    {
-      "sourceId": "bbcnepali",
-      "title": "श्रीमान्‌का १५ श्रीमतीमध्ये एक थिइन्, तर त्यो सम्बन्धबाट निस्केर उनले एउटा साम्राज्य खडा गरिन्",
-      "description": "मामा निके नाइजिरियाको सबैभन्दा ठूलो आर्ट ग्यालरीकी सञ्चालक हुन्। तर सुरुवाती दिनमा उनले चरम गरिबीदेखि बालविवाहसम्म झेलिन्।",
-      "link": "https://www.bbc.com/nepali/articles/cew9lvxl2wyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d250/live/a3945a10-9f98-11f1-a83c-33ebef033ca4.png",
-      "pubDate": 1789794300000,
-      "category": "bidesh",
-      "trendingScore": 16,
-      "breaking": false,
-      "clusterId": "cluster-4KS2IOCksCDgpK4g4KSo",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
     },
     {
@@ -178,6 +178,19 @@
       "trendingScore": 16,
       "breaking": false,
       "clusterId": "cluster-4KSG4KScIOCkteCkqCDg",
+      "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
+    },
+    {
+      "sourceId": "bbcnepali",
+      "title": "श्रीमान्‌का १५ श्रीमतीमध्ये एक थिइन्, तर त्यो सम्बन्धबाट निस्केर उनले एउटा साम्राज्य खडा गरिन्",
+      "description": "मामा निके नाइजिरियाको सबैभन्दा ठूलो आर्ट ग्यालरीकी सञ्चालक हुन्। तर सुरुवाती दिनमा उनले चरम गरिबीदेखि बालविवाहसम्म झेलिन्।",
+      "link": "https://www.bbc.com/nepali/articles/cew9lvxl2wyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d250/live/a3945a10-9f98-11f1-a83c-33ebef033ca4.png",
+      "pubDate": 1789794300000,
+      "category": "bidesh",
+      "trendingScore": 14,
+      "breaking": false,
+      "clusterId": "cluster-4KS2IOCksCDgpK4g4KSo",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
     },
     {

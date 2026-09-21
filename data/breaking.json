@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T22:36:09.484Z",
+  "generatedAt": "2026-09-21T00:29:03.479Z",
   "articles": [
     {
       "sourceId": "ratopati",
@@ -9,7 +9,7 @@
       "image": "https://npcdn.ratopati.com/media/news/rasuwa-badhi_27y4wVkjOC.webp",
       "pubDate": 1789931011000,
       "category": "prabidhi",
-      "trendingScore": 65,
+      "trendingScore": 63,
       "breaking": true,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -22,7 +22,7 @@
       "image": "https://npcdn.ratopati.com/media/news/rasuwa-badhi-uddar_tgVgOqdvtf.webp",
       "pubDate": 1789930852000,
       "category": "taja",
-      "trendingScore": 65,
+      "trendingScore": 63,
       "breaking": true,
       "clusterId": "cluster-4KSgIOCksiDgpKwg4KSi",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -35,7 +35,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/08/nagendra-shaha-150x150.jpg",
       "pubDate": 1789921633000,
       "category": "rajaniti",
-      "trendingScore": 78,
+      "trendingScore": 76,
       "breaking": true,
       "clusterId": "cluster-4KSP4KSy4KSqIOCklyDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -47,7 +47,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021650/the-prime-minister-should-keep-meeting-with-the-intelligence-agencies-but-he-doesnt",
       "pubDate": 1789920907000,
       "category": "rajaniti",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksOCkpyDgpKjg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -59,7 +59,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021224/is-public-investment-in-flood-damaged-hydropower-plants-safe",
       "pubDate": 1789920814000,
       "category": "artha",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpLIg4KSV",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -71,7 +71,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2019967/the-flood-in-bhotekoshi-has-subsided-but-the-fear-in-the-minds-of-children-has-not-diminished",
       "pubDate": 1789920717000,
       "category": "prabidhi",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -83,7 +83,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021642/what-is-the-future-of-hydroelectric-projects-damaged-by-floods",
       "pubDate": 1789920689000,
       "category": "artha",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKwg4KSf",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -95,7 +95,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021581/no-need-to-wait-12-years-to-claim-for-insured-missing-in-rasuwa-floods",
       "pubDate": 1789920457000,
       "category": "rajaniti",
-      "trendingScore": 70,
+      "trendingScore": 67,
       "breaking": true,
       "clusterId": "cluster-4KSw4KS4IOCktSDgpKwg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -107,7 +107,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021744/girl-dies-mother-injured-after-truck-hits-motorcycle",
       "pubDate": 1789920383000,
       "category": "artha",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KSfIOCksOCkleCksiDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -119,7 +119,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021530/we-only-have-seeds-left-in-timur",
       "pubDate": 1789920339000,
       "category": "khelkud",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KSfIOCkriDgpLAg4KSu",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -131,7 +131,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021563/industrialist-said-rice-prices-have-decreased",
       "pubDate": 1789920093000,
       "category": "rajaniti",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KSJ4KSmIOCkryDgpJcg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -144,10 +144,36 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/manaslu-himal.jpg",
       "pubDate": 1789917767000,
       "category": "bidesh",
-      "trendingScore": 77,
+      "trendingScore": 74,
       "breaking": true,
       "clusterId": "cluster-4KS5IOCkiSDgpKrgpLkg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "हिउँपहिरोले टेन्ट पुर्दा मनास्लुमा दुई जनाको मृत्यू",
+      "description": "हिउँपहिरोमा पुरिएर मनास्लु हिमालमा दुई जनाको मृत्यु भएको छ। भारतीय मूलका जर्मनीका नागरिक र उनका सहयोगी नेपाली नागरिकको गएराति हिउँ पहिरोमा पुरिएर मृत्यु भएको हो।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/two-people-die-in-avalanche-in-manaslu-29-92.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1757089035_Manaslu-basecamp-2.jpg",
+      "pubDate": 1789915751000,
+      "category": "bidesh",
+      "trendingScore": 66,
+      "breaking": true,
+      "clusterId": "cluster-4KS5IOCkiSDgpKrgpLkg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "सुनसरीमा घाँस काट्ने क्रममा रुख ढल्दा च्यापिएर महिलाको मृ*त्यु",
+      "description": "सुनसरीको बर्जु गाउँपालिकामा हावाहुरीसँगै ढलेको रुखले च्यापेर एक महिलाको मृत्यु भएको छ। मृत्यु हुनेमा बर्जु गाउँपालिका–६, चिमडीकी ३८ वर्षीया सीता यादव रहेकी छन्।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/woman-dies-after-being-crushed-by-falling-tree-while-mowing-grass-in-sunsari-94-56.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1742293886_nagarika.jpg",
+      "pubDate": 1789915628000,
+      "category": "taja",
+      "trendingScore": 57,
+      "breaking": true,
+      "clusterId": "cluster-4KS4IOCkqOCkuOCksCDg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -156,10 +182,23 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021723/woman-dies-after-being-crushed-by-tree-in-sunsari-while-cutting-grass",
       "pubDate": 1789915414000,
       "category": "taja",
-      "trendingScore": 60,
+      "trendingScore": 57,
       "breaking": true,
       "clusterId": "cluster-4KS4IOCkqOCkuOCksCDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "बाढीले बगाएको पुवाखोलामा नयाँ बेलिब्रिज निर्माण",
+      "description": "इलाम सदरमुकामदेखि झापाको बिर्तामोड जोड्ने छोटो दुरीको मेची करिडोर अन्तर्गत पुवाखोलामा नयाँ बेलिब्रिज जडान सम्पन्न भएको छ। पुल निर्माणसँगै आइतबार देखि उक्त खण्डमा यातायात सेवा औपचारिक रूपमा सञ्चालनमा आएको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/economy/construction-of-a-new-bailey-bridge-over-the-flooded-puwa-khola-river-br-38-47.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1789915167_puwa_khola.jpg",
+      "pubDate": 1789915305000,
+      "category": "artha",
+      "trendingScore": 57,
+      "breaking": true,
+      "clusterId": "cluster-4KSsIOCkoiDgpLIg4KSs",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "rajdhani",
@@ -169,7 +208,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/unnamed.jpg",
       "pubDate": 1789914639000,
       "category": "bidesh",
-      "trendingScore": 76,
+      "trendingScore": 73,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksiDgpKog4KSt",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -181,10 +220,23 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021715/two-people-buried-in-manaslu-avalanche-die",
       "pubDate": 1789914466000,
       "category": "taja",
-      "trendingScore": 67,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KSu4KSoIOCkuCDgpLIg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "भोटेकोशी बाढीः २८१ श’व गोकर्णेश्वरमा व्यवस्थापन ७ मिनेट अघि",
+      "description": "गत भदौ १० गते रसुवास्थित भोटेकोशी नदीमा आएको विनाशकारी बाढीमा परी ज्यान गुमाएका तर सनाखत हुन नसकेका २८१ जनाको शवलाई भविष्यमा पहिचान खुले परिवारलाई बुझाउन मिल्ने गरी वैज्ञानिक रूपमा व्यवस्थापन गरिएको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/bhotekoshi-flood-281-bodies-managed-in-gokarneshwor-28-45.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1788270933_sab.jpg",
+      "pubDate": 1789912545000,
+      "category": "artha",
+      "trendingScore": 56,
+      "breaking": true,
+      "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -193,72 +245,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021636/one-person-killed-five-injured-in-vehicle-accident-in-palpa",
       "pubDate": 1789911127000,
       "category": "taja",
-      "trendingScore": 66,
+      "trendingScore": 64,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksiDgpKog4KSu",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "रसुवा बाढी : २८१ शव गोकर्णेश्वरमा व्यवस्थापन",
-      "description": "रसुवास्थित भोटेकोशी नदीमा गत भदौ १० गते गएको विनाशकारी बाढीमा परी ज्यान गुमाएर काठमाडौं ल्याइएका २८१ जनाको शव सुरक्षित रूपमा व्यवस्थापन गरिएको छ ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2021626/rasuwa-flood-281-bodies-managed-in-gokarneshwor",
-      "pubDate": 1789910699000,
-      "category": "artha",
-      "trendingScore": 58,
-      "breaking": true,
-      "clusterId": "cluster-4KSw4KS4IOCktSDgpKwg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "बाढीपीडितका लागि क्यानबेरामा १५ हजार डलर संकलन, अस्ट्रेलियाली कलाकारको पनि साथ",
-      "description": "नेपालमा हालैको बाढीपहिरोबाट प्रभावित नागरिकको राहत तथा पुनर्स्थापनाका लागि अस्ट्रेलियाको क्यानबेरामा करिब १५ हजार अस्ट्रेलियन डलर आर्थिक सहयोग जुटाइएको छ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2021614/australian-artist-joins-in-raising-15000-for-flood-victims-in-canberra",
-      "pubDate": 1789910611000,
-      "category": "artha",
-      "trendingScore": 66,
-      "breaking": true,
-      "clusterId": "cluster-4KSsIOCkoiDgpKog4KSh",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "रसुवा बाढीपछि नेपाली समुदायसँग अस्ट्रेलियाका गभर्नर–जनरलको ऐक्यबद्धता",
-      "description": "नेपालमा आएको बाढी तथा पहिरोबाट प्रभावित नेपाली नागरिक र परिवारप्रति अस्ट्रेलियाका गभर्नर–जनरल साम मोस्टिनले ऐक्यबद्धता जनाएकी छन्।",
-      "link": "https://www.onlinekhabar.com/2026/09/2021613/australian-governor-general-expresses-solidarity-with-nepali-community-after-rasuwa-floods",
-      "pubDate": 1789910377000,
-      "category": "taja",
-      "trendingScore": 66,
-      "breaking": true,
-      "clusterId": "cluster-4KSw4KS4IOCktSDgpKwg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "rajdhani",
-      "title": "कोहलपुरबाट कैलाली आउँदै गरेको माइक्रोमा गुडिरहेकै अवस्थामा आगलागी",
-      "description": "धनगढी । कोहलपुरबाट कैलालीतर्फ आउँदै गरेको माइक्रोबसमा बर्दियामा गुडिरहेको अवस्थामा अचानक आगलागी भएको छ । महेन्द्र राजमार्गअन्तर्गत आइतबार बर्दियाको बारबर्दिया नगरपालिका–७, रम्मापुरस्थित ५ नम्बर चोक नजिक माइक्रोमा आगलागी भएको हो । प्रहरीका अनुसार सुपप्र ०१–००२ ज ४३३ नम्बरको माइक्रोबस राजमार्गमा गुडिरहेको अवस्थामा आगो लागेको थियो । आगलागीपछि माइक्रोमा सवार चालक र सहचालकले तत्काल बाहिर निस्किएर […] The post कोहलपुरबाट कैलाली आउँदै गरेको माइक्रोमा गुडिरहेकै अवस्थामा आगलागी appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDaily.com - Online Nepali News Portal-Latest Nepali Online News portal of Nepali Polities, economics, news, top stories, national, international, pol",
-      "link": "https://rajdhanidaily.com/id/148626",
-      "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/news-photo-dhi-4.jpg",
-      "pubDate": 1789910306000,
-      "category": "bidesh",
-      "trendingScore": 74,
-      "breaking": true,
-      "clusterId": "cluster-4KSVIOCkueCksuCkqiDg",
-      "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
-    },
-    {
-      "sourceId": "rajdhani",
-      "title": "भोटेकोशी बाढीपछि उठ्यो जलवायु न्यायको प्रश्न",
-      "description": "काठमाडौँ । रसुवाको भोटेकोशीमा आएको विनाशकारी बाढीपछि नेपालले जलवायु न्याय र क्षतिपूर्तिको विषय अन्तर्राष्ट्रिय मञ्चमा थप प्रभावकारी ढङ्गले उठाउनुपर्नेमा विज्ञहरूले जोड दिएका छन्। नेपाली कम्युनिस्ट पार्टीको केन्द्रीय मानव अधिकार विभागले असोज ५ गते काठमाडौँमा आयोजना गरेको जलवायु न्यायसम्बन्धी अन्तरक्रियामा सहभागी वक्ताहरूले जलवायु परिवर्तनका कारण हिमाली क्षेत्रमा जोखिम बढ्दै गएको बताएका हुन्। कार्यक्रममा पूर्वप्रधानमन्त्री तथा नेकपा […] The post भोटेकोशी बाढीपछि उठ्यो जलवायु न्यायको प्रश्न appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDaily.com - Online Nepali News Portal-Latest Nepali Online News portal of Nepali Polities, economics, news, top stories, national,",
-      "link": "https://rajdhanidaily.com/id/148624",
-      "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/818291033_1128844056485125_7817759650353200592_n.jpg",
-      "pubDate": 1789909942000,
-      "category": "rajaniti",
-      "trendingScore": 66,
-      "breaking": true,
-      "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
-      "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
     },
     {
       "sourceId": "karobar",
@@ -268,7 +258,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/08/nuwakot_badi-150x150.jpg",
       "pubDate": 1789891342000,
       "category": "prabidhi",
-      "trendingScore": 59,
+      "trendingScore": 57,
       "breaking": true,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -280,23 +270,10 @@
       "link": "https://arthasarokar.com/2026/09/bhotekoshi-floods-14-branches-of-11-commercial-banks-swept-away-damages-worth-rs-73-billion.html",
       "pubDate": 1789890531000,
       "category": "artha",
-      "trendingScore": 59,
+      "trendingScore": 56,
       "breaking": true,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "कृष्णभीर सडक सञ्चालनमा आएपछि सवारी चाप बढ्यो",
-      "description": "काडठमाडाैं- पृथ्वी राजमार्गअन्तर्गत कृष्णभीर क्षेत्रमा सडक कटान गरी वैकल्पिक मार्ग निर्माण गरेर यातायात सञ्चालनमा ल्याइएपछि राजमार्गमा चल्ने सवारीसाधनको चाप बढेको छ । गत असोज १ गतेदेखि कृष्णभीर क्षेत्रमा दुवैतर्फको सडक सञ्चालनमा आएपछि लामो समयदेखि प्रभावित यातायात सेवा क्रमश: सहज बन्दै गएको हो । गत भदौ १० गते आएको भोटेकोशी र त्रिशूली नदीको बाढीका कारण कृष्णभीर […]",
-      "link": "https://www.karobardaily.com/news/418591",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/krishnabhir-sadak-150x150.jpg",
-      "pubDate": 1789881095000,
-      "category": "prabidhi",
-      "trendingScore": 56,
-      "breaking": true,
-      "clusterId": "cluster-4KSVIOCktyDgpKPgpK0g",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     }
   ]
 }
