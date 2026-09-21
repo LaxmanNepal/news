@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T20:40:36.816Z",
+  "generatedAt": "2026-09-21T23:41:01.101Z",
   "articles": [
     {
       "sourceId": "ratopati",
@@ -9,7 +9,7 @@
       "image": "https://rpcdn.ratopati.com/media/albums/kalikot_hxg1ddkRP2.jpg",
       "pubDate": 1790017046000,
       "category": "artha",
-      "trendingScore": 68,
+      "trendingScore": 64,
       "breaking": true,
       "clusterId": "cluster-4KS4IOCkryDgpIkg4KSs",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -21,7 +21,7 @@
       "link": "https://www.ratopati.com/story/593798/police-searching-for-owner-of-locker-washed-away-by-flood",
       "pubDate": 1790007929000,
       "category": "artha",
-      "trendingScore": 65,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpLIg4KSs",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy",
@@ -35,23 +35,10 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/botekoshi-badhi-paryatan.jpg",
       "pubDate": 1790006831000,
       "category": "artha",
-      "trendingScore": 72,
+      "trendingScore": 68,
       "breaking": true,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "भोटेकोशी बाढीले पर्यटन क्षेत्रमा ५२ अर्बभन्दा बढीको क्षति",
-      "description": "गत भदौ १० गते रसुवाको भोटेकोशी नदीमा आएको बाढीबाट नेपालको पर्यटन क्षेत्रमा रु ५२ अर्ब ६७ करोड ४५ लाख ७६ हजार ५०० बराबरको क्षति भएको छ । ...",
-      "link": "https://nagariknews.nagariknetwork.com/economy/bhotekoshi-flood-causes-over-rs-52-billion-loss-to-tourism-sector-14-88.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1788700426_bhotekoshi%20rasuwa%20badi.jpg",
-      "pubDate": 1790006091000,
-      "category": "artha",
-      "trendingScore": 64,
-      "breaking": true,
-      "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -60,7 +47,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022517/galchhi-rasuwagadhi-road-reconstruction-a-priority-road-line-outside-flood-affected-area",
       "pubDate": 1790005620000,
       "category": "taja",
-      "trendingScore": 64,
+      "trendingScore": 60,
       "breaking": true,
       "clusterId": "cluster-4KSX4KSyIOCkmyDgpLDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -73,7 +60,7 @@
       "image": "https://npcdn.ratopati.com/media/news/accident1_0HVVwEUEAJ.jpg",
       "pubDate": 1790004524000,
       "category": "taja",
-      "trendingScore": 71,
+      "trendingScore": 67,
       "breaking": true,
       "clusterId": "cluster-4KSmIOCktuCkreCksCDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -86,49 +73,10 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/08/badhi-1.jpg",
       "pubDate": 1790004129000,
       "category": "rajaniti",
-      "trendingScore": 71,
+      "trendingScore": 67,
       "breaking": true,
       "clusterId": "cluster-4KSF4KSYIOCkrOCkoiDg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "सप्तकोशीको बाढी र कटानले श्रीलङ्का टप्पुका बासिन्दा त्रासमा",
-      "description": "सुनसरी। सप्तकोशी नदीको बाढी र कटानका कारण सुनसरीको बराहक्षेत्र नगरपालिका&ndash;६ स्थित श्रीलङ्का टप्पुका बासिन्दा वर्षौंदेखि त्रासमा बस्दै आएका छन्। नदीको कटानले खेतीयोग्य जमिन बगाउँदै लगेपछि कतिपय परिवार भूमिहीन बनेका छन् भने बस्तीसमेत उच्च जोखिममा परेको",
-      "link": "https://www.ratopati.com/story/593787/residents-of-tappu-sri-lanka-in-fear-due-to-saptakoshi-floods-and-erosion",
-      "image": "https://npcdn.ratopati.com/media/news/mfyWEHjUaX.jpg",
-      "pubDate": 1790003611000,
-      "category": "taja",
-      "trendingScore": 63,
-      "breaking": true,
-      "clusterId": "cluster-4KS44KSqIOCkpOCklSDg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "टीकापुरका ३३ मजदुरको न लास भेटियो, न सासको खबर: आफन्तलाई दिइयो मजदुरीको ज्याला",
-      "description": "भोटेकोशी बाढीमा परेका टीकापुरका ३३ जना मजदुरको न लास भेटिएको छ, न सासको खबर । चार साता पुग्न लाग्दासमेत उनीहरू सम्पर्कविहीन...",
-      "link": "https://nagariknews.nagariknetwork.com/social-affairs/no-bodies-found-no-news-of-life-of-33-workers-from-tikapur-wages-paid-to-relatives-51-82.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1788700437_rasuwa%20bhotekoshi%20badi.jpg",
-      "pubDate": 1790003499000,
-      "category": "prabidhi",
-      "trendingScore": 63,
-      "breaking": true,
-      "clusterId": "cluster-4KSfIOCklSDgpKog4KSw",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "करेन्ट लगाएर माछा मार्ने क्रममा वृद्धको मृत्यु",
-      "description": "झापा । झापाको बिर्तामोड नगरपालिका&ndash;२ स्थित घाग्रा खोलामा विद्युतीय करेन्ट लगाएर माछा मार्ने क्रममा एक वृद्धको मृत्यु भएको छ। जिल्ला प्रहरी कार्यालयका अनुसार बिर्तामोड&ndash;२ बेलडाँगी डाँडागाउँ टोलका ६२ वर्षीय मोहन मुर्मूको माछा मार्ने क्रममा करेन्ट लागेर",
-      "link": "https://www.ratopati.com/story/593785/elderly-man-dies-while-fishing-with-electric-current",
-      "image": "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg",
-      "pubDate": 1790003450000,
-      "category": "artha",
-      "trendingScore": 63,
-      "breaking": true,
-      "clusterId": "cluster-4KSV4KSwIOCkqCDgpJ8g",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "setopati",
@@ -137,62 +85,10 @@
       "link": "https://www.setopati.com/politics/398900",
       "pubDate": 1790001720000,
       "category": "artha",
-      "trendingScore": 70,
+      "trendingScore": 66,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksOCkriDgpJYg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "युद्धस्तरमा ब्युँतिँदैछन् झोलुङ्गे पुल, गाउँ जोड्न तुइनको भर",
-      "description": "रसुवाको भोटेकोशी बाढीका कारण सम्पर्क विच्छेद भएका बस्तीहरूमा आवागमन पुनःस्थापना गर्न सरकारले झोलुङ्गे पुल मर्मत तथा आपत्कालीन तुइन निर्माण कार्यलाई तीव्रता दिएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/social-affairs/bridge-reconstruction-in-rasuwa-flood-affected-areas-in-full-swing-pimaltar-jagaram-bridge-ready-4-tuins-in-operation-and-dprs-of-33-bridges-being-prepared-64-93.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1789999768_44.jpg",
-      "pubDate": 1790000047000,
-      "category": "rajaniti",
-      "trendingScore": 70,
-      "breaking": true,
-      "clusterId": "cluster-4KSvIOCkpiDgpKfgpLgg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "बाढीले पर्यटनमा पारेको प्रभावबारे प्रतिवेदन प्रस्तुत, ‘रिकभरी प्लान’ बनाउन मन्त्री पौडेलको निर्देशन",
-      "description": "भोटेकोशी बाढीबाट प्रभावित पर्यटन क्षेत्रको पुनरुत्थान तथा पुनर्स्थापनाका लागि सरकारले विशेष कार्ययोजना अघि बढाउने भएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/politics/report-presented-on-impact-of-floods-on-tourism-minister-poudel-directs-to-prepare-recovery-plan-71-37.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1789999456_3.jpg",
-      "pubDate": 1789999590000,
-      "category": "rajaniti",
-      "trendingScore": 62,
-      "breaking": true,
-      "clusterId": "cluster-4KSsIOCkoiDgpLIg4KSq",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "गल्छी-रसुवागढी सडक पुनर्निर्माणमा बेलायतले सघाउने",
-      "description": "भोटेकोशी बाढीबाट क्षतिग्रस्त गल्छी-रसुवागढी सडक खण्डको पुनर्निर्माणका लागि बेलायत सरकारले बेलिब्रिजसहित आवश्यक प्राविधिक तथा आर्थिक सहयोग उपलब्ध गराउने भएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/economy/britain-to-assist-in-reconstruction-of-galchhi-rasuwagadhi-road-17-70.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1789999249_77.jpg",
-      "pubDate": 1789999288000,
-      "category": "rajaniti",
-      "trendingScore": 61,
-      "breaking": true,
-      "clusterId": "cluster-4KSX4KSyIOCkmyDgpLDg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "टेकुस्थित प्लास्टिक गोदाममा लागेको आगो नियन्त्रणमा",
-      "description": "काठमाडौं महानगरपालिका-१२ टेकुस्थित फोहोरमैला व्यवस्थापन केन्द्र नजिकै रहेको प्लास्टिक गोदाममा लागेको आगो नियन्त्रणमा आएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/social-affairs/fire-at-plastic-warehouse-in-teku-brought-under-control-46-55.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1789992714_Untitled-1-Recovered.jpg",
-      "pubDate": 1789998487000,
-      "category": "prabidhi",
-      "trendingScore": 61,
-      "breaking": true,
-      "clusterId": "cluster-4KSfIOCklSDgpLgg4KSl",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -201,7 +97,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022483/classes-begin-at-trishuli-secondary-school-from-temporary-building",
       "pubDate": 1789997961000,
       "category": "taja",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": true,
       "clusterId": "cluster-4KSF4KS4IOCkpSDgpK8g",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -213,7 +109,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022477/reconstruction-of-flood-damaged-pimaltar-jagaram-suspension-bridges-completed-repairs-of-13-bridges-underway",
       "pubDate": 1789997700000,
       "category": "taja",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpLIg4KSV",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -225,7 +121,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022440/australias-birth-rate-projected-to-be-lower-than-death-rate-from-the-2060s",
       "pubDate": 1789995996000,
       "category": "artha",
-      "trendingScore": 60,
+      "trendingScore": 56,
       "breaking": true,
       "clusterId": "cluster-4KS44KSoIOClqOClpuCl",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -237,7 +133,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022431/experts-suggest-adding-satellite-technology-to-disaster-early-warning",
       "pubDate": 1789995400000,
       "category": "prabidhi",
-      "trendingScore": 60,
+      "trendingScore": 56,
       "breaking": true,
       "clusterId": "cluster-4KS1IOCkquCkpiDgpKog",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -249,7 +145,7 @@
       "link": "https://arthasarokar.com/2026/09/lawmaker-awasthi-mocks-hike-in-airfares-delhi-is-cheaper-far-western-more-expensive.html",
       "pubDate": 1789991774000,
       "category": "rajaniti",
-      "trendingScore": 75,
+      "trendingScore": 71,
       "breaking": true,
       "clusterId": "cluster-4KS54KS1IOCkiCDgpK0g",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -261,7 +157,7 @@
       "link": "https://arthasarokar.com/2026/09/china-donates-rs-11-million-to-flood-affected-children.html",
       "pubDate": 1789987344000,
       "category": "rajaniti",
-      "trendingScore": 65,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -274,7 +170,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ffa/live/1ce4a0a0-b5a6-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1789986435000,
       "category": "rajaniti",
-      "trendingScore": 65,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KS54KSwIOCkj-CklSDg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -287,7 +183,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/china-nepal-help-150x150.jpg",
       "pubDate": 1789985085000,
       "category": "rajaniti",
-      "trendingScore": 64,
+      "trendingScore": 60,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -299,7 +195,7 @@
       "link": "https://arthasarokar.com/2026/09/govt-plans-to-build-new-cities-for-flood-victims.html",
       "pubDate": 1789978618000,
       "category": "rajaniti",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -312,7 +208,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Tripureshwor-Bus-Aagalagi_NPL-7-150x150.jpeg",
       "pubDate": 1789977539000,
       "category": "artha",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": true,
       "clusterId": "cluster-4KSaIOCksuCkleCkrCDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -325,7 +221,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Birgunj-Mayor-hg-150x150.jpg",
       "pubDate": 1789975738000,
       "category": "khelkud",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpK4g4KSs",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -337,7 +233,7 @@
       "link": "https://arthasarokar.com/2026/09/prime-ministers-relief-fund-reaches-rs-15-billion.html",
       "pubDate": 1789974011000,
       "category": "rajaniti",
-      "trendingScore": 60,
+      "trendingScore": 56,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksOCkpyDgpKjg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -350,23 +246,10 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/truck-mahasang-150x150.jpeg",
       "pubDate": 1789973176000,
       "category": "artha",
-      "trendingScore": 60,
+      "trendingScore": 56,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpLIg4KSi",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "bbcnepali",
-      "title": "कार्गो पानीजहाज र माछा मार्न गएको जहाज ठोक्किँदाको भिडिओ",
-      "description": "'बीबीसी भेरिफाइ'ले उक्त दुर्घटना सिङ्गापुरनजिकै समुद्रमा भएको पत्ता लगाएको छ।",
-      "link": "https://www.bbc.com/nepali/articles/cm70d7187z3eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/92cd/live/9318ce30-b57a-11f1-b1d1-571ed4d7ff2c.jpg",
-      "pubDate": 1789969111000,
-      "category": "khelkud",
-      "trendingScore": 59,
-      "breaking": true,
-      "clusterId": "cluster-4KSVIOCksCDgpJcg4KSq",
-      "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
     }
   ]
 }

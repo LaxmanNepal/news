@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T20:40:36.816Z",
+  "generatedAt": "2026-09-21T23:41:01.101Z",
   "category": "rajaniti",
   "articles": [
     {
@@ -9,10 +9,22 @@
       "link": "https://arthasarokar.com/2026/09/lawmaker-awasthi-mocks-hike-in-airfares-delhi-is-cheaper-far-western-more-expensive.html",
       "pubDate": 1789991774000,
       "category": "rajaniti",
-      "trendingScore": 75,
+      "trendingScore": 71,
       "breaking": true,
       "clusterId": "cluster-4KS54KS1IOCkiCDgpK0g",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
+    },
+    {
+      "id": "ekantipur::snap-0",
+      "sourceId": "ekantipur",
+      "title": "कान्तिपुर सम्पादकीय: सुशासनको परीक्षा",
+      "description": "कानुनी राज्यको पालना नै लोकतन्त्रको आधार हो भन्ने सम्पादकीय आज प्रकाशित भएको छ।",
+      "link": "https://ekantipur.com",
+      "pubDate": 1790034061101,
+      "fromSnapshot": true,
+      "category": "rajaniti",
+      "trendingScore": 70,
+      "breaking": false
     },
     {
       "sourceId": "rajdhani",
@@ -22,35 +34,23 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/08/badhi-1.jpg",
       "pubDate": 1790004129000,
       "category": "rajaniti",
-      "trendingScore": 71,
+      "trendingScore": 67,
       "breaking": true,
       "clusterId": "cluster-4KSF4KSYIOCkrOCkoiDg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
     },
     {
-      "id": "ekantipur::snap-0",
-      "sourceId": "ekantipur",
-      "title": "कान्तिपुर सम्पादकीय: सुशासनको परीक्षा",
-      "description": "कानुनी राज्यको पालना नै लोकतन्त्रको आधार हो भन्ने सम्पादकीय आज प्रकाशित भएको छ।",
-      "link": "https://ekantipur.com",
-      "pubDate": 1790023236815,
-      "fromSnapshot": true,
+      "sourceId": "ratopati",
+      "title": "प्रतिनिधिसभाको बैठक आज बस्दै, यस्तो छ सम्भावित कार्यसूची",
+      "description": "काठमाडौँ । सङ्घीय संसद्अन्तर्गत प्रतिनिधिसभाको बैठक आज अपराह्न १ः०० बजे बस्दै छ । आजको बैठकमा अर्थमन्त्री डा. स्वर्णिम वाग्लेले &lsquo;नागरिक लगानी कोष (तेस्रो संशोधन) विधेयक, २०८३ माथि विचार गरियोस्&rsquo; भन्ने प्रस्ताव प्रस्तुत गर्ने कार्यसूची रहेको",
+      "link": "https://www.ratopati.com/story/593816/house-of-representatives-meeting-to-be-held-today-here-is-the-possible-agenda",
+      "image": "https://npcdn.ratopati.com/media/news/sadan_9TYH5FLGU0.jpg",
+      "pubDate": 1790033862000,
       "category": "rajaniti",
-      "trendingScore": 70,
-      "breaking": false
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "युद्धस्तरमा ब्युँतिँदैछन् झोलुङ्गे पुल, गाउँ जोड्न तुइनको भर",
-      "description": "रसुवाको भोटेकोशी बाढीका कारण सम्पर्क विच्छेद भएका बस्तीहरूमा आवागमन पुनःस्थापना गर्न सरकारले झोलुङ्गे पुल मर्मत तथा आपत्कालीन तुइन निर्माण कार्यलाई तीव्रता दिएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/social-affairs/bridge-reconstruction-in-rasuwa-flood-affected-areas-in-full-swing-pimaltar-jagaram-bridge-ready-4-tuins-in-operation-and-dprs-of-33-bridges-being-prepared-64-93.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1789999768_44.jpg",
-      "pubDate": 1790000047000,
-      "category": "rajaniti",
-      "trendingScore": 70,
-      "breaking": true,
-      "clusterId": "cluster-4KSvIOCkpiDgpKfgpLgg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+      "trendingScore": 62,
+      "breaking": false,
+      "clusterId": "cluster-4KSqIOCksOCkpCDgpKgg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "arthasarokar",
@@ -59,7 +59,7 @@
       "link": "https://arthasarokar.com/2026/09/china-donates-rs-11-million-to-flood-affected-children.html",
       "pubDate": 1789987344000,
       "category": "rajaniti",
-      "trendingScore": 65,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -72,7 +72,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ffa/live/1ce4a0a0-b5a6-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1789986435000,
       "category": "rajaniti",
-      "trendingScore": 65,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KS54KSwIOCkj-CklSDg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -84,7 +84,7 @@
       "link": "https://www.setopati.com/politics/398899",
       "pubDate": 1790005200000,
       "category": "rajaniti",
-      "trendingScore": 64,
+      "trendingScore": 60,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCkuOCkqiDgpLAg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -97,7 +97,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/china-nepal-help-150x150.jpg",
       "pubDate": 1789985085000,
       "category": "rajaniti",
-      "trendingScore": 64,
+      "trendingScore": 60,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -110,7 +110,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/Karnali-Sports-council.jpg",
       "pubDate": 1790002289000,
       "category": "rajaniti",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": false,
       "clusterId": "cluster-4KSm4KS2IOCksCDgpLcg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -122,23 +122,23 @@
       "link": "https://www.setopati.com/social/398902",
       "pubDate": 1790002080000,
       "category": "rajaniti",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkp-CkrCDgpLDg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
     },
     {
-      "sourceId": "nagarik",
-      "title": "बाढीले पर्यटनमा पारेको प्रभावबारे प्रतिवेदन प्रस्तुत, ‘रिकभरी प्लान’ बनाउन मन्त्री पौडेलको निर्देशन",
-      "description": "भोटेकोशी बाढीबाट प्रभावित पर्यटन क्षेत्रको पुनरुत्थान तथा पुनर्स्थापनाका लागि सरकारले विशेष कार्ययोजना अघि बढाउने भएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/politics/report-presented-on-impact-of-floods-on-tourism-minister-poudel-directs-to-prepare-recovery-plan-71-37.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1789999456_3.jpg",
-      "pubDate": 1789999590000,
+      "sourceId": "rajdhani",
+      "title": "राजनीतिक दलका गतिविधिमा संलग्न शिक्षकलाई कारबाही गर्न शिक्षामन्त्रीको निर्देशन",
+      "description": "काठमाडौं । शिक्षा तथा खेलकुद मन्त्रालयले राजनीतिक गतिविधिमा संलग्न शिक्षकलाई कारबाही गर्ने भएको छ । शिक्षक राजनीतिक गतिविधिमा लागेको विषय सामाजिक सञ्जालबाट बाहिरिएपछि शिक्षामन्त्री सस्मित पोखरेलले कुनै पनि राजनीतिक गतिविधिमा संलग्न हुने शिक्षकलाई कारबाही गर्न निर्देशन दिएका हुन् । साथै उनले देशभरका विद्यालयमा शिक्षकको राजनीतिक गतिविधिलाई निगरानी गर्न पनि निर्देशन दिए । यसैबीच शिक्षा विकास […] The post राजनीतिक दलका गतिविधिमा संलग्न शिक्षकलाई कारबाही गर्न शिक्षामन्त्रीको निर्देशन appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDaily.com - Online Nepali News Portal-Latest Nepali Online News portal of Nepali Polities, economics, news, top stories, national, internat",
+      "link": "https://rajdhanidaily.com/id/148703",
+      "image": "https://rajdhanidaily.com/wp-content/uploads/2026/08/Sasmit-Pokhrel-at-TU_NPL-4-1784804393.jpeg",
+      "pubDate": 1790000918000,
       "category": "rajaniti",
-      "trendingScore": 62,
-      "breaking": true,
-      "clusterId": "cluster-4KSsIOCkoiDgpLIg4KSq",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+      "trendingScore": 58,
+      "breaking": false,
+      "clusterId": "cluster-4KSwIOCknOCkqCDgpKQg",
+      "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
     },
     {
       "sourceId": "arthasarokar",
@@ -147,23 +147,10 @@
       "link": "https://arthasarokar.com/2026/09/govt-plans-to-build-new-cities-for-flood-victims.html",
       "pubDate": 1789978618000,
       "category": "rajaniti",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "गल्छी-रसुवागढी सडक पुनर्निर्माणमा बेलायतले सघाउने",
-      "description": "भोटेकोशी बाढीबाट क्षतिग्रस्त गल्छी-रसुवागढी सडक खण्डको पुनर्निर्माणका लागि बेलायत सरकारले बेलिब्रिजसहित आवश्यक प्राविधिक तथा आर्थिक सहयोग उपलब्ध गराउने भएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/economy/britain-to-assist-in-reconstruction-of-galchhi-rasuwagadhi-road-17-70.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1789999249_77.jpg",
-      "pubDate": 1789999288000,
-      "category": "rajaniti",
-      "trendingScore": 61,
-      "breaking": true,
-      "clusterId": "cluster-4KSX4KSyIOCkmyDgpLDg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "rajdhani",
@@ -173,10 +160,23 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2024/09/pakrau.jpg",
       "pubDate": 1789998020000,
       "category": "rajaniti",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KSkIOCkqCDgpIXgpLXg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
+      "description": "काठमाडाैँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति &lsquo;१२ बजे १२समाचार&rsquo;मा प्रस्तुत गरेका छौँ&ndash; आजका मुख्य समाचारमा केन्द्रीय कमिटी बैठकमा गर्जिए ओली, कांग्रेसमा देउवा समूहले बढायो समानान्तर गतिविधि, आफू सवार रहेकै अवस्थामा चालकले",
+      "link": "https://www.ratopati.com/story/593804/12-news-at-12-these-are-todays-top-news-stories",
+      "image": "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2-(1)_fam6WtIhIE.jpg",
+      "pubDate": 1790016075000,
+      "category": "rajaniti",
+      "trendingScore": 56,
+      "breaking": false,
+      "clusterId": "cluster-4KWn4KWoIOCkrOCknCDg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "rajdhani",
@@ -186,7 +186,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/congress-4.jpg",
       "pubDate": 1789995966000,
       "category": "rajaniti",
-      "trendingScore": 60,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCklyDgpLAg4KS4",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -198,23 +198,10 @@
       "link": "https://arthasarokar.com/2026/09/prime-ministers-relief-fund-reaches-rs-15-billion.html",
       "pubDate": 1789974011000,
       "category": "rajaniti",
-      "trendingScore": 60,
+      "trendingScore": 56,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksOCkpyDgpKjg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
-      "description": "काठमाडाैँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति &lsquo;१२ बजे १२समाचार&rsquo;मा प्रस्तुत गरेका छौँ&ndash; आजका मुख्य समाचारमा केन्द्रीय कमिटी बैठकमा गर्जिए ओली, कांग्रेसमा देउवा समूहले बढायो समानान्तर गतिविधि, आफू सवार रहेकै अवस्थामा चालकले",
-      "link": "https://www.ratopati.com/story/593804/12-news-at-12-these-are-todays-top-news-stories",
-      "image": "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2-(1)_fam6WtIhIE.jpg",
-      "pubDate": 1790016075000,
-      "category": "rajaniti",
-      "trendingScore": 59,
-      "breaking": false,
-      "clusterId": "cluster-4KWn4KWoIOCkrOCknCDg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "ratopati",
@@ -224,7 +211,7 @@
       "image": "https://npcdn.ratopati.com/media/news/kanchanpur_e3gtuuoi9c_NWReY0jTdJ.jpg",
       "pubDate": 1790012874000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSu4KS5IOCklSDgpLIg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -237,7 +224,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/gita-chaudhary-sabha-150x150.jpg",
       "pubDate": 1789990048000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -250,7 +237,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/sobita_sabha-150x150.jpg",
       "pubDate": 1789989753000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCkpCDgpKgg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -263,9 +250,22 @@
       "image": "https://npcdn.ratopati.com/media/news/bbb_YiToxRc5hg.webp",
       "pubDate": 1790008357000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KWn4KWmIOCkrOCknCDg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "ह्वाइट हाउसमा पहुँच नपाएका सीएनएन, एमएस नाउ र पोलिटिकोद्वारा मुद्दा दायर",
+      "description": "न्यूयोर्क । सीएनएन, एमएस नाउ र पोलिटिकोले सोमबार राष्ट्रपति डोनाल्ड ट्रम्पको प्रशासनविरुद्ध मुद्दा दायर गरेका छन् । उनीहरूलाई गत साताको अन्त्यमा ह्वाइट हाउसको कभरेजबाट रोक लगाइएको थियो । उनीहरूले यो छनोटपूर्ण प्रतिबन्धलाई संविधानको प्रथम संशोधनको",
+      "link": "https://www.ratopati.com/story/593797/cnn-ms-now-and-politico-sue-over-denial-of-access-to-white-house",
+      "image": "https://npcdn.ratopati.com/media/news/white-house_FyR71j008N.jpg",
+      "pubDate": 1790007663000,
+      "category": "rajaniti",
+      "trendingScore": 53,
+      "breaking": false,
+      "clusterId": "cluster-4KS5IOCktSDgpIfgpJ8g",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
@@ -276,23 +276,10 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Dol-prasad-aryal_sabhamukh_BBG-1-150x150.jpg",
       "pubDate": 1789986009000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "ह्वाइट हाउसमा पहुँच नपाएका सीएनएन, एमएस नाउ र पोलिटिकोद्वारा मुद्दा दायर",
-      "description": "न्यूयोर्क । सीएनएन, एमएस नाउ र पोलिटिकोले सोमबार राष्ट्रपति डोनाल्ड ट्रम्पको प्रशासनविरुद्ध मुद्दा दायर गरेका छन् । उनीहरूलाई गत साताको अन्त्यमा ह्वाइट हाउसको कभरेजबाट रोक लगाइएको थियो । उनीहरूले यो छनोटपूर्ण प्रतिबन्धलाई संविधानको प्रथम संशोधनको",
-      "link": "https://www.ratopati.com/story/593797/cnn-ms-now-and-politico-sue-over-denial-of-access-to-white-house",
-      "image": "https://npcdn.ratopati.com/media/news/white-house_FyR71j008N.jpg",
-      "pubDate": 1790007663000,
-      "category": "rajaniti",
-      "trendingScore": 56,
-      "breaking": false,
-      "clusterId": "cluster-4KS5IOCktSDgpIfgpJ8g",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "ratopati",
@@ -302,23 +289,10 @@
       "image": "https://npcdn.ratopati.com/media/news/sudur_880qysxgKF.webp",
       "pubDate": 1790007114000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkpiDgpLDgpKrg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "राजनीतिक दलका गतिविधिमा संलग्न शिक्षकलाई कारबाही गर्न शिक्षामन्त्रीको निर्देशन",
-      "description": "शिक्षा तथा खेलकुद मन्त्रालयले राजनीतिक गतिविधिमा संलग्न शिक्षकलाइ कारवाही गर्ने भएको छ ।",
-      "link": "https://nagariknews.nagariknetwork.com/education/education-minister-directs-action-against-teachers-involved-in-political-party-activities-37-37.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1784717553_sasmit%20pokhrel.jpg",
-      "pubDate": 1790006457000,
-      "category": "rajaniti",
-      "trendingScore": 56,
-      "breaking": false,
-      "clusterId": "cluster-4KSwIOCknOCkqCDgpKQg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -327,7 +301,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2021608/congress-general-convention-is-leadership-selection-competitive-or-unanimous",
       "pubDate": 1790006059000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCklyDgpLAg4KS4",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -339,7 +313,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022528/olis-solo-performance-at-uml-meeting",
       "pubDate": 1790005999000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSuIOCksiDgpKwg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -351,7 +325,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022520/a-marriage-registration-certificate-is-not-mandatory-to-establish-the-relationship-between-husband-and-wife",
       "pubDate": 1790005967000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KS2IOCksCDgpK4g4KSo",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -363,7 +337,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022339/while-others-focus-on-the-convention-purna-bahadurs-eyes-are-on-the-court",
       "pubDate": 1790005883000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSwIOCklSDgpKcg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -375,7 +349,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022568/foreign-minister-khanal-in-new-york",
       "pubDate": 1790005478000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSq4KSw4KSwIOCktyDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -387,7 +361,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022559/whether-the-party-leadership-is-successful-or-unsuccessful-is-as-obvious-as-the-sun-rajendra-rai",
       "pubDate": 1790004318000,
       "category": "rajaniti",
-      "trendingScore": 55,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksCDgpJ8g4KSo",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -400,36 +374,10 @@
       "image": "https://npcdn.ratopati.com/media/news/sutkeri_bVV14iP5IL.webp",
       "pubDate": 1790003829000,
       "category": "rajaniti",
-      "trendingScore": 55,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCkuCDgpKQg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "चीनमा दुई उच्च पदस्थ सैन्य अधिकारी कम्युनिस्ट पार्टीबाट निष्कासित",
-      "description": "चीनले सोमबार दुई उच्च पदस्थ सैन्य अधिकारीलाई सत्तारुढ कम्युनिस्ट पार्टीबाट निष्कासन गरेको चिनियाँ सञ्चारमाध्यमले जनाएका छन्। यो कारबाही आरोपित जनरललाई &lsquo;गम्भीर कानुनी उल्लङ्घन&rsquo; का लागि अनुसन्धान भइरहेको घोषणा भएको केही महिनापछि भएको हो। चिनियाँ कम्युनिस्ट पार्टी केन्द्रीय",
-      "link": "https://www.ratopati.com/story/593784/two-high-ranking-military-officials-expelled-from-communist-party-in-china",
-      "image": "https://npcdn.ratopati.com/media/news/ge_8LdkbXQF4B.webp",
-      "pubDate": 1790003282000,
-      "category": "rajaniti",
-      "trendingScore": 55,
-      "breaking": false,
-      "clusterId": "cluster-4KSaIOCkqOCkriDgpKYg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "अमेरिका आइपुगे परराष्ट्रमन्त्री शिशिर खनाल",
-      "description": "संयुक्त राष्ट्रसङ्घको ८१औँ महासभामा भाग लिन परराष्ट्रमन्त्री शिशिर खनाल न्युयोर्क आइपुगेका छन्।...",
-      "link": "https://nagariknews.nagariknetwork.com/social-affairs/foreign-minister-khanal-in-new-york-53-81.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1790003316_khanal.jpg",
-      "pubDate": 1790003272000,
-      "category": "rajaniti",
-      "trendingScore": 55,
-      "breaking": false,
-      "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -438,23 +386,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022465/government-has-88000-tons-of-fertilizer-in-stock-82000-tons-on-the-way",
       "pubDate": 1790001815000,
       "category": "rajaniti",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KS44KSw4KSVIOCksOCk",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "सरकारलाई झड्का: जर्मन कम्पनीलाई पासपोर्ट छपाइ ठेक्का दिने निर्णय सर्वोच्चद्वारा सदर",
-      "description": "सर्वोच्च अदालतले ८ अर्ब रुपैयाँभन्दा बढी लागतको विवादित राहदानी छपाइको ठेक्का जर्मन कम्पनीलाई दिने राहदानी विभागको निर्णय सदर गरेको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/social-affairs/supreme-court-verdict-on-rs-8-billion-passport-printing-contract-french-company-s-writ-dismissed-path-cleared-for-german-company-71-44.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1790001865_99.png",
-      "pubDate": 1790001666000,
-      "category": "rajaniti",
-      "trendingScore": 54,
-      "breaking": false,
-      "clusterId": "cluster-4KS44KSw4KSVIOCksOCk",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -463,7 +398,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022527/action-recommended-against-4-teachers-from-sindhuli-for-participating-in-political-party-programs",
       "pubDate": 1790000741000,
       "category": "rajaniti",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCknOCkqCDgpKQg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -475,7 +410,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022512/21-year-old-youth-becomes-congress-ward-president-in-jajarkot",
       "pubDate": 1790000513000,
       "category": "rajaniti",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KScIOCknOCksOCklSDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -487,7 +422,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022499/singer-saput-invites-delhi-chief-minister-to-visit-nepal",
       "pubDate": 1789998844000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSXIOCkr-CklSDgpLjg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -499,23 +434,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022473/15th-congress-of-nepali-congress-ward-conventions-concluded-in-63-districts",
       "pubDate": 1789997448000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCklyDgpLAg4KS4",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "पक्राउ पर्नेबित्तिकै हतकडी लगाउने प्रहरी अभ्यासमा सर्वोच्चको रोक, ३ अवस्थामा मात्रै छुट",
-      "description": "सर्वोच्च अदालतले पक्राउ परेका हरेक व्यक्तिलाई यान्त्रिक र अनिवार्य रूपमा हतकडी लगाउने प्रहरी अभ्यासमा रोक लगाएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/social-affairs/the-main-title-of-sama-char-67-75.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1760588843_supreme.jpg",
-      "pubDate": 1789996950000,
-      "category": "rajaniti",
-      "trendingScore": 53,
-      "breaking": false,
-      "clusterId": "cluster-4KSq4KSVIOCksCDgpIkg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "arthasarokar",
@@ -524,7 +446,7 @@
       "link": "https://arthasarokar.com/2026/09/the-government-withdrew-from-its-own-decision-within-2-months-vat-on-electricity-is-being-removed.html",
       "pubDate": 1789976540000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSG4KSrIOCksiDgpJfg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -536,7 +458,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022412/political-democracy-has-no-meaning-until-social-and-economic-democracy-is-established-upendra-yadav",
       "pubDate": 1789994845000,
       "category": "rajaniti",
-      "trendingScore": 52,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkriDgpJwg4KSV",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -549,7 +471,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/05/lumbini-cm-office-150x150.jpg",
       "pubDate": 1789972370000,
       "category": "rajaniti",
-      "trendingScore": 52,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSyIOCkriDgpKwg4KSo",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -561,7 +483,7 @@
       "link": "https://www.ujyaaloonline.com/detail/131773",
       "pubDate": 1789991640000,
       "category": "rajaniti",
-      "trendingScore": 51,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSuIOCksiDgpK4g",
       "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
@@ -574,7 +496,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2023/08/bidhut-prasaran-line-photo-150x150.jpg",
       "pubDate": 1789969347000,
       "category": "rajaniti",
-      "trendingScore": 51,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSm4KSuIOCksiDgpK3g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -587,7 +509,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/11/sampadakiya_editorial_karobar_BBG-150x150.jpg",
       "pubDate": 1789968866000,
       "category": "rajaniti",
-      "trendingScore": 50,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KStIOCksOCktyDgpJ8g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -600,7 +522,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/08/nagendra-shaha-150x150.jpg",
       "pubDate": 1789921633000,
       "category": "rajaniti",
-      "trendingScore": 50,
+      "trendingScore": 46,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSy4KSqIOCklyDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -613,10 +535,23 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/singhdurbar-150x150.jpg",
       "pubDate": 1789962342000,
       "category": "rajaniti",
-      "trendingScore": 48,
+      "trendingScore": 44,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkueCkpuCksOCk",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "महाविपदमा कानुनी बन्धन र राज्यको कर्तव्य",
+      "description": "नदीको भीषण सुसाइ र धमिलो छालसँगै सयौं नेपालीको खुसी, सपना, पसिना र जीवन सोहोरिएर गयो।",
+      "link": "https://nagariknews.nagariknetwork.com/opinion/legal-obligations-and-the-state-s-duties-in-a-major-disaster-br-24-90.html",
+      "image": "https://images.nagariknewscdn.com/2024/third-party/1789967063_fedu%20%20%20%20%20%20%2098.jpg",
+      "pubDate": 1789966679000,
+      "category": "rajaniti",
+      "trendingScore": 38,
+      "breaking": false,
+      "clusterId": "cluster-4KSu4KS5IOCktSDgpKrg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "karobar",
@@ -626,7 +561,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/12/Fly-Dubai-150x150.jpg",
       "pubDate": 1789888114000,
       "category": "rajaniti",
-      "trendingScore": 22,
+      "trendingScore": 18,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCkluCksCDgpKYg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -639,7 +574,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Dang_uddhyog-banijya-sangh_dang-150x150.jpg",
       "pubDate": 1789887818000,
       "category": "rajaniti",
-      "trendingScore": 21,
+      "trendingScore": 18,
       "breaking": false,
       "clusterId": "cluster-4KSmIOCkmSDgpIngpLUg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -652,7 +587,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/04/sudur_Arthik-Mamila-150x150.jpg",
       "pubDate": 1789886706000,
       "category": "rajaniti",
-      "trendingScore": 21,
+      "trendingScore": 17,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkpiDgpLDgpKrg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -665,7 +600,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2022/02/BEER-150x150.png",
       "pubDate": 1789886186000,
       "category": "rajaniti",
-      "trendingScore": 21,
+      "trendingScore": 17,
       "breaking": false,
       "clusterId": "cluster-4KS5IOCktSDgpLgg4KSV",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -695,6 +630,71 @@
       "breaking": false,
       "clusterId": "cluster-4KSlIOCkqiDgpKgg4KSk",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "संविधानको एघार वर्ष: आगामी दिशा",
+      "description": "संविधान राष्ट्रको मूल कानुनी दस्तावेज हो। यसले राज्यको स्वरूप निर्धारण गर्छ। राज्यशक्तिको प्रयोगलाई सीमित गर्छ। नागरिकका अधिकार सुनिश्चित गर्छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/opinion/eleven-years-of-the-constitution-future-directions-br-60-89.html",
+      "image": "https://images.nagariknewscdn.com/2024/third-party/1789789627_ddu%2097.jpg",
+      "pubDate": 1789788867000,
+      "category": "rajaniti",
+      "trendingScore": 0,
+      "breaking": false,
+      "clusterId": "cluster-4KS4IOCktSDgpKcg4KSo",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "नेतृत्व हस्तान्तरणको परम्परा र देउवाको पदमोह",
+      "description": "तर समय आएपछि नेतृत्व हस्तान्तरण गर्न सक्नु राजनीतिक संस्कार हो। र नेपाली कांग्रेसलाई आज सबैभन्दा बढी आवश्यक परेको कुरा शायद यही संस्कार हो।...",
+      "link": "https://nagariknews.nagariknetwork.com/opinion/the-tradition-of-leadership-transfer-and-deuba-s-obsession-with-the-status-quo-76-41.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1789641376_Deuba.png",
+      "pubDate": 1789641405000,
+      "category": "rajaniti",
+      "trendingScore": 0,
+      "breaking": false,
+      "clusterId": "cluster-4KSoIOCkpCDgpKQg4KS1",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "माटोमा आधारित लोकतन्त्रको खोज",
+      "description": "अस्ट्रियाको दीर्घकालीन बृहत् गठबन्धन र जापानको लामो प्रभुत्वशाली दल (डोमिनेन्ट पार्टी) अनुभवले पनि स्थायित्व र राजनीतिक प्रतिस्पर्धाबिचको सन्तुलनको महत्त्व देखाउँछन्।...",
+      "link": "https://nagariknews.nagariknetwork.com/opinion/the-quest-for-soil-based-democracy-br-71-24.html",
+      "image": "https://images.nagariknewscdn.com/2024/third-party/1789624878_dd%2098.jpg",
+      "pubDate": 1789624475000,
+      "category": "rajaniti",
+      "trendingScore": 0,
+      "breaking": false,
+      "clusterId": "cluster-4KSuIOCknyDgpK4g4KSG",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "सांसदको कद",
+      "description": "भारतीय प्रधानमन्त्री नरेन्द्र मोदीले सांसदहरूलाई दैनिक दुई घण्टा पुस्तकालयमा व्यतीत गर्न सल्लाह दिएका छन्।...",
+      "link": "https://nagariknews.nagariknetwork.com/opinion/the-stature-of-a-member-of-parliament-br-62-99.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1789534766_kidu%2098.jpg",
+      "pubDate": 1789534316000,
+      "category": "rajaniti",
+      "trendingScore": 0,
+      "breaking": false,
+      "clusterId": "cluster-4KS4IOCkuOCkpuCklSDg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "भोटेकोसीको भेल र सरकारको अलमल",
+      "description": "राजनीतिमा पनि जनआक्रोश, असन्तोष र परिवर्तनको लहरले पुरानो सत्ता ढाल्न सक्छ, नयाँ शक्ति स्थापित गर्न सक्छ तर त्यसैको वेगले राज्य सञ्चालनको क्षमता स्वतः निर्माण गर्दैन।...",
+      "link": "https://nagariknews.nagariknetwork.com/opinion/the-bhole-koshi-river-and-the-government-s-confusion-28-85.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1789443210_Bhotekoshi.jpg",
+      "pubDate": 1789443244000,
+      "category": "rajaniti",
+      "trendingScore": 0,
+      "breaking": false,
+      "clusterId": "cluster-4KStIOCknyDgpJUg4KS4",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     }
   ]
 }

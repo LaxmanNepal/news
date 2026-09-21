@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-09-21T20:40:36.816Z",
+  "generatedAt": "2026-09-21T23:41:01.101Z",
   "category": "bidesh",
   "articles": [
-    {
-      "sourceId": "nagarik",
-      "title": "पर्यटकलाई हैरानी दिने र यौ’नजन्य गतिविधिमा संलग्न १४ जना पक्राउ",
-      "description": "काठमाडौंको पिंगलास्थान क्षेत्रमा स्वदेशी तथा विदेशी पर्यटकलाई हैरानी दिने, लागुऔषध तथा यौनजन्य गतिविधिमा दुरुत्साहन गर्ने १४ जनालाई प्रहरीले पक्राउ गरेको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/social-affairs/14-people-arrested-for-harassing-tourists-and-engaging-in-sexual-activities-in-pingalasthan-kathmandu-36-31.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1786282078_pakrau.png",
-      "pubDate": 1790005036000,
-      "category": "bidesh",
-      "trendingScore": 55,
-      "breaking": false,
-      "clusterId": "cluster-4KSq4KSwIOCkr-Ckn-Ck",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
     {
       "sourceId": "onlinekhabar",
       "title": "जहीर खान चेन्नई सुपर किङ्सको मुख्य प्रशिक्षक नियुक्त",
@@ -22,7 +9,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022437/zaheer-khan-appointed-as-chennai-super-kings-head-coach",
       "pubDate": 1789995893000,
       "category": "bidesh",
-      "trendingScore": 52,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSc4KS5IOCksCDgpJYg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -34,7 +21,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022432/australias-campaign-to-become-a-member-of-the-un-security-council-begins",
       "pubDate": 1789995495000,
       "category": "bidesh",
-      "trendingScore": 52,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -47,7 +34,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/40ad/live/54908900-b28c-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1789972851000,
       "category": "bidesh",
-      "trendingScore": 52,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCksiDgpK0g4KSv",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -59,7 +46,7 @@
       "link": "https://www.ujyaaloonline.com/detail/131775",
       "pubDate": 1789993020000,
       "category": "bidesh",
-      "trendingScore": 51,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSaIOCkqOCksiDgpIXg",
       "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
@@ -72,7 +59,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/713d/live/25e7b9e0-b55f-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1789959752000,
       "category": "bidesh",
-      "trendingScore": 47,
+      "trendingScore": 43,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCklSDgpLgg4KSk",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -85,7 +72,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/05a2/live/c83b26b0-b4eb-11f1-b1d1-571ed4d7ff2c.jpg",
       "pubDate": 1789953506000,
       "category": "bidesh",
-      "trendingScore": 45,
+      "trendingScore": 41,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkuSDgpLUg4KSw",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -98,7 +85,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d471/live/22551aa0-b359-11f1-b1d1-571ed4d7ff2c.jpg",
       "pubDate": 1789871375000,
       "category": "bidesh",
-      "trendingScore": 24,
+      "trendingScore": 20,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkoiDgpKrgpJsg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -111,23 +98,10 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Ncell-X-NATO-150x150.png",
       "pubDate": 1789882721000,
       "category": "bidesh",
-      "trendingScore": 20,
+      "trendingScore": 16,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSo4KS4IOCksiDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "bbcnepali",
-      "title": "एआई विकासको 'गति कम गर्नुपर्ने' अमेरिकी अगुवाहरूको धारणाबारे चीन के सोच्छ?",
-      "description": "आर्टिफिशल इन्टेलिजन्स (एआई) द्रुत गतिमा अगाडि बढ्दै जाँदा त्यसले निम्त्याउने सम्भावित खतराबारे प्रविधि उद्योगका केही प्रमुख नेताहरूले कडा चेतावनी दिएका छन्। यद्यपि विश्वका दुई प्रमुख एआई महाशक्तिहरू चीन र संयुक्त राज्य अमेरिकाबीचको तीव्र प्रतिस्पर्धाले यी जोखिमहरूलाई सम्बोधन गर्ने प्रयासहरू जटिल देखिएका छन्।",
-      "link": "https://www.bbc.com/nepali/articles/c60qx3w177p4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/508c/live/a1284b20-b1b7-11f1-bdcf-d393eb724fa3.jpg",
-      "pubDate": 1789880873000,
-      "category": "bidesh",
-      "trendingScore": 19,
-      "breaking": false,
-      "clusterId": "cluster-4KSP4KSG4KSIIOCktSDg",
-      "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
     },
     {
       "sourceId": "bbcnepali",
@@ -144,6 +118,19 @@
     },
     {
       "sourceId": "bbcnepali",
+      "title": "एआई विकासको 'गति कम गर्नुपर्ने' अमेरिकी अगुवाहरूको धारणाबारे चीन के सोच्छ?",
+      "description": "आर्टिफिशल इन्टेलिजन्स (एआई) द्रुत गतिमा अगाडि बढ्दै जाँदा त्यसले निम्त्याउने सम्भावित खतराबारे प्रविधि उद्योगका केही प्रमुख नेताहरूले कडा चेतावनी दिएका छन्। यद्यपि विश्वका दुई प्रमुख एआई महाशक्तिहरू चीन र संयुक्त राज्य अमेरिकाबीचको तीव्र प्रतिस्पर्धाले यी जोखिमहरूलाई सम्बोधन गर्ने प्रयासहरू जटिल देखिएका छन्।",
+      "link": "https://www.bbc.com/nepali/articles/c60qx3w177p4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/508c/live/a1284b20-b1b7-11f1-bdcf-d393eb724fa3.jpg",
+      "pubDate": 1789880873000,
+      "category": "bidesh",
+      "trendingScore": 15,
+      "breaking": false,
+      "clusterId": "cluster-4KSP4KSG4KSIIOCktSDg",
+      "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
+    },
+    {
+      "sourceId": "bbcnepali",
       "title": "हिमालहरू कसरी बने?",
       "description": "हिमालहरू कसरी बने भन्ने तपाईँलाई थाहा छ?",
       "link": "https://www.bbc.com/nepali/articles/crwyzv5zgg10o?at_medium=RSS&at_campaign=rss",
@@ -154,6 +141,19 @@
       "breaking": false,
       "clusterId": "cluster-4KS5IOCkriDgpLLgpLng",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "बाँस: गाउँको सम्पदा, राष्ट्रिय समृद्धि",
+      "description": "विश्व बाँस संगठनको पहलमा सन् २००९ देखि हरेक वर्ष १८ सेप्टेम्बरमा विश्व बाँस दिवस मनाइँदै आएको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/opinion/bamboo-village-heritage-national-prosperity-br-79-71.html",
+      "image": "https://images.nagariknewscdn.com/2024/third-party/1789696832_ddu%2098.jpg",
+      "pubDate": 1789696625000,
+      "category": "bidesh",
+      "trendingScore": 0,
+      "breaking": false,
+      "clusterId": "cluster-4KSsIOCkuCDgpJcg4KSJ",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     }
   ]
 }
