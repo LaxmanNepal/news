@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T16:47:29.141Z",
+  "generatedAt": "2026-09-21T20:40:36.816Z",
   "category": "bidesh",
   "articles": [
     {
@@ -10,10 +10,34 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1786282078_pakrau.png",
       "pubDate": 1790005036000,
       "category": "bidesh",
-      "trendingScore": 60,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSq4KSwIOCkr-Ckn-Ck",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "जहीर खान चेन्नई सुपर किङ्सको मुख्य प्रशिक्षक नियुक्त",
+      "description": "५ असोज, काठमाडौं । इन्डियन प्रिमियर लिग (आईपीएल) फ्रेन्चाइज चेन्नई सुपर किंग्स (सीएसके) ले पूर्व भारतीय तीव्र गतिका बलर जहीर खानलाई २०२७ सिजनका लागि मुख्य प्रशिक्षक नियुक्त गरेको छ । जहीरले सन् २००९ देखि २०२६ सम्म लगातार १८ सिजन टोली सम्हालेका स्टेफन फ्लेमिङको स्थान लिनेछन् । फ्लेमिङको नेतृत्वमा सीएसके आईपीएलकै सबैभन्दा सफल टोलीमध्ये एक बनेको […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2022437/zaheer-khan-appointed-as-chennai-super-kings-head-coach",
+      "pubDate": 1789995893000,
+      "category": "bidesh",
+      "trendingScore": 52,
+      "breaking": false,
+      "clusterId": "cluster-4KSc4KS5IOCksCDgpJYg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "राष्ट्रसंघ सुरक्षा परिषद् सदस्य बन्न अस्ट्रेलियाको अभियान सुरु",
+      "description": "५ असोज, काठमाडौं । अस्ट्रेलियाले संयुक्त राष्ट्रसंघको सुरक्षा परिषद्को अस्थायी सदस्य बन्न औपचारिक अभियान सुरु गरेको छ। प्रधानमन्त्री एन्थोनी अल्बानिजीले सोमबार अमेरिकाको न्युयोर्कमा संयुक्त राष्ट्रसंघको महासभाका क्रममा सन् २०२९–३० को दुईवर्षे कार्यकालका लागि अस्ट्रेलियाको उम्मेदवारी अभियान सुरु गरेका हुन्। अस्ट्रेलियाले सुरक्षा परिषद्‌मा रहेर अन्तर्राष्ट्रिय शान्ति तथा सुरक्षा, द्वन्द्व रोकथाम, जलवायु तथा समुद्री सुरक्षा र कृत्रिम […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2022432/australias-campaign-to-become-a-member-of-the-un-security-council-begins",
+      "pubDate": 1789995495000,
+      "category": "bidesh",
+      "trendingScore": 52,
+      "breaking": false,
+      "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "bbcnepali",
@@ -23,7 +47,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/40ad/live/54908900-b28c-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1789972851000,
       "category": "bidesh",
-      "trendingScore": 57,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCksiDgpK0g4KSv",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -35,7 +59,7 @@
       "link": "https://www.ujyaaloonline.com/detail/131775",
       "pubDate": 1789993020000,
       "category": "bidesh",
-      "trendingScore": 56,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSaIOCkqOCksiDgpIXg",
       "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
@@ -48,7 +72,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/713d/live/25e7b9e0-b55f-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1789959752000,
       "category": "bidesh",
-      "trendingScore": 52,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCklSDgpLgg4KSk",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -61,7 +85,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/05a2/live/c83b26b0-b4eb-11f1-b1d1-571ed4d7ff2c.jpg",
       "pubDate": 1789953506000,
       "category": "bidesh",
-      "trendingScore": 50,
+      "trendingScore": 45,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkuSDgpLUg4KSw",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -74,7 +98,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d471/live/22551aa0-b359-11f1-b1d1-571ed4d7ff2c.jpg",
       "pubDate": 1789871375000,
       "category": "bidesh",
-      "trendingScore": 29,
+      "trendingScore": 24,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkoiDgpKrgpJsg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -87,7 +111,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Ncell-X-NATO-150x150.png",
       "pubDate": 1789882721000,
       "category": "bidesh",
-      "trendingScore": 25,
+      "trendingScore": 20,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSo4KS4IOCksiDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -100,7 +124,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/508c/live/a1284b20-b1b7-11f1-bdcf-d393eb724fa3.jpg",
       "pubDate": 1789880873000,
       "category": "bidesh",
-      "trendingScore": 24,
+      "trendingScore": 19,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSG4KSIIOCktSDg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"

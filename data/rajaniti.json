@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T16:47:29.141Z",
+  "generatedAt": "2026-09-21T20:40:36.816Z",
   "category": "rajaniti",
   "articles": [
     {
@@ -9,7 +9,7 @@
       "link": "https://arthasarokar.com/2026/09/lawmaker-awasthi-mocks-hike-in-airfares-delhi-is-cheaper-far-western-more-expensive.html",
       "pubDate": 1789991774000,
       "category": "rajaniti",
-      "trendingScore": 80,
+      "trendingScore": 75,
       "breaking": true,
       "clusterId": "cluster-4KS54KS1IOCkiCDgpK0g",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -22,23 +22,22 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/08/badhi-1.jpg",
       "pubDate": 1790004129000,
       "category": "rajaniti",
-      "trendingScore": 76,
+      "trendingScore": 71,
       "breaking": true,
       "clusterId": "cluster-4KSF4KSYIOCkrOCkoiDg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
     },
     {
-      "sourceId": "ratopati",
-      "title": "भोटेकोशी बाढीपीडितलाई अस्थायी आवासको व्यवस्था गर्दै सरकार",
-      "description": "काठमाडौँ। रसुवाको भोटेकोशी बाढीबाट प्रभावित नागरिकको अस्थायी आवास व्यवस्थापनलाई सरकारले प्राथमिकताका साथ अघि बढाएको छ। प्रभावित परिवारलाई तत्काल सुरक्षित बसोबासको व्यवस्था गर्न पूर्वाधार विकास मन्त्रालय र भूमि व्यवस्था, सहकारी तथा गरिबी निवारण मन्त्रालयले काम तीव्र बनाएका",
-      "link": "https://www.ratopati.com/story/593773/government-providing-temporary-housing-for-bhotekoshi-flood-victims",
-      "image": "https://npcdn.ratopati.com/media/news/pm-office_pJ2xEYtQd9.jpg",
-      "pubDate": 1790000833000,
+      "id": "ekantipur::snap-0",
+      "sourceId": "ekantipur",
+      "title": "कान्तिपुर सम्पादकीय: सुशासनको परीक्षा",
+      "description": "कानुनी राज्यको पालना नै लोकतन्त्रको आधार हो भन्ने सम्पादकीय आज प्रकाशित भएको छ।",
+      "link": "https://ekantipur.com",
+      "pubDate": 1790023236815,
+      "fromSnapshot": true,
       "category": "rajaniti",
-      "trendingScore": 75,
-      "breaking": true,
-      "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+      "trendingScore": 70,
+      "breaking": false
     },
     {
       "sourceId": "nagarik",
@@ -48,22 +47,10 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1789999768_44.jpg",
       "pubDate": 1790000047000,
       "category": "rajaniti",
-      "trendingScore": 75,
+      "trendingScore": 70,
       "breaking": true,
       "clusterId": "cluster-4KSvIOCkpiDgpKfgpLgg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "id": "ekantipur::snap-0",
-      "sourceId": "ekantipur",
-      "title": "कान्तिपुर सम्पादकीय: सुशासनको परीक्षा",
-      "description": "कानुनी राज्यको पालना नै लोकतन्त्रको आधार हो भन्ने सम्पादकीय आज प्रकाशित भएको छ।",
-      "link": "https://ekantipur.com",
-      "pubDate": 1790009249141,
-      "fromSnapshot": true,
-      "category": "rajaniti",
-      "trendingScore": 70,
-      "breaking": false
     },
     {
       "sourceId": "arthasarokar",
@@ -72,7 +59,7 @@
       "link": "https://arthasarokar.com/2026/09/china-donates-rs-11-million-to-flood-affected-children.html",
       "pubDate": 1789987344000,
       "category": "rajaniti",
-      "trendingScore": 70,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -85,7 +72,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ffa/live/1ce4a0a0-b5a6-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1789986435000,
       "category": "rajaniti",
-      "trendingScore": 70,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KS54KSwIOCkj-CklSDg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -97,7 +84,7 @@
       "link": "https://www.setopati.com/politics/398899",
       "pubDate": 1790005200000,
       "category": "rajaniti",
-      "trendingScore": 69,
+      "trendingScore": 64,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCkuOCkqiDgpLAg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -110,7 +97,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/china-nepal-help-150x150.jpg",
       "pubDate": 1789985085000,
       "category": "rajaniti",
-      "trendingScore": 69,
+      "trendingScore": 64,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -123,7 +110,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/Karnali-Sports-council.jpg",
       "pubDate": 1790002289000,
       "category": "rajaniti",
-      "trendingScore": 68,
+      "trendingScore": 62,
       "breaking": false,
       "clusterId": "cluster-4KSm4KS2IOCksCDgpLcg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -135,7 +122,7 @@
       "link": "https://www.setopati.com/social/398902",
       "pubDate": 1790002080000,
       "category": "rajaniti",
-      "trendingScore": 67,
+      "trendingScore": 62,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkp-CkrCDgpLDg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -148,7 +135,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1789999456_3.jpg",
       "pubDate": 1789999590000,
       "category": "rajaniti",
-      "trendingScore": 67,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpLIg4KSq",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -160,7 +147,7 @@
       "link": "https://arthasarokar.com/2026/09/govt-plans-to-build-new-cities-for-flood-victims.html",
       "pubDate": 1789978618000,
       "category": "rajaniti",
-      "trendingScore": 67,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -173,7 +160,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1789999249_77.jpg",
       "pubDate": 1789999288000,
       "category": "rajaniti",
-      "trendingScore": 66,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSX4KSyIOCkmyDgpLDg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -186,7 +173,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2024/09/pakrau.jpg",
       "pubDate": 1789998020000,
       "category": "rajaniti",
-      "trendingScore": 66,
+      "trendingScore": 61,
       "breaking": false,
       "clusterId": "cluster-4KSkIOCkqCDgpIXgpLXg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -199,7 +186,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/congress-4.jpg",
       "pubDate": 1789995966000,
       "category": "rajaniti",
-      "trendingScore": 65,
+      "trendingScore": 60,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCklyDgpLAg4KS4",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -211,10 +198,36 @@
       "link": "https://arthasarokar.com/2026/09/prime-ministers-relief-fund-reaches-rs-15-billion.html",
       "pubDate": 1789974011000,
       "category": "rajaniti",
-      "trendingScore": 65,
+      "trendingScore": 60,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksOCkpyDgpKjg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
+      "description": "काठमाडाैँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति &lsquo;१२ बजे १२समाचार&rsquo;मा प्रस्तुत गरेका छौँ&ndash; आजका मुख्य समाचारमा केन्द्रीय कमिटी बैठकमा गर्जिए ओली, कांग्रेसमा देउवा समूहले बढायो समानान्तर गतिविधि, आफू सवार रहेकै अवस्थामा चालकले",
+      "link": "https://www.ratopati.com/story/593804/12-news-at-12-these-are-todays-top-news-stories",
+      "image": "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2-(1)_fam6WtIhIE.jpg",
+      "pubDate": 1790016075000,
+      "category": "rajaniti",
+      "trendingScore": 59,
+      "breaking": false,
+      "clusterId": "cluster-4KWn4KWoIOCkrOCknCDg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "महाकाली यातायातको अध्यक्षमा भट्ट निर्वाचित",
+      "description": "महेन्द्रनगर । महाकाली यातायात बहुउद्देश्यीय कम्पनी प्रालिको अध्यक्षमा नवीन भट्ट निर्वाचित हुनुभएको छ । कम्पनीको अध्यक्ष र सञ्चालक सदस्यका लागि सोमबार भएको निर्वाचनमा प्रत्याशी विष्णु कँडेललाई पाँच मतले पराजित गर्दै भट्ट अध्यक्षमा निर्वाचित भएका हुन् । भट्टले",
+      "link": "https://www.ratopati.com/story/593803/bhatta-elected-as-chairman-of-mahakali-transportation",
+      "image": "https://npcdn.ratopati.com/media/news/kanchanpur_e3gtuuoi9c_NWReY0jTdJ.jpg",
+      "pubDate": 1790012874000,
+      "category": "rajaniti",
+      "trendingScore": 58,
+      "breaking": false,
+      "clusterId": "cluster-4KSu4KS5IOCklSDgpLIg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "karobar",
@@ -224,7 +237,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/gita-chaudhary-sabha-150x150.jpg",
       "pubDate": 1789990048000,
       "category": "rajaniti",
-      "trendingScore": 63,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -237,22 +250,10 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/sobita_sabha-150x150.jpg",
       "pubDate": 1789989753000,
       "category": "rajaniti",
-      "trendingScore": 63,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCkpCDgpKgg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "id": "onlinekhabar::snap-0",
-      "sourceId": "onlinekhabar",
-      "title": "संसद् बैठक आज बस्दै, प्रमुख विधेयकमाथि छलफल हुने",
-      "description": "प्रतिनिधिसभाको आजको बैठकमा दर्ता भएका विधेयकहरूमाथि दफावार छलफल गर्ने कार्यसूची तय भएको छ।",
-      "link": "https://www.onlinekhabar.com",
-      "pubDate": 1790009249140,
-      "fromSnapshot": true,
-      "category": "rajaniti",
-      "trendingScore": 62,
-      "breaking": false
     },
     {
       "sourceId": "ratopati",
@@ -262,7 +263,7 @@
       "image": "https://npcdn.ratopati.com/media/news/bbb_YiToxRc5hg.webp",
       "pubDate": 1790008357000,
       "category": "rajaniti",
-      "trendingScore": 62,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KWn4KWmIOCkrOCknCDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -275,7 +276,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Dol-prasad-aryal_sabhamukh_BBG-1-150x150.jpg",
       "pubDate": 1789986009000,
       "category": "rajaniti",
-      "trendingScore": 62,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -288,22 +289,10 @@
       "image": "https://npcdn.ratopati.com/media/news/white-house_FyR71j008N.jpg",
       "pubDate": 1790007663000,
       "category": "rajaniti",
-      "trendingScore": 61,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KS5IOCktSDgpIfgpJ8g",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "id": "onlinekhabar::snap-1",
-      "sourceId": "onlinekhabar",
-      "title": "निर्वाचन आयोगले तयारी तीव्र पारेको जनायो",
-      "description": "आगामी निर्वाचनलाई स्वच्छ, स्वतन्त्र र भयरहित बनाउन आयोगले सबै जिल्लामा निर्देशन पठाएको छ।",
-      "link": "https://www.onlinekhabar.com",
-      "pubDate": 1790007449141,
-      "fromSnapshot": true,
-      "category": "rajaniti",
-      "trendingScore": 61,
-      "breaking": false
     },
     {
       "sourceId": "ratopati",
@@ -313,23 +302,95 @@
       "image": "https://npcdn.ratopati.com/media/news/sudur_880qysxgKF.webp",
       "pubDate": 1790007114000,
       "category": "rajaniti",
-      "trendingScore": 61,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkpiDgpLDgpKrg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
-      "sourceId": "ratopati",
+      "sourceId": "nagarik",
       "title": "राजनीतिक दलका गतिविधिमा संलग्न शिक्षकलाई कारबाही गर्न शिक्षामन्त्रीको निर्देशन",
       "description": "शिक्षा तथा खेलकुद मन्त्रालयले राजनीतिक गतिविधिमा संलग्न शिक्षकलाइ कारवाही गर्ने भएको छ ।",
       "link": "https://nagariknews.nagariknetwork.com/education/education-minister-directs-action-against-teachers-involved-in-political-party-activities-37-37.html",
       "image": "https://images.nagariknewscdn.com/2026/third-party/1784717553_sasmit%20pokhrel.jpg",
       "pubDate": 1790006457000,
       "category": "rajaniti",
-      "trendingScore": 61,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCknOCkqCDgpKQg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "कांग्रेस महाधिवेशन : नेतृत्व चयन प्रतिस्पर्धात्मक कि सर्वसम्मत ?",
+      "description": "नेपाली कांग्रेसको आसन्न महाधिवेशनमा प्यानलगत प्रतिस्पर्धा नहुने नेताहरूले दाबी गरेका छन् । सभापति पदमा गगन थापाका प्रतिस्पर्धी नहुने विश्लेषणसहित प्यानल बनाउन आवश्यक नरहेको उनीहरूको तर्क छ ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2021608/congress-general-convention-is-leadership-selection-competitive-or-unanimous",
+      "pubDate": 1790006059000,
+      "category": "rajaniti",
+      "trendingScore": 56,
+      "breaking": false,
+      "clusterId": "cluster-4KSVIOCklyDgpLAg4KS4",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "एमाले बैठकमा ‌ओलीको एकल प्रस्तुति",
+      "description": "केन्द्रीय सदस्यलाई निर्देशन- आसन छोड्दा अध्यक्षको अनुमति लिनुपर्नेछ ।बोल्नुपर्दा अध्यक्षको ध्यानाकर्षण गराएर मात्रै बोल्नुपर्नेछ । विशेष परिस्थितिमा अध्यक्षलाई लागेमा बोल्ने समय फेरफेर हुनसक्नेछ ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2022528/olis-solo-performance-at-uml-meeting",
+      "pubDate": 1790005999000,
+      "category": "rajaniti",
+      "trendingScore": 56,
+      "breaking": false,
+      "clusterId": "cluster-4KSP4KSuIOCksiDgpKwg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "‘श्रीमान्–श्रीमतीको नाता कायम गर्न विवाह दर्ता प्रमाणपत्र अनिवार्य होइन’",
+      "description": "५ असोज, काठमाडौं । सर्वोच्च अदालतले श्रीमान्–श्रीमतीको नाता कायम गर्नका लागि विवाह दर्ताको प्रमाणपत्र अनिवार्य र अपरिहार्य नभएको भनी व्याख्या गरेको छ । आपसी सल्लाहमा मन्दिरमा गएर विवाह गरेका, त्यसपछि डेरा लिएर पतिपत्नीको रुपमा बसेका तर विवाह दर्ता लगायत कुनैपनि प्रक्रिया पूरा नगरेका एक किशोर–किशोरीको नाता सम्बन्ध विवादमा सर्वोच्च अदालतले ‘पतिपत्निको रुपमा एकअर्कालाई स्वीकारेको अवस्थामा […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2022520/a-marriage-registration-certificate-is-not-mandatory-to-establish-the-relationship-between-husband-and-wife",
+      "pubDate": 1790005967000,
+      "category": "rajaniti",
+      "trendingScore": 56,
+      "breaking": false,
+      "clusterId": "cluster-4KS2IOCksCDgpK4g4KSo",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "अरूको ध्यान अधिवेशनतिर, पूर्णबहादुरको अदालततिर",
+      "description": "नेपाली कांग्रेसका नेता–कार्यकर्ता महाधिवेशनमा केन्द्रित भइरहँदा पूर्वउपसभापति पूर्णबहादुर खड्काको नजर भने सर्वोच्च अदालतको फैसलातर्फ केन्द्रित भइरहेको छ । उनले राजनीतिक भन्दा कानुनी आधारलाई बढ्ता महत्व दिएको टिप्पणी भइरहेको छ ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2022339/while-others-focus-on-the-convention-purna-bahadurs-eyes-are-on-the-court",
+      "pubDate": 1790005883000,
+      "category": "rajaniti",
+      "trendingScore": 56,
+      "breaking": false,
+      "clusterId": "cluster-4KSF4KSwIOCklSDgpKcg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "परराष्ट्रमन्त्री खनाल न्युयोर्कमा",
+      "description": "५ असोज, न्युयोर्क । संयुक्त राष्ट्रसङ्घको ८१औँ महासभामा भाग लिन परराष्ट्रमन्त्री शिशिर खनाल न्युयोर्क आइपुगेका छन् । परराष्ट्रमन्त्री खनाललाई जेएफके अन्तरराष्ट्रिय विमानस्थलमा संयुक्त राष्ट्रसङ्घका लागि नेपालका स्थायी प्रतिनिधि लोकबहादुर थापा, महावाणिज्यदूत दधिराम भण्डारीलगायत नियोगका कर्मचारीले स्वागत गरेका थिए । मन्त्री खनालले नेपालले आयोजना गर्ने ‘एभरेष्ट टु द सी’ साइडलाइन बैठकको नेतृत्व गर्नेछन् । उनले विभिन्न […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2022568/foreign-minister-khanal-in-new-york",
+      "pubDate": 1790005478000,
+      "category": "rajaniti",
+      "trendingScore": 56,
+      "breaking": false,
+      "clusterId": "cluster-4KSq4KSw4KSwIOCktyDg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "पार्टी नेतृत्व सफल वा असफल भन्ने कुरा घामझैं झर्लङ्ग छ : राजेन्द्र राई",
+      "description": "५ असोज, काठमाडौं । नेकपा (एमाले) का सांसद राजेन्द्रकुमार राईले पार्टी अध्यक्ष केपी शर्मा ओलीको नेतृत्वमा पार्टी सफल भएको वा नभएको भन्नेबारे जनताले प्रष्ट देखेको दाबी गरेका छन् । सोमबार संसद भवन बाहिर सञ्चारकर्मीहरूसँग कुरा गर्दै सांसद राईले पार्टीको आन्तरिक समीक्षा प्रतिवेदनले एमालेको हारका कारण र जिम्मेवार पक्षहरूलाई उजागर गरिसकेको बताए । ओलीको नेतृत्वमा पार्टी […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2022559/whether-the-party-leadership-is-successful-or-unsuccessful-is-as-obvious-as-the-sun-rajendra-rai",
+      "pubDate": 1790004318000,
+      "category": "rajaniti",
+      "trendingScore": 55,
+      "breaking": false,
+      "clusterId": "cluster-4KSqIOCksCDgpJ8g4KSo",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "ratopati",
@@ -339,7 +400,7 @@
       "image": "https://npcdn.ratopati.com/media/news/sutkeri_bVV14iP5IL.webp",
       "pubDate": 1790003829000,
       "category": "rajaniti",
-      "trendingScore": 60,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCkuCDgpKQg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -352,7 +413,7 @@
       "image": "https://npcdn.ratopati.com/media/news/ge_8LdkbXQF4B.webp",
       "pubDate": 1790003282000,
       "category": "rajaniti",
-      "trendingScore": 60,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSaIOCkqOCkriDgpKYg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -365,10 +426,22 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790003316_khanal.jpg",
       "pubDate": 1790003272000,
       "category": "rajaniti",
-      "trendingScore": 60,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "सरकारसँग ८८ हजार टन मल मौज्दात, ८२ हजार टन बाटोमा",
+      "description": "हाल सरकारी गोदाममा ४० हजार ५ सय २५ टन युरिया, ३२ हजार ७ सय ८५ टन डीएपी र १४ हजार ५ सय ८१ टन पोटास मल मौज्दात छ ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2022465/government-has-88000-tons-of-fertilizer-in-stock-82000-tons-on-the-way",
+      "pubDate": 1790001815000,
+      "category": "rajaniti",
+      "trendingScore": 54,
+      "breaking": false,
+      "clusterId": "cluster-4KS44KSw4KSVIOCksOCk",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "nagarik",
@@ -378,49 +451,58 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790001865_99.png",
       "pubDate": 1790001666000,
       "category": "rajaniti",
-      "trendingScore": 59,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KS44KSw4KSVIOCksOCk",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
-      "sourceId": "ratopati",
-      "title": "ई–पासपोर्ट ठेक्का विवाद टुंगियो, आईडिमियाका तीनै रिट सर्वोच्चद्वारा खारेज",
-      "description": "काठमाडौँ। सर्वोच्च अदालतले ठेक्का प्रक्रियाविरुद्ध फ्रान्सेली कम्पनी &lsquo;आईडिमिया&rsquo;ले दायर गरेका तीन वटै रिट खारेज गरिदिएको छ । सर्वोच्चको उक्त आदेशसँगै नेपालको विद्युतीय राहदानी (ई&ndash;पासपोर्ट) आपूर्ति तथा प्रणाली व्यवस्थापनसम्बन्धी बहुचर्चित ठेक्का विवाद निरूपण भएको छ । न्यायाधीशद्वय कुमार",
-      "link": "https://www.ratopati.com/story/593776/e-passport-contract-dispute-resolved-supreme-court-dismisses-all-three-writs-filed-by-idemia",
-      "image": "https://npcdn.ratopati.com/media/news/supreme-court_KO9WPWYDRm.jpg",
-      "pubDate": 1790001481000,
+      "sourceId": "onlinekhabar",
+      "title": "राजनीतिक दलको कार्यक्रममा संलग्न भएको भन्दै सिन्धुलीका ४ शिक्षकलाई कारबाही सिफारिस",
+      "description": "५ असोज, काठमाडौं । सिन्धुलीका ४ जना शिक्षकलाई राजनीतिक गतिविधिमा संलग्न रहेको भन्दै कारबाहीका लागि सिफारिस गरिएको छ । शिक्षा विकास तथा समन्वय एकाइ, सिन्धुलीले जिल्लाका सामुदायिक विद्यालयमा कार्यरत शिक्षक तथा कर्मचारी राजनीतिक दलका कार्यक्रममा सक्रिय रूपमा सहभागी भएको पाइए कारबाही गर्न सम्बन्धित स्थानीय तहलाई निर्देशन दिएको हो । दुधौली नगरपालिका नगर कार्यपालिका, सुनकोशी गाउँपालिका […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2022527/action-recommended-against-4-teachers-from-sindhuli-for-participating-in-political-party-programs",
+      "pubDate": 1790000741000,
       "category": "rajaniti",
-      "trendingScore": 59,
+      "trendingScore": 54,
       "breaking": false,
-      "clusterId": "cluster-4KSIIOCkqiDgpLjgpKog",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+      "clusterId": "cluster-4KSwIOCknOCkqCDgpKQg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
-      "sourceId": "ratopati",
-      "title": "‘रूख र चारतारे झण्डा मात्रै कांग्रेस होइन’",
-      "description": "विराटनगर । नेपाली कांग्रेसभित्रको १५ औं महाधिवेशनअन्तर्गत वडा अधिवेशन अन्तिम चरणमा पुगेको छ । विशेष महाधिवेशनबाट पार्टी सभापति भएपछि अघि बढेको गगन थापा पक्ष देशका अधिकांश भागमा वडा तहको अधिवेशन गरिरहेको छ । तर, पार्टीका पूर्वसभापति शेरबहादुर",
-      "link": "https://www.ratopati.com/story/593774/congress-is-not-just-a-tree-and-a-four-star-flag",
-      "image": "https://npcdn.ratopati.com/media/news/kedar-karki_uN7wELTQwz.webp",
-      "pubDate": 1790000979000,
+      "sourceId": "onlinekhabar",
+      "title": "जाजरकोटमा २१ वर्षका युवा बने कांग्रेस वडा सभापति",
+      "description": "जाजरकोटको नलगाड नगरपालिका-७ मा नेपाली कांग्रेसको वडा अधिवेशनबाट २१ वर्षीय युवा वडा सभापति निर्वाचित भएका छन्।",
+      "link": "https://www.onlinekhabar.com/2026/09/2022512/21-year-old-youth-becomes-congress-ward-president-in-jajarkot",
+      "pubDate": 1790000513000,
       "category": "rajaniti",
-      "trendingScore": 59,
+      "trendingScore": 54,
       "breaking": false,
-      "clusterId": "cluster-4KSwIOCkliDgpLAg4KSa",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+      "clusterId": "cluster-4KScIOCknOCksOCklSDg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
-      "sourceId": "ratopati",
-      "title": "विद्यालय शिक्षाको पाठ्यक्रम परिमार्जन गरिँदै, आगामी शैक्षिक सत्रदेखि कार्यान्वयनमा आउला ?",
-      "description": "काठमाडौँ। सरकारले सात वर्षपछि विद्यालय शिक्षाको पाठ्यक्रम परिमार्जन गर्न लागेको छ । त्यसका लागि सरोकारवालाबाट प्राप्त सुझावहरूलाई एकीकृत गर्ने कार्य भइरहेको पाठ्यक्रम विकास केन्द्रले जनाएको छ। पाठ्यक्रम विकास केन्द्रका निर्देशक पुरुषोत्तम घिमिरेले शिक्षक, विद्यार्थी, अभिभावक, नीति",
-      "link": "https://www.ratopati.com/story/593768/the-school-curriculum-is-being-revised-will-it-be-implemented-from-the-next-academic-session",
-      "image": "https://npcdn.ratopati.com/media/news/ss_05DLnkn5Ha.webp",
-      "pubDate": 1790000100000,
+      "sourceId": "onlinekhabar",
+      "title": "गायक सपूतले दिए दिल्लीका मुख्यमन्त्रीलाई नेपाल घुम्ने निम्तो",
+      "description": "काठमाडौं । गायक प्रकाश सपूतले नयाँ दिल्लीका मुख्यमन्त्री रेखा गुप्तालाई नेपाल घुम्न निम्तो दिएका छन् । हाम्रो स्वाभिमान ट्रष्ट दिल्लीले आइतबार आयोजना गरेको तीज विशेष कार्यक्रमका अवसरमा नयाँ दिल्ली पुगेका सपूतले मुख्यमन्त्री गुप्तासहित संस्कृति मन्त्री केशव मिश्रलाई नेपाल भ्रमणका लागि निम्तो दिएका हुन् । ‘नेपाल अहिले विपद्को पीडा विस्तारै बिर्सिदै उठ्न थालेको छ, फेरि पुरानै […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2022499/singer-saput-invites-delhi-chief-minister-to-visit-nepal",
+      "pubDate": 1789998844000,
       "category": "rajaniti",
-      "trendingScore": 59,
+      "trendingScore": 53,
       "breaking": false,
-      "clusterId": "cluster-4KS1IOCkpiDgpK8g4KSy",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+      "clusterId": "cluster-4KSXIOCkr-CklSDgpLjg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "कांग्रेसको महाधिवेशन : ६३ जिल्लामा वडा अधिवेशन सकियो",
+      "description": "५ असोज, काठमाडौं । नेपाली कांग्रेसको १५औं केन्द्रीय महाधिवेशनअन्तर्गत देशका ६३ जिल्लामा वडा अधिवेशन सम्पन्न भएको छ। केन्द्रीय निर्वाचन समितिका सदस्य सचिव राजु कटुवालले सोमबार जारी गरेको प्रेस विज्ञप्तिअनुसार सोमबारसम्म काठमाडौं उपत्यकाका तीनसहित ६३ जिल्लामा वडा अधिवेशन सकिएको हो। समितिले दिएको जानकारीअनुसार धनुषा क्षेत्र नम्बर ४, मोरङ क्षेत्र नम्बर ६, नवलपरासी क्षेत्र नम्बर २, सप्तरी […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2022473/15th-congress-of-nepali-congress-ward-conventions-concluded-in-63-districts",
+      "pubDate": 1789997448000,
+      "category": "rajaniti",
+      "trendingScore": 53,
+      "breaking": false,
+      "clusterId": "cluster-4KSVIOCklyDgpLAg4KS4",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "nagarik",
@@ -430,7 +512,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1760588843_supreme.jpg",
       "pubDate": 1789996950000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSq4KSVIOCksCDgpIkg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -442,10 +524,22 @@
       "link": "https://arthasarokar.com/2026/09/the-government-withdrew-from-its-own-decision-within-2-months-vat-on-electricity-is-being-removed.html",
       "pubDate": 1789976540000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSG4KSrIOCksiDgpJfg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "सामाजिक र आर्थिक लोकतन्त्र स्थापित नभएसम्म राजनीतिक लोकतन्त्रको अर्थ छैन : उपेन्द्र यादव",
+      "description": "५ असोज, काठमाडौं । जनता समाजवादी पार्टी (जसपा) नेपालका अध्यक्ष उपेन्द्र यादवले सामाजिक र आर्थिक लोकतन्त्र स्थापित नभएसम्म राजनीतिक लोकतन्त्रको कुनै अर्थ, भविष्य वा स्थायित्व नहुने बताएका छन् । सोमबार काठमाडौंमा डा रेखा यादवद्वारा लिखित निर्झरको प्रश्न कथाकृतिको लोकार्पण गर्दै अध्यक्ष यादवले सामाजिक तथा आर्थिक रूपान्तरणका लागि सबैभन्दा पहिले जनताको सामाजिक चेतनामा परिवर्तन ल्याउनु अनिवार्य […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2022412/political-democracy-has-no-meaning-until-social-and-economic-democracy-is-established-upendra-yadav",
+      "pubDate": 1789994845000,
+      "category": "rajaniti",
+      "trendingScore": 52,
+      "breaking": false,
+      "clusterId": "cluster-4KS4IOCkriDgpJwg4KSV",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "karobar",
@@ -455,7 +549,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/05/lumbini-cm-office-150x150.jpg",
       "pubDate": 1789972370000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSyIOCkriDgpKwg4KSo",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -467,7 +561,7 @@
       "link": "https://www.ujyaaloonline.com/detail/131773",
       "pubDate": 1789991640000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSuIOCksiDgpK4g",
       "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
@@ -480,7 +574,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2023/08/bidhut-prasaran-line-photo-150x150.jpg",
       "pubDate": 1789969347000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSm4KSuIOCksiDgpK3g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -493,7 +587,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/11/sampadakiya_editorial_karobar_BBG-150x150.jpg",
       "pubDate": 1789968866000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KStIOCksOCktyDgpJ8g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -506,7 +600,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/08/nagendra-shaha-150x150.jpg",
       "pubDate": 1789921633000,
       "category": "rajaniti",
-      "trendingScore": 55,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSy4KSqIOCklyDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -519,7 +613,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/singhdurbar-150x150.jpg",
       "pubDate": 1789962342000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkueCkpuCksOCk",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -532,7 +626,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/12/Fly-Dubai-150x150.jpg",
       "pubDate": 1789888114000,
       "category": "rajaniti",
-      "trendingScore": 27,
+      "trendingScore": 22,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCkluCksCDgpKYg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -545,7 +639,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Dang_uddhyog-banijya-sangh_dang-150x150.jpg",
       "pubDate": 1789887818000,
       "category": "rajaniti",
-      "trendingScore": 26,
+      "trendingScore": 21,
       "breaking": false,
       "clusterId": "cluster-4KSmIOCkmSDgpIngpLUg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -558,7 +652,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/04/sudur_Arthik-Mamila-150x150.jpg",
       "pubDate": 1789886706000,
       "category": "rajaniti",
-      "trendingScore": 26,
+      "trendingScore": 21,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkpiDgpLDgpKrg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -571,7 +665,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2022/02/BEER-150x150.png",
       "pubDate": 1789886186000,
       "category": "rajaniti",
-      "trendingScore": 26,
+      "trendingScore": 21,
       "breaking": false,
       "clusterId": "cluster-4KS5IOCktSDgpLgg4KSV",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
