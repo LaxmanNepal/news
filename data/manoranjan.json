@@ -1,41 +1,17 @@
 {
-  "generatedAt": "2026-09-21T00:29:03.479Z",
+  "generatedAt": "2026-09-21T05:20:23.830Z",
   "category": "manoranjan",
   "articles": [
     {
-      "sourceId": "setopati",
-      "title": "'महाराजा २' बन्दै, हलिउड रिमेकबारे विजयको यस्तो चाहना",
-      "description": "अभिनेता विजय सेतुपतिले दोस्रो भाग बन्ने पुष्टि गरेका हुन्।",
-      "link": "https://www.setopati.com/art/bollywood/398813",
-      "pubDate": 1789910460000,
-      "category": "manoranjan",
-      "trendingScore": 56,
-      "breaking": false,
-      "clusterId": "cluster-4KSu4KS5IOCksCDgpJwg",
-      "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
-    },
-    {
       "sourceId": "onlinekhabar",
-      "title": "भाका अनौठो, शब्द रोचक : यसरी भाइरल भयो ‘भकारीका धान’",
-      "description": "यो गीत गाउन गला माझिरहनुपर्दैन । स्वरयन्त्रलाई आरोह–अवरोहमा पुर्‍याउनु पर्दैन । स्वर सुरिलो र भाका मधुर हुनु पनि जरुरी छैन ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2021639/how-did-bhakarika-dhan-mera-badure-go-viral",
-      "pubDate": 1789920735000,
+      "title": "हत्तेरिका ! होशप्रसाद हुँ म",
+      "description": "‘होशप्रसाद हुँ म’ भन्दै टेलिभिजनमा हप्तैपिच्छे देखापर्ने उनी अचानक गायब भए । त्यसपछि कहाँ गए ?",
+      "link": "https://www.onlinekhabar.com/2026/09/2021830/hatterika-i-am-hosprasad",
+      "pubDate": 1789958221000,
       "category": "manoranjan",
-      "trendingScore": 51,
+      "trendingScore": 58,
       "breaking": false,
-      "clusterId": "cluster-4KStIOCklSDgpIXgpKgg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "नेपाल, भुटान र भारतको संयुक्त निर्माणमा बनेको ‘टनेल २६’ को प्रदर्शन मिति तय",
-      "description": "काठमाडौं । नेपाल, भुटान र भारतको सहकार्यमा निर्माण भएको जम्बी हरर फिल्म ‘टनेल २६ : द कर्स बिनिथ द माउन्टेन’ २३ असोजदेखि प्रदर्शनमा आउने भएको छ । सांगे सेल्ट्रिम फिल्म्स र पिक एक्सभी स्टुडियोजको ब्यानरमा निर्माण भएको फिल्ममा चौधरी ग्रुपका निर्वाण चौधरी, अभिनेता प्रदीप खड्का, भारतीय फिल्ममेकर प्रशान्त कुमार गुप्ता, भुटानी अभिनेता सांगे सेल्ट्रिम तथा […]",
-      "link": "https://www.onlinekhabar.com/2026/09/2021693/exhibition-date-set-for-tunnel-26-jointly-built-by-nepal-bhutan-and-india",
-      "pubDate": 1789913843000,
-      "category": "manoranjan",
-      "trendingScore": 49,
-      "breaking": false,
-      "clusterId": "cluster-4KSoIOCkqiDgpLIg4KSt",
+      "clusterId": "cluster-4KS54KSkIOCkpCDgpLAg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     }
   ]
