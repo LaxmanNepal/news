@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T05:20:23.830Z",
+  "generatedAt": "2026-09-21T10:51:57.216Z",
   "sources": [
     {
       "id": "onlinekhabar",
@@ -8,8 +8,9 @@
       "feed": "https://www.onlinekhabar.com/feed",
       "category": "taja",
       "tag": "OK",
-      "ok": true,
-      "count": 40
+      "ok": false,
+      "count": 0,
+      "error": "This operation was aborted"
     },
     {
       "id": "ratopati",
@@ -29,7 +30,7 @@
       "category": "taja",
       "tag": "NG",
       "ok": true,
-      "count": 20
+      "count": 7
     },
     {
       "id": "ujyaalo",

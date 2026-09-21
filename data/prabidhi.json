@@ -1,31 +1,30 @@
 {
-  "generatedAt": "2026-09-21T05:20:23.830Z",
+  "generatedAt": "2026-09-21T10:51:57.216Z",
   "category": "prabidhi",
   "articles": [
     {
-      "sourceId": "setopati",
-      "title": "१४५१ जनाको शव फेला, ५७८६ जना अझै बेपत्ता",
-      "description": "भोटेकोशी-त्रिशूली नदीमा भदौ १० गते आएको विनाशकारी बाढीमा परी मृत्यु हुनेको संख्या १ हजार ४५१ पुगेको छ।",
-      "link": "https://www.setopati.com/social/398830",
-      "pubDate": 1789965079000,
+      "id": "techmandu::snap-0",
+      "sourceId": "techmandu",
+      "title": "नेपालमा डिजिटल भुक्तानीको प्रयोग तीव्र गतिमा बढ्दै",
+      "description": "मोबाइल वालेट र क्यूआर भुक्तानीले साना व्यापारीसम्म पहुँच बढाएको छ।",
+      "link": "https://techmandu.com",
+      "pubDate": 1789987917216,
+      "fromSnapshot": true,
       "category": "prabidhi",
-      "trendingScore": 85,
-      "breaking": true,
-      "clusterId": "cluster-4KWn4KWq4KWr4KWnIOCk",
-      "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
+      "trendingScore": 70,
+      "breaking": false
     },
     {
-      "sourceId": "rajdhani",
-      "title": "भोटेकोशी बाढी अपडेट : १ हजार ४५१ जनाको शव फेला, ४ हजार ६५५ बेपत्ता",
-      "description": "काठमाडौं । रसुवाको भोटेकोशीमा आएको विनाशकारी बाढीका कारण सोमबार बिहान ५ बजेसम्म १ हजार ४५१ जनाको शव फेला परेको छ । जसमध्ये रसुवामा २३६ जना, नुवाकोटमा २०३ जना, धादिङमा ७२ जना, चितवनमा ३६७ जना, गोरखामा ७९ जना, तनहुँमा ३८ जना, नवलपरासी पूर्वमा २३२ जना र नवलपरासी पश्‍चिममा २२२ जना गरी १ हजार ४४९ जनाको शव […] The post भोटेकोशी बाढी अपडेट : १ हजार ४५१ जनाको शव फेला, ४ हजार ६५५ बेपत्ता appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDaily.com - Online Nepali News Portal-Latest Nepali Online News portal of Nepali Polities, economics, news, top stories, national, international, politics, sports, business, finance, entertainment, photo-gallery, audio, video and more... .",
-      "link": "https://rajdhanidaily.com/id/148655",
-      "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/badhii.jpg",
-      "pubDate": 1789961400000,
+      "sourceId": "setopati",
+      "title": "जन्मदिनमा आमालाई यी शब्द उपहार!",
+      "description": "त्यति बेला लाग्दथ्यो- आमा भनेकै यही हो जसको संसारमा आफूभन्दा ठुलो केही हुँदैन तर ठुलो हुँदै गएपछि थाहा भयो— आमाको पनि एउटा संसार रहेछ।",
+      "link": "https://www.setopati.com/literature/398874",
+      "pubDate": 1789985640000,
       "category": "prabidhi",
-      "trendingScore": 76,
-      "breaking": true,
-      "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
-      "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
+      "trendingScore": 69,
+      "breaking": false,
+      "clusterId": "cluster-4KSc4KSoIOCkruCkpiDg",
+      "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
     },
     {
       "sourceId": "bbcnepali",
@@ -35,60 +34,23 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3edb/live/3fdc0b50-b35a-11f1-b949-71f91f81d1ab.jpg",
       "pubDate": 1789954913000,
       "category": "prabidhi",
-      "trendingScore": 73,
+      "trendingScore": 66,
       "breaking": true,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
     },
     {
-      "id": "techmandu::snap-0",
-      "sourceId": "techmandu",
-      "title": "नेपालमा डिजिटल भुक्तानीको प्रयोग तीव्र गतिमा बढ्दै",
-      "description": "मोबाइल वालेट र क्यूआर भुक्तानीले साना व्यापारीसम्म पहुँच बढाएको छ।",
-      "link": "https://techmandu.com",
-      "pubDate": 1789968023830,
-      "fromSnapshot": true,
-      "category": "prabidhi",
-      "trendingScore": 70,
-      "breaking": false
-    },
-    {
       "sourceId": "ratopati",
-      "title": "सन् २०३० सम्ममा एआईले मानव जाति समाप्त पार्ने दाबी ‘भ्रामक’ : एनभिडियाका सीईओ ह्वाङ",
-      "description": "न्युयोर्क । एनभिडियाका मुख्य कार्यकारी अधिकृत (सीईओ) जेन्सन ह्वाङले आगामी दशकभित्रै आर्टिफिसियल इन्टेलिजेन्स (एआई) ले मानव जातिको अस्तित्व समाप्त पार्न सक्ने चेतावनीलाई भ्रामक र काल्पनिक कथाको संज्ञा दिएका छन्। सन् २०३० मा संसारको अन्त्य नहुने र",
-      "link": "https://www.ratopati.com/story/593581/claims-that-ai-will-eliminate-humans-by-2030-are-misleading-nvidia-ceo-huang",
-      "image": "https://npcdn.ratopati.com/media/news/jensen-huang_RbqYhASKMY.webp",
-      "pubDate": 1789965783000,
+      "title": "बसमा आगलागी हुँदा राहदानी सेवा प्रभावित",
+      "description": "काठमाडौँ। काठमाडौँको त्रिपुरेश्वरस्थित राहदानी विभाग अगाडिको सडकमा भएको बस आगलागीका कारण राहदानी सेवा प्रभावित भएको छ । विभाग परिसर नजिकै सडकमा गुडिरहेको बसमा आगलागी भएपछि त्यस क्षेत्रमा विद्युत् र इन्टरनेट सेवा अवरुद्ध हुन पुगेको हो। विद्युत् तथा",
+      "link": "https://www.ratopati.com/story/593702/passport-services-affected-as-bus-catches-fire-on-road",
+      "image": "https://npcdn.ratopati.com/media/news/rahadani-bibhag_q2msRqAAGJ.jpg",
+      "pubDate": 1789985652000,
       "category": "prabidhi",
       "trendingScore": 61,
       "breaking": false,
-      "clusterId": "cluster-4KS44KSoIOClqOClpuCl",
+      "clusterId": "cluster-4KSs4KS44KSuIOCkhuCk",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "सामसङले नेपाली बजारमा ल्यायो ‘ग्यालेक्सी एस२६एफई’",
-      "description": "काठमाडौँ । सामसङ नेपालले ग्यालेक्सी एस२६ सिरिजअन्तर्गत नयाँ स्मार्टफोन ग्यालेक्सी एस२६एफई सार्वजनिक गरेको छ। वान यूआई ९ प्रणालीसहित बजारमा आएको यो पहिलो स्मार्टफोन हो। उच्च क्यामेरा प्रविधि र नयाँ ग्यालेक्सी एआई सुविधाहरू रहेको यो फोनले दैनिक फोटो",
-      "link": "https://www.ratopati.com/story/593575/samsung-launches-galaxy-s26fe-in-the-nepali-market",
-      "image": "https://npcdn.ratopati.com/media/news/4x5_offer_s26-fe_05_LtEaD845B3.webp",
-      "pubDate": 1789965221000,
-      "category": "prabidhi",
-      "trendingScore": 61,
-      "breaking": false,
-      "clusterId": "cluster-4KS4IOCkruCkuOCkmeCk",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ujyaalo",
-      "title": "साउदी छाडेर गाईभैँसीपालन, दूध बेचेर मासिक एक लाख आम्दानी",
-      "description": "साउदीमा बिरामी भएपछि स्वदेश फर्किनुभएका उहाँले अन्य रोजगारीको विकल्प नदेखेपछि तीन वटा गाईभैँसीबाट पशुपालन शुरू गर्नुभएको थियो ।",
-      "link": "https://www.ujyaaloonline.com/detail/131751",
-      "pubDate": 1789960320000,
-      "category": "prabidhi",
-      "trendingScore": 59,
-      "breaking": false,
-      "clusterId": "cluster-4KS4IOCkieCkpiDgpJsg",
-      "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
     },
     {
       "sourceId": "karobar",
@@ -98,7 +60,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/08/nuwakot_badi-150x150.jpg",
       "pubDate": 1789891342000,
       "category": "prabidhi",
-      "trendingScore": 50,
+      "trendingScore": 43,
       "breaking": false,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -111,23 +73,10 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/krishnabhir-sadak-150x150.jpg",
       "pubDate": 1789881095000,
       "category": "prabidhi",
-      "trendingScore": 47,
+      "trendingScore": 40,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCktyDgpKPgpK0g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "bbcnepali",
-      "title": "छोरी पढाउन खाली खुट्टा दौडिएकी आमा भाइरल भएपछि भारतमा शिक्षा प्रणालीबारे बहस",
-      "description": "जीवनमा धावक बन्ने कल्पनासमेत नगरेकी एक जना भारतीय आमा खाली खुट्टा दौडिएर एउटा ठूलो विषयको प्रतीक बनिन्।",
-      "link": "https://www.bbc.com/nepali/articles/ckjw58w6zq39o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a223/live/0ccb5b40-b4da-11f1-bc1f-3f186ca4140c.jpg",
-      "pubDate": 1789899503000,
-      "category": "prabidhi",
-      "trendingScore": 45,
-      "breaking": false,
-      "clusterId": "cluster-4KSbIOCksCDgpKrgpKIg",
-      "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
     },
     {
       "sourceId": "karobar",
@@ -137,7 +86,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/05/baideshik-rojgari_bideshi-150x150.jpg",
       "pubDate": 1789887003000,
       "category": "prabidhi",
-      "trendingScore": 41,
+      "trendingScore": 34,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCknOCklyDgpLAg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -150,23 +99,10 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7240/live/45a99c10-b313-11f1-bc1f-3f186ca4140c.jpg",
       "pubDate": 1789870828000,
       "category": "prabidhi",
-      "trendingScore": 35,
+      "trendingScore": 28,
       "breaking": false,
       "clusterId": "cluster-4KSo4KSvIOCkqiDgpKAg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "साझा यातायातको डिजिटल टिकटिङ प्रणालीमा एनआईएमबीको सहकार्य",
-      "description": "काठमाडौं- साझा यातायातको डिजिटल टिकटिङ प्रणालीमा नेपाल इन्भेस्टमेन्ट मेगा (एनआईएमबी) बैंकले सहकार्य गर्ने भएको छ । नेपालको सार्वजनिक यातायातलाई आधुनिक, पारदर्शी, प्रविधिमैत्री तथा अन्तर्राष्ट्रियस्तरको प्रणालीका रूपमा विकास गर्ने उद्देश्यअनुरूप साझा यातायात (सहकारी संस्था लि.) ले सार्वजनिक यातायात सञ्चालन तथा भाडा संकलन प्रणालीलाई डिजिटल प्रविधिमार्फत थप व्यवस्थित बनाउने पहल अघि बढाएको हो । यसै अभियानअन्तर्गत यस […]",
-      "link": "https://www.karobardaily.com/news/418462",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Sajha-Yatayat-150x150.png",
-      "pubDate": 1789820277000,
-      "category": "prabidhi",
-      "trendingScore": 17,
-      "breaking": false,
-      "clusterId": "cluster-4KS4IOCknSDgpK8g4KSk",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
       "sourceId": "bbcnepali",
@@ -176,23 +112,10 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0115/live/3cf974a0-b3e5-11f1-b1d1-571ed4d7ff2c.jpg",
       "pubDate": 1789817754000,
       "category": "prabidhi",
-      "trendingScore": 16,
+      "trendingScore": 9,
       "breaking": false,
       "clusterId": "cluster-4KSV4KSrIOCkqiDgpI_g",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "भन्सार छलेर ल्याइएका १७ लाख ५६ हजार बराबरका सामान बरामद",
-      "description": "नियमित गस्तीमा रहेको सशस्त्र प्रहरी बलको टोलीले पर्साका विभिन्न स्थानबाट भन्सार छलेर ल्याइएका तथा लुकाइराखेका रु १७ लाख ५६ हजार ९९० बराबरका मोबाइल पार्टस् र कपडा बरामद गरेको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/Aparadh/goods-worth-rs-1-756-million-smuggled-in-through-customs-seized-62-71.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1752995504_nagarika-1200x560.jpg",
-      "pubDate": 1789781957000,
-      "category": "prabidhi",
-      "trendingScore": 0,
-      "breaking": false,
-      "clusterId": "cluster-4KSt4KSoIOCkuCDgpLAg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     }
   ]
 }
