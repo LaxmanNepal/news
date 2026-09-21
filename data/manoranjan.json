@@ -1,19 +1,5 @@
 {
-  "generatedAt": "2026-09-21T10:51:57.216Z",
+  "generatedAt": "2026-09-21T16:47:29.141Z",
   "category": "manoranjan",
-  "articles": [
-    {
-      "sourceId": "ratopati",
-      "title": "फिल्म प्रमोसनका लागि भुटानका कलाकार नेपालमा",
-      "description": "काठमाडौँ । असोज २३ गतेको नेपाल रिलिजलाई लक्षित गर्दै फिल्मको प्रचारप्रसारका लागि &lsquo;टनेल&ndash;२६&rsquo;को भुटानी टोली नेपाल आइपुगेको छ । १६ जनाको टोली सोमबार बिहान नेपाल आइपुगेको हो । उनीहरूका अलावा थप ५ जना पनि नेपाल आउने",
-      "link": "https://www.ratopati.com/story/593713/bhutanese-artists-in-nepal-for-film-promotion",
-      "image": "https://npcdn.ratopati.com/media/news/bhutani-kalakar_TAs1CJFuF8.webp",
-      "pubDate": 1789987580000,
-      "category": "manoranjan",
-      "trendingScore": 62,
-      "breaking": false,
-      "clusterId": "cluster-4KSrIOCksiDgpK4g4KSq",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    }
-  ]
+  "articles": []
 }

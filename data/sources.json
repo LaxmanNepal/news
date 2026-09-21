@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T10:51:57.216Z",
+  "generatedAt": "2026-09-21T16:47:29.141Z",
   "sources": [
     {
       "id": "onlinekhabar",
@@ -30,7 +30,7 @@
       "category": "taja",
       "tag": "NG",
       "ok": true,
-      "count": 7
+      "count": 20
     },
     {
       "id": "ujyaalo",
@@ -72,7 +72,7 @@
       "tag": "GP",
       "ok": false,
       "count": 0,
-      "error": "HTTP 404"
+      "error": "fetch failed"
     },
     {
       "id": "arthasarokar",
@@ -146,7 +146,7 @@
       "category": "bidesh",
       "tag": "BBC",
       "ok": true,
-      "count": 19
+      "count": 18
     },
     {
       "id": "rajdhani",
