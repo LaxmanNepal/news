@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T17:19:57.024Z",
+  "generatedAt": "2026-09-22T20:16:05.395Z",
   "category": "khelkud",
   "articles": [
     {
@@ -8,11 +8,24 @@
       "title": "राष्ट्रिय क्रिकेट टोलीको घोषणा, नयाँ खेलाडीलाई अवसर",
       "description": "आगामी सिरिजका लागि टोली घोषणा गर्दै प्रशिक्षकले युवा खेलाडीलाई समावेश गरेका छन्।",
       "link": "https://ekantipur.com/sports",
-      "pubDate": 1790097597024,
+      "pubDate": 1790108165394,
       "fromSnapshot": true,
       "category": "khelkud",
       "trendingScore": 70,
       "breaking": false
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "‘अनलाइन गेम’ खेलाएको आरोपमा ४२ जना पक्राउ",
+      "description": "बाँके । बाँकेको कोहलपुरमा रहेको होटेल म्याक्समा &lsquo;अनलाइम गेम&rsquo; (सट्टेबाजी) खेलाएको आरोपमा प्रहरीले मंगलबार ४० जना भारतीय नागरिकसहित ४२ जनालाई पक्राउ गरेको छ । पक्राउ परेकामध्ये अन्य दुई जना नेपाली रहेको जिल्ला प्रहरी कार्यालयले जनाएको छ",
+      "link": "https://www.ratopati.com/story/594055/42-people-arrested-for-playing-online-games",
+      "image": "https://npcdn.ratopati.com/media/news/arrest-jail-group-cartoon_7ectnfd90s_mU7e0DbyYQ.jpg",
+      "pubDate": 1790106077000,
+      "category": "khelkud",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KSF4KSo4KSyIOCkh-Ck",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "onlinekhabar",
@@ -21,7 +34,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023381/extreme-price-hike-in-poultry-meat-consumers-being-robbed-at-retail",
       "pubDate": 1790092191000,
       "category": "khelkud",
-      "trendingScore": 60,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCkliDgpLAg4KSu",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -34,7 +47,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790087984_un2.jpg",
       "pubDate": 1790088824000,
       "category": "khelkud",
-      "trendingScore": 59,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSP4KS4IOCkryDgpLIg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -47,7 +60,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Pokhara-Cricket-Stadium-Marmat_NPL_ArjunGaha-14-150x150.jpg",
       "pubDate": 1790061437000,
       "category": "khelkud",
-      "trendingScore": 57,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KStIOCknyDgpKjgpJUg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -60,7 +73,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3c6f/live/f8098e90-b590-11f1-bc1f-3f186ca4140c.jpg",
       "pubDate": 1790041433000,
       "category": "khelkud",
-      "trendingScore": 50,
+      "trendingScore": 46,
       "breaking": false,
       "clusterId": "cluster-4KS44KS5IOCkpuCksCDg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"

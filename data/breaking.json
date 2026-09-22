@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-22T17:19:57.024Z",
+  "generatedAt": "2026-09-22T20:16:05.395Z",
   "articles": [
+    {
+      "sourceId": "ratopati",
+      "title": "परराष्ट्रमन्त्री खनाल र माल्दिभ्सकी विदेशमन्त्री इरुथिशामबिच भेटवार्ता",
+      "description": "काठमाडौँ । परराष्ट्रमन्त्री शिशिर खनाल र माल्दिभ्सकी विदेशमन्त्री इरुथिशाम एडमसँग द्विपक्षीय भेटवार्ता भएको छ । संयुक्त राष्ट्रसंघको ८१औँ महासभाका अवसरमा न्यूयोर्कमा भएको भेटवार्तामा मन्त्री खनालले नेपालमा हालै आएको विनाशकारी बाढीपछि माल्दिभ्स सरकार र जनताले व्यक्त गरेको",
+      "link": "https://www.ratopati.com/story/594046/foreign-minister-khanal-meets-with-maldives-foreign-minister-iruthisham",
+      "image": "https://npcdn.ratopati.com/media/news/shishir-maldives-vet_xUEYJCgAuD.webp",
+      "pubDate": 1790097649000,
+      "category": "rajaniti",
+      "trendingScore": 66,
+      "breaking": true,
+      "clusterId": "cluster-4KSq4KSw4KSwIOCktyDg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
     {
       "sourceId": "ratopati",
       "title": "दमकमा बस दुर्घटना हुँदा छ जना घाइते",
@@ -9,7 +22,7 @@
       "image": "https://npcdn.ratopati.com/media/news/accident-durghatana-acc-cartoon_nrzrx5tby7_4TzKnsDq9Y.jpg",
       "pubDate": 1790097372000,
       "category": "taja",
-      "trendingScore": 70,
+      "trendingScore": 66,
       "breaking": true,
       "clusterId": "cluster-4KSm4KSu4KSV4KSuIOCk",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -22,7 +35,7 @@
       "image": "https://npcdn.ratopati.com/media/news/phurkekhola_dhading_after-flood_npl-(5)_2M3Zzd6r87.webp",
       "pubDate": 1790095562000,
       "category": "rajaniti",
-      "trendingScore": 77,
+      "trendingScore": 73,
       "breaking": true,
       "clusterId": "cluster-4KSrIOCksCDgpJUg4KSW",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -35,7 +48,7 @@
       "image": "https://npcdn.ratopati.com/media/news/sudur-sarkar_7OMLNFRawM.jpg",
       "pubDate": 1790093426000,
       "category": "rajaniti",
-      "trendingScore": 69,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksOCkpiDgpLYg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -48,7 +61,7 @@
       "image": "https://npcdn.ratopati.com/media/news/rasuwa-badhi_27y4wVkjOC.webp",
       "pubDate": 1790093234000,
       "category": "prabidhi",
-      "trendingScore": 68,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -60,7 +73,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022678/searching-for-a-new-life-in-the-dilapidated-syaphrubesi",
       "pubDate": 1790093124000,
       "category": "taja",
-      "trendingScore": 68,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KSs4KSX4KSwIOCkrOCk",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -73,7 +86,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1788689665_badi.jpg",
       "pubDate": 1790092932000,
       "category": "prabidhi",
-      "trendingScore": 68,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -85,7 +98,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023328/why-did-arjun-have-a-dispute-with-traffic-in-tripureshwor-what-does-his-family-say",
       "pubDate": 1790092596000,
       "category": "artha",
-      "trendingScore": 68,
+      "trendingScore": 64,
       "breaking": true,
       "clusterId": "cluster-4KSfIOCksCDgpKsg4KSV",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -97,7 +110,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023217/tetangche-connected-to-tibet-the-flood-did-not-touch-it-but-the-stove-stopped-burning",
       "pubDate": 1790092472000,
       "category": "prabidhi",
-      "trendingScore": 68,
+      "trendingScore": 64,
       "breaking": true,
       "clusterId": "cluster-4KSkIOCkrCDgpKzgpKTg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -109,7 +122,7 @@
       "link": "https://www.setopati.com/kinmel/others/398990",
       "pubDate": 1790091840000,
       "category": "artha",
-      "trendingScore": 76,
+      "trendingScore": 72,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSh",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -122,23 +135,10 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/07/kanchanpur-akhtiyar-.jpeg",
       "pubDate": 1790090974000,
       "category": "rajaniti",
-      "trendingScore": 76,
+      "trendingScore": 72,
       "breaking": true,
       "clusterId": "cluster-4KS44KSh4KSVIOCkhuCk",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "पूर्वी युक्रेनमा रुसी आक्रमणबाट चार जनाको मृत्यु",
-      "description": "काठमाडाैँ । पूर्वी युक्रेनको निप्रो सहरमा रुसी आक्रमणमा परी कम्तीमा चार जनाको मृत्यु भएको स्थानीय अधिकारीले मङ्गलबार बताएका छन्। राष्ट्रपति भोलोदिमिर जेलेन्स्की संयुक्त राष्ट्रसङ्घको महासभामा सहभागी हुन न्युयोर्कमा रहेका बेला आक्रमण भएको हो। निप्रोपेट्रोभस्क क्षेत्रीय गभर्नर",
-      "link": "https://www.ratopati.com/story/594018/four-killed-in-russian-attack-in-eastern-ukraine",
-      "image": "https://npcdn.ratopati.com/media/news/russia-ukraine_Whu28irguS.webp",
-      "pubDate": 1790087953000,
-      "category": "bidesh",
-      "trendingScore": 67,
-      "breaking": true,
-      "clusterId": "cluster-4KSqIOCksCDgpLUg4KSv",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "karobar",
@@ -148,7 +148,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/08/sadak_22-150x150.jpg",
       "pubDate": 1790074797000,
       "category": "artha",
-      "trendingScore": 70,
+      "trendingScore": 66,
       "breaking": true,
       "clusterId": "cluster-4KSX4KSyIOCkmyDgpLgg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -161,7 +161,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Tripureshwor-Bus-Aagalagi_NPL-2-150x150.jpeg",
       "pubDate": 1790059558000,
       "category": "artha",
-      "trendingScore": 64,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSkIOCksCDgpKog4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -174,7 +174,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/sdwew-150x150.png",
       "pubDate": 1790058274000,
       "category": "bidesh",
-      "trendingScore": 64,
+      "trendingScore": 60,
       "breaking": true,
       "clusterId": "cluster-4KSkIOCksCDgpLYg4KSy",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -187,7 +187,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Ghandruk-sadak-150x150.jpg",
       "pubDate": 1790056837000,
       "category": "rajaniti",
-      "trendingScore": 63,
+      "trendingScore": 60,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCksCDgpKAg4KSf",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -200,7 +200,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Dang_uddhyog-banijya-sangh_dang-150x150.jpg",
       "pubDate": 1790056400000,
       "category": "rajaniti",
-      "trendingScore": 63,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KSmIOCkmSDgpIngpLUg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -213,7 +213,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/apple-News-Jumla-.jpeg1_-150x150.jpeg",
       "pubDate": 1790056216000,
       "category": "artha",
-      "trendingScore": 63,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KWq4KWr4KWmIOCklSDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -226,23 +226,10 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/JCB-03.jpg-1-150x150.jpeg",
       "pubDate": 1790055775000,
       "category": "prabidhi",
-      "trendingScore": 63,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KScIOCkuCDgpKwg4KSm",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "bbcnepali",
-      "title": "नेपालले राष्ट्रसङ्घीय महासभामा उठाउनुपर्ने विषय के हुन्, फाइदा के हुन्छ",
-      "description": "बाढीले निम्त्याएको व्यापक क्षतिलाई संसारले देखेको बेला राष्ट्रसङ्घको महासभामा राखिने कुराहरूले अर्थ राख्ने र त्यसले नेपाललाई फाइदा पुग्ने विज्ञहरूले बताएका हुन्।",
-      "link": "https://www.bbc.com/nepali/articles/crz6z29n5n56o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1a84/live/7c0dfa20-b5a8-11f1-a430-4d16ee157c41.jpg",
-      "pubDate": 1790039667000,
-      "category": "artha",
-      "trendingScore": 57,
-      "breaking": true,
-      "clusterId": "cluster-4KSoIOCkqiDgpLLgpLIg",
-      "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
     }
   ]
 }

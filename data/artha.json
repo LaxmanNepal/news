@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T17:19:57.024Z",
+  "generatedAt": "2026-09-22T20:16:05.395Z",
   "category": "artha",
   "articles": [
     {
@@ -9,7 +9,7 @@
       "link": "https://www.setopati.com/kinmel/others/398990",
       "pubDate": 1790091840000,
       "category": "artha",
-      "trendingScore": 76,
+      "trendingScore": 72,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSh",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -22,7 +22,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/08/sadak_22-150x150.jpg",
       "pubDate": 1790074797000,
       "category": "artha",
-      "trendingScore": 70,
+      "trendingScore": 66,
       "breaking": true,
       "clusterId": "cluster-4KSX4KSyIOCkmyDgpLgg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -34,7 +34,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023328/why-did-arjun-have-a-dispute-with-traffic-in-tripureshwor-what-does-his-family-say",
       "pubDate": 1790092596000,
       "category": "artha",
-      "trendingScore": 68,
+      "trendingScore": 64,
       "breaking": true,
       "clusterId": "cluster-4KSfIOCksCDgpKsg4KSV",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -46,7 +46,7 @@
       "link": "https://www.setopati.com/politics/398989",
       "pubDate": 1790089080000,
       "category": "artha",
-      "trendingScore": 67,
+      "trendingScore": 63,
       "breaking": false,
       "clusterId": "cluster-4KSs4KS5IOCksuCktSDg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -59,10 +59,23 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/newskarkahna-news927100..jpeg",
       "pubDate": 1790084499000,
       "category": "artha",
-      "trendingScore": 65,
+      "trendingScore": 62,
       "breaking": false,
       "clusterId": "cluster-4KSq4KS44KSy4KSuIOCk",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "महिला उद्यमीलाई कोसेली घर",
+      "description": "तनहुँ । तनहुँका महिला उद्यमीले उत्पादन गरेका सामग्रीको बजारीकरण गर्ने उद्देश्यसहित सञ्चालनमा रहेको व्यास कोसेली घरले आफ्नो शाखा विस्तार गरेको छ । व्यास नगरपालिका&ndash;३, एकीकृत सेवा कार्यालय नजिकै नयाँ शाखा विस्तार गरेको हो । स्थानीय स्तरमा",
+      "link": "https://www.ratopati.com/story/594053/koseli-house-for-women-entrepreneurs",
+      "image": "https://npcdn.ratopati.com/media/news/tanahu-map_us5mlSwuC2.jpg",
+      "pubDate": 1790105131000,
+      "category": "artha",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KSu4KS5IOCksiDgpIng",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "karobar",
@@ -72,7 +85,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Tripureshwor-Bus-Aagalagi_NPL-2-150x150.jpeg",
       "pubDate": 1790059558000,
       "category": "artha",
-      "trendingScore": 64,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSkIOCksCDgpKog4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -85,7 +98,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2023/08/bidhut-prasaran-line-photo-150x150.jpg",
       "pubDate": 1790078641000,
       "category": "artha",
-      "trendingScore": 63,
+      "trendingScore": 59,
       "breaking": false,
       "clusterId": "cluster-4KSm4KSuIOCksiDgpKog",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -98,22 +111,9 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/PR-on-support-provided-under-CSR-photo-150x150.png",
       "pubDate": 1790077819000,
       "category": "artha",
-      "trendingScore": 63,
+      "trendingScore": 59,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSo4KSG4KSI4KS4",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "४५० कार्टुन स्याउ बोकेको ट्रक दुर्घटना, लाखौं क्षति",
-      "description": "जुम्ला– जुम्लाबाट सुर्खेततर्फ गएको स्याउ बोकेको मालवाहक ट्रक दुर्घटना हुँदा लाखौंको स्याउ तिला नदीमा बगेको छ । आइतबार दिउँसो ३ बजेतिर जुम्लाको तातोपानी गाउँपालिका–१ राँकाबाट ४५० कार्टुन स्याउ बोकेर गएको बाप्र ०१००६ ख ८७३० नम्बरको ट्रक कालिकोटको तिलागुफा नगरपालिका–१ स्थित भिग्ममा दुर्घटना भएको हो । अनियन्त्रित भई ट्रक भिग्मस्थित तिला नदीछेउमा पल्टिँदा स्याउका कार्टुन नदीमा […]",
-      "link": "https://www.karobardaily.com/news/419358",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/apple-News-Jumla-.jpeg1_-150x150.jpeg",
-      "pubDate": 1790056216000,
-      "category": "artha",
-      "trendingScore": 63,
-      "breaking": true,
-      "clusterId": "cluster-4KWq4KWr4KWmIOCklSDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
@@ -124,9 +124,22 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/kgh-group-150x150.jpg",
       "pubDate": 1790076630000,
       "category": "artha",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCklSDgpKQg4KSo",
+      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "karobar",
+      "title": "४५० कार्टुन स्याउ बोकेको ट्रक दुर्घटना, लाखौं क्षति",
+      "description": "जुम्ला– जुम्लाबाट सुर्खेततर्फ गएको स्याउ बोकेको मालवाहक ट्रक दुर्घटना हुँदा लाखौंको स्याउ तिला नदीमा बगेको छ । आइतबार दिउँसो ३ बजेतिर जुम्लाको तातोपानी गाउँपालिका–१ राँकाबाट ४५० कार्टुन स्याउ बोकेर गएको बाप्र ०१००६ ख ८७३० नम्बरको ट्रक कालिकोटको तिलागुफा नगरपालिका–१ स्थित भिग्ममा दुर्घटना भएको हो । अनियन्त्रित भई ट्रक भिग्मस्थित तिला नदीछेउमा पल्टिँदा स्याउका कार्टुन नदीमा […]",
+      "link": "https://www.karobardaily.com/news/419358",
+      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/apple-News-Jumla-.jpeg1_-150x150.jpeg",
+      "pubDate": 1790056216000,
+      "category": "artha",
+      "trendingScore": 59,
+      "breaking": true,
+      "clusterId": "cluster-4KWq4KWr4KWmIOCklSDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
@@ -137,7 +150,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/lsss-150x150.jpg",
       "pubDate": 1790076083000,
       "category": "artha",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCktyDgpKrgpLIg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -150,7 +163,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/KV-px.jpg-150x150.jpeg",
       "pubDate": 1790075723000,
       "category": "artha",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSy4KScIOCklSDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -162,7 +175,7 @@
       "link": "https://arthasarokar.com/2026/09/muktinath-capitals-mischief-selling-mutual-funds-as-ordinary-shares-by-making-investors-owls.html",
       "pubDate": 1790075516000,
       "category": "artha",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCklSDgpKQg4KSo",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -175,7 +188,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da46/live/b2e867c0-b66a-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1790074392000,
       "category": "artha",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KS2IOCkheCksCDgpKzg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -187,7 +200,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022617/mansarovar-kailash-yatra-hilsa-becomes-transit-hub",
       "pubDate": 1790095143000,
       "category": "artha",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCkqOCkuOCksCDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -199,7 +212,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022984/how-was-it-possible-for-the-stock-market-to-resume-operations-after-the-ransomware-attack",
       "pubDate": 1790094901000,
       "category": "artha",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCkryDgpKgg4KS4",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -212,35 +225,10 @@
       "image": "https://npcdn.ratopati.com/media/news/trump-on-un_W1kvBHx4E6.webp",
       "pubDate": 1790094802000,
       "category": "artha",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KSvIOCkj-CkqOCkriDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "arthasarokar",
-      "title": "सब्स्क्रिप्सन मोडलमा पठाओ, अब राइडरले कमिसन तिर्नुनपर्ने !",
-      "description": "काठमाडौँ । राइड सेयरिङ एप पठाओले राइडर तथा क्याप्टेनहरुका लागि सब्स्क्रिप्सन मोडल लागू गर्ने घोषणा गरेको छ । पठाओले कमिसनमा आधारित आम्दानी प्रणालीलाई परिवर्तन गर्दै सब्स्क्रिप्सनमा आधारित प्रणाली लागू गर्ने घोषणा गरेको हो । नयाँ व्यवस्थाअनुसार पठाओ क्याप्टेनले प्रत्येक राइडको आम्दानीबाट प्रतिशतका आधारमा कमिसन बुझाउनुपर्ने छैन । पठाओका अनुसार कमिसनको सट्टा अब राइडर तथा पठाओ Continue reading \"सब्स्क्रिप्सन मोडलमा पठाओ, अब राइडरले कमिसन तिर्नुनपर्ने !\"",
-      "link": "https://arthasarokar.com/2026/09/send-in-the-subscription-model-now-the-rider-will-not-have-to-pay-a-commission.html",
-      "pubDate": 1790071288000,
-      "category": "artha",
-      "trendingScore": 61,
-      "breaking": false,
-      "clusterId": "cluster-4KS44KSsIOCkuCDgpJUg",
-      "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "सामान्य बढेकाे सेयर बजारमा काराेबार ७ अर्ब नाघ्यो",
-      "description": "काठमाडौं- नेपाल स्टक एक्सचेञ्ज (नेप्से) परिसूचक ७.०६ अंकले बढेर दुई हजार ६५४.२८ मा पुगेको छ । ठूला कम्पनीको कारोबारमापन गर्ने सेन्सेटिभ परिसूचक दुई दशमलव ७१ अंकले बढेर ४७३.७९ मा पुगेको छ । फ्लोट सूचक शून्य दशमलव ५३ अंकले बढेर १८२.९९ मा पुगेको छ । त्यस्तै सेन्सेटिभ फ्लोट सूचक शून्य दशमलव ६८ अंकले बढेर १६० मा […]",
-      "link": "https://www.karobardaily.com/news/419528",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2024/04/Share_lagani-150x150.jpg",
-      "pubDate": 1790071127000,
-      "category": "artha",
-      "trendingScore": 61,
-      "breaking": false,
-      "clusterId": "cluster-4KS4IOCkriDgpKgg4KSv",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
       "sourceId": "onlinekhabar",
@@ -249,7 +237,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023370/the-united-nations-is-debating-to-restore-trust-in-itself-after-80-years",
       "pubDate": 1790093013000,
       "category": "artha",
-      "trendingScore": 60,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KWu4KWmIOCkteCksCDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -262,10 +250,35 @@
       "image": "https://npcdn.ratopati.com/media/news/kapada_dQ2R28KyjI.webp",
       "pubDate": 1790092900000,
       "category": "artha",
-      "trendingScore": 60,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KSmIOCkiCDgpK7gpLkg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "arthasarokar",
+      "title": "सब्स्क्रिप्सन मोडलमा पठाओ, अब राइडरले कमिसन तिर्नुनपर्ने !",
+      "description": "काठमाडौँ । राइड सेयरिङ एप पठाओले राइडर तथा क्याप्टेनहरुका लागि सब्स्क्रिप्सन मोडल लागू गर्ने घोषणा गरेको छ । पठाओले कमिसनमा आधारित आम्दानी प्रणालीलाई परिवर्तन गर्दै सब्स्क्रिप्सनमा आधारित प्रणाली लागू गर्ने घोषणा गरेको हो । नयाँ व्यवस्थाअनुसार पठाओ क्याप्टेनले प्रत्येक राइडको आम्दानीबाट प्रतिशतका आधारमा कमिसन बुझाउनुपर्ने छैन । पठाओका अनुसार कमिसनको सट्टा अब राइडर तथा पठाओ Continue reading \"सब्स्क्रिप्सन मोडलमा पठाओ, अब राइडरले कमिसन तिर्नुनपर्ने !\"",
+      "link": "https://arthasarokar.com/2026/09/send-in-the-subscription-model-now-the-rider-will-not-have-to-pay-a-commission.html",
+      "pubDate": 1790071288000,
+      "category": "artha",
+      "trendingScore": 57,
+      "breaking": false,
+      "clusterId": "cluster-4KS44KSsIOCkuCDgpJUg",
+      "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
+    },
+    {
+      "sourceId": "karobar",
+      "title": "सामान्य बढेकाे सेयर बजारमा काराेबार ७ अर्ब नाघ्यो",
+      "description": "काठमाडौं- नेपाल स्टक एक्सचेञ्ज (नेप्से) परिसूचक ७.०६ अंकले बढेर दुई हजार ६५४.२८ मा पुगेको छ । ठूला कम्पनीको कारोबारमापन गर्ने सेन्सेटिभ परिसूचक दुई दशमलव ७१ अंकले बढेर ४७३.७९ मा पुगेको छ । फ्लोट सूचक शून्य दशमलव ५३ अंकले बढेर १८२.९९ मा पुगेको छ । त्यस्तै सेन्सेटिभ फ्लोट सूचक शून्य दशमलव ६८ अंकले बढेर १६० मा […]",
+      "link": "https://www.karobardaily.com/news/419528",
+      "image": "https://www.karobardaily.com/wp-content/uploads/2024/04/Share_lagani-150x150.jpg",
+      "pubDate": 1790071127000,
+      "category": "artha",
+      "trendingScore": 57,
+      "breaking": false,
+      "clusterId": "cluster-4KS4IOCkriDgpKgg4KSv",
+      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
       "sourceId": "arthasarokar",
@@ -274,23 +287,10 @@
       "link": "https://arthasarokar.com/2026/09/nepal-stock-exchange-nepse-index-increased-by-7-06-points-to-close-at-2654-28-points-on-tuesday.html",
       "pubDate": 1790069655000,
       "category": "artha",
-      "trendingScore": 60,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCkl-CksuCkrCDg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "लोक कल्याणकारी विज्ञापनको बिल–बीजक बुझाउने समय थप",
-      "description": "काठमाडौँ। विज्ञापन बोर्डले लोक कल्याणकारी विज्ञापन प्रकाशन गरेका पत्रपत्रिकालाई बिल&ndash;बीजकसहितका आवश्यक कागजात बुझाउने समय थप गरेको छ। बोर्डले आर्थिक वर्ष २०७९/८० को पत्रपत्रिका वर्गीकरण पुनरावलोकनसहितको अन्तिम नतिजासम्बन्धी प्रतिवेदन, २०८२ मा समावेश भएका पत्रपत्रिकाका लागि यस्तो समय",
-      "link": "https://www.ratopati.com/story/594026/extension-of-time-for-submitting-invoices-for-public-welfare-advertisements",
-      "image": "https://npcdn.ratopati.com/media/news/bigyapan-bord_GBSIV45zTh.jpg",
-      "pubDate": 1790090038000,
-      "category": "artha",
-      "trendingScore": 59,
-      "breaking": false,
-      "clusterId": "cluster-4KSyIOCklSDgpJXgpLIg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "onlinekhabar",
@@ -299,7 +299,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023403/chitwans-royal-tulip-receives-five-star-deluxe-recognition",
       "pubDate": 1790085191000,
       "category": "artha",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSaIOCkpOCkteCkqOCk",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -311,7 +311,7 @@
       "link": "https://arthasarokar.com/2026/09/everest-bank-opens-new-building-and-134th-branch-in-dhangadhi.html",
       "pubDate": 1790064837000,
       "category": "artha",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSn4KSo4KSX4KSiIOCk",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -324,7 +324,7 @@
       "image": "https://media.arthasarokar.com/uploads/2026/09/Pataka-2.jpg",
       "pubDate": 1790064061000,
       "category": "artha",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCksiDgpLIg4KSV",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -336,23 +336,10 @@
       "link": "https://arthasarokar.com/2026/09/kamana-sewa-bikas-bank-establishes-passenger-waiting-bench-in-kumaripati-jawalakhel-section.html",
       "pubDate": 1790062528000,
       "category": "artha",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCkruCkqCDgpLgg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "bbcnepali",
-      "title": "नेपालले राष्ट्रसङ्घीय महासभामा उठाउनुपर्ने विषय के हुन्, फाइदा के हुन्छ",
-      "description": "बाढीले निम्त्याएको व्यापक क्षतिलाई संसारले देखेको बेला राष्ट्रसङ्घको महासभामा राखिने कुराहरूले अर्थ राख्ने र त्यसले नेपाललाई फाइदा पुग्ने विज्ञहरूले बताएका हुन्।",
-      "link": "https://www.bbc.com/nepali/articles/crz6z29n5n56o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1a84/live/7c0dfa20-b5a8-11f1-a430-4d16ee157c41.jpg",
-      "pubDate": 1790039667000,
-      "category": "artha",
-      "trendingScore": 57,
-      "breaking": true,
-      "clusterId": "cluster-4KSoIOCkqiDgpLLgpLIg",
-      "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -361,7 +348,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023356/hyundais-all-new-venue-now-available-in-bhairahawa-butwal-and-dang",
       "pubDate": 1790082257000,
       "category": "artha",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KS5IOCkqCDgpKEg4KSI",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -373,10 +360,23 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023352/iom-draws-attention-to-the-issue-of-sending-workers-to-malaysia-through-limited-manpower",
       "pubDate": 1790081700000,
       "category": "artha",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSu4KSyIOCkuCDgpK8g",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "bbcnepali",
+      "title": "नेपालले राष्ट्रसङ्घीय महासभामा उठाउनुपर्ने विषय के हुन्, फाइदा के हुन्छ",
+      "description": "बाढीले निम्त्याएको व्यापक क्षतिलाई संसारले देखेको बेला राष्ट्रसङ्घको महासभामा राखिने कुराहरूले अर्थ राख्ने र त्यसले नेपाललाई फाइदा पुग्ने विज्ञहरूले बताएका हुन्।",
+      "link": "https://www.bbc.com/nepali/articles/crz6z29n5n56o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1a84/live/7c0dfa20-b5a8-11f1-a430-4d16ee157c41.jpg",
+      "pubDate": 1790039667000,
+      "category": "artha",
+      "trendingScore": 53,
+      "breaking": false,
+      "clusterId": "cluster-4KSoIOCkqiDgpLLgpLIg",
+      "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
     },
     {
       "sourceId": "arthasarokar",
@@ -385,7 +385,7 @@
       "link": "https://arthasarokar.com/2026/09/79-savers-of-6-cooperatives-withdrawn-their-savings.html",
       "pubDate": 1790059102000,
       "category": "artha",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KS44KSu4KS4IOCkryDg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -398,7 +398,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2023/03/mahangi-150x150.jpg",
       "pubDate": 1790058566000,
       "category": "artha",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCkpCDgpLAg4KSu",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -411,7 +411,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/04/sudurpashchim_mukhyamantri-tatha-mantriparishad-150x150.jpeg",
       "pubDate": 1790057746000,
       "category": "artha",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSF4KS4IOCknCDgpKYg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -424,7 +424,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/03/Baideshik-rojgar-bibhag-150x150.jpg",
       "pubDate": 1790057618000,
       "category": "artha",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSvIOCksCDgpKrgpJUg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -437,7 +437,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/hospital-ghorahi-150x150.jpg",
       "pubDate": 1790057034000,
       "category": "artha",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSYIOCksCDgpLkg4KSu",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -450,7 +450,7 @@
       "image": "https://media.arthasarokar.com/uploads/2026/09/kite-1.jpg",
       "pubDate": 1790056289000,
       "category": "artha",
-      "trendingScore": 55,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSo4KScIOCklSDgpKYg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -463,7 +463,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/nepal-life-150x150.jpg",
       "pubDate": 1790055688000,
       "category": "artha",
-      "trendingScore": 55,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCktuCkqOCksiDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -476,7 +476,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/everest-bank-150x150.png",
       "pubDate": 1790055469000,
       "category": "artha",
-      "trendingScore": 55,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSn4KSo4KSX4KSiIOCk",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -489,7 +489,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/11/sampadakiya_editorial_karobar_BBG-150x150.jpg",
       "pubDate": 1790055139000,
       "category": "artha",
-      "trendingScore": 55,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSu4KS5IOCklyDgpKgg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -502,7 +502,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2022/10/0x0-150x150.jpg",
       "pubDate": 1790054544000,
       "category": "artha",
-      "trendingScore": 55,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSY4KSfIOCkryDgpLgg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -514,7 +514,7 @@
       "link": "https://arthasarokar.com/2026/09/the-price-of-gold-and-silver-has-fallen-9.html",
       "pubDate": 1790054102000,
       "category": "artha",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkqCDgpLAg4KSa",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -527,7 +527,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/03/Share_bazar_market_Karobardaily-150x150.jpg",
       "pubDate": 1790053986000,
       "category": "artha",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KShIOCknyDgpLngpKwg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -540,7 +540,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/09/Jagga-Kitta-Kat-150x150.jpg",
       "pubDate": 1790052874000,
       "category": "artha",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSY4KSw4KSc4KSXIOCk",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -553,7 +553,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/12/us-dollar12-150x150.png",
       "pubDate": 1790052846000,
       "category": "artha",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSv4KS4IOCkpCDgpJsg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -566,7 +566,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/pic-150x150.jpg",
       "pubDate": 1790049452000,
       "category": "artha",
-      "trendingScore": 53,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSy4KSXIOCkqCDgpJXg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -579,7 +579,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/ausadhi-150x150.png",
       "pubDate": 1790049197000,
       "category": "artha",
-      "trendingScore": 53,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSU4KS34KSnIOCkieCk",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -591,7 +591,7 @@
       "link": "https://arthasarokar.com/2026/09/nepse-says-problem-resolved-transactions-resume-normal-it-experts-say.html",
       "pubDate": 1790045149000,
       "category": "artha",
-      "trendingScore": 51,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkqiDgpLgg4KSy",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -604,7 +604,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/03/Purbadhar-150x150.jpg",
       "pubDate": 1790045128000,
       "category": "artha",
-      "trendingScore": 51,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksCDgpLUg4KSn",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -617,7 +617,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2021/03/krishi-nepal-150x150.png",
       "pubDate": 1790041503000,
       "category": "artha",
-      "trendingScore": 50,
+      "trendingScore": 46,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCktyDgpLIg4KSJ",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -629,7 +629,7 @@
       "link": "https://arthasarokar.com/2026/09/prabhu-bank-launches-prabhu-pravasi-samriddhi-yojana-to-provide-home-loan-up-to-rs-3-crore.html",
       "pubDate": 1789993889000,
       "category": "artha",
-      "trendingScore": 33,
+      "trendingScore": 29,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCkrSDgpKwg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -642,7 +642,7 @@
       "image": "https://media.arthasarokar.com/uploads/2026/09/nirdeshan-1.jpg",
       "pubDate": 1789991199000,
       "category": "artha",
-      "trendingScore": 32,
+      "trendingScore": 28,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkuCDgpJ_gpK4g",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -655,7 +655,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Tiago-ev_2026-150x150.jpeg",
       "pubDate": 1789988669000,
       "category": "artha",
-      "trendingScore": 31,
+      "trendingScore": 27,
       "breaking": false,
       "clusterId": "cluster-4KSo4KSvIOCknyDgpK8g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -668,7 +668,7 @@
       "image": "https://media.arthasarokar.com/uploads/2026/09/2final.jpg",
       "pubDate": 1789987832000,
       "category": "artha",
-      "trendingScore": 31,
+      "trendingScore": 27,
       "breaking": false,
       "clusterId": "cluster-4KWo4KWm4KWu4KWmIOCk",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -680,7 +680,7 @@
       "link": "https://arthasarokar.com/2026/09/annapurna-spiker-kings-on-journey-to-pride-with-extreme-energy-drink.html",
       "pubDate": 1789985971000,
       "category": "artha",
-      "trendingScore": 30,
+      "trendingScore": 26,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSVIOCkuCDgpJ8g",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -693,7 +693,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/07/ICP-Birgunj-150x150.jpeg",
       "pubDate": 1789985256000,
       "category": "artha",
-      "trendingScore": 30,
+      "trendingScore": 26,
       "breaking": false,
       "clusterId": "cluster-4KS1IOCksOCkl-CkqCDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
