@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-09-21T23:41:01.101Z",
+  "generatedAt": "2026-09-22T01:55:34.887Z",
   "category": "manoranjan",
   "articles": [
+    {
+      "sourceId": "ratopati",
+      "title": "कबड्डी–५ को टिजर सार्वजनिक",
+      "description": "काठमाडौँ । रामबाबु गुरुङको लेखन तथा निर्देशनमा रहेको फिल्म &lsquo;कबड्डी ५ः आफ्टर द फाइनल म्याच&rsquo;को टिजर सार्वजनिक भएको छ। सार्वजनिक टिजरमा फिल्मका मुख्य कलाकार बिके (विजय बराल)को एआईसँगको कनेक्सनलाई रोचक ढंगले प्रस्तुत गरिएको छ । यस्तै,",
+      "link": "https://www.ratopati.com/story/593827/teaser-of-kabaddi-5-released",
+      "image": "https://npcdn.ratopati.com/media/news/1000161540_G30zFJUQ8H.webp",
+      "pubDate": 1790041352000,
+      "category": "manoranjan",
+      "trendingScore": 62,
+      "breaking": false,
+      "clusterId": "cluster-4KSV4KSs4KShIOCkoSDg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
     {
       "sourceId": "onlinekhabar",
       "title": "उप्रेतीको अध्यक्षतामा इनास ओहायो गठन, ग्लोबल डान्स स्टुडियो उद्घाटन",
@@ -9,7 +22,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022554/inas-ohio-formed-under-upretis-presidency-global-dance-studio-inaugurated",
       "pubDate": 1790003646000,
       "category": "manoranjan",
-      "trendingScore": 51,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSJ4KSqIOCksCDgpKQg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -21,7 +34,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022549/teaser-of-jalaki-featuring-magar-culture-and-love-story-released",
       "pubDate": 1790002592000,
       "category": "manoranjan",
-      "trendingScore": 51,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSu4KSX4KSwIOCkuCDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -33,7 +46,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022545/trailer-of-narayan-tripathis-comeback-film-chameli-ko-poi-released",
       "pubDate": 1790001982000,
       "category": "manoranjan",
-      "trendingScore": 50,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCksCDgpK_gpKMg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -45,7 +58,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022530/sylvester-stallone-declines-trumps-hollywood-special-envoy-title",
       "pubDate": 1790001058000,
       "category": "manoranjan",
-      "trendingScore": 50,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSfIOCksOCkriDgpKrg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -57,7 +70,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022511/16-bhutanese-artists-in-kathmandu-to-promote-film",
       "pubDate": 1789999873000,
       "category": "manoranjan",
-      "trendingScore": 50,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSrIOCksiDgpK4g4KSq",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
