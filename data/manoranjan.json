@@ -1,44 +1,5 @@
 {
-  "generatedAt": "2026-09-22T12:41:18.163Z",
+  "generatedAt": "2026-09-22T17:19:57.024Z",
   "category": "manoranjan",
-  "articles": [
-    {
-      "sourceId": "setopati",
-      "title": "जेनजी पुस्ताको कथा भन्ने 'ल्यांङ ल्यांङ'को मुहूर्त, छायांकन बुधबारदेखि",
-      "description": "'फिल्मले जेनजी पुस्ताको प्रेम, संघर्ष र स्वतन्त्रताको कथा भन्नेछ,' उनले भने, 'विशेषगरी युवापुस्ताको मनोविज्ञान र समसामयिक कथालाई पर्दामा उतार्नेछौं।'",
-      "link": "https://www.setopati.com/art/art-activity/398974",
-      "pubDate": 1790076360000,
-      "category": "manoranjan",
-      "trendingScore": 68,
-      "breaking": false,
-      "clusterId": "cluster-4KScIOCkqOCknCDgpKog",
-      "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "प्रभासको बहुप्रतीक्षित फिल्म ‘फौजी’को रिलिज स्थगित",
-      "description": "मुम्बई । &lsquo;बाहुबली&rsquo; फेम अभिनेता प्रभासको मुख्य भूमिका रहने बहुप्रतीक्षित फिल्म &lsquo;फौजी&rsquo; को प्रदर्शन मिति पछि सरेको छ । लामो समयदेखि चर्चामा रहेको राघवपुडीको निर्देशन रहेको फिल्मको रिलिज पोस्टपोन्ड भएको निर्माण पक्षले जानकारी दिएको छ । फिल्मको",
-      "link": "https://www.ratopati.com/story/593965/the-release-of-prabhas-much-awaited-film-fauji-has-been-postponed",
-      "image": "https://npcdn.ratopati.com/media/news/fauji_45Zus0ejs9.webp",
-      "pubDate": 1790075030000,
-      "category": "manoranjan",
-      "trendingScore": 60,
-      "breaking": false,
-      "clusterId": "cluster-4KSqIOCksOCkrSDgpLjg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "‘थ्री इडियट्स’ को सिक्वल सन् २०२७ अप्रिलबाट छायांकन हुने, पुराना कलाकारहरू दोहोरिने",
-      "description": "मुम्बई । सन् २००९ को चर्चित ब्लकबस्टर फिल्म '३ इडियट्स' को सिक्वलको छायांकन अप्रिल २०२७ देखि सुरु हुन सक्ने भएको छ। निर्देशक राजकुमार हिरानी हाल यस फिल्मको पटकथामा काम गरिरहेका छन्। मिड-डेको रिपोर्ट अनुसार आमिर खानले फेब्रुअरीमा फिल्मको",
-      "link": "https://www.ratopati.com/story/593962/3-idiots-sequel-to-begin-filming-in-april-2027-old-cast-to-return",
-      "image": "https://npcdn.ratopati.com/media/news/3idiotsposterrelease_d_dbT9IwH8MY.webp",
-      "pubDate": 1790074130000,
-      "category": "manoranjan",
-      "trendingScore": 60,
-      "breaking": false,
-      "clusterId": "cluster-4KSlIOCksCDgpIfgpKEg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    }
-  ]
+  "articles": []
 }
