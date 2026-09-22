@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-09-22T20:16:05.395Z",
+  "generatedAt": "2026-09-22T23:00:33.675Z",
   "category": "bidesh",
   "articles": [
+    {
+      "sourceId": "ratopati",
+      "title": "रुससँग ‘ऊर्जा युद्धविराम’ का लागि वार्ता गर्न युक्रेन तयार : राष्ट्रपति जेलेन्स्की",
+      "description": "काठमाडौँ । युक्रेनका राष्ट्रपति भ्लोदोमिर जेलेन्स्कीले रुससँग &lsquo;ऊर्जा युद्धविराम&rsquo; (इनर्जी सिजफायर) का विषयमा वार्ता गर्न युक्रेन खुला रहेको बताएका छन् । संयुक्त राष्ट्रसंघको महासभाका क्रममा सञ्चारकर्मीहरूसँग कुरा गर्दै उनले यो प्रस्ताव रुसी प्रशासनिक केन्द्र क्रेमलिनसमक्ष",
+      "link": "https://www.ratopati.com/story/594060/ukraine-ready-to-negotiate-energy-ceasefire-with-russia-president-zelensky",
+      "image": "https://npcdn.ratopati.com/media/news/zelensky_auroOcZbmd.webp",
+      "pubDate": 1790111770000,
+      "category": "bidesh",
+      "trendingScore": 60,
+      "breaking": false,
+      "clusterId": "cluster-4KSwIOCkuOCkuCDgpJcg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
     {
       "sourceId": "rajdhani",
       "title": "एल निनोले बढाउँदै छ खाद्य सुरक्षामा जोखिम",
@@ -10,7 +23,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/el-nino-2292026094008-1000x0-1.jpg",
       "pubDate": 1790089920000,
       "category": "bidesh",
-      "trendingScore": 63,
+      "trendingScore": 60,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSyIOCkqCDgpKgg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -23,9 +36,22 @@
       "image": "https://npcdn.ratopati.com/media/news/ZbZX5kgCvl.jpg",
       "pubDate": 1790107836000,
       "category": "bidesh",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCkluCksCDgpIXg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "युक्रेनको रक्षा पहिलेभन्दा अझ बढी आवश्यक छ : फ्रान्सेली राष्ट्रपति म्याक्रोन",
+      "description": "काठमाडौँ । फ्रान्सका राष्ट्रपति इम्मानुएल म्याक्रोनले संयुक्त राष्ट्रसंघको ८१औँ महासभालाई सम्बोधन गर्दै युक्रेनको रक्षा पहिलेभन्दा अझ बढी गर्नुपर्ने आवश्यकता औंल्याएका छन् । हिउँद नजिकिँदै गर्दा युक्रेनको रक्षा &lsquo;पहिलेभन्दा धेरै&rsquo; गर्नुपर्ने अवस्था आएको उनको भनाइ छ । सम्बोधनका",
+      "link": "https://www.ratopati.com/story/594054/ukraines-defense-is-more-necessary-than-ever-french-president-macron",
+      "image": "https://npcdn.ratopati.com/media/news/macron_WNcG0oeh7q.webp",
+      "pubDate": 1790105752000,
+      "category": "bidesh",
+      "trendingScore": 58,
+      "breaking": false,
+      "clusterId": "cluster-4KSvIOCklSDgpLAg4KSo",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
@@ -36,23 +62,10 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/dhangadi-1.jpg",
       "pubDate": 1790084609000,
       "category": "bidesh",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KStIOCksCDgpLXgpLAg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "युक्रेनको रक्षा पहिलेभन्दा अझ बढी आवश्यक छ : फ्रान्सेली राष्ट्रपति म्याक्रोन",
-      "description": "काठमाडौँ । फ्रान्सका राष्ट्रपति इम्मानुएल म्याक्रोनले संयुक्त राष्ट्रसंघको ८१औँ महासभालाई सम्बोधन गर्दै युक्रेनको रक्षा पहिलेभन्दा अझ बढी गर्नुपर्ने आवश्यकता औंल्याएका छन् । हिउँद नजिकिँदै गर्दा युक्रेनको रक्षा &lsquo;पहिलेभन्दा धेरै&rsquo; गर्नुपर्ने अवस्था आएको उनको भनाइ छ । सम्बोधनका",
-      "link": "https://www.ratopati.com/story/594054/ukraines-defense-is-more-necessary-than-ever-french-president-macron",
-      "image": "https://npcdn.ratopati.com/media/news/macron_WNcG0oeh7q.webp",
-      "pubDate": 1790105752000,
-      "category": "bidesh",
-      "trendingScore": 61,
-      "breaking": false,
-      "clusterId": "cluster-4KSvIOCklSDgpLAg4KSo",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "karobar",
@@ -62,7 +75,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/sdwew-150x150.png",
       "pubDate": 1790058274000,
       "category": "bidesh",
-      "trendingScore": 60,
+      "trendingScore": 57,
       "breaking": true,
       "clusterId": "cluster-4KSkIOCksCDgpLYg4KSy",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -75,7 +88,7 @@
       "image": "https://npcdn.ratopati.com/media/news/trump-on-un-2_ixUYtwoyq0.webp",
       "pubDate": 1790096361000,
       "category": "bidesh",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCksiDgpIbgpKAg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -88,7 +101,7 @@
       "image": "https://npcdn.ratopati.com/media/news/qatar-sekih_PTx6aiyZ6D.webp",
       "pubDate": 1790095955000,
       "category": "bidesh",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSG4KSrIOCkqCDgpK0g",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -100,7 +113,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023489/it-was-exaggerated-to-say-that-the-roof-of-the-world-is-falling-from-nepal-but-the-impact-has-been-seen-antonio-guterres",
       "pubDate": 1790095079000,
       "category": "bidesh",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkqiDgpLLgpKwg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -112,7 +125,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023378/three-injured-in-india-for-prosthetic-limbs-at-government-expense",
       "pubDate": 1790095030000,
       "category": "bidesh",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCkpCDgpLAg4KSu",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -124,7 +137,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023478/erdogans-anger-over-palestines-absence-from-the-un-general-assembly",
       "pubDate": 1790092620000,
       "category": "bidesh",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -136,7 +149,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023463/cuba-and-iran-boycott-trumps-speech-at-the-un-general-assembly",
       "pubDate": 1790090842000,
       "category": "bidesh",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -149,7 +162,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790089272_trump.jpg",
       "pubDate": 1790089430000,
       "category": "bidesh",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCkuCDgpK8g4KSV",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -161,7 +174,7 @@
       "link": "https://arthasarokar.com/2026/09/5-arrested-for-swindling-millions-of-rupees.html",
       "pubDate": 1790065868000,
       "category": "bidesh",
-      "trendingScore": 55,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KS1IOCkpiDgpLYg4KSq",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -174,7 +187,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b524/live/0397d330-b5d1-11f1-b1d1-571ed4d7ff2c.jpg",
       "pubDate": 1790062927000,
       "category": "bidesh",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KS2IOCksCDgpLLgpJkg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -186,7 +199,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023357/china-objects-to-us-sanctions-on-iranian-airlines",
       "pubDate": 1790082387000,
       "category": "bidesh",
-      "trendingScore": 53,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSH4KSwIOCkqCDgpI_g",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -199,7 +212,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/988e/live/1d43e100-b58d-11f1-bc1f-3f186ca4140c.jpg",
       "pubDate": 1790056353000,
       "category": "bidesh",
-      "trendingScore": 51,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSWIOCkqCDgpJUg4KSw",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -212,7 +225,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5602/live/6c6011b0-b645-11f1-bc1f-3f186ca4140c.jpg",
       "pubDate": 1790055962000,
       "category": "bidesh",
-      "trendingScore": 51,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSbIOCktSDgpKjgpKYg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -225,7 +238,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/115b/live/9c34a510-b62f-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1790046317000,
       "category": "bidesh",
-      "trendingScore": 48,
+      "trendingScore": 44,
       "breaking": false,
       "clusterId": "cluster-4KScIOCkqiDgpKjgpK4g",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -238,22 +251,9 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/40ad/live/54908900-b28c-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1789972851000,
       "category": "bidesh",
-      "trendingScore": 21,
+      "trendingScore": 18,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCksiDgpK0g4KSv",
-      "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
-    },
-    {
-      "sourceId": "bbcnepali",
-      "title": "पाकिस्तान र चीनबीचको नयाँ सीमा सम्झौताका कारण भारत किन क्रुद्ध बनेको छ?",
-      "description": "भारतले दशकौँदेखि आफ्नो दाबी गर्दै आएको भूभागमा पाकिस्तान र चीनबीचको सीमानालाई मान्यता दिन अस्वीकार गर्दै आएको छ। बेइजिङ र इस्लामाबादले यतिखेर त्यस सीमाना संस्थागत गर्ने कदम चालेपछि दिल्लीले कडा प्रतिक्रिया जनाएको छ।",
-      "link": "https://www.bbc.com/nepali/articles/ck7904qevnp8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/713d/live/25e7b9e0-b55f-11f1-a430-4d16ee157c41.jpg",
-      "pubDate": 1789959752000,
-      "category": "bidesh",
-      "trendingScore": 17,
-      "breaking": false,
-      "clusterId": "cluster-4KSqIOCklSDgpLgg4KSk",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
     },
     {
@@ -271,13 +271,26 @@
     },
     {
       "sourceId": "bbcnepali",
+      "title": "पाकिस्तान र चीनबीचको नयाँ सीमा सम्झौताका कारण भारत किन क्रुद्ध बनेको छ?",
+      "description": "भारतले दशकौँदेखि आफ्नो दाबी गर्दै आएको भूभागमा पाकिस्तान र चीनबीचको सीमानालाई मान्यता दिन अस्वीकार गर्दै आएको छ। बेइजिङ र इस्लामाबादले यतिखेर त्यस सीमाना संस्थागत गर्ने कदम चालेपछि दिल्लीले कडा प्रतिक्रिया जनाएको छ।",
+      "link": "https://www.bbc.com/nepali/articles/ck7904qevnp8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/713d/live/25e7b9e0-b55f-11f1-a430-4d16ee157c41.jpg",
+      "pubDate": 1789959752000,
+      "category": "bidesh",
+      "trendingScore": 13,
+      "breaking": false,
+      "clusterId": "cluster-4KSqIOCklSDgpLgg4KSk",
+      "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
+    },
+    {
+      "sourceId": "bbcnepali",
       "title": "'बिहीवारदेखि भारी वर्षा हुने पूर्वानुमान'ले उब्जाएको चिन्ता, के भन्छन् सम्बन्धित निकाय र मौसमविद्?",
       "description": "मौसमविद्हरूले बङ्गालको खाडीमा विकास हुने क्रममा रहेको एउटा मौसमी अवस्थाको प्रभाव नेपालसम्म आइपुग्ने र त्यो पश्चिमी वायुमण्डलीय प्रणालीसँग मिसिएमा चर्को असर निम्त्याउन सक्ने चेतावनी दिइरहेका छन्।",
       "link": "https://www.bbc.com/nepali/articles/cwq63jevj5g6o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/05a2/live/c83b26b0-b4eb-11f1-b1d1-571ed4d7ff2c.jpg",
       "pubDate": 1789953506000,
       "category": "bidesh",
-      "trendingScore": 15,
+      "trendingScore": 11,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkuSDgpLUg4KSw",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"

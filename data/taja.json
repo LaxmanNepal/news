@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T20:16:05.395Z",
+  "generatedAt": "2026-09-22T23:00:33.675Z",
   "articles": [
     {
       "id": "ekantipur::snap-0",
@@ -7,7 +7,7 @@
       "title": "कान्तिपुर सम्पादकीय: सुशासनको परीक्षा",
       "description": "कानुनी राज्यको पालना नै लोकतन्त्रको आधार हो भन्ने सम्पादकीय आज प्रकाशित भएको छ।",
       "link": "https://ekantipur.com",
-      "pubDate": 1790108165394,
+      "pubDate": 1790118033675,
       "fromSnapshot": true,
       "category": "rajaniti",
       "trendingScore": 70,
@@ -19,7 +19,7 @@
       "title": "राष्ट्रिय क्रिकेट टोलीको घोषणा, नयाँ खेलाडीलाई अवसर",
       "description": "आगामी सिरिजका लागि टोली घोषणा गर्दै प्रशिक्षकले युवा खेलाडीलाई समावेश गरेका छन्।",
       "link": "https://ekantipur.com/sports",
-      "pubDate": 1790108165394,
+      "pubDate": 1790118033675,
       "fromSnapshot": true,
       "category": "khelkud",
       "trendingScore": 70,
@@ -31,11 +31,102 @@
       "title": "नेपालमा डिजिटल भुक्तानीको प्रयोग तीव्र गतिमा बढ्दै",
       "description": "मोबाइल वालेट र क्यूआर भुक्तानीले साना व्यापारीसम्म पहुँच बढाएको छ।",
       "link": "https://techmandu.com",
-      "pubDate": 1790108165394,
+      "pubDate": 1790118033675,
       "fromSnapshot": true,
       "category": "prabidhi",
       "trendingScore": 70,
       "breaking": false
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "भोटेकोशी बाढी: अधुरो आशा र काजकिरियाको दोधारमा छन् बेपत्ताका परिवार",
+      "description": "बाँके । भोटेकोशी बाढीमा आफन्त बेपत्ता भएका यहाँका प्रभावित परिवारले आफन्तजनको सास वा लासको टुङ्गो नलाग्दा मृत्यु संस्कार गर्न सकेका छैनन् । बाढीमा एकै परिवारका तीन आफन्त गुमाउनुभएका नेपालगन्ज उपमहानगरपालिका&ndash;२० थपुवा निवासी अनलाल रोकायले सास वा",
+      "link": "https://www.ratopati.com/story/594063/bhotekoshi-flood-families-of-the-missing-are-torn-between-unfulfilled-hopes-and-a-sense-of-hopelessness",
+      "image": "https://npcdn.ratopati.com/media/news/STbXGbWH5N.jpg",
+      "pubDate": 1790117961000,
+      "category": "prabidhi",
+      "trendingScore": 78,
+      "breaking": true,
+      "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "आज देशैभर कांग्रेसको पालिका अधिवेशन",
+      "description": "काठमाडौँ । नेपाली कांग्रेसले आज देशैभर पालिका तहको अधिवेशन गर्दै छ । सो पार्टीको १५औँ महाधिवेशनअन्तर्गत स्थानीय तहको सांगठनिक संरचना निर्माण गर्ने क्रममा पालिका अधिवेशन हुन लागेको हो । केही छिटपुट स्थानबाहेक देशभरका वडामा उत्साहजनक र",
+      "link": "https://www.ratopati.com/story/594062/congress-municipal-conventions-across-the-country-today",
+      "image": "https://npcdn.ratopati.com/media/news/congress-office-(1)_jngkj3r13m_7PHWnhfPpk.jpg",
+      "pubDate": 1790116919000,
+      "category": "rajaniti",
+      "trendingScore": 62,
+      "breaking": false,
+      "clusterId": "cluster-4KSG4KScIOCkpiDgpLYg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "भारी वर्षाको प्रक्षेपणपछि काभ्रेमा सचेतना",
+      "description": "काभ्रेपलान्चोक । सम्भावित भारी वर्षालाई दृष्टिगत गर्दै काभ्रेपलान्चोकका विभिन्न जोखिमयुक्त क्षेत्रमा उच्च सतर्कता अपनाउन आग्रह गर्दै सचेतना अभियान अगाडि बढाइएको छ । जिल्लास्थित सशस्त्र प्रहरी बल नेपाल नं १५ गण हेडक्वाटर र नेपाल प्रहरीले मङ्गलबारदेखि सम्भावित",
+      "link": "https://www.ratopati.com/story/594061/alert-in-kavre-after-heavy-rain-forecast",
+      "image": "https://npcdn.ratopati.com/media/news/kavrepalanchok_wpemnfgzgo_sznxzhia8z_G9XRzkVeqL.webp",
+      "pubDate": 1790116186000,
+      "category": "taja",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KStIOCksCDgpLXgpLAg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "रुससँग ‘ऊर्जा युद्धविराम’ का लागि वार्ता गर्न युक्रेन तयार : राष्ट्रपति जेलेन्स्की",
+      "description": "काठमाडौँ । युक्रेनका राष्ट्रपति भ्लोदोमिर जेलेन्स्कीले रुससँग &lsquo;ऊर्जा युद्धविराम&rsquo; (इनर्जी सिजफायर) का विषयमा वार्ता गर्न युक्रेन खुला रहेको बताएका छन् । संयुक्त राष्ट्रसंघको महासभाका क्रममा सञ्चारकर्मीहरूसँग कुरा गर्दै उनले यो प्रस्ताव रुसी प्रशासनिक केन्द्र क्रेमलिनसमक्ष",
+      "link": "https://www.ratopati.com/story/594060/ukraine-ready-to-negotiate-energy-ceasefire-with-russia-president-zelensky",
+      "image": "https://npcdn.ratopati.com/media/news/zelensky_auroOcZbmd.webp",
+      "pubDate": 1790111770000,
+      "category": "bidesh",
+      "trendingScore": 60,
+      "breaking": false,
+      "clusterId": "cluster-4KSwIOCkuOCkuCDgpJcg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "हाकुवासीको पीडा: भूकम्पले उठिबास, बाढीले सर्वनाश",
+      "description": "नुवाकोट । रसुवाको उत्तरगया गाउँपालिका&ndash;५ खाल्डे, सातविसे र नौबिसेमा अहिले बस्ती छैन । गोरखा भूकम्पपछि साविक हाकु गाविसका गोगने, तिरुलगायतका स्थानबाट विस्थापित भई सुरक्षित जीवनको आशामा बस्ती विस्तार भएको खाल्डे अहिले त्रिशूली नदीको बगरमा परिणत",
+      "link": "https://www.ratopati.com/story/594059/the-suffering-of-haku-residents-earthquakes-cause-upheaval-floods-cause-devastation",
+      "image": "https://npcdn.ratopati.com/media/news/VBPHj2X8Co.jpg",
+      "pubDate": 1790111480000,
+      "category": "taja",
+      "trendingScore": 76,
+      "breaking": true,
+      "clusterId": "cluster-4KS5IOCklSDgpLUg4KS4",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "उद्योग कार्यालयका सेवा अब ‘अनलाइन’मा",
+      "description": "चितवन । बागमती प्रदेश मातहतको उद्योग, वाणिज्य तथा पर्यटन कार्यालय भरतपुरले उद्योग प्रशासनसम्बन्धी आफ्ना सेवा अनलाइन प्रणालीमार्फत प्रवाह गर्ने भएको छ । कार्यालयका प्रमुख उद्योग अधिकृत विनोद पौडेलका अनुसार मङ्गलबारदेखि उद्योग दर्ता प्रक्रिया &lsquo;अनलाइन&rsquo;बाट सुरु गरिएको",
+      "link": "https://www.ratopati.com/story/594058/industry-office-services-now-online",
+      "image": "https://npcdn.ratopati.com/media/news/chitwan_Vxh5ZrPeES.jpg",
+      "pubDate": 1790108453000,
+      "category": "taja",
+      "trendingScore": 59,
+      "breaking": false,
+      "clusterId": "cluster-4KSJ4KSmIOCkryDgpJcg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "राष्ट्रसंघीय महासभाका क्रममा अमेरिकी दूतसँग भेटवार्ता भएको इरानद्वारा पुष्टि",
+      "description": "काठमाडौँ । संयुक्त राष्ट्रसंघको महासभा (यूएनजीए) का क्रममा इरानी विदेशमन्त्री अब्बास अराघची र अमेरिकी विशेष दूत स्टिभ विटकफबिच भेटवार्ता भएको इरानी सरकारी सञ्चारमाध्यमले पुष्टि गरेका छन् । मंगलबार अमेरिकी वार्ता टोलीमा रहेका विशेष दूत विटकफ",
+      "link": "https://www.ratopati.com/story/594057/iran-confirms-meeting-with-us-envoy-on-sidelines-of-un-general-assembly",
+      "image": "https://npcdn.ratopati.com/media/news/iran-america_NrD7JzzyqZ.jpg",
+      "pubDate": 1790108198000,
+      "category": "rajaniti",
+      "trendingScore": 58,
+      "breaking": false,
+      "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "ratopati",
@@ -45,7 +136,7 @@
       "image": "https://npcdn.ratopati.com/media/news/ZbZX5kgCvl.jpg",
       "pubDate": 1790107836000,
       "category": "bidesh",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCkluCksCDgpIXg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -58,7 +149,7 @@
       "image": "https://npcdn.ratopati.com/media/news/arrest-jail-group-cartoon_7ectnfd90s_mU7e0DbyYQ.jpg",
       "pubDate": 1790106077000,
       "category": "khelkud",
-      "trendingScore": 61,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSo4KSyIOCkh-Ck",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -71,7 +162,7 @@
       "image": "https://npcdn.ratopati.com/media/news/macron_WNcG0oeh7q.webp",
       "pubDate": 1790105752000,
       "category": "bidesh",
-      "trendingScore": 61,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KSvIOCklSDgpLAg4KSo",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -84,7 +175,7 @@
       "image": "https://npcdn.ratopati.com/media/news/tanahu-map_us5mlSwuC2.jpg",
       "pubDate": 1790105131000,
       "category": "artha",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KSu4KS5IOCksiDgpIng",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -97,7 +188,7 @@
       "image": "https://npcdn.ratopati.com/media/news/trump-japan-pm_XJvAZc1kWz.webp",
       "pubDate": 1790104782000,
       "category": "rajaniti",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KScIOCkqiDgpKgg4KSw",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -110,7 +201,7 @@
       "image": "https://npcdn.ratopati.com/media/news/pezeshkian_4WqqxWsGDQ.webp",
       "pubDate": 1790103628000,
       "category": "rajaniti",
-      "trendingScore": 60,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KSH4KSwIOCkqCDgpLAg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -123,7 +214,7 @@
       "image": "https://npcdn.ratopati.com/media/news/aakar_quZq580soj.webp",
       "pubDate": 1790101800000,
       "category": "taja",
-      "trendingScore": 60,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KWn4KWoIOCkteCksCDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -136,7 +227,7 @@
       "image": "https://npcdn.ratopati.com/media/news/baglung-map_saube82urq.jpg",
       "pubDate": 1790101448000,
       "category": "taja",
-      "trendingScore": 60,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkl-CksiDgpJng",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -149,7 +240,7 @@
       "image": "https://npcdn.ratopati.com/media/news/cover-12_qzK6aDlLIH.webp",
       "pubDate": 1790100915000,
       "category": "rajaniti",
-      "trendingScore": 59,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KWn4KWoIOCkrOCknCDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -162,7 +253,7 @@
       "image": "https://npcdn.ratopati.com/media/news/mangalbahadur-shahi_nacBUUJvWL.jpg",
       "pubDate": 1790099158000,
       "category": "rajaniti",
-      "trendingScore": 59,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KS44KSyIOCkryDgpKjg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -175,7 +266,7 @@
       "image": "https://npcdn.ratopati.com/media/news/shishir-maldives-vet_xUEYJCgAuD.webp",
       "pubDate": 1790097649000,
       "category": "rajaniti",
-      "trendingScore": 66,
+      "trendingScore": 63,
       "breaking": true,
       "clusterId": "cluster-4KSq4KSw4KSwIOCktyDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -188,7 +279,7 @@
       "image": "https://npcdn.ratopati.com/media/news/accident-durghatana-acc-cartoon_nrzrx5tby7_4TzKnsDq9Y.jpg",
       "pubDate": 1790097372000,
       "category": "taja",
-      "trendingScore": 66,
+      "trendingScore": 63,
       "breaking": true,
       "clusterId": "cluster-4KSm4KSu4KSV4KSuIOCk",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -201,7 +292,7 @@
       "image": "https://npcdn.ratopati.com/media/news/trump-on-un-2_ixUYtwoyq0.webp",
       "pubDate": 1790096361000,
       "category": "bidesh",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCksiDgpIbgpKAg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -214,7 +305,7 @@
       "image": "https://npcdn.ratopati.com/media/news/qatar-sekih_PTx6aiyZ6D.webp",
       "pubDate": 1790095955000,
       "category": "bidesh",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSG4KSrIOCkqCDgpK0g",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -227,7 +318,7 @@
       "image": "https://npcdn.ratopati.com/media/news/phurkekhola_dhading_after-flood_npl-(5)_2M3Zzd6r87.webp",
       "pubDate": 1790095562000,
       "category": "rajaniti",
-      "trendingScore": 73,
+      "trendingScore": 70,
       "breaking": true,
       "clusterId": "cluster-4KSrIOCksCDgpJUg4KSW",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -240,7 +331,7 @@
       "image": "https://npcdn.ratopati.com/media/news/un-shishir_5sYbtg20og.webp",
       "pubDate": 1790095165000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSq4KSw4KSwIOCktyDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -252,7 +343,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022617/mansarovar-kailash-yatra-hilsa-becomes-transit-hub",
       "pubDate": 1790095143000,
       "category": "artha",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCkqOCkuOCksCDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -264,7 +355,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023489/it-was-exaggerated-to-say-that-the-roof-of-the-world-is-falling-from-nepal-but-the-impact-has-been-seen-antonio-guterres",
       "pubDate": 1790095079000,
       "category": "bidesh",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkqiDgpLLgpKwg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -276,7 +367,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023378/three-injured-in-india-for-prosthetic-limbs-at-government-expense",
       "pubDate": 1790095030000,
       "category": "bidesh",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCkpCDgpLAg4KSu",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -288,7 +379,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023491/protests-against-iranian-government-outside-un-as-general-assembly-continues",
       "pubDate": 1790095023000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSu4KS5IOCkuOCkrSDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -300,7 +391,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022984/how-was-it-possible-for-the-stock-market-to-resume-operations-after-the-ransomware-attack",
       "pubDate": 1790094901000,
       "category": "artha",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCkryDgpKgg4KS4",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -312,7 +403,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022673/fly-dubai-flight-from-pokhara-a-beacon-of-hope-amidst-despair",
       "pubDate": 1790094838000,
       "category": "prabidhi",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCkluCksCDgpKwg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -325,7 +416,7 @@
       "image": "https://npcdn.ratopati.com/media/news/trump-on-un_W1kvBHx4E6.webp",
       "pubDate": 1790094802000,
       "category": "artha",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSvIOCkj-CkqOCkriDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -337,7 +428,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023393/vladimir-putin-from-anonymous-spy-to-undisputed-ruler-of-russia",
       "pubDate": 1790094681000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KStIOCksiDgpKYg4KSu",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -349,7 +440,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023486/what-is-in-the-book-given-to-the-prime-minister-by-the-finance-minister-before-his-departure-for-the-us",
       "pubDate": 1790094458000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -362,7 +453,7 @@
       "image": "https://npcdn.ratopati.com/media/news/10_MoWZHJGsj1.webp",
       "pubDate": 1790093729000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KWn4KWmIOCkrOCknCDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -375,7 +466,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790093966_parampara.png",
       "pubDate": 1790093631000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KS1IOCkriDgpKjgpLgg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -388,7 +479,7 @@
       "image": "https://npcdn.ratopati.com/media/news/khagraj-bhatta_qyJRSuQ2Xz.png",
       "pubDate": 1790093565000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCklSDgpKQg4KSV",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -401,7 +492,7 @@
       "image": "https://npcdn.ratopati.com/media/news/sudur-sarkar_7OMLNFRawM.jpg",
       "pubDate": 1790093426000,
       "category": "rajaniti",
-      "trendingScore": 65,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksOCkpiDgpLYg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -413,7 +504,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023483/trump-signs-security-pact-with-greenland-and-denmark",
       "pubDate": 1790093418000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSXIOCksCDgpKjgpLIg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -426,7 +517,7 @@
       "image": "https://npcdn.ratopati.com/media/news/rasuwa-badhi_27y4wVkjOC.webp",
       "pubDate": 1790093234000,
       "category": "prabidhi",
-      "trendingScore": 65,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -438,7 +529,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022678/searching-for-a-new-life-in-the-dilapidated-syaphrubesi",
       "pubDate": 1790093124000,
       "category": "taja",
-      "trendingScore": 65,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSs4KSX4KSwIOCkrOCk",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -451,7 +542,7 @@
       "image": "https://npcdn.ratopati.com/media/news/mathillo-rahughat_Mf6diXR5qf.jpg",
       "pubDate": 1790093070000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCkuSDgpJgg4KSf",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -463,7 +554,7 @@
       "link": "https://www.setopati.com/politics/398992",
       "pubDate": 1790093040000,
       "category": "rajaniti",
-      "trendingScore": 65,
+      "trendingScore": 61,
       "breaking": false,
       "clusterId": "cluster-4KS1IOCkruCkquCkqCDg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -475,7 +566,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023370/the-united-nations-is-debating-to-restore-trust-in-itself-after-80-years",
       "pubDate": 1790093013000,
       "category": "artha",
-      "trendingScore": 57,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KWu4KWmIOCkteCksCDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -487,7 +578,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023481/free-education-up-to-bachelors-level-for-genji-martyrs-families-and-injured",
       "pubDate": 1790092932000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KScIOCkqOCknCDgpLbg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -500,7 +591,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1788689665_badi.jpg",
       "pubDate": 1790092932000,
       "category": "prabidhi",
-      "trendingScore": 65,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -513,7 +604,7 @@
       "image": "https://npcdn.ratopati.com/media/news/kapada_dQ2R28KyjI.webp",
       "pubDate": 1790092900000,
       "category": "artha",
-      "trendingScore": 57,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSmIOCkiCDgpK7gpLkg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -525,7 +616,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023468/shankars-line-uml-will-reform-not-remove-the-chairman",
       "pubDate": 1790092823000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KS2IOCkleCksOCklSDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -538,7 +629,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790092622_sishir.jpg",
       "pubDate": 1790092802000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -551,7 +642,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/education-ministry.jpeg",
       "pubDate": 1790092802000,
       "category": "rajaniti",
-      "trendingScore": 64,
+      "trendingScore": 61,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCknOCkqCDgpKQg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -563,7 +654,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023444/why-is-gautam-buddha-international-airport-not-functioning-how-should-pokhara-be-run",
       "pubDate": 1790092710000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSXIOCkpOCkruCkrCDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -576,36 +667,10 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1775377879_Sovita_Gautam.jpg",
       "pubDate": 1790092707000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KS44KSoIOCkpyDgpLjg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "अमेरिकी प्रतिबन्धबिच उडान रोक्ने निर्देशन नआएको ‘इरान एयर’को दाबी",
-      "description": "काठमाडाैँ। इरानी उड्डयन क्षेत्रमा अमेरिकी प्रतिबन्ध कडा पारिनुअघि इरानको राष्ट्रिय वायुसेवा कम्पनी &lsquo;इरान एयर&rsquo;ले छिमेकी मुलुकतर्फका आफ्ना उडानमा कुनै प्रतिबन्धबारे आधिकारिक जानकारी नपाएको जनाएको छ। सरकारी समाचार संस्था &lsquo;इर्ना&rsquo; (आईआरएनए)मार्फत जारी विज्ञप्तिमा &lsquo;इरान एयर&rsquo;ले टर्की, अजरबैजान",
-      "link": "https://www.ratopati.com/story/594034/iran-air-claims-it-has-not-received-instructions-to-halt-flights-despite-us-sanctions",
-      "image": "https://npcdn.ratopati.com/media/news/iran-america_NrD7JzzyqZ.jpg",
-      "pubDate": 1790092699000,
-      "category": "rajaniti",
-      "trendingScore": 56,
-      "breaking": false,
-      "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "प्रधानमन्त्री बालेनले तोडे परम्परा",
-      "description": "काठमाडौँ । प्रधानमन्त्री बालेन्द्र शाह आज अमेरिका प्रस्थान गरेका छन् । संयुक्त राष्ट्र संघको ८१औँ महासभामा भाग लिन उनी अमेरिका गएका हुन् । देशको कार्यकारी प्रमुख विदेश भ्रमणमा जाँदा कायम रहँदै आएका परम्पराहरूलाई उनले तोडेका छन्",
-      "link": "https://www.ratopati.com/story/594033/balen-broke-all-traditions",
-      "image": "https://npcdn.ratopati.com/media/news/balen-usa_b5FKkaEyel.webp",
-      "pubDate": 1790092674000,
-      "category": "rajaniti",
-      "trendingScore": 56,
-      "breaking": false,
-      "clusterId": "cluster-4KSqIOCksOCkpyDgpKjg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "onlinekhabar",
@@ -614,7 +679,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023478/erdogans-anger-over-palestines-absence-from-the-un-general-assembly",
       "pubDate": 1790092620000,
       "category": "bidesh",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -626,7 +691,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023328/why-did-arjun-have-a-dispute-with-traffic-in-tripureshwor-what-does-his-family-say",
       "pubDate": 1790092596000,
       "category": "artha",
-      "trendingScore": 64,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSfIOCksCDgpKsg4KSV",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -638,7 +703,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023217/tetangche-connected-to-tibet-the-flood-did-not-touch-it-but-the-stove-stopped-burning",
       "pubDate": 1790092472000,
       "category": "prabidhi",
-      "trendingScore": 64,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSkIOCkrCDgpKzgpKTg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -650,7 +715,7 @@
       "link": "https://www.setopati.com/politics/398991",
       "pubDate": 1790092344000,
       "category": "rajaniti",
-      "trendingScore": 64,
+      "trendingScore": 61,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkleCkqiDgpLIg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -662,7 +727,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023427/the-supreme-courts-decision-that-rendered-the-authoritys-charge-sheet-irrelevant",
       "pubDate": 1790092329000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KS44KSwIOCktSDgpJog",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -675,7 +740,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790091634_lamjung.jpg",
       "pubDate": 1790092264000,
       "category": "prabidhi",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSy4KSu4KScIOCkmSDg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -687,7 +752,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023381/extreme-price-hike-in-poultry-meat-consumers-being-robbed-at-retail",
       "pubDate": 1790092191000,
       "category": "khelkud",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCkliDgpLAg4KSu",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -700,23 +765,10 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1782291610_rabi_balen.png",
       "pubDate": 1790091991000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSw4KS1IOCksiDgpK3g",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "रविले दिए बालेनलाई शुभकामना, भने– भ्रमण अर्थपूर्ण र सफल होस्",
-      "description": "काठमाडौँ । राष्ट्रिय स्वतन्त्र पार्टी(रास्वपा) सभापति रवि लामिछानेले प्रधानमन्त्री वालेन्द्र(बालेन) शाहलाई शुभकामना दिएका छन् । संयुक्त राष्ट्रसंघको ८१औँ महासभालाई सम्बोधन गर्न प्रधानमन्त्री शाह मंगलबार साँझ संयुक्त राज्य अमेरिका प्रस्थान गरेका छन्। प्रधानमन्त्रीलाई शुभकामना दिँदै सभापति लामिछानेले",
-      "link": "https://www.ratopati.com/story/594032/ravi-wished-balen-well-saying-may-the-visit-be-meaningful-and-successful",
-      "image": "https://npcdn.ratopati.com/media/news/rabi-balen_zXu2fIIJsc.jpg",
-      "pubDate": 1790091963000,
-      "category": "rajaniti",
-      "trendingScore": 56,
-      "breaking": false,
-      "clusterId": "cluster-4KSw4KS1IOCksiDgpKYg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "nagarik",
@@ -726,7 +778,7 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1789535081_sudur%2031.jpg",
       "pubDate": 1790091875000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkpiDgpLDgpKrg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -738,7 +790,7 @@
       "link": "https://www.setopati.com/kinmel/others/398990",
       "pubDate": 1790091840000,
       "category": "artha",
-      "trendingScore": 72,
+      "trendingScore": 69,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSh",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -751,7 +803,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1776248299_aaktiyar.png",
       "pubDate": 1790091735000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KS44KSh4KSVIOCkoCDg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -764,7 +816,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/education-ministry.jpeg",
       "pubDate": 1790091619000,
       "category": "rajaniti",
-      "trendingScore": 64,
+      "trendingScore": 61,
       "breaking": false,
       "clusterId": "cluster-4KScIOCkqOCknCDgpIbg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -777,23 +829,10 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790091271_puspa.jpg",
       "pubDate": 1790091400000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCklyDgpLAg4KS4",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "यात्रामा पढ्न भन्दै बालेनलाई स्वर्णिमले दिए ‘द राइज एन्ड फल अफ द ग्रेट पावर्स’",
-      "description": "काठमाडौँ। संयुक्त राष्ट्रसङ्घको ८१औँ महासभामा सहभागी हुन प्रधानमन्त्री वालेन्द्र(बालेन) शाह अमेरिका प्रस्थान गरेका छन् । यसअघि प्रधानमन्त्री शाहलाई कार्यवाहक प्रधानमन्त्री डा. स्वर्णिम वाग्लेले बिदाइ गरेका थिए। मङ्गलबार साँझ प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालयस्थित प्रधानमन्त्रीको कार्यकक्षमै पुगेर कार्यवाहक",
-      "link": "https://www.ratopati.com/story/594031/swarnim-gave-balen-the-rise-and-fall-of-the-great-powers-to-read-on-the-trip",
-      "image": "https://npcdn.ratopati.com/media/news/vet_rbLXzvmgbw.webp",
-      "pubDate": 1790091336000,
-      "category": "rajaniti",
-      "trendingScore": 56,
-      "breaking": false,
-      "clusterId": "cluster-4KSvIOCkpCDgpLAg4KSu",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "nagarik",
@@ -803,7 +842,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790091069_bhet.jpg",
       "pubDate": 1790091022000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkryDgpK8g4KSw",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -816,7 +855,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/07/kanchanpur-akhtiyar-.jpeg",
       "pubDate": 1790090974000,
       "category": "rajaniti",
-      "trendingScore": 72,
+      "trendingScore": 68,
       "breaking": true,
       "clusterId": "cluster-4KS44KSh4KSVIOCkhuCk",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -829,7 +868,7 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1790090878_road.jpg",
       "pubDate": 1790090898000,
       "category": "taja",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCkluCksCDgpK4g",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -841,7 +880,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023463/cuba-and-iran-boycott-trumps-speech-at-the-un-general-assembly",
       "pubDate": 1790090842000,
       "category": "bidesh",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -853,23 +892,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023461/chairmans-report-and-self-criticism-should-be-reflected-in-practice-gokul-baskota",
       "pubDate": 1790090706000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSnIOCkr-CklSDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "भाषा, साहित्य, कला र संस्कृतिको संरक्षणमा पत्रकारिताको भूमिका महत्त्वपूर्ण : सञ्चारमन्त्री",
-      "description": "काठमाडौँ। सूचना तथा सञ्चारमन्त्री डा. विक्रम तिमिल्सिनाले भाषा, साहित्य, संस्कृति र कलाको संरक्षण, संवर्द्धन, उत्थान तथा प्रवर्द्धनमा साहित्यिक पत्रकारिता क्षेत्रले महत्त्वपूर्ण योगदान पुर्&zwj;याउँदै आएको बताएका छन्। नेपाल साहित्यिक पत्रकार सङ्घका प्रतिनिधिसँग मंगलबार मन्त्रालयमा भएको भेटका क्रममा",
-      "link": "https://www.ratopati.com/story/594030/role-of-journalism-important-in-preserving-language-literature-art-and-culture-communications-minister",
-      "image": "https://npcdn.ratopati.com/media/news/huB37Hzzp6.jpg",
-      "pubDate": 1790090544000,
-      "category": "rajaniti",
-      "trendingScore": 56,
-      "breaking": false,
-      "clusterId": "cluster-4KStIOCktyDgpLgg4KS5",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "nagarik",
@@ -879,23 +905,10 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1790090447_map11.jpg",
       "pubDate": 1790090460000,
       "category": "taja",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSF4KS4IOCknCDgpa8g",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "स्वास्थ्यमन्त्रीले गरे भरतपुर आँखा अस्पतालको अनुगमन",
-      "description": "चितवन । बागमती प्रदेशका स्वास्थ्य तथा सामाजिक विकासमन्त्री गिरबहादुर तामाङले मंगलबार भरतपुर आँखा अस्पतालको अनुगमन गरेका छन्। अनुगमनका क्रममा मन्त्री तामाङले त्यहाँ उपचाररत बिरामीसँग संवाद गरेका थिए। पर्साको ठोरीमा सञ्चालित आँखा अस्पतालमा उपचारका लागि आएका भारतीय",
-      "link": "https://www.ratopati.com/story/594029/minister-tamang-inspects-bharatpur-eye-hospital",
-      "image": "https://npcdn.ratopati.com/media/news/bharatpur-eye-hospital_tW9KofoGOQ.webp",
-      "pubDate": 1790090440000,
-      "category": "rajaniti",
-      "trendingScore": 56,
-      "breaking": false,
-      "clusterId": "cluster-4KS4IOCktSDgpLgg4KSl",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "onlinekhabar",
@@ -904,23 +917,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023456/foreign-minister-khanal-participates-in-the-inaugural-session-of-the-high-level-discussion-at-the-un-general-assembly",
       "pubDate": 1790090192000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSq4KSw4KSwIOCktyDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "टर्कीको विद्यालय नजिक गोली चल्दा ११ जना घाइते",
-      "description": "काठमाडाैँ। टर्कीको पश्चिमी क्षेत्रमा रहेको एक उच्च माध्यमिक विद्यालयनजिक मङ्गलबार गोली चल्दा कम्तीमा ११ जना घाइते भएका छन् । घटनामा संलग्न भएको आशङ्कामा एक जनालाई पक्राउ गरिएको अधिकारीले बताएका छन् । न्यायमन्त्री अकिन गुर्लेकका अनुसार घाइतेमध्ये",
-      "link": "https://www.ratopati.com/story/594028/11-injured-in-shooting-near-turkish-school",
-      "image": "https://npcdn.ratopati.com/media/news/turkey-map_Opp4lB9Hu2.jpg",
-      "pubDate": 1790090162000,
-      "category": "rajaniti",
-      "trendingScore": 56,
-      "breaking": false,
-      "clusterId": "cluster-4KSf4KSwIOCklSDgpJUg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "rajdhani",
@@ -930,7 +930,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/el-nino-2292026094008-1000x0-1.jpg",
       "pubDate": 1790089920000,
       "category": "bidesh",
-      "trendingScore": 63,
+      "trendingScore": 60,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSyIOCkqCDgpKgg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -942,7 +942,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023438/heavy-to-very-heavy-rainfall-likely-in-gandaki-and-lumbini",
       "pubDate": 1790089788000,
       "category": "taja",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSX4KSjIOCkoeCklSDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -954,7 +954,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023452/trump-lashes-out-at-iran-at-un-general-assembly",
       "pubDate": 1790089635000,
       "category": "rajaniti",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkryDgpJUg4KSk",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -967,7 +967,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790089272_trump.jpg",
       "pubDate": 1790089430000,
       "category": "bidesh",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCkuCDgpK8g4KSV",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -980,7 +980,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790088727_trump.jpg",
       "pubDate": 1790089081000,
       "category": "rajaniti",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -992,7 +992,7 @@
       "link": "https://www.setopati.com/politics/398989",
       "pubDate": 1790089080000,
       "category": "artha",
-      "trendingScore": 63,
+      "trendingScore": 60,
       "breaking": false,
       "clusterId": "cluster-4KSs4KS5IOCksuCktSDg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -1005,7 +1005,7 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1789724686_prachanda.jpg",
       "pubDate": 1790089015000,
       "category": "taja",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkqiDgpLIg4KSV",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -1018,7 +1018,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790087984_un2.jpg",
       "pubDate": 1790088824000,
       "category": "khelkud",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSP4KS4IOCkryDgpLIg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -1030,7 +1030,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023445/scrub-typhus-outbreak-in-salyans-darma-risks-spiraling-out-of-control",
       "pubDate": 1790088486000,
       "category": "taja",
-      "trendingScore": 55,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KS44KSyIOCkryDgpKjg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -1043,7 +1043,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790088065_q.png",
       "pubDate": 1790088159000,
       "category": "taja",
-      "trendingScore": 55,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSgIOCklSDgpJUg4KSV",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -1056,7 +1056,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/Nepali-congress.png",
       "pubDate": 1790087801000,
       "category": "rajaniti",
-      "trendingScore": 63,
+      "trendingScore": 59,
       "breaking": false,
       "clusterId": "cluster-4KStIOCksiDgpKYg4KS2",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -1068,7 +1068,7 @@
       "link": "https://www.setopati.com/politics/398933",
       "pubDate": 1790087760000,
       "category": "rajaniti",
-      "trendingScore": 63,
+      "trendingScore": 59,
       "breaking": false,
       "clusterId": "cluster-4KWv4KWmIOCkqiDgpLDg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -1080,7 +1080,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023429/agni-kharel-proposes-the-task-forces-report-should-not-be-ignored-the-controversy-will-escalate-further",
       "pubDate": 1790087145000,
       "category": "rajaniti",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSXIOCkqCDgpJbg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -1092,7 +1092,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023422/ncp-meeting-negotiation-committee-formed-for-left-unity-two-month-public-campaign-to-be-launched",
       "pubDate": 1790086826000,
       "category": "rajaniti",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkleCkqiDgpKwg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -1104,7 +1104,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023423/alibaba-launches-10-trillion-parameter-ai-model",
       "pubDate": 1790086721000,
       "category": "prabidhi",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSyIOCkrCDgpKwg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -1117,7 +1117,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790086102_aap.jpg",
       "pubDate": 1790086208000,
       "category": "taja",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkpiDgpKog4KS4",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -1130,7 +1130,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790085781_balen_.jpg",
       "pubDate": 1790085927000,
       "category": "rajaniti",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCkoOCkriDgpKEg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -1143,7 +1143,7 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1790074211_CPN_UML%20(13).jpeg",
       "pubDate": 1790085810000,
       "category": "rajaniti",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSuIOCksiDgpKwg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -1156,7 +1156,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/chatra.jpg",
       "pubDate": 1790085256000,
       "category": "prabidhi",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KSG4KSJIOCkmyDgpK3g",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -1168,7 +1168,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023403/chitwans-royal-tulip-receives-five-star-deluxe-recognition",
       "pubDate": 1790085191000,
       "category": "artha",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSaIOCkpOCkteCkqOCk",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -1181,7 +1181,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/PRO_KTM__R9A9865.jpg",
       "pubDate": 1790084974000,
       "category": "rajaniti",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCkpyDgpKjg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -1194,7 +1194,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/dhangadi-1.jpg",
       "pubDate": 1790084609000,
       "category": "bidesh",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KStIOCksCDgpLXgpLAg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -1207,7 +1207,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/newskarkahna-news927100..jpeg",
       "pubDate": 1790084499000,
       "category": "artha",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KSq4KS44KSy4KSuIOCk",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -1220,7 +1220,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/newskarkahna-news926915..jpg",
       "pubDate": 1790084026000,
       "category": "rajaniti",
-      "trendingScore": 61,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KST4KSyIOCkuCDgpJcg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -1232,7 +1232,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023376/guterres-welcomes-call-for-ai-control",
       "pubDate": 1790083933000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSXIOCknyDgpLAg4KS4",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -1244,7 +1244,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023377/prime-minister-shah-leaves-for-new-york-to-attend-the-un-general-assembly",
       "pubDate": 1790083601000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -1256,7 +1256,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023371/indra-bhandaris-question-at-the-uml-meeting-will-the-secretariat-or-the-task-force-take-responsibility-for-dividing-the-cadres",
       "pubDate": 1790083128000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSuIOCksiDgpKwg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"

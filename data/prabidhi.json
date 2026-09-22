@@ -1,14 +1,27 @@
 {
-  "generatedAt": "2026-09-22T20:16:05.395Z",
+  "generatedAt": "2026-09-22T23:00:33.675Z",
   "category": "prabidhi",
   "articles": [
+    {
+      "sourceId": "ratopati",
+      "title": "भोटेकोशी बाढी: अधुरो आशा र काजकिरियाको दोधारमा छन् बेपत्ताका परिवार",
+      "description": "बाँके । भोटेकोशी बाढीमा आफन्त बेपत्ता भएका यहाँका प्रभावित परिवारले आफन्तजनको सास वा लासको टुङ्गो नलाग्दा मृत्यु संस्कार गर्न सकेका छैनन् । बाढीमा एकै परिवारका तीन आफन्त गुमाउनुभएका नेपालगन्ज उपमहानगरपालिका&ndash;२० थपुवा निवासी अनलाल रोकायले सास वा",
+      "link": "https://www.ratopati.com/story/594063/bhotekoshi-flood-families-of-the-missing-are-torn-between-unfulfilled-hopes-and-a-sense-of-hopelessness",
+      "image": "https://npcdn.ratopati.com/media/news/STbXGbWH5N.jpg",
+      "pubDate": 1790117961000,
+      "category": "prabidhi",
+      "trendingScore": 78,
+      "breaking": true,
+      "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
     {
       "id": "techmandu::snap-0",
       "sourceId": "techmandu",
       "title": "नेपालमा डिजिटल भुक्तानीको प्रयोग तीव्र गतिमा बढ्दै",
       "description": "मोबाइल वालेट र क्यूआर भुक्तानीले साना व्यापारीसम्म पहुँच बढाएको छ।",
       "link": "https://techmandu.com",
-      "pubDate": 1790108165394,
+      "pubDate": 1790118033675,
       "fromSnapshot": true,
       "category": "prabidhi",
       "trendingScore": 70,
@@ -22,7 +35,7 @@
       "image": "https://npcdn.ratopati.com/media/news/rasuwa-badhi_27y4wVkjOC.webp",
       "pubDate": 1790093234000,
       "category": "prabidhi",
-      "trendingScore": 65,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -35,7 +48,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1788689665_badi.jpg",
       "pubDate": 1790092932000,
       "category": "prabidhi",
-      "trendingScore": 65,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -47,7 +60,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023217/tetangche-connected-to-tibet-the-flood-did-not-touch-it-but-the-stove-stopped-burning",
       "pubDate": 1790092472000,
       "category": "prabidhi",
-      "trendingScore": 64,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSkIOCkrCDgpKzgpKTg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -60,7 +73,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/chatra.jpg",
       "pubDate": 1790085256000,
       "category": "prabidhi",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KSG4KSJIOCkmyDgpK3g",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -73,7 +86,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/JCB-03.jpg-1-150x150.jpeg",
       "pubDate": 1790055775000,
       "category": "prabidhi",
-      "trendingScore": 59,
+      "trendingScore": 56,
       "breaking": true,
       "clusterId": "cluster-4KScIOCkuCDgpKwg4KSm",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -85,7 +98,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2022673/fly-dubai-flight-from-pokhara-a-beacon-of-hope-amidst-despair",
       "pubDate": 1790094838000,
       "category": "prabidhi",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCkluCksCDgpKwg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -98,7 +111,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790091634_lamjung.jpg",
       "pubDate": 1790092264000,
       "category": "prabidhi",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSy4KSu4KScIOCkmSDg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -110,7 +123,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023423/alibaba-launches-10-trillion-parameter-ai-model",
       "pubDate": 1790086721000,
       "category": "prabidhi",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSyIOCkrCDgpKwg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -123,7 +136,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/kolaneka-Bajura-photo-150x150.jpeg",
       "pubDate": 1790057372000,
       "category": "prabidhi",
-      "trendingScore": 52,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSaIOCksCDgpKbgpLbg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -135,7 +148,7 @@
       "link": "https://arthasarokar.com/2026/09/national-life-awards-honors-outstanding-agents-and-training-on-ai-and-digital-marketing.html",
       "pubDate": 1789992437000,
       "category": "prabidhi",
-      "trendingScore": 28,
+      "trendingScore": 25,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCktuCkqOCksiDg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -148,7 +161,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3edb/live/3fdc0b50-b35a-11f1-b949-71f91f81d1ab.jpg",
       "pubDate": 1789954913000,
       "category": "prabidhi",
-      "trendingScore": 23,
+      "trendingScore": 19,
       "breaking": false,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
