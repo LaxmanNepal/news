@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T01:55:34.887Z",
+  "generatedAt": "2026-09-22T07:17:59.168Z",
   "sources": [
     {
       "id": "onlinekhabar",
@@ -8,8 +8,9 @@
       "feed": "https://www.onlinekhabar.com/feed",
       "category": "taja",
       "tag": "OK",
-      "ok": true,
-      "count": 40
+      "ok": false,
+      "count": 0,
+      "error": "This operation was aborted"
     },
     {
       "id": "ratopati",
@@ -38,8 +39,9 @@
       "feed": "https://ujyaaloonline.com/feed",
       "category": "taja",
       "tag": "UJ",
-      "ok": true,
-      "count": 5
+      "ok": false,
+      "count": 0,
+      "error": "This operation was aborted"
     },
     {
       "id": "setopati",
@@ -71,7 +73,7 @@
       "tag": "GP",
       "ok": false,
       "count": 0,
-      "error": "fetch failed"
+      "error": "HTTP 404"
     },
     {
       "id": "arthasarokar",
@@ -90,8 +92,9 @@
       "feed": "https://www.karobardaily.com/feed",
       "category": "artha",
       "tag": "KB",
-      "ok": true,
-      "count": 40
+      "ok": false,
+      "count": 0,
+      "error": "This operation was aborted"
     },
     {
       "id": "kantipur-sports",
@@ -145,7 +148,7 @@
       "category": "bidesh",
       "tag": "BBC",
       "ok": true,
-      "count": 18
+      "count": 17
     },
     {
       "id": "rajdhani",
