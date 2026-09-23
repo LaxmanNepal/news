@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T23:00:33.675Z",
+  "generatedAt": "2026-09-23T01:27:42.308Z",
   "category": "khelkud",
   "articles": [
     {
@@ -8,11 +8,36 @@
       "title": "राष्ट्रिय क्रिकेट टोलीको घोषणा, नयाँ खेलाडीलाई अवसर",
       "description": "आगामी सिरिजका लागि टोली घोषणा गर्दै प्रशिक्षकले युवा खेलाडीलाई समावेश गरेका छन्।",
       "link": "https://ekantipur.com/sports",
-      "pubDate": 1790118033675,
+      "pubDate": 1790126862308,
       "fromSnapshot": true,
       "category": "khelkud",
       "trendingScore": 70,
       "breaking": false
+    },
+    {
+      "sourceId": "ujyaalo",
+      "title": "२०औं एशियाडमा भारतलाई पहिलो स्वर्ण, महिला क्रिकेटमा श्रीलंका १४७ रनले पराजित",
+      "description": "",
+      "link": "https://www.ujyaaloonline.com/detail/131817",
+      "pubDate": 1790125111000,
+      "category": "khelkud",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KWo4KWm4KSUIOCkj-Ck",
+      "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "२०औं एसियाली खेलकुद: महिला कबड्डीमा नेपाललाई रोमाञ्चक सफलता",
+      "description": "मानमती विष्टको कप्तानमा रहेको टोलीले भने एसियाली खेलकुदमा निरास नेपाललाई आशाको किरण दिएको छ।",
+      "link": "https://nagariknews.nagariknetwork.com/sports/exciting-success-for-nepal-in-women-s-kabaddi-br-63-84.html",
+      "image": "https://images.nagariknewscdn.com/2024/third-party/1790124683_ddu9777.jpg",
+      "pubDate": 1790123975000,
+      "category": "khelkud",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KWo4KWm4KSUIOCkj-Ck",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "ratopati",
@@ -22,7 +47,7 @@
       "image": "https://npcdn.ratopati.com/media/news/arrest-jail-group-cartoon_7ectnfd90s_mU7e0DbyYQ.jpg",
       "pubDate": 1790106077000,
       "category": "khelkud",
-      "trendingScore": 58,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSo4KSyIOCkh-Ck",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -34,23 +59,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023381/extreme-price-hike-in-poultry-meat-consumers-being-robbed-at-retail",
       "pubDate": 1790092191000,
       "category": "khelkud",
-      "trendingScore": 53,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCkliDgpLAg4KSu",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "एसियाली खेलकुद: महिला कबड्डीमा नेपालको विजयी सुरुवात",
-      "description": "जापानको इची-नागोयामा जारी २०औं एसियाली खेलकुद प्रतियोगिताअन्तर्गत महिला कबड्डीमा नेपालले विजयी सुरुवात गरेको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/sports/asian-games-nepal-makes-winning-start-in-women-s-kabaddi-16-30.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1790087984_un2.jpg",
-      "pubDate": 1790088824000,
-      "category": "khelkud",
-      "trendingScore": 52,
-      "breaking": false,
-      "clusterId": "cluster-4KSP4KS4IOCkryDgpLIg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "karobar",
@@ -60,7 +72,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Pokhara-Cricket-Stadium-Marmat_NPL_ArjunGaha-14-150x150.jpg",
       "pubDate": 1790061437000,
       "category": "khelkud",
-      "trendingScore": 50,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KStIOCknyDgpKjgpJUg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -73,7 +85,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3c6f/live/f8098e90-b590-11f1-bc1f-3f186ca4140c.jpg",
       "pubDate": 1790041433000,
       "category": "khelkud",
-      "trendingScore": 43,
+      "trendingScore": 39,
       "breaking": false,
       "clusterId": "cluster-4KS44KS5IOCkpuCksCDg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T23:00:33.675Z",
+  "generatedAt": "2026-09-23T01:27:42.308Z",
   "category": "rajaniti",
   "articles": [
     {
@@ -8,23 +8,85 @@
       "title": "कान्तिपुर सम्पादकीय: सुशासनको परीक्षा",
       "description": "कानुनी राज्यको पालना नै लोकतन्त्रको आधार हो भन्ने सम्पादकीय आज प्रकाशित भएको छ।",
       "link": "https://ekantipur.com",
-      "pubDate": 1790118033675,
+      "pubDate": 1790126862308,
       "fromSnapshot": true,
       "category": "rajaniti",
       "trendingScore": 70,
       "breaking": false
     },
     {
-      "sourceId": "ratopati",
-      "title": "‘फुर्केखोला’मा पुल निर्माण गर्न धादिङका उद्योगी–व्यवसायीको माग",
-      "description": "धादिङ । धादिङका उद्योगी&ndash;व्यवसायीले भोटेकोशी हुँदै त्रिशूली नदीमा गएको बाढीले मलेखुनजिक &lsquo;फुर्केखोला&rsquo;स्थित पुल बगाएसँगै आवतजावत विच्छेद भएकाले सो ठाउँमा तत्काल पुल निर्माण गर्न सरकारसँग माग गरेका छन् । धादिङ उद्योग वाणिज्य सङ्घको नेतृत्वमा गएको प्रतिनिधिमण्डले फुर्केखोलामा",
-      "link": "https://www.ratopati.com/story/594042/dhading-industrialists-and-businessmen-demand-construction-of-bridge-over-furkekhola",
-      "image": "https://npcdn.ratopati.com/media/news/phurkekhola_dhading_after-flood_npl-(5)_2M3Zzd6r87.webp",
-      "pubDate": 1790095562000,
+      "sourceId": "setopati",
+      "title": "अण्डमान क्षेत्रमा विकसित न्युनचापीय प्रणालीको नेपालमा असर सुरू भएको हो?",
+      "description": "काठमाडौं लगायत बागमती प्रदेशका विभिन्न स्थानमा बिहानैदेखि वर्षा भएको छ।",
+      "link": "https://www.setopati.com/social/398994",
+      "pubDate": 1790126769000,
+      "category": "rajaniti",
+      "trendingScore": 70,
+      "breaking": false,
+      "clusterId": "cluster-4KSF4KSjIOCkoeCkriDg",
+      "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "नेपालको बाढी पुनर्स्थापनाका लागि अमेरिकाले थप ३१ मिलियन डलर सहयोग गर्ने",
+      "description": "अमेरिकी विदेश मन्त्रालयकी राजनीतिक मामिलासम्बन्धी उपसचिव एलिसन हुकरले न्यूयोर्कमा नेपालका परराष्ट्रमन्त्री शिशिर खनालसँग भेटवार्ताका क्रममा यस्तो घोषणा गरेकी हुन्।",
+      "link": "https://www.onlinekhabar.com/2026/09/2023517/us-to-provide-additional-31-million-for-nepal-flood-recovery",
+      "pubDate": 1790126240000,
       "category": "rajaniti",
       "trendingScore": 70,
       "breaking": true,
-      "clusterId": "cluster-4KSrIOCksCDgpJUg4KSW",
+      "clusterId": "cluster-4KSoIOCkqiDgpLLgpJUg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "परराष्ट्रमन्त्री खनाल र अमेरिकी उपविदेशमन्त्रीबीच भेटवार्ता",
+      "description": "७ असोज, न्युयोर्क । परराष्ट्रमन्त्री शिशिर खनाल र अमेरिकी राजनीतिक मामिलासम्बन्धी उपविदेशमन्त्री एलिसन हुकरसँग द्विपक्षीय यहाँ भेटवार्ता भएको छ । भेटका अवसरमा नेपाल र अमेरिकाबीचको सम्बन्ध, हालै भोटेकोशीमा गएको बाढीपश्चात् राहत तथा पुनर्निर्माणका कार्यहरूलगायतका विषयमा छलफल भएको यहाँस्थित नेपाली नियोगले जनाएको छ । उक्त अवसरमा मन्त्री खनाल र उपविदेशमन्त्री हुकरबीच पुनर्निर्माणका प्रयासहरूमा अमेरिकाको निरन्तर सहयोगको […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2023515/foreign-minister-khanal-meets-with-us-deputy-secretary-of-state",
+      "pubDate": 1790126169000,
+      "category": "rajaniti",
+      "trendingScore": 70,
+      "breaking": true,
+      "clusterId": "cluster-4KSq4KSw4KSwIOCktyDg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "परराष्ट्रमन्त्री खनाल र अमेरिकी उपविदेशमन्त्री हुकरबिच भेटवार्ता, भोटेकोशी बाढीबारे छलफल",
+      "description": "भेटघाटको अवसरमा परराष्ट्रसचिव अमृतबहादुर राई र स्थायी नियोग प्रमुख लोकबहादुर थापालगायतका उच्च अधिकारीहरूको सहभागिता रहेको थियो।...",
+      "link": "https://nagariknews.nagariknetwork.com/politics/foreign-minister-khanal-and-us-deputy-secretary-of-state-hooker-meet-discuss-bhotekoshi-floods-84-23.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1790125001_Khanal.jpg",
+      "pubDate": 1790125028000,
+      "category": "rajaniti",
+      "trendingScore": 69,
+      "breaking": true,
+      "clusterId": "cluster-4KSq4KSw4KSwIOCktyDg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "परराष्ट्रमन्त्री खनाल र अमेरिकी उपविदेशमन्त्रीबिच भेट",
+      "description": "न्युयोर्क । परराष्ट्रमन्त्री शिशिर खनाल र अमेरिकी राजनीतिक मामिलासम्बन्धी उपविदेशमन्त्री एलिसन हुकरबिच द्विपक्षीय भेटवार्ता भएको छ । भेटका अवसरमा नेपाल र अमेरिकाबीचको सम्बन्ध, हालै भोटेकोशीमा गएको बाढीपश्चात् राहत तथा पुनर्निर्माणका कार्यहरूलगायतका विषयमा छलफल भएको यहाँस्थित नेपाली",
+      "link": "https://www.ratopati.com/story/594074/foreign-minister-khanal-meets-with-us-deputy-secretary-of-state",
+      "image": "https://npcdn.ratopati.com/media/news/sishir-khanal_26czMS9mEW.jpg",
+      "pubDate": 1790124658000,
+      "category": "rajaniti",
+      "trendingScore": 69,
+      "breaking": true,
+      "clusterId": "cluster-4KSq4KSw4KSwIOCktyDg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "बाढीपछिको पुनः स्थापना र पुनर्निर्माणका लागि अमेरिकाले थप ३१ मिलियन डलर सहयोग गर्ने",
+      "description": "काठमाडौँ । संयुक्त राज्य अमेरिकाले बाढीबाट प्रभावित नेपालको पुनः स्थापना तथा पुनर्निर्माणका लागि थप ३१ मिलियन अमेरिकी डलर सहयोग उपलब्ध गराउने भएको छ । न्युयोर्कमा मंगलबार अमेरिकी राजनीतिक मामिलासम्बन्धी उपविदेशमन्त्री एलिसन हुकर र परराष्ट्रमन्त्री शिशिर खनाल",
+      "link": "https://www.ratopati.com/story/594069/the-us-will-provide-an-additional-31-million-in-aid",
+      "image": "https://npcdn.ratopati.com/media/news/shishir-us-huker--vet_PtR9gH9wRU.webp",
+      "pubDate": 1790121338000,
+      "category": "rajaniti",
+      "trendingScore": 68,
+      "breaking": true,
+      "clusterId": "cluster-4KSsIOCkoiDgpKrgpJsg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
@@ -35,22 +97,97 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/07/kanchanpur-akhtiyar-.jpeg",
       "pubDate": 1790090974000,
       "category": "rajaniti",
-      "trendingScore": 68,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KS44KSh4KSVIOCkhuCk",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
     },
     {
-      "sourceId": "ratopati",
-      "title": "परराष्ट्रमन्त्री खनाल र माल्दिभ्सकी विदेशमन्त्री इरुथिशामबिच भेटवार्ता",
-      "description": "काठमाडौँ । परराष्ट्रमन्त्री शिशिर खनाल र माल्दिभ्सकी विदेशमन्त्री इरुथिशाम एडमसँग द्विपक्षीय भेटवार्ता भएको छ । संयुक्त राष्ट्रसंघको ८१औँ महासभाका अवसरमा न्यूयोर्कमा भएको भेटवार्तामा मन्त्री खनालले नेपालमा हालै आएको विनाशकारी बाढीपछि माल्दिभ्स सरकार र जनताले व्यक्त गरेको",
-      "link": "https://www.ratopati.com/story/594046/foreign-minister-khanal-meets-with-maldives-foreign-minister-iruthisham",
-      "image": "https://npcdn.ratopati.com/media/news/shishir-maldives-vet_xUEYJCgAuD.webp",
-      "pubDate": 1790097649000,
+      "sourceId": "nagarik",
+      "title": "कांग्रेसले आज देशैभर पालिका अधिवेशन गर्दै",
+      "description": "केही छिटपुट स्थानबाहेक देशभरका वडामा उत्साहजनक र शान्तिपूर्ण रूपमा नेतृत्व चयन सम्पन्न भइसकेको कांग्रेस केन्द्रीय निर्वाचन समितिले जनाएको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/politics/congress-is-holding-municipal-conventions-across-the-country-today-25-52.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1786336595_Gagan.jpg",
+      "pubDate": 1790124678000,
       "category": "rajaniti",
-      "trendingScore": 63,
-      "breaking": true,
-      "clusterId": "cluster-4KSq4KSw4KSwIOCktyDg",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KSVIOCklyDgpLAg4KS4",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "आज विभिन्न संसदीय समितिको बैठक बस्दै",
+      "description": "संघीय संसद् सचिवालयका अनुसार अर्थ समिति, पूर्वाधार विकास समिति र राज्य व्यवस्था तथा सुशासन समितिको बैठक बस्दैछ।...",
+      "link": "https://nagariknews.nagariknetwork.com/politics/meetings-of-various-parliamentary-committees-are-being-held-today-58-14.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1785804052_Samiti.jpg",
+      "pubDate": 1790124398000,
+      "category": "rajaniti",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KSG4KScIOCktSDgpK0g",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "प्रतिनिधिसभा बैठक बस्दै, तीन मन्त्रीले विधेयकसम्बन्धी प्रस्ताव पेश गर्ने",
+      "description": "सिंहदरबारमा बिहान ११ः०० बजेका लागि तय भएको बैठकमा राष्ट्रपतिको कार्यालयबाट प्राप्त प्रधानमन्त्रीको कार्यभारसम्बन्धी पत्रको बेहोरा पढेर सुनाइनेछ।...",
+      "link": "https://nagariknews.nagariknetwork.com/politics/house-of-representatives-meeting-underway-three-ministers-to-present-proposals-related-to-bill-80-27.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1790123693_Wagle.jpg",
+      "pubDate": 1790123705000,
+      "category": "rajaniti",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KSqIOCksOCkpCDgpKgg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "प्रतिनिधिसभाको बैठक बस्दै,यस्ता छन् सम्भावित कार्यसूची",
+      "description": "७ असोज, काठमाडौँ । प्रतिनिधिसभाको बैठक आज बस्दैछ । सिंहदरबारमा बिहान ११ बजेका लागि तय भएको बैठकमा सभामुख डोलप्रसाद अर्यालले राष्ट्रपतिको कार्यालयबाट प्राप्त प्रधानमन्त्रीको कार्यभारसम्बन्धी पत्रको बेहोरा पढेर सुनाउनेछन् । प्रधानमन्त्री वालेन्द्र शाह राष्ट्रसंघको महासभामा भाग लिन अमेरिका गएकाले कार्यवाहक प्रधानमन्त्रीको जिम्मेवारी अर्थमन्त्री डा. स्वर्णिम वाग्लेलाई दिइएको बेहोरा राष्ट्रपति कार्यालयको पत्रमा छ । बैठकमा पूर्वाधार […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2023501/house-of-representatives-meeting-underway-here-is-the-possible-agenda-3",
+      "pubDate": 1790123237000,
+      "category": "rajaniti",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KSqIOCksOCkpCDgpKgg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "ujyaalo",
+      "title": "राष्ट्रसङ्घको ८१औँ महासभामा सहभागी हुन प्रधानमन्त्री शाह अमेरिका प्रस्थान",
+      "description": "",
+      "link": "https://www.ujyaaloonline.com/detail/131815",
+      "pubDate": 1790123040000,
+      "category": "rajaniti",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
+      "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "आज देशभर पालिका अधिवेशन गर्दै कांग्रेस",
+      "description": "७ असोज, काठमाडौँ । नेपाली कांग्रेसले आज देशैभर पालिका तहको अधिवेशन गर्दैछ । सो पार्टीको १५औँ महाधिवेशनअन्तर्गत स्थानीय तहको सांगठनिक संरचना निर्माण गर्ने क्रममा पालिका अधिवेशन हुन लागेको हो । नयाँ विधान र निर्वाचन निर्देशिकाअनुसार आज हुने पालिका अधिवेशनबाट हरेक पालिकामा पाँच जना पदाधिकारी चयन हुनेछन् । त्यसमा एक सभापति, एक महिलासहित दुई उपसभापति, एक […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2023497/congress-to-hold-municipal-conventions-across-the-country-today",
+      "pubDate": 1790121775000,
+      "category": "rajaniti",
+      "trendingScore": 60,
+      "breaking": false,
+      "clusterId": "cluster-4KSG4KScIOCkpiDgpLbg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "प्रतिनिधिसभाको बैठक आज बस्दै, यस्तो छ सम्भावित कार्यसूची",
+      "description": "काठमाडौँ । सङ्घीय संसद् प्रतिनिधिसभाको बैठक आज बिहान ११ः०० बजे बस्दै छ । बैठकमा प्रधानमन्त्रीको कार्यभार तोकिएको पत्र पढेर सुनाउने तथा विभिन्न विधेयकहरू अघि बढाउने सम्भावित कार्यसूची रहेको छ । बैठकको सुरुमा सभामुख डोलप्रसाद अर्यालले राष्ट्रपतिको",
+      "link": "https://www.ratopati.com/story/594065/house-of-representatives-meeting-to-be-held-today-here-is-the-possible-agenda",
+      "image": "https://npcdn.ratopati.com/media/news/samsad_Q6ZYLobkfB.jpg",
+      "pubDate": 1790119558000,
+      "category": "rajaniti",
+      "trendingScore": 59,
+      "breaking": false,
+      "clusterId": "cluster-4KSqIOCksOCkpCDgpKgg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
@@ -61,22 +198,9 @@
       "image": "https://npcdn.ratopati.com/media/news/congress-office-(1)_jngkj3r13m_7PHWnhfPpk.jpg",
       "pubDate": 1790116919000,
       "category": "rajaniti",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KSG4KScIOCkpiDgpLYg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "प्रदेश सरकारद्वारा दार्चुलाका विपद् प्रभावितलाई राहत सामग्री प्रदान",
-      "description": "सुदूरपश्चिम। सुदूरपश्चिम प्रदेश सरकारले दार्चुलाको व्यास गाउँपालिका&ndash;४, मडगाउँका विपद्पीडितलाई राहत सामग्री प्रदान गरेको छ। धनगढीमा प्रदेशका आन्तरिक मामिला तथा कानुनमन्त्री खुसीराम डगौरा थारूले मंगलबार स्थानीय जनप्रतिनिधिलाई उक्त राहत सामग्री हस्तान्तरण गरे । प्रभावित परिवारको तत्कालीन आवश्यकता",
-      "link": "https://www.ratopati.com/story/594038/provincial-government-provides-relief-materials-to-disaster-affected-people-in-darchula",
-      "image": "https://npcdn.ratopati.com/media/news/sudur-sarkar_7OMLNFRawM.jpg",
-      "pubDate": 1790093426000,
-      "category": "rajaniti",
-      "trendingScore": 61,
-      "breaking": true,
-      "clusterId": "cluster-4KSqIOCksOCkpiDgpLYg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
@@ -86,7 +210,7 @@
       "link": "https://www.setopati.com/politics/398992",
       "pubDate": 1790093040000,
       "category": "rajaniti",
-      "trendingScore": 61,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KS1IOCkruCkquCkqCDg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -99,7 +223,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/education-ministry.jpeg",
       "pubDate": 1790092802000,
       "category": "rajaniti",
-      "trendingScore": 61,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCknOCkqCDgpKQg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -111,7 +235,7 @@
       "link": "https://www.setopati.com/politics/398991",
       "pubDate": 1790092344000,
       "category": "rajaniti",
-      "trendingScore": 61,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkleCkqiDgpLIg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -124,7 +248,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/education-ministry.jpeg",
       "pubDate": 1790091619000,
       "category": "rajaniti",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KScIOCkqOCknCDgpIbg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -137,22 +261,10 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/Nepali-congress.png",
       "pubDate": 1790087801000,
       "category": "rajaniti",
-      "trendingScore": 59,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KStIOCksiDgpKYg4KS2",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
-    },
-    {
-      "sourceId": "setopati",
-      "title": "९० प्रतिशत सचिवको जागिर जाने, गोप्य राखिएको ३० वर्षे पेन्सनको विधिले ठूलो हलचल",
-      "description": "प्रस्तावित संघीय निजामती सेवा विधेयक जस्ताको तस्तै लागू भए लामो समयदेखि प्रशासनिक नेतृत्व सम्हालिरहेका, अनुभवी र विषयगत विज्ञता भएका अधिकांश सचिव सेवाबाट एकैपटक बाहिरिने अवस्था देखिएको छ।",
-      "link": "https://www.setopati.com/politics/398933",
-      "pubDate": 1790087760000,
-      "category": "rajaniti",
-      "trendingScore": 59,
-      "breaking": false,
-      "clusterId": "cluster-4KWv4KWmIOCkqiDgpLDg",
-      "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
     },
     {
       "sourceId": "ratopati",
@@ -162,7 +274,7 @@
       "image": "https://npcdn.ratopati.com/media/news/iran-america_NrD7JzzyqZ.jpg",
       "pubDate": 1790108198000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -175,22 +287,9 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/PRO_KTM__R9A9865.jpg",
       "pubDate": 1790084974000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCkpyDgpKjg",
-      "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
-    },
-    {
-      "sourceId": "rajdhani",
-      "title": "ओलीसँग नजिकिए विष्णु, अझै दूरीमा शंकर !",
-      "description": "काठमाडौं । एमालेको केन्द्रीय कमिटीको बैठकमा उपाध्यक्ष विष्णु पौडेल अध्यक्ष केपी शर्मा ओलीसँग नरम देखिँदा महासचिव शंकर पोखरेल अझै गरम भएका छन । बैठकको प्रस्तुति, हाउभाउ र टिप्पणीले पौडेल ओलीसँग नजिकिएको देखिएको प्रस्ष्ट छ । तर अझै पनि खरा शब्दयुक्त टिप्पणीले पोखरेलको ओलीसँग सम्बन्ध सुधारिएको देखिएको छैन । जबकि पौडेल र पोखरेल दुवै महाधिवेशनमा ओली […] The post ओलीसँग नजिकिए विष्णु, अझै दूरीमा शंकर ! appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDaily.com - Online Nepali News Portal-Latest Nepali Online News portal of Nepali Polities, economics, news, top stories, national, international, politics, sports, business, finance, entertainment, photo-gallery, audio, vid",
-      "link": "https://rajdhanidaily.com/id/148755",
-      "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/newskarkahna-news926915..jpg",
-      "pubDate": 1790084026000,
-      "category": "rajaniti",
-      "trendingScore": 58,
-      "breaking": false,
-      "clusterId": "cluster-4KST4KSyIOCkuCDgpJcg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
     },
     {
@@ -201,7 +300,7 @@
       "image": "https://npcdn.ratopati.com/media/news/trump-japan-pm_XJvAZc1kWz.webp",
       "pubDate": 1790104782000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KScIOCkqiDgpKgg4KSw",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -214,7 +313,7 @@
       "image": "https://npcdn.ratopati.com/media/news/pezeshkian_4WqqxWsGDQ.webp",
       "pubDate": 1790103628000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSH4KSwIOCkqCDgpLAg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -227,7 +326,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f448/live/59cb1180-b677-11f1-aa5f-039462a18036.jpg",
       "pubDate": 1790082135000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSuIOCksiDgpJUg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -240,7 +339,7 @@
       "image": "https://npcdn.ratopati.com/media/news/cover-12_qzK6aDlLIH.webp",
       "pubDate": 1790100915000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KWn4KWoIOCkrOCknCDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -253,7 +352,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/pratinidhisabha-150x150.jpg",
       "pubDate": 1790079367000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkriDgpKYg4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -266,8 +365,8 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Ghandruk-sadak-150x150.jpg",
       "pubDate": 1790056837000,
       "category": "rajaniti",
-      "trendingScore": 56,
-      "breaking": true,
+      "trendingScore": 53,
+      "breaking": false,
       "clusterId": "cluster-4KSsIOCksCDgpKAg4KSf",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
@@ -279,8 +378,8 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Dang_uddhyog-banijya-sangh_dang-150x150.jpg",
       "pubDate": 1790056400000,
       "category": "rajaniti",
-      "trendingScore": 56,
-      "breaking": true,
+      "trendingScore": 53,
+      "breaking": false,
       "clusterId": "cluster-4KSmIOCkmSDgpIngpLUg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
@@ -292,22 +391,9 @@
       "image": "https://npcdn.ratopati.com/media/news/mangalbahadur-shahi_nacBUUJvWL.jpg",
       "pubDate": 1790099158000,
       "category": "rajaniti",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KS44KSyIOCkryDgpKjg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "परराष्ट्रमन्त्री खनाल युएनको ८१ औँ महासभाको उच्चस्तरीय छलफलको उद्घाटन सत्रमा सहभागी",
-      "description": "काठमाडौँ । परराष्ट्रमन्त्री शिशिर खनाल मंगलबार बिहानदेखि सुरु संयुक्त राष्ट्रसंघको ८१ औँ महासभाको उच्चस्तरीय छलफलको उद्घाटन सत्रमा सहभागी भएका छन् । नेपाली प्रतिनिधिमण्डलसहित उपस्थित भएका परराष्ट्रमन्त्री खनालसँगै परराष्ट्र सचिव अमृतबहादुर राई, न्यूयोर्कस्थित संयुक्त राष्ट्रसंघका लागि नेपालका",
-      "link": "https://www.ratopati.com/story/594041/foreign-minister-khanal-participates-in-the-opening-session-of-the-high-level-discussion-of-the-81st-un-general-assembly",
-      "image": "https://npcdn.ratopati.com/media/news/un-shishir_5sYbtg20og.webp",
-      "pubDate": 1790095165000,
-      "category": "rajaniti",
-      "trendingScore": 54,
-      "breaking": false,
-      "clusterId": "cluster-4KSq4KSw4KSwIOCktyDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
@@ -317,7 +403,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023491/protests-against-iranian-government-outside-un-as-general-assembly-continues",
       "pubDate": 1790095023000,
       "category": "rajaniti",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSu4KS5IOCkuOCkrSDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -329,7 +415,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023393/vladimir-putin-from-anonymous-spy-to-undisputed-ruler-of-russia",
       "pubDate": 1790094681000,
       "category": "rajaniti",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KStIOCksiDgpKYg4KSu",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -341,23 +427,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023486/what-is-in-the-book-given-to-the-prime-minister-by-the-finance-minister-before-his-departure-for-the-us",
       "pubDate": 1790094458000,
       "category": "rajaniti",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "१० बजे १० समाचार : प्रधानमन्त्रीको पहिलो विदेश भ्रमण, भ्याटबारे सरकारभित्रै मतभेद",
-      "description": "आज २०८३ असोज ५ गते सोमबार । आज दिनभरका मुख्य १० घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति &lsquo;१० बजे १० समाचार&rsquo;मा प्रस्तुत गरेका छौँ&ndash;",
-      "link": "https://www.ratopati.com/story/594013/10-news-at-10",
-      "image": "https://npcdn.ratopati.com/media/news/10_MoWZHJGsj1.webp",
-      "pubDate": 1790093729000,
-      "category": "rajaniti",
-      "trendingScore": 53,
-      "breaking": false,
-      "clusterId": "cluster-4KWn4KWmIOCkrOCknCDg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "nagarik",
@@ -367,23 +440,10 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790093966_parampara.png",
       "pubDate": 1790093631000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KS1IOCkriDgpKjgpLgg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "‘मुक्त कमैयाको पुनःस्थापना प्रदेश सरकारको प्राथमिकतामा’",
-      "description": "धनगढी। सुदूरपश्चिम प्रदेशका मुख्यमन्त्री खगराज भट्टले मुक्त कमैयाको पुनःस्थापनाको विषयलाई प्रदेश सरकारले प्राथमिकतामा राखेको बताएका छन्। आफ्नो समस्या समाधानको मागसहित मंगलबार मुख्यमन्त्री निवास पुगेको मुक्त कमैयाको टोलीसँगको भेटमा मुख्यमन्त्री भट्टले लामो समयदेखि समस्यामा रहेका मुक्त कमैयाको",
-      "link": "https://www.ratopati.com/story/594039/rehabilitation-of-freed-kamaiyas-is-a-priority-for-the-provincial-government",
-      "image": "https://npcdn.ratopati.com/media/news/khagraj-bhatta_qyJRSuQ2Xz.png",
-      "pubDate": 1790093565000,
-      "category": "rajaniti",
-      "trendingScore": 53,
-      "breaking": false,
-      "clusterId": "cluster-4KSuIOCklSDgpKQg4KSV",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "onlinekhabar",
@@ -392,23 +452,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023483/trump-signs-security-pact-with-greenland-and-denmark",
       "pubDate": 1790093418000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSXIOCksCDgpKjgpLIg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "राहुघाटको परिक्षण उत्पादन थालियो",
-      "description": "म्याग्दी। म्याग्दीको रघुगङ्गा गाउँपालिकामा निर्माण भएको ४० मेगावाट क्षमताको राहुघाट जलविद्युत आयोजनाले मंगलबारदेखि परिक्षण उत्पादन थालेको छ। नेपाल सरकारको स्वामित्वमा रहेको नेपाल विद्युत् प्राधिकरणको सहायक कम्पनी रघुगङ्गा हाइड्रोपावर प्रर्वद्धक रहेको यस आयोजनाको भौतिक पूर्वाधार निर्माण र",
-      "link": "https://www.ratopati.com/story/594036/trial-production-of-rahughat-begins",
-      "image": "https://npcdn.ratopati.com/media/news/mathillo-rahughat_Mf6diXR5qf.jpg",
-      "pubDate": 1790093070000,
-      "category": "rajaniti",
-      "trendingScore": 53,
-      "breaking": false,
-      "clusterId": "cluster-4KSwIOCkuSDgpJgg4KSf",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "onlinekhabar",
@@ -417,7 +464,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023481/free-education-up-to-bachelors-level-for-genji-martyrs-families-and-injured",
       "pubDate": 1790092932000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KScIOCkqOCknCDgpLbg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -429,7 +476,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023468/shankars-line-uml-will-reform-not-remove-the-chairman",
       "pubDate": 1790092823000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KS2IOCkleCksOCklSDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -442,7 +489,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790092622_sishir.jpg",
       "pubDate": 1790092802000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -454,7 +501,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023444/why-is-gautam-buddha-international-airport-not-functioning-how-should-pokhara-be-run",
       "pubDate": 1790092710000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSXIOCkpOCkruCkrCDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -467,7 +514,7 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1775377879_Sovita_Gautam.jpg",
       "pubDate": 1790092707000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KS44KSoIOCkpyDgpLjg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -479,10 +526,23 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023427/the-supreme-courts-decision-that-rendered-the-authoritys-charge-sheet-irrelevant",
       "pubDate": 1790092329000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KS44KSwIOCktSDgpJog",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "karobar",
+      "title": "संसद् भवनभित्रको क्यान्टिन बन्द",
+      "description": "काठमाडौं- संसद्को नयाँ भवनको क्यान्टिन बन्द भएको छ । नयाँ बिल्डिङमा रहेको अस्थायी रुपमा राखिएको क्यान्टिन मंगलबार बन्द गरिएको हो । यसअघि सोमबार राष्ट्रिय स्वतन्त्र पार्टीका सांसद खगेन्द्र सुनाले चिया, चाउमिन, मम लगायतको मूल्य तोकेर प्रतिनिधिसभाको बैठकमा क्यान्टिन सञ्चालनप्रति प्रश्न उठाएका थिए । उनले संसद् भवनको बरण्डामा राखेको फाइभस्टार होटल कसको हो ? भनेर प्रश्न […]",
+      "link": "https://www.karobardaily.com/news/419513",
+      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/khagendra-kyannn-150x150.png",
+      "pubDate": 1790070246000,
+      "category": "rajaniti",
+      "trendingScore": 50,
+      "breaking": false,
+      "clusterId": "cluster-4KS4IOCkuOCkpiDgpK3g",
+      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
       "sourceId": "nagarik",
@@ -492,7 +552,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1782291610_rabi_balen.png",
       "pubDate": 1790091991000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSw4KS1IOCksiDgpK3g",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -505,7 +565,7 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1789535081_sudur%2031.jpg",
       "pubDate": 1790091875000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkpiDgpLDgpKrg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -518,23 +578,10 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1776248299_aaktiyar.png",
       "pubDate": 1790091735000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KS44KSh4KSVIOCkoCDg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "संसद् भवनभित्रको क्यान्टिन बन्द",
-      "description": "काठमाडौं- संसद्को नयाँ भवनको क्यान्टिन बन्द भएको छ । नयाँ बिल्डिङमा रहेको अस्थायी रुपमा राखिएको क्यान्टिन मंगलबार बन्द गरिएको हो । यसअघि सोमबार राष्ट्रिय स्वतन्त्र पार्टीका सांसद खगेन्द्र सुनाले चिया, चाउमिन, मम लगायतको मूल्य तोकेर प्रतिनिधिसभाको बैठकमा क्यान्टिन सञ्चालनप्रति प्रश्न उठाएका थिए । उनले संसद् भवनको बरण्डामा राखेको फाइभस्टार होटल कसको हो ? भनेर प्रश्न […]",
-      "link": "https://www.karobardaily.com/news/419513",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/khagendra-kyannn-150x150.png",
-      "pubDate": 1790070246000,
-      "category": "rajaniti",
-      "trendingScore": 53,
-      "breaking": false,
-      "clusterId": "cluster-4KS4IOCkuOCkpiDgpK3g",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
       "sourceId": "nagarik",
@@ -544,7 +591,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790091271_puspa.jpg",
       "pubDate": 1790091400000,
       "category": "rajaniti",
-      "trendingScore": 52,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCklyDgpLAg4KS4",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -557,7 +604,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790091069_bhet.jpg",
       "pubDate": 1790091022000,
       "category": "rajaniti",
-      "trendingScore": 52,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkryDgpK8g4KSw",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -569,7 +616,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023461/chairmans-report-and-self-criticism-should-be-reflected-in-practice-gokul-baskota",
       "pubDate": 1790090706000,
       "category": "rajaniti",
-      "trendingScore": 52,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSnIOCkr-CklSDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -581,7 +628,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023456/foreign-minister-khanal-participates-in-the-inaugural-session-of-the-high-level-discussion-at-the-un-general-assembly",
       "pubDate": 1790090192000,
       "category": "rajaniti",
-      "trendingScore": 52,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSq4KSw4KSwIOCktyDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -593,23 +640,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023452/trump-lashes-out-at-iran-at-un-general-assembly",
       "pubDate": 1790089635000,
       "category": "rajaniti",
-      "trendingScore": 52,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkryDgpJUg4KSk",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "राष्ट्रसङ्घमा ट्रम्पको चेतावनी: इरानलाई ध्व’स्त बनाएर नर्कमा धकेलौं कि सम्झौता गरौं ?",
-      "description": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले संयुक्त राष्ट्रसङ्घको महासभालाई सम्बोधन गर्दै इरानविरुद्ध चेतावनी दिएका छन्।...",
-      "link": "https://nagariknews.nagariknetwork.com/international/trump-s-warning-at-the-united-nations-should-we-destroy-iran-and-push-it-to-hell-or-make-a-deal-15-91.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1790088727_trump.jpg",
-      "pubDate": 1790089081000,
-      "category": "rajaniti",
-      "trendingScore": 52,
-      "breaking": false,
-      "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "arthasarokar",
@@ -618,7 +652,7 @@
       "link": "https://arthasarokar.com/2026/09/if-the-price-of-petrol-and-diesel-does-not-increase-then-the-fare-will-not-increase-in-dashain.html",
       "pubDate": 1790069205000,
       "category": "rajaniti",
-      "trendingScore": 52,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCknyDgpLAg4KSy",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -630,7 +664,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023429/agni-kharel-proposes-the-task-forces-report-should-not-be-ignored-the-controversy-will-escalate-further",
       "pubDate": 1790087145000,
       "category": "rajaniti",
-      "trendingScore": 51,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSXIOCkqCDgpJbg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -642,7 +676,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023422/ncp-meeting-negotiation-committee-formed-for-left-unity-two-month-public-campaign-to-be-launched",
       "pubDate": 1790086826000,
       "category": "rajaniti",
-      "trendingScore": 51,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkleCkqiDgpKwg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -654,36 +688,10 @@
       "link": "https://arthasarokar.com/2026/09/prime-minister-balen-is-going-to-the-united-states-dr-swarnim-wagle.html",
       "pubDate": 1790065632000,
       "category": "rajaniti",
-      "trendingScore": 51,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "काठमाडौंबाट उडे प्रधानमन्त्री बालेन: न्यूयोर्क पुग्नासाथ कूटनीतिक ब्रिफिङ, भोलिपल्टै महासभामा सम्बोधन",
-      "description": "संयुक्त राष्ट्रसङ्घको ८१ औं महासभामा सहभागी हुन नेपाली प्रतिनिधिमण्डलको नेतृत्व गर्दै प्रधानमन्त्री बालेन्द्र शाह अमेरिका प्रस्थान गरेका छन्।...",
-      "link": "https://nagariknews.nagariknetwork.com/politics/this-is-the-schedule-of-prime-minister-balen-shah-s-visit-to-the-us-22-21.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1790085781_balen_.jpg",
-      "pubDate": 1790085927000,
-      "category": "rajaniti",
-      "trendingScore": 50,
-      "breaking": false,
-      "clusterId": "cluster-4KSVIOCkoOCkriDgpKEg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "एमाले बैठकमा बाहिरको बहस भित्रै प्रवेश : हारको समीक्षा, पुनर्गठन र नेतृत्व हस्तान्तरणमा छलफल",
-      "description": "एमाले सचिव महेश बस्नेतले बैठकमा अध्यक्ष परिवर्तन वा विशेष महाधिवेशन बोलाउने विषय नउठेको दाबी गरेका छन्। उनका अनुसार छलफल पार्टीको पुनर्संरचना र सुधारमा केन्द्रित छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/politics/uml-meeting-enters-into-external-debate-review-of-defeat-discussion-on-reorganization-and-leadership-handover-79-29.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1790074211_CPN_UML%20(13).jpeg",
-      "pubDate": 1790085810000,
-      "category": "rajaniti",
-      "trendingScore": 50,
-      "breaking": false,
-      "clusterId": "cluster-4KSP4KSuIOCksiDgpKwg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -692,21 +700,9 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023376/guterres-welcomes-call-for-ai-control",
       "pubDate": 1790083933000,
       "category": "rajaniti",
-      "trendingScore": 50,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSXIOCknyDgpLAg4KS4",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "राष्ट्रसंघको महासभामा भाग लिन प्रधानमन्त्री शाह न्युयोर्क प्रस्थान",
-      "description": "४ सदस्यीय प्रतिनिधिमण्डलको नेतृत्व गर्दै संयुक्त राष्ट्रसंघको ८१औं महासभामा भाग लिन प्रधानमन्त्री शाह त्यसतर्फ प्रस्थान गरेका हुन् ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2023377/prime-minister-shah-leaves-for-new-york-to-attend-the-un-general-assembly",
-      "pubDate": 1790083601000,
-      "category": "rajaniti",
-      "trendingScore": 50,
-      "breaking": false,
-      "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
@@ -717,10 +713,22 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Babarmahal-sky-bridge-construction-712-150x150.jpg",
       "pubDate": 1790061964000,
       "category": "rajaniti",
-      "trendingScore": 50,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSs4KSs4KSw4KSu4KS5",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "राष्ट्रसंघको महासभामा भाग लिन प्रधानमन्त्री शाह न्युयोर्क प्रस्थान",
+      "description": "४ सदस्यीय प्रतिनिधिमण्डलको नेतृत्व गर्दै संयुक्त राष्ट्रसंघको ८१औं महासभामा भाग लिन प्रधानमन्त्री शाह त्यसतर्फ प्रस्थान गरेका हुन् ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2023377/prime-minister-shah-leaves-for-new-york-to-attend-the-un-general-assembly",
+      "pubDate": 1790083601000,
+      "category": "rajaniti",
+      "trendingScore": 46,
+      "breaking": false,
+      "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "onlinekhabar",
@@ -729,70 +737,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023371/indra-bhandaris-question-at-the-uml-meeting-will-the-secretariat-or-the-task-force-take-responsibility-for-dividing-the-cadres",
       "pubDate": 1790083128000,
       "category": "rajaniti",
-      "trendingScore": 49,
+      "trendingScore": 46,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSuIOCksiDgpKwg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "एमाले केन्द्रीय कमिटी : ११८ सदस्यले राखे धारणा",
-      "description": "६ असोज, काठमाडौं । नेकपा एमालेको केन्द्रीय कमिटी बैठकको दोश्रो दिन सदस्यहरूले अध्यक्ष केपी ओलीको राजनीतिक प्रतिवेदन लगाएतका बिषयका धारणा राखेका छन् । मंगलबार ललितपुरमा बसेको बैठकमा ११८ जना सदस्यहरूले धारणा राखेको एमाले प्रचार विभाग प्रमुख निरज आचार्यले जानकारी दिए । अध्यक्षको प्रतिवेदनले वर्तमान राष्ट्रिय–अन्तर्राष्ट्रिय परिवेशको सही विश्लेषण गरेको, पार्टीभित्रका समस्या उजागर गरेको र वर्तमान […]",
-      "link": "https://www.onlinekhabar.com/2026/09/2023367/uml-central-committee-96-members-expressed-their-views",
-      "pubDate": 1790082854000,
-      "category": "rajaniti",
-      "trendingScore": 49,
-      "breaking": false,
-      "clusterId": "cluster-4KSP4KSuIOCksiDgpJUg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "टर्कीको विद्यालयनजिक गोली चल्दा ११ जना घाइते",
-      "description": "६ असोज, अङ्कारा (रासस/एपी)। टर्कीको पश्चिमी क्षेत्रमा रहेको एक उच्च माध्यमिक विद्यालयनजिक मङ्गलबार गोली चल्दा कम्तीमा ११ जना घाइते भएका छन् । घटनामा संलग्न भएको आशङ्कामा एक जनालाई पक्राउ गरिएको अधिकारीले बताएका छन् । न्यायमन्त्री अकिन गुर्लेकका अनुसार घाइतेमध्ये दुई जनाको अवस्था गम्भीर छ । मनिसा प्रान्तको तुर्गुत्लु जिल्लास्थित व्यावसायिक तथा प्राविधिक उच्च माध्यमिक विद्यालयअगाडि घटना भएको […]",
-      "link": "https://www.onlinekhabar.com/2026/09/2023348/11-injured-in-shooting-near-turkish-school",
-      "pubDate": 1790082600000,
-      "category": "rajaniti",
-      "trendingScore": 49,
-      "breaking": false,
-      "clusterId": "cluster-4KSf4KSwIOCklSDgpJUg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "मुक्त कमैया पुनर्स्थापनाको विषय प्राथमिकतामा राखेका छौं : मुख्यमन्त्री भट्ट",
-      "description": "मुख्यमन्त्री भट्टले मुक्त कमैयाको आवासलगायतका समस्या समाधानका लागि आगामी बजेटमै आवश्यक व्यवस्था गरिने प्रतिबद्धता व्यक्त गरे ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2023345/we-have-prioritized-the-rehabilitation-of-freed-kamaiya-chief-minister-bhatta",
-      "pubDate": 1790081512000,
-      "category": "rajaniti",
-      "trendingScore": 49,
-      "breaking": false,
-      "clusterId": "cluster-4KSuIOCklSDgpKQg4KSV",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "आगामी सिजनमा मल अभाव नहुने सरकारको दाबी, १० अर्बको स्रोत सुनिश्चित",
-      "description": "कृषि मन्त्रालयका अनुसार बजेटको टुङ्गो लागेसँगै उक्त रकमबाट आवश्यक मल खरिद गर्न छिट्टै टेन्डर (बोलपत्र) आह्वान गर्ने तयारी भइरहेको छ ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2023335/government-claims-there-will-be-no-shortage-of-fertilizer-in-the-coming-season-sources-of-rs-10-billion-assured",
-      "pubDate": 1790080964000,
-      "category": "rajaniti",
-      "trendingScore": 49,
-      "breaking": false,
-      "clusterId": "cluster-4KSG4KSXIOCkriDgpLgg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "ujyaalo",
-      "title": "एमाले बैठकमा कार्यदलको प्रतिवेदन पेस गर्न माग, नेतृत्वको कार्यशैलीमाथि प्रश्न",
-      "description": "",
-      "link": "https://www.ujyaaloonline.com/detail/131812",
-      "pubDate": 1790079883000,
-      "category": "rajaniti",
-      "trendingScore": 48,
-      "breaking": false,
-      "clusterId": "cluster-4KSP4KSuIOCksiDgpKwg",
-      "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
     },
     {
       "sourceId": "karobar",
@@ -802,22 +750,10 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/rock-garden-150x150.jpg",
       "pubDate": 1790055970000,
       "category": "rajaniti",
-      "trendingScore": 48,
+      "trendingScore": 45,
       "breaking": false,
       "clusterId": "cluster-4KSq4KSwIOCkr-Ckn-Ck",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "ujyaalo",
-      "title": "सरकारी ठेक्कामा श्रमिक शोषण रोक्न सर्वोच्चको निर्देशन",
-      "description": "",
-      "link": "https://www.ujyaaloonline.com/detail/131809",
-      "pubDate": 1790076150000,
-      "category": "rajaniti",
-      "trendingScore": 47,
-      "breaking": false,
-      "clusterId": "cluster-4KS44KSw4KSVIOCksCDg",
-      "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
     },
     {
       "sourceId": "arthasarokar",
@@ -826,7 +762,7 @@
       "link": "https://arthasarokar.com/2026/09/lawmaker-awasthi-mocks-hike-in-airfares-delhi-is-cheaper-far-western-more-expensive.html",
       "pubDate": 1789991774000,
       "category": "rajaniti",
-      "trendingScore": 41,
+      "trendingScore": 38,
       "breaking": false,
       "clusterId": "cluster-4KS54KS1IOCkiCDgpK0g",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -838,7 +774,7 @@
       "link": "https://arthasarokar.com/2026/09/china-donates-rs-11-million-to-flood-affected-children.html",
       "pubDate": 1789987344000,
       "category": "rajaniti",
-      "trendingScore": 31,
+      "trendingScore": 28,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -851,7 +787,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ffa/live/1ce4a0a0-b5a6-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1789986435000,
       "category": "rajaniti",
-      "trendingScore": 31,
+      "trendingScore": 28,
       "breaking": false,
       "clusterId": "cluster-4KS54KSwIOCkj-CklSDg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -864,7 +800,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/china-nepal-help-150x150.jpg",
       "pubDate": 1789985085000,
       "category": "rajaniti",
-      "trendingScore": 30,
+      "trendingScore": 27,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -877,7 +813,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/gita-chaudhary-sabha-150x150.jpg",
       "pubDate": 1789990048000,
       "category": "rajaniti",
-      "trendingScore": 24,
+      "trendingScore": 21,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -890,7 +826,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/sobita_sabha-150x150.jpg",
       "pubDate": 1789989753000,
       "category": "rajaniti",
-      "trendingScore": 24,
+      "trendingScore": 21,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCkpCDgpKgg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -903,7 +839,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Dol-prasad-aryal_sabhamukh_BBG-1-150x150.jpg",
       "pubDate": 1789986009000,
       "category": "rajaniti",
-      "trendingScore": 23,
+      "trendingScore": 19,
       "breaking": false,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
