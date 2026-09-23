@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T19:48:04.432Z",
+  "generatedAt": "2026-09-23T22:29:13.649Z",
   "category": "rajaniti",
   "articles": [
     {
@@ -9,10 +9,22 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024356/discussion-on-nepal-finland-relations-and-multilateral-cooperation",
       "pubDate": 1790182166000,
       "category": "rajaniti",
-      "trendingScore": 74,
+      "trendingScore": 71,
       "breaking": true,
       "clusterId": "cluster-4KSoIOCkqiDgpLIg4KSr",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "id": "ekantipur::snap-0",
+      "sourceId": "ekantipur",
+      "title": "कान्तिपुर सम्पादकीय: सुशासनको परीक्षा",
+      "description": "कानुनी राज्यको पालना नै लोकतन्त्रको आधार हो भन्ने सम्पादकीय आज प्रकाशित भएको छ।",
+      "link": "https://ekantipur.com",
+      "pubDate": 1790202553649,
+      "fromSnapshot": true,
+      "category": "rajaniti",
+      "trendingScore": 70,
+      "breaking": false
     },
     {
       "sourceId": "rajdhani",
@@ -22,22 +34,10 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/maliaisa.jpg",
       "pubDate": 1790173039000,
       "category": "rajaniti",
-      "trendingScore": 71,
+      "trendingScore": 67,
       "breaking": true,
       "clusterId": "cluster-4KSu4KSyIOCkuCDgpK8g",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
-    },
-    {
-      "id": "ekantipur::snap-0",
-      "sourceId": "ekantipur",
-      "title": "कान्तिपुर सम्पादकीय: सुशासनको परीक्षा",
-      "description": "कानुनी राज्यको पालना नै लोकतन्त्रको आधार हो भन्ने सम्पादकीय आज प्रकाशित भएको छ।",
-      "link": "https://ekantipur.com",
-      "pubDate": 1790192884432,
-      "fromSnapshot": true,
-      "category": "rajaniti",
-      "trendingScore": 70,
-      "breaking": false
     },
     {
       "sourceId": "ratopati",
@@ -47,7 +47,7 @@
       "image": "https://npcdn.ratopati.com/media/news/12-news-cover_oSasdTc3gV.webp",
       "pubDate": 1790187308000,
       "category": "rajaniti",
-      "trendingScore": 68,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KWn4KWoIOCkrOCknCDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -60,22 +60,10 @@
       "image": "https://npcdn.ratopati.com/media/news/german-nepal_hd7uQs01EG.webp",
       "pubDate": 1790185431000,
       "category": "rajaniti",
-      "trendingScore": 67,
+      "trendingScore": 64,
       "breaking": true,
       "clusterId": "cluster-4KSq4KSw4KSwIOCktyDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "setopati",
-      "title": "'विशेष महाधिवेशन वा पार्टी पुनर्गठन जरूरी छैन'",
-      "description": "",
-      "link": "https://www.setopati.com/politics/399103",
-      "pubDate": 1790183700000,
-      "category": "rajaniti",
-      "trendingScore": 67,
-      "breaking": false,
-      "clusterId": "cluster-4KS1IOCktiDgpLcg4KSu",
-      "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
     },
     {
       "sourceId": "karobar",
@@ -85,10 +73,35 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/sse-150x150.jpg",
       "pubDate": 1790163228000,
       "category": "rajaniti",
-      "trendingScore": 67,
+      "trendingScore": 64,
       "breaking": true,
       "clusterId": "cluster-4KSh4KSsIOCksiDgpKHg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "setopati",
+      "title": "'विशेष महाधिवेशन वा पार्टी पुनर्गठन जरूरी छैन'",
+      "description": "",
+      "link": "https://www.setopati.com/politics/399103",
+      "pubDate": 1790183700000,
+      "category": "rajaniti",
+      "trendingScore": 63,
+      "breaking": false,
+      "clusterId": "cluster-4KS1IOCktiDgpLcg4KSu",
+      "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "अमेरिकाबाटै प्रधानमन्त्रीले भने- पर्सिदेखि भारी वर्षा र बाढीको जोखिम छ, सतर्कता अपनाउनू",
+      "description": "आगामी शुक्रबारदेखि आइतबारसम्म देशभर भारीदेखि अति भारी वर्षा, बाढी र पहिरोको जोखिम रहेको भन्दै प्रधानमन्त्री बालेन शाहले उच्च सतर्कता अपनाउन नागरिकसमक्ष अपिल गरेका छन्।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/heavy-rains-flood-and-landslide-risk-from-friday-prime-minister-balen-shah-appeals-from-the-us-to-be-vigilant-59-49.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1788864357_balen.png",
+      "pubDate": 1790159631000,
+      "category": "rajaniti",
+      "trendingScore": 63,
+      "breaking": true,
+      "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -97,7 +110,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024353/nepal-is-suffering-due-to-the-betrayal-of-powerful-nations-madhav-nepal",
       "pubDate": 1790181254000,
       "category": "rajaniti",
-      "trendingScore": 66,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KS24KSVIOCkpCDgpLAg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -110,7 +123,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/oli.jpeg",
       "pubDate": 1790180467000,
       "category": "rajaniti",
-      "trendingScore": 66,
+      "trendingScore": 62,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSuIOCksiDgpJUg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -123,7 +136,7 @@
       "image": "https://npcdn.ratopati.com/media/news/s_w8qsMvFHtA.webp",
       "pubDate": 1790177882000,
       "category": "rajaniti",
-      "trendingScore": 65,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCkj-CkruCkuCDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -135,7 +148,7 @@
       "link": "https://www.setopati.com/politics/399100",
       "pubDate": 1790177340000,
       "category": "rajaniti",
-      "trendingScore": 64,
+      "trendingScore": 61,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCkoOCkriDgpKEg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -148,7 +161,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/education1.jpeg",
       "pubDate": 1790177006000,
       "category": "rajaniti",
-      "trendingScore": 64,
+      "trendingScore": 61,
       "breaking": false,
       "clusterId": "cluster-4KSm4KS2IOCkheCklyDg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -160,7 +173,7 @@
       "link": "https://www.setopati.com/politics/399099",
       "pubDate": 1790176500000,
       "category": "rajaniti",
-      "trendingScore": 64,
+      "trendingScore": 61,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCknCDgpK7gpKQg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -173,23 +186,10 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/sida-badi-aayog.jpeg",
       "pubDate": 1790176070000,
       "category": "rajaniti",
-      "trendingScore": 64,
+      "trendingScore": 60,
       "breaking": false,
       "clusterId": "cluster-4KS44KSuIOCknCDgpJXg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "वाम एकतामा हतारिएर फुर्सदमा पछुताउनु हुन्न, जबर्जस्ती गर्दा फेरि दुर्घटना हुन्छ: माधव नेपाल",
-      "description": "नेपाली कम्युनिष्ट पार्टीका सहसंयोजक एवं पूर्वप्रधानमन्त्री माधवकुमार नेपालले वामपन्थी शक्तिहरूबीच हतारमा एकता गरेर पछि पछुताउनुभन्दा परिपक्व सहकार्यको बाटो रोज्नुपर्ने बताएका छन्।...",
-      "link": "https://nagariknews.nagariknetwork.com/politics/don-t-rush-into-left-unity-and-regret-it-later-50-percent-youth-are-needed-at-the-local-level-madhav-nepal-61-84.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1790170549_77.png",
-      "pubDate": 1790174291000,
-      "category": "rajaniti",
-      "trendingScore": 63,
-      "breaking": true,
-      "clusterId": "cluster-4KS1IOCkriDgpI_gpJXg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "rajdhani",
@@ -199,7 +199,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/05/balenshahh-1.jpg",
       "pubDate": 1790171639000,
       "category": "rajaniti",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkryDgpK8g4KSw",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -212,7 +212,7 @@
       "image": "https://npcdn.ratopati.com/media/news/madesh-cm-office_jx3zzEZ46l.jpg",
       "pubDate": 1790189143000,
       "category": "rajaniti",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCkueCksCDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -225,7 +225,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/6-7-P-1.jpg",
       "pubDate": 1790165429000,
       "category": "rajaniti",
-      "trendingScore": 60,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KS44KSw4KSVIOCksCDg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -237,7 +237,7 @@
       "link": "https://arthasarokar.com/2026/09/10000-passports-blacklisted-6000-nepali-4000-foreigners.html",
       "pubDate": 1790165389000,
       "category": "rajaniti",
-      "trendingScore": 60,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KWn4KWmIOCkueCknCDg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -250,10 +250,36 @@
       "image": "https://npcdn.ratopati.com/media/news/bhartpaur_bhLyKK1qo2.webp",
       "pubDate": 1790185713000,
       "category": "rajaniti",
-      "trendingScore": 59,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCklyDgpLAg4KS4",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "भारी वर्षाको सम्भावनाले बीपी राजमार्गको निर्माणाधीन ट्रयाकको काम रोकियो",
+      "description": "मन्त्री लम्सालका अनुसार सम्भावित वर्षा, पहिरो तथा सडकमा आउन सक्ने चुनौतीलाई मध्यनजर गर्दै निर्माण कार्य केही दिन स्थगित गर्ने तयारी गरिएको हो।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/work-on-bp-highway-under-construction-halted-due-to-possibility-of-heavy-rain-97-65.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1790164107_BP%20Highway%20(1).png",
+      "pubDate": 1790164114000,
+      "category": "rajaniti",
+      "trendingScore": 56,
+      "breaking": true,
+      "clusterId": "cluster-4KStIOCksCDgpLXgpLAg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "karobar",
+      "title": "मौसमी विपद् जोखिमलाई ध्यानमा राख्दै आवश्यक तयारी, समन्वय तथा पूर्वसतर्कता अपनाउन प्रधानमन्त्रीको आग्रह",
+      "description": "काठमाडौं- प्रधानमन्त्री बालेन्द्र शाहले सम्भावित मौसमी विपद् जोखिमलाई ध्यानमा राख्दै सम्बन्धित निकायहरूलाई आवश्यक तयारी, समन्वय तथा पूर्वसतर्कता अपनाउन आग्रह गरेका छन् । प्रधानमन्त्री शाहले बुधबार सामाजिक सञ्जालमार्फत मौसम विज्ञान विभाग, मौसम पूर्वानुमान महाशाखाका अनुसार यही असोज ९ गतेदेखि असोज ११ गतेसम्म देशका विभिन्न स्थानमा मेघगर्जन, चट्याङ, हावाहुरीसहित भारीदेखि अति भारी वर्षाको सम्भावना उल्लेख गर्दै त्यस्तो […]",
+      "link": "https://www.karobardaily.com/news/419985",
+      "image": "https://www.karobardaily.com/wp-content/uploads/2026/04/Balen_pm_BBG-150x150.jpg",
+      "pubDate": 1790162602000,
+      "category": "rajaniti",
+      "trendingScore": 56,
+      "breaking": false,
+      "clusterId": "cluster-4KSuIOCkuOCkriDgpLUg",
+      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
       "sourceId": "onlinekhabar",
@@ -262,7 +288,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023986/resham-chaudharys-prison-sentence-has-been-commuted-will-the-criminals-stigma-remain-or-be-erased",
       "pubDate": 1790183578000,
       "category": "rajaniti",
-      "trendingScore": 59,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktuCkriDgpJog",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -274,7 +300,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023875/government-debt-reaches-3-4-trillion-61-billion-mobilized-in-two-months",
       "pubDate": 1790183419000,
       "category": "rajaniti",
-      "trendingScore": 59,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KS44KSw4KSVIOCksOCk",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -286,7 +312,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024344/balen-in-new-york-will-meet-guterres-before-speaking-at-the-un-will-address-the-17th-session-of-the-day",
       "pubDate": 1790183283000,
       "category": "rajaniti",
-      "trendingScore": 59,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkryDgpK8g4KSw",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -298,7 +324,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024246/doctors-question-on-government-proposal-how-to-kill-a-baby-that-can-survive",
       "pubDate": 1790183200000,
       "category": "rajaniti",
-      "trendingScore": 59,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KS44KSw4KSVIOCksOCk",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -310,23 +336,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023764/who-said-what-after-trumps-statement-about-destroying-iran",
       "pubDate": 1790183184000,
       "category": "rajaniti",
-      "trendingScore": 59,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSH4KSwIOCkqOCksiDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "मौसमी विपद् जोखिमलाई ध्यानमा राख्दै आवश्यक तयारी, समन्वय तथा पूर्वसतर्कता अपनाउन प्रधानमन्त्रीको आग्रह",
-      "description": "काठमाडौं- प्रधानमन्त्री बालेन्द्र शाहले सम्भावित मौसमी विपद् जोखिमलाई ध्यानमा राख्दै सम्बन्धित निकायहरूलाई आवश्यक तयारी, समन्वय तथा पूर्वसतर्कता अपनाउन आग्रह गरेका छन् । प्रधानमन्त्री शाहले बुधबार सामाजिक सञ्जालमार्फत मौसम विज्ञान विभाग, मौसम पूर्वानुमान महाशाखाका अनुसार यही असोज ९ गतेदेखि असोज ११ गतेसम्म देशका विभिन्न स्थानमा मेघगर्जन, चट्याङ, हावाहुरीसहित भारीदेखि अति भारी वर्षाको सम्भावना उल्लेख गर्दै त्यस्तो […]",
-      "link": "https://www.karobardaily.com/news/419985",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2026/04/Balen_pm_BBG-150x150.jpg",
-      "pubDate": 1790162602000,
-      "category": "rajaniti",
-      "trendingScore": 59,
-      "breaking": false,
-      "clusterId": "cluster-4KSuIOCkuOCkriDgpLUg",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
       "sourceId": "onlinekhabar",
@@ -335,7 +348,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024210/45000-women-and-more-than-13000-youth-will-be-represented-at-eight-levels-of-the-nepali-congress",
       "pubDate": 1790182844000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCklyDgpLAg4KS4",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -347,7 +360,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024360/the-movement-to-restore-parliament-could-be-suicidal-and-destructive-gokarna-bista",
       "pubDate": 1790182759000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkuOCkpiDgpKog",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -360,7 +373,7 @@
       "image": "https://npcdn.ratopati.com/media/news/gokarna-bista11_iMn2U2femA.jpg",
       "pubDate": 1790182047000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCkpCDgpKgg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -372,23 +385,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024346/uml-central-committee-meeting-chairman-olis-report-unanimously-passed",
       "pubDate": 1790180280000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSuIOCksiDgpJUg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "परराष्ट्रमन्त्रीले भने- राष्ट्रसङ्घीय शान्ति मिसनमा १० हजारसम्म सैनिक खटाउन नेपाल तयार",
-      "description": "परराष्ट्रमन्त्री शिशिर खनालले विश्व शान्ति तथा सुरक्षा प्रवर्द्धनका लागि संयुक्त राष्ट्रसङ्घको आवश्यकताअनुसार नेपाल १० हजारसम्म शान्ति सैनिक पठाउन तयार रहेको प्रतिबद्धता व्यक्त गरेका छन्।...",
-      "link": "https://nagariknews.nagariknetwork.com/politics/nepal-s-contribution-to-peacekeeping-will-continue-foreign-minister-khanal-64-10.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1790180103_Untitled-1.jpg",
-      "pubDate": 1790180154000,
-      "category": "rajaniti",
-      "trendingScore": 57,
-      "breaking": false,
-      "clusterId": "cluster-4KSq4KSw4KSwIOCktyDg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "ratopati",
@@ -398,7 +398,7 @@
       "image": "https://npcdn.ratopati.com/media/news/koshi-sabhapati-candidate_S950ORrCHq.webp",
       "pubDate": 1790179877000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCklyDgpLAg4KS4",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -411,7 +411,7 @@
       "image": "https://npcdn.ratopati.com/media/news/bb_2YXYKjqkWt.webp",
       "pubDate": 1790179646000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkryDgpJUg4KSk",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -424,7 +424,7 @@
       "image": "https://npcdn.ratopati.com/media/news/jB2rgzoyfA.jpg",
       "pubDate": 1790179608000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkieCkpiDgpIXg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -436,7 +436,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024341/iranian-president-says-at-un-general-assembly-iranian-people-are-victims-of-terrorism",
       "pubDate": 1790179032000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -449,23 +449,10 @@
       "image": "https://npcdn.ratopati.com/media/news/uml-cc-meeting1_duea9kH58f.webp",
       "pubDate": 1790179018000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCkqiDgpJPgpLIg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "कांग्रेस महाधिवेशन : मोरङमा वडा अधिवेशन अझै सकिएन",
-      "description": "नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत बुधबारदेखि पालिका अधिवेशन सुरु हुने कार्यतालिका भए पनि मोरङमा वडा अधिवेशन नै सम्पन्न हुन सकेको छैन।...",
-      "link": "https://nagariknews.nagariknetwork.com/politics/congress-general-convention-ward-convention-in-morang-not-over-yet-90-40.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1790178897_Congresh.jpg",
-      "pubDate": 1790178908000,
-      "category": "rajaniti",
-      "trendingScore": 57,
-      "breaking": false,
-      "clusterId": "cluster-4KSVIOCklyDgpLAg4KS4",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "ratopati",
@@ -475,7 +462,7 @@
       "image": "https://npcdn.ratopati.com/media/news/uml-ccm_D3s7F9eA5e.webp",
       "pubDate": 1790178234000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KS44KSaIOCktSDgpLLg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -488,7 +475,7 @@
       "image": "https://npcdn.ratopati.com/media/news/vet_dDgqrs5C6m.webp",
       "pubDate": 1790177544000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KS2IOCkqCDgpKQg4KS4",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -500,7 +487,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024323/uml-meeting-discusses-issues-ranging-from-left-unity-to-parliament-restoration-voice-of-leadership-change-faint",
       "pubDate": 1790177495000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSuIOCksiDgpKwg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -513,7 +500,7 @@
       "image": "https://npcdn.ratopati.com/media/news/bagmati-cabinet_lfpx4coc1j_vaabusgave_VJ0uKd7DZP.webp",
       "pubDate": 1790177434000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSaIOCksCDgpKYg4KSo",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -526,7 +513,7 @@
       "image": "https://npcdn.ratopati.com/media/news/kshitij-thebe_fKFeKpAwZE.jpg",
       "pubDate": 1790177156000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkpCDgpKQg4KS1",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -539,7 +526,7 @@
       "image": "https://npcdn.ratopati.com/media/news/ramkrishna-koirala_EvbjblzSwH.webp",
       "pubDate": 1790176995000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCklyDgpLAg4KS4",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -552,7 +539,7 @@
       "image": "https://npcdn.ratopati.com/media/news/ss_8EEzfe5HM9.webp",
       "pubDate": 1790176731000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSm4KS4IOCkheCklyDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -565,23 +552,10 @@
       "image": "https://rpcdn.ratopati.com/media/albums/sanghiye-sansad-sachibalaya-e1543329074949_GrGfrqgsbt.jpg",
       "pubDate": 1790176542000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkuOCkpiDgpLjg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "‘राजनीतिमा पनि प्रकृतिजस्तै उथलपुथल हुन्छ’",
-      "description": "नेकपाका सहअध्यक्ष एवं पूर्वप्रधानमन्त्री माधवकुमार नेपालले राजनीति र प्रकृतिको चरित्र कतिपय अवस्थामा उस्तै हुने टिप्पणी गरेका छन् ।...",
-      "link": "https://nagariknews.nagariknetwork.com/politics/just-like-nature-there-are-ups-and-downs-in-politics-13-68.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1790170548_makune.jpg",
-      "pubDate": 1790175733000,
-      "category": "rajaniti",
-      "trendingScore": 56,
-      "breaking": false,
-      "clusterId": "cluster-4KSwIOCknOCkqCDgpKQg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -590,7 +564,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024315/meeting-between-bagmati-chief-minister-and-lalitpur-metropolitan-mayor",
       "pubDate": 1790175597000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkl-CkruCkpCDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -602,23 +576,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024308/the-issue-of-restoring-the-house-of-representatives-should-not-be-carried-by-the-people-but-should-be-established-among-the-people-chief-minister-karki",
       "pubDate": 1790175330000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCkpCDgpKgg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "‘ओलीको मलाई फसाउन पतञ्जली प्रकरणमा प्रतिशोध साँधे’",
-      "description": "नेपाली कम्युनिष्ट पार्टीका सहसंयोजक एवं पूर्वप्रधानमन्त्री माधवकुमार नेपालले पतञ्जली जग्गा प्रकरणमा आफूमाथि राजनीतिक प्रतिशोध साँधेर मुद्दा चलाइएको दाबी गरेका छन्।...",
-      "link": "https://nagariknews.nagariknetwork.com/politics/political-vendetta-against-me-in-patanjali-case-not-a-single-penny-of-irregularities-66-15.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1790170550_madhav.jpg",
-      "pubDate": 1790175214000,
-      "category": "rajaniti",
-      "trendingScore": 56,
-      "breaking": false,
-      "clusterId": "cluster-4KST4KSyIOCklSDgpK7g",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -627,23 +588,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024305/jhakris-question-at-the-uml-meeting-is-it-correct-to-dismiss-the-chairman-with-all-the-blame",
       "pubDate": 1790175004000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSuIOCksiDgpKwg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "‘मेरो दिमागमा सधैं देश बनाउने हुटहुटी हुन्छ, काम भएन भने भित्रैबाट पोल्छ’",
-      "description": "नेपाली कम्युनिष्ट पार्टीका सहसंयोजक एवं पूर्वप्रधानमन्त्री माधवकुमार नेपालले आफ्ना लागि राजकीय पदभन्दा देश निर्माणको जिम्मेवारी सधैं पहिलो प्राथमिकतामा रहेको बताएका छन्।...",
-      "link": "https://nagariknews.nagariknetwork.com/politics/i-always-have-a-burning-desire-to-build-a-country-in-my-mind-if-i-don-t-get-the-job-done-i-ll-burn-from-the-inside-34-23.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1790170548_makune.jpg",
-      "pubDate": 1790174858000,
-      "category": "rajaniti",
-      "trendingScore": 56,
-      "breaking": false,
-      "clusterId": "cluster-4KSuIOCksCDgpKYg4KSu",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -652,7 +600,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024282/kailali-congress-acting-chairman-controversy-center-gives-baduwal-tharu-gets-angry",
       "pubDate": 1790174433000,
       "category": "rajaniti",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCksiDgpLIg4KSV",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -664,49 +612,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024276/acting-prime-minister-wagle-receives-briefing-on-weather-preparedness",
       "pubDate": 1790174026000,
       "category": "rajaniti",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCksCDgpK_gpLUg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "बालेन जीलाई फोटोमा र टाढाबाट मात्र देखेको छु, दई शब्द कुरा गर्न पाएको छैन: माधव नेपाल",
-      "description": "नेपाली कम्युनिष्ट पार्टीका सहसंयोजक एवं पूर्वप्रधानमन्त्री माधवकुमार नेपालले प्रधानमन्त्री बालेन शाहसँग आफूले लामो समयदेखि संवाद गर्न नपाएको बताएका छन्।...",
-      "link": "https://nagariknews.nagariknetwork.com/politics/i-haven-t-been-able-to-speak-two-words-with-balen-ji-madhav-nepal-87-73.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1790173096_ll.png",
-      "pubDate": 1790173402000,
-      "category": "rajaniti",
-      "trendingScore": 55,
-      "breaking": false,
-      "clusterId": "cluster-4KSsIOCksiDgpKgg4KSc",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "प्रधानमन्त्रीलाई फोटोमा हेर्छु, चिनजान छैन : माधव नेपाल",
-      "description": "पूर्वप्रधानमन्त्री माधवकुमार नेपालले वर्तमान सरकारले प्रमुख राजनीतिक दल तथा अनुभवी नेताहरूसँग आवश्यक परामर्श नै नगरी एकलौटी ढंगले अघि बढ्न खोजेको आरोप लगाएका छन् ।...",
-      "link": "https://nagariknews.nagariknetwork.com/politics/i-see-the-prime-minister-in-a-photo-but-i-don-t-recognize-him-madhav-nepal-67-25.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1790173258_Madhav_Balen.png",
-      "pubDate": 1790173265000,
-      "category": "rajaniti",
-      "trendingScore": 55,
-      "breaking": false,
-      "clusterId": "cluster-4KSqIOCksOCkpyDgpKjg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "फास्ट ट्र्याकको म्याद तेस्रो पटक थपियो, लागत २० अर्बसम्म बढ्ने",
-      "description": "सरकारले फास्ट ट्र्याक निर्माणको म्याद २०८६ चैत मसान्तसम्म थप गरेको हो। यसअघि दोस्रो पटक थपिएको म्याद २०८३ चैत मसान्तसम्मका लागि नै तोकिएको थियो।...",
-      "link": "https://nagariknews.nagariknetwork.com/economy/fast-track-deadline-extended-for-the-third-time-cost-to-increase-by-up-to-20-billion-12-95.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1790173163_fast%20track%20(1).png",
-      "pubDate": 1790173251000,
-      "category": "rajaniti",
-      "trendingScore": 55,
-      "breaking": false,
-      "clusterId": "cluster-4KSrIOCkuCDgpJ8g4KSf",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -715,7 +624,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024264/the-new-generation-became-decisive-the-partys-presence-weakened-vishal-bhattarai",
       "pubDate": 1790172911000,
       "category": "rajaniti",
-      "trendingScore": 55,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSo4KSvIOCkqiDgpLgg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -727,36 +636,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024253/mahesh-basnets-three-proposals-restoration-of-parliament-movement-against-the-government-and-leftist-unity",
       "pubDate": 1790172667000,
       "category": "rajaniti",
-      "trendingScore": 55,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSu4KS5IOCktiDgpKzg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "‘तीन पटक राष्ट्रपतिको अफर आएको थियो, पदको लोभ गरेको भए उहिल्यै राष्ट्रपति भइसक्थें’",
-      "description": "नेपाली कम्युनिष्ट पार्टीका सहसंयोजक एवं पूर्वप्रधानमन्त्री माधवकुमार नेपालले आफूलाई तीन-तीन पटक राष्ट्रपतिको अफर आए पनि कार्यकारी राजनीति रोज्दै अस्वीकार गरेको दाबी गरेका छन्।...",
-      "link": "https://nagariknews.nagariknetwork.com/politics/if-i-had-been-greedy-for-office-i-could-have-become-president-in-2064-57-91.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1790170550_madhav.jpg",
-      "pubDate": 1790172541000,
-      "category": "rajaniti",
-      "trendingScore": 55,
-      "breaking": false,
-      "clusterId": "cluster-4KSkIOCkqCDgpKrgpJ_g",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "बालेन सरकारविरुद्ध एमालेको नेतृत्वमा सशक्त जनआन्दोलन हुनुपर्छ: महेश बस्नेत",
-      "description": "नेकपा (एमाले) का सचिव महेश बस्नेतले वर्तमान सरकारको कार्यशैलीविरुद्ध एमालेले सशक्त जनआन्दोलनको नेतृत्व गर्नुपर्ने बताएका छन्।...",
-      "link": "https://nagariknews.nagariknetwork.com/politics/there-should-be-a-strong-mass-movement-led-by-uml-against-the-balen-government-mahesh-basnet-66-15.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1790172520_Mahesh_Basnet.jpg",
-      "pubDate": 1790172534000,
-      "category": "rajaniti",
-      "trendingScore": 55,
-      "breaking": false,
-      "clusterId": "cluster-4KSsIOCksiDgpKgg4KS4",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -765,7 +648,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024243/cambodia-pledges-to-step-up-action-against-cyber-fraud",
       "pubDate": 1790172475000,
       "category": "rajaniti",
-      "trendingScore": 55,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkh-CkrOCksCDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -777,22 +660,35 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024239/susan-baidya-elected-unopposed-as-kathmandu-metropolitan-city-president-of-nepali-congress",
       "pubDate": 1790172172000,
       "category": "rajaniti",
-      "trendingScore": 55,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCklyDgpLAg4KS4",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "nagarik",
-      "title": "सिंहदरबारबाट निस्कन नसकेपछि सेनाको ब्यारेकमा रातभर शरण लिएको थिएँ: माधव नेपाल",
-      "description": "नेपाली कम्युनिष्ट पार्टीका सहसंयोजक एवं पूर्वप्रधानमन्त्री माधवकुमार नेपालले गत वर्षको भदौ २४ गतेको घटनाक्रम सम्झिँदै आफूले सेनाको ब्यारेक भित्र रात बिताउनुपरेको अनुभव सुनाएका छन्।...",
-      "link": "https://nagariknews.nagariknetwork.com/politics/unable-to-leave-singha-durbar-nepal-took-refuge-in-army-barracks-overnight-89-56.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1790170548_makune.jpg",
-      "pubDate": 1790171846000,
+      "title": "१७ वर्षमै कांग्रेस क्षेत्रीय प्रतिनिधि बनेका सुजलको जिम्मेवारी खोसियो",
+      "description": "नेपाली कांग्रेसको १५ औं महाधिवेशनअन्तर्गत इलामबाट सर्वसम्मत क्षेत्रीय प्रतिनिधि निर्वाचित भएका १७ वर्षीय सुजल चापागाईंको जिम्मेवारी पार्टीको केन्द्रीय निर्वाचन समितिले स्थगन गरेको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/sujal-who-became-a-regional-representative-of-the-nepali-congress-at-the-age-of-17-was-stripped-of-her-responsibility-94-99.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1790168746_78.png",
+      "pubDate": 1790169424000,
       "category": "rajaniti",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
-      "clusterId": "cluster-4KS4IOCkueCkpuCksOCk",
+      "clusterId": "cluster-4KWn4KWtIOCkteCksCDg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "कार्यवाहक प्रधानमन्त्री वाग्ले र कृषिमन्त्री चौधरीबीच भेटवार्ता, राहत र मलबारे छलफल",
+      "description": "कार्यवाहक प्रधानमन्त्री डा. स्वर्णिम वाग्लेसँग कृषि, वन तथा पर्यावरणमन्त्री गिता चौधरीले बुधबार शिष्टाचार भेटवार्ता गरेकी छन्।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/meeting-between-acting-prime-minister-dr-wagle-and-agriculture-minister-chaudhary-58-68.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1790167634_Untitled-1.jpg",
+      "pubDate": 1790167760000,
+      "category": "rajaniti",
+      "trendingScore": 50,
+      "breaking": false,
+      "clusterId": "cluster-4KSVIOCksCDgpK_gpLUg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
@@ -802,7 +698,7 @@
       "link": "https://www.ujyaaloonline.com/detail/131850",
       "pubDate": 1790166804000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSuIOCksiDgpKwg",
       "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
@@ -815,7 +711,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/balen-and-anwar-2292026080426-1000x0-1-150x150.png",
       "pubDate": 1790135145000,
       "category": "rajaniti",
-      "trendingScore": 49,
+      "trendingScore": 46,
       "breaking": false,
       "clusterId": "cluster-4KS1IOCktSDgpKYg4KSk",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -827,7 +723,7 @@
       "link": "https://arthasarokar.com/2026/09/teachers-not-allowed-to-indulge-in-politics-direct-directive-to-take-action.html",
       "pubDate": 1790132392000,
       "category": "rajaniti",
-      "trendingScore": 48,
+      "trendingScore": 45,
       "breaking": false,
       "clusterId": "cluster-4KS2IOCklSDgpLfgpJXg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -840,7 +736,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f448/live/59cb1180-b677-11f1-aa5f-039462a18036.jpg",
       "pubDate": 1790082135000,
       "category": "rajaniti",
-      "trendingScore": 30,
+      "trendingScore": 27,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSuIOCksiDgpJUg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -853,7 +749,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/pratinidhisabha-150x150.jpg",
       "pubDate": 1790079367000,
       "category": "rajaniti",
-      "trendingScore": 29,
+      "trendingScore": 26,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkriDgpKYg4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -866,7 +762,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/khagendra-kyannn-150x150.png",
       "pubDate": 1790070246000,
       "category": "rajaniti",
-      "trendingScore": 26,
+      "trendingScore": 23,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkuOCkpiDgpK3g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -878,7 +774,7 @@
       "link": "https://arthasarokar.com/2026/09/if-the-price-of-petrol-and-diesel-does-not-increase-then-the-fare-will-not-increase-in-dashain.html",
       "pubDate": 1790069205000,
       "category": "rajaniti",
-      "trendingScore": 26,
+      "trendingScore": 22,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCknyDgpLAg4KSy",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -890,7 +786,7 @@
       "link": "https://arthasarokar.com/2026/09/prime-minister-balen-is-going-to-the-united-states-dr-swarnim-wagle.html",
       "pubDate": 1790065632000,
       "category": "rajaniti",
-      "trendingScore": 24,
+      "trendingScore": 21,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -903,7 +799,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Babarmahal-sky-bridge-construction-712-150x150.jpg",
       "pubDate": 1790061964000,
       "category": "rajaniti",
-      "trendingScore": 23,
+      "trendingScore": 20,
       "breaking": false,
       "clusterId": "cluster-4KSs4KSs4KSw4KSu4KS5",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"

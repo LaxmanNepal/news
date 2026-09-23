@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T19:48:04.432Z",
+  "generatedAt": "2026-09-23T22:29:13.649Z",
   "category": "artha",
   "articles": [
     {
@@ -10,7 +10,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/08/ministry-of-health-and-food-.jpeg",
       "pubDate": 1790177538000,
       "category": "artha",
-      "trendingScore": 80,
+      "trendingScore": 77,
       "breaking": true,
       "clusterId": "cluster-4KSmIOCktuCkreCksOCk",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -23,7 +23,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/kantimarga_-150x150.jpg",
       "pubDate": 1790163391000,
       "category": "artha",
-      "trendingScore": 75,
+      "trendingScore": 72,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCkqCDgpKQg4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -35,7 +35,7 @@
       "link": "https://arthasarokar.com/2026/09/nada-and-department-of-customs-hold-discussion-on-damage-caused-by-floods-in-rasuwa.html",
       "pubDate": 1790166871000,
       "category": "artha",
-      "trendingScore": 69,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KSw4KS4IOCktSDgpKwg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -47,7 +47,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024333/flood-impact-on-foreign-trade-minimal-goods-imported-exceed-4-trillion-in-2-months",
       "pubDate": 1790183095000,
       "category": "artha",
-      "trendingScore": 66,
+      "trendingScore": 63,
       "breaking": true,
       "clusterId": "cluster-4KS1IOCkpiDgpLYg4KSV",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -60,7 +60,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/04/trade-150x150.jpg",
       "pubDate": 1790182876000,
       "category": "artha",
-      "trendingScore": 66,
+      "trendingScore": 63,
       "breaking": false,
       "clusterId": "cluster-4KWoIOCkruCkuSDgpKgg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -73,22 +73,10 @@
       "image": "https://npcdn.ratopati.com/media/news/sital-bajar_OXgBNxbIna.webp",
       "pubDate": 1790182378000,
       "category": "artha",
-      "trendingScore": 66,
+      "trendingScore": 63,
       "breaking": true,
       "clusterId": "cluster-4KSnIOCkpiDgpJngpJUg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "setopati",
-      "title": "आशा लिएर आयो 'फ्लाई दुबई', पोखरेली भन्छन्– सपना पूरा भयो",
-      "description": "फ्लाई दुबईको विमान अवतरणसँगै पोखरेली व्यवसायीको वर्षौंदेखिको प्रतीक्षा त टुंगियो नै, अन्तर्राष्ट्रिय पर्यटक र यात्रुका लागि पोखराबाट नयाँ बाटो पनि खुलेको छ। अबको प्रश्न भने यही हो— यो बाटो कति नियमित र दिगो बन्न सक्छ?",
-      "link": "https://www.setopati.com/kinmel/tourism/399101",
-      "pubDate": 1790181060000,
-      "category": "artha",
-      "trendingScore": 66,
-      "breaking": false,
-      "clusterId": "cluster-4KSG4KS2IOCksiDgpI_g",
-      "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
     },
     {
       "sourceId": "arthasarokar",
@@ -97,10 +85,22 @@
       "link": "https://arthasarokar.com/2026/09/newly-appointed-executive-director-shrestha-of-nepal-electricity-authority-nea-says-that-we-will-not-allow-load-shedding-in-winter.html",
       "pubDate": 1790159733000,
       "category": "artha",
-      "trendingScore": 66,
+      "trendingScore": 63,
       "breaking": true,
       "clusterId": "cluster-4KS1IOCkpiDgpK8g4KSk",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
+    },
+    {
+      "sourceId": "setopati",
+      "title": "आशा लिएर आयो 'फ्लाई दुबई', पोखरेली भन्छन्– सपना पूरा भयो",
+      "description": "फ्लाई दुबईको विमान अवतरणसँगै पोखरेली व्यवसायीको वर्षौंदेखिको प्रतीक्षा त टुंगियो नै, अन्तर्राष्ट्रिय पर्यटक र यात्रुका लागि पोखराबाट नयाँ बाटो पनि खुलेको छ। अबको प्रश्न भने यही हो— यो बाटो कति नियमित र दिगो बन्न सक्छ?",
+      "link": "https://www.setopati.com/kinmel/tourism/399101",
+      "pubDate": 1790181060000,
+      "category": "artha",
+      "trendingScore": 62,
+      "breaking": false,
+      "clusterId": "cluster-4KSG4KS2IOCksiDgpI_g",
+      "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
     },
     {
       "sourceId": "rajdhani",
@@ -110,7 +110,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-23-at-1.27.30-PM.jpeg",
       "pubDate": 1790171341000,
       "category": "artha",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": false,
       "clusterId": "cluster-4KSG4KSc4KSqIOCkieCk",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -123,10 +123,35 @@
       "image": "https://npcdn.ratopati.com/media/news/parsa_2glcmyd7j0_2aMfxmuNuL.jpg",
       "pubDate": 1790187469000,
       "category": "artha",
-      "trendingScore": 60,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KSWIOCkpiDgpK8g4KSo",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "karobar",
+      "title": "सङ्क्रामक पशु रोग (नियन्त्रण) विधेयक स्वीकृत",
+      "description": "काठमाडौं- प्रतिनिधिसभाबाट ‘सङ्क्रामक पशु रोग (नियन्त्रण) विधेयक, २०८३’ स्वीकृत भएको छ । सभाको बुधबारको बैठकमा कृषि, वन तथा पर्यावरणमन्त्री गीता चौधरीले प्रस्तुत गरेको राष्ट्रियसभामा उत्पत्ति भएको सो विधेयकमाथि विचार गरियोस् भन्ने प्रस्ताव सर्वसम्मतिबाट स्वीकृत भएको हो । उक्त प्रस्तावमाथिको छलफलमा भाग लिँदै राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सांसद अशोककुमार चौधरीले ग्रामीण अर्थतन्त्रको मुख्य आधारका रूपमा […]",
+      "link": "https://www.karobardaily.com/news/419997",
+      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/gita-chaudhari_pratinidhisabha-150x150.jpg",
+      "pubDate": 1790163071000,
+      "category": "artha",
+      "trendingScore": 56,
+      "breaking": false,
+      "clusterId": "cluster-4KS44KSZIOCklSDgpLAg",
+      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "arthasarokar",
+      "title": "सरकारी ऋण २९ खर्ब ७३ अर्ब पुग्यो, थप ६ खर्ब लिने लक्ष्य !",
+      "description": "काठमाडौँ । सरकारको सार्वजनिक ऋण पौने ३० खर्ब रुपैयाँ पुगेको छ । सार्वजनिक ऋण व्यवस्थापन कार्यालयको विवरण अनुसार भदौ मसान्तसम्म नेपालको सार्वजनिक ऋण २९ खर्ब ७३ अर्ब ५ करोड ९२ लाख रुपैयाँ पुगेको हो । गत आर्थिक वर्षको असार मसान्तमा सरकारको सार्वजनिक ऋण २९ खर्ब ८१ अर्ब ७० करोड थियो । यसबीचमा लिएको ऋण भन्दा Continue reading \"सरकारी ऋण २९ खर्ब ७३ अर्ब पुग्यो, थप ६ खर्ब लिने लक्ष्य !\"",
+      "link": "https://arthasarokar.com/2026/09/government-debt-reaches-rs-29-73-trillion-target-to-take-another-rs-600-billion.html",
+      "pubDate": 1790162656000,
+      "category": "artha",
+      "trendingScore": 56,
+      "breaking": false,
+      "clusterId": "cluster-4KS44KSw4KSVIOCksCDg",
+      "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
     },
     {
       "sourceId": "ratopati",
@@ -136,7 +161,7 @@
       "image": "https://npcdn.ratopati.com/media/news/ia-intelligence-artificielle-allegorie-illustration_E2rqxmXSEN.webp",
       "pubDate": 1790183540000,
       "category": "artha",
-      "trendingScore": 59,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSG4KSI4KSVIOCk",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -149,7 +174,7 @@
       "image": "https://npcdn.ratopati.com/media/news/egypt_zQMpw23UXf.webp",
       "pubDate": 1790183360000,
       "category": "artha",
-      "trendingScore": 59,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSH4KScIOCkqiDgpJ_g",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -161,35 +186,22 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024144/banana-relief-for-consumers-facing-high-prices",
       "pubDate": 1790183330000,
       "category": "artha",
-      "trendingScore": 59,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSa4KSwIOCklSDgpK7g",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
-      "sourceId": "karobar",
-      "title": "सङ्क्रामक पशु रोग (नियन्त्रण) विधेयक स्वीकृत",
-      "description": "काठमाडौं- प्रतिनिधिसभाबाट ‘सङ्क्रामक पशु रोग (नियन्त्रण) विधेयक, २०८३’ स्वीकृत भएको छ । सभाको बुधबारको बैठकमा कृषि, वन तथा पर्यावरणमन्त्री गीता चौधरीले प्रस्तुत गरेको राष्ट्रियसभामा उत्पत्ति भएको सो विधेयकमाथि विचार गरियोस् भन्ने प्रस्ताव सर्वसम्मतिबाट स्वीकृत भएको हो । उक्त प्रस्तावमाथिको छलफलमा भाग लिँदै राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सांसद अशोककुमार चौधरीले ग्रामीण अर्थतन्त्रको मुख्य आधारका रूपमा […]",
-      "link": "https://www.karobardaily.com/news/419997",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/gita-chaudhari_pratinidhisabha-150x150.jpg",
-      "pubDate": 1790163071000,
+      "sourceId": "onlinekhabar",
+      "title": "ब्रोकरहरूले धमाधम दिन थाले मार्जिन लेन्डिङ सेवा, यस्तो छ शुल्क र ब्याज",
+      "description": "ब्रोकर कम्पनीहरूले धमाधम मार्जिन लेन्डिङ सुविधा दिन थालेका छन् । नेपाल स्टक एक्स्चेन्जका अनुसार हालसम्म ११ ब्रोकर कम्पनीले मार्जिन कारोबार गरिसकेका छन् ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2023832/brokers-have-started-offering-margin-lending-services-here-are-the-fees-and-interest-rates",
+      "pubDate": 1790182574000,
       "category": "artha",
-      "trendingScore": 59,
+      "trendingScore": 55,
       "breaking": false,
-      "clusterId": "cluster-4KS44KSZIOCklSDgpLAg",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "arthasarokar",
-      "title": "सरकारी ऋण २९ खर्ब ७३ अर्ब पुग्यो, थप ६ खर्ब लिने लक्ष्य !",
-      "description": "काठमाडौँ । सरकारको सार्वजनिक ऋण पौने ३० खर्ब रुपैयाँ पुगेको छ । सार्वजनिक ऋण व्यवस्थापन कार्यालयको विवरण अनुसार भदौ मसान्तसम्म नेपालको सार्वजनिक ऋण २९ खर्ब ७३ अर्ब ५ करोड ९२ लाख रुपैयाँ पुगेको हो । गत आर्थिक वर्षको असार मसान्तमा सरकारको सार्वजनिक ऋण २९ खर्ब ८१ अर्ब ७० करोड थियो । यसबीचमा लिएको ऋण भन्दा Continue reading \"सरकारी ऋण २९ खर्ब ७३ अर्ब पुग्यो, थप ६ खर्ब लिने लक्ष्य !\"",
-      "link": "https://arthasarokar.com/2026/09/government-debt-reaches-rs-29-73-trillion-target-to-take-another-rs-600-billion.html",
-      "pubDate": 1790162656000,
-      "category": "artha",
-      "trendingScore": 59,
-      "breaking": false,
-      "clusterId": "cluster-4KS44KSw4KSVIOCksCDg",
-      "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
+      "clusterId": "cluster-4KSsIOCksCDgpJXgpLDg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "karobar",
@@ -199,22 +211,10 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2023/10/IMF_mudra-kosh-150x150.jpg",
       "pubDate": 1790161342000,
       "category": "artha",
-      "trendingScore": 59,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSyIOCkqCDgpKgg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "ब्रोकरहरूले धमाधम दिन थाले मार्जिन लेन्डिङ सेवा, यस्तो छ शुल्क र ब्याज",
-      "description": "ब्रोकर कम्पनीहरूले धमाधम मार्जिन लेन्डिङ सुविधा दिन थालेका छन् । नेपाल स्टक एक्स्चेन्जका अनुसार हालसम्म ११ ब्रोकर कम्पनीले मार्जिन कारोबार गरिसकेका छन् ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2023832/brokers-have-started-offering-margin-lending-services-here-are-the-fees-and-interest-rates",
-      "pubDate": 1790182574000,
-      "category": "artha",
-      "trendingScore": 58,
-      "breaking": false,
-      "clusterId": "cluster-4KSsIOCksCDgpJXgpLDg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "ratopati",
@@ -224,7 +224,7 @@
       "image": "https://npcdn.ratopati.com/media/news/10_XhXOjgs2R5.webp",
       "pubDate": 1790180100000,
       "category": "artha",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KWn4KWmIOCkrOCknCDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -237,7 +237,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/02/Share-Market-downturn-nepal_20180701103338_0veAfSxewF_4Zu2ktZcEG-150x150.jpg",
       "pubDate": 1790156890000,
       "category": "artha",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KWp4KWsIOCkhSDgpJXg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -249,7 +249,7 @@
       "link": "https://arthasarokar.com/2026/09/nepse-index-declines-by-36-25-points-to-close-at-2618-03-points-on-wednesday.html",
       "pubDate": 1790156669000,
       "category": "artha",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkp-CkrCDgpLAg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -261,7 +261,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024307/ipl-2027-mini-auction-to-be-held-in-goa-in-december",
       "pubDate": 1790175284000,
       "category": "artha",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSG4KSI4KSqIOCkj-Ck",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -273,21 +273,9 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024283/new-investors-should-be-brought-into-the-banking-sector-cibfin",
       "pubDate": 1790174101000,
       "category": "artha",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCklSDgpJkg4KSV",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "दुई महिनामै भारतबाट साढे ३ अर्ब बढीको आलु, प्याज र गोलभेँडा आयात",
-      "description": "स्वदेशी उत्पादनले बजारको दैनिक माग धान्न नसक्दा दुई महिनाकै अवधिमा १ लाख १६ हजार टनभन्दा बढी यी तरकारी आयात गर्नुपरेको देखिएको हो ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2024233/over-3-5-billion-worth-of-potatoes-onions-and-tomatoes-imported-from-india-in-two-months",
-      "pubDate": 1790172535000,
-      "category": "artha",
-      "trendingScore": 55,
-      "breaking": false,
-      "clusterId": "cluster-4KSmIOCkiCDgpK7gpLkg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
@@ -297,10 +285,22 @@
       "link": "https://arthasarokar.com/2026/09/2-ipo-in-hydropower-to-be-ensured-for-security-personnel.html",
       "pubDate": 1790151567000,
       "category": "artha",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KS5IOCkh-CkoSDgpLAg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "दुई महिनामै भारतबाट साढे ३ अर्ब बढीको आलु, प्याज र गोलभेँडा आयात",
+      "description": "स्वदेशी उत्पादनले बजारको दैनिक माग धान्न नसक्दा दुई महिनाकै अवधिमा १ लाख १६ हजार टनभन्दा बढी यी तरकारी आयात गर्नुपरेको देखिएको हो ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2024233/over-3-5-billion-worth-of-potatoes-onions-and-tomatoes-imported-from-india-in-two-months",
+      "pubDate": 1790172535000,
+      "category": "artha",
+      "trendingScore": 51,
+      "breaking": false,
+      "clusterId": "cluster-4KSmIOCkiCDgpK7gpLkg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "karobar",
@@ -310,7 +310,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Star-Rating-Photo-150x150.jpeg",
       "pubDate": 1790149131000,
       "category": "artha",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCkr-CksiDgpJ8g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -323,21 +323,9 @@
       "image": "https://media.arthasarokar.com/uploads/2026/09/Bv-1.jpg",
       "pubDate": 1790148250000,
       "category": "artha",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkpCDgpKQg4KSu",
-      "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "arthasarokar",
-      "title": "राष्ट्र बैंकको कारवाहीमा परे ६ लघुवित्त, ४ संस्थालाई शीघ्र सुधारात्मक कारवाही, २ संस्थालाई नगद जरिवाना",
-      "description": "काठमाडौँ । नेपाल राष्ट्र बैंक लघुवित्त संस्था सुपरिवेक्षण विभागले आर्थिक वर्ष २०८२/८३ को चौथो त्रैमासमा छ वटा ‘घ’ वर्गका लघुवित्त वित्तीय संस्था र तिनका सञ्चालक, पदाधिकारी र प्रमुख कार्यकारी अधिकृतलाई कारवाही गरेको छ । राष्ट्र बैंकले बुधबार सार्वजनिक सूचना जारी गरेर ६ वटा लघुवित्त वित्तीय संस्था र तिनका पदाधिकारीलाई कारवाही गरिएको जनाएको हो । राष्ट्र Continue reading \"राष्ट्र बैंकको कारवाहीमा परे ६ लघुवित्त, ४ संस्थालाई शीघ्र सुधारात्मक कारवाही, २ संस्थालाई नगद जरिवाना\"",
-      "link": "https://arthasarokar.com/2026/09/nepal-rastra-bank-imposes-immediate-corrective-action-against-6-microfinance-institutions-4-institutions-cash-penalty-to-2-institutions.html",
-      "pubDate": 1790144197000,
-      "category": "artha",
-      "trendingScore": 53,
-      "breaking": false,
-      "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
     },
     {
@@ -347,10 +335,22 @@
       "link": "https://www.ujyaaloonline.com/detail/131847",
       "pubDate": 1790165903000,
       "category": "artha",
-      "trendingScore": 52,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSh4KSsIOCksiDgpKHg",
       "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
+    },
+    {
+      "sourceId": "arthasarokar",
+      "title": "राष्ट्र बैंकको कारवाहीमा परे ६ लघुवित्त, ४ संस्थालाई शीघ्र सुधारात्मक कारवाही, २ संस्थालाई नगद जरिवाना",
+      "description": "काठमाडौँ । नेपाल राष्ट्र बैंक लघुवित्त संस्था सुपरिवेक्षण विभागले आर्थिक वर्ष २०८२/८३ को चौथो त्रैमासमा छ वटा ‘घ’ वर्गका लघुवित्त वित्तीय संस्था र तिनका सञ्चालक, पदाधिकारी र प्रमुख कार्यकारी अधिकृतलाई कारवाही गरेको छ । राष्ट्र बैंकले बुधबार सार्वजनिक सूचना जारी गरेर ६ वटा लघुवित्त वित्तीय संस्था र तिनका पदाधिकारीलाई कारवाही गरिएको जनाएको हो । राष्ट्र Continue reading \"राष्ट्र बैंकको कारवाहीमा परे ६ लघुवित्त, ४ संस्थालाई शीघ्र सुधारात्मक कारवाही, २ संस्थालाई नगद जरिवाना\"",
+      "link": "https://arthasarokar.com/2026/09/nepal-rastra-bank-imposes-immediate-corrective-action-against-6-microfinance-institutions-4-institutions-cash-penalty-to-2-institutions.html",
+      "pubDate": 1790144197000,
+      "category": "artha",
+      "trendingScore": 49,
+      "breaking": false,
+      "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
+      "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
     },
     {
       "sourceId": "karobar",
@@ -360,7 +360,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/siddhartha-bank-150x150.jpg",
       "pubDate": 1790143835000,
       "category": "artha",
-      "trendingScore": 52,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkpiDgpKcg4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -373,7 +373,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/12/Fly-Dubai-150x150.jpg",
       "pubDate": 1790143190000,
       "category": "artha",
-      "trendingScore": 52,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KS1IOCktiDgpLUg4KSq",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -386,7 +386,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/pokhara-sanrachana-150x150.jpg",
       "pubDate": 1790142943000,
       "category": "artha",
-      "trendingScore": 52,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCkluCksCDgpJUg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -399,7 +399,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/11/sampadakiya_editorial_karobar_BBG-150x150.jpg",
       "pubDate": 1790142607000,
       "category": "artha",
-      "trendingScore": 52,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCknOCkuCDgpLUg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -412,7 +412,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/12/rastra-bank_NRB-150x150.jpg",
       "pubDate": 1790141560000,
       "category": "artha",
-      "trendingScore": 52,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -424,10 +424,23 @@
       "link": "https://arthasarokar.com/2026/09/gold-price-soars-by-rs-100.html",
       "pubDate": 1790141100000,
       "category": "artha",
-      "trendingScore": 51,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkqOCklSDgpK4g",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "पोखराको पर्यटनको पर्याय बन्दै प्याराग्लाइडिङ",
+      "description": "७ कम्पनीबाट सुरु भएको प्याराग्लाइडिङमा अहिले ५७ कम्पनी पुगेका छन्। यसमा हालसम्म करिब एक अर्ब लगानी भएको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/paragliding-becomes-synonymous-with-pokhara-tourism-br-47-92.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1790161359_paraglyding.jpg",
+      "pubDate": 1790161366000,
+      "category": "artha",
+      "trendingScore": 47,
+      "breaking": false,
+      "clusterId": "cluster-4KSqIOCkluCksCDgpJUg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "karobar",
@@ -437,7 +450,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/12/us-dollar12-150x150.png",
       "pubDate": 1790139532000,
       "category": "artha",
-      "trendingScore": 51,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSv4KS4IOCkpCDgpJsg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -450,7 +463,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/05/sebon-150x150.jpg",
       "pubDate": 1790138747000,
       "category": "artha",
-      "trendingScore": 51,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSc4KSy4KS1IOCkpiDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -462,7 +475,7 @@
       "link": "https://arthasarokar.com/2026/09/malaysias-average-monthly-income-rises-4-1-in-2025.html",
       "pubDate": 1790133273000,
       "category": "artha",
-      "trendingScore": 49,
+      "trendingScore": 45,
       "breaking": false,
       "clusterId": "cluster-4KSu4KSyIOCkuCDgpK8g",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -475,7 +488,7 @@
       "image": "https://media.arthasarokar.com/uploads/2026/09/pratibedan-1.jpg",
       "pubDate": 1790130693000,
       "category": "artha",
-      "trendingScore": 48,
+      "trendingScore": 44,
       "breaking": false,
       "clusterId": "cluster-ZXhjbHVzaXZlIOCkqCDg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -487,7 +500,7 @@
       "link": "https://arthasarokar.com/2026/09/akbare-chilli-doesnt-get-both-market-and-price-farmers-worried.html",
       "pubDate": 1790128883000,
       "category": "artha",
-      "trendingScore": 47,
+      "trendingScore": 44,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSV4KSs4KSwIOCk",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -499,7 +512,7 @@
       "link": "https://arthasarokar.com/2026/09/flydubai-to-operate-regular-flights-to-pokhara-international-airport.html",
       "pubDate": 1790128160000,
       "category": "artha",
-      "trendingScore": 47,
+      "trendingScore": 43,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCkluCksCDgpIXg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -512,7 +525,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2022/10/Byajdar_20181208044221-150x150.jpg",
       "pubDate": 1790127504000,
       "category": "artha",
-      "trendingScore": 47,
+      "trendingScore": 43,
       "breaking": false,
       "clusterId": "cluster-4KSY4KSfIOCkpiDgpKwg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -525,7 +538,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/08/sadak_22-150x150.jpg",
       "pubDate": 1790074797000,
       "category": "artha",
-      "trendingScore": 36,
+      "trendingScore": 32,
       "breaking": false,
       "clusterId": "cluster-4KSX4KSyIOCkmyDgpLgg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -538,7 +551,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Tripureshwor-Bus-Aagalagi_NPL-2-150x150.jpeg",
       "pubDate": 1790059558000,
       "category": "artha",
-      "trendingScore": 30,
+      "trendingScore": 27,
       "breaking": false,
       "clusterId": "cluster-4KSkIOCksCDgpKog4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -551,7 +564,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2023/08/bidhut-prasaran-line-photo-150x150.jpg",
       "pubDate": 1790078641000,
       "category": "artha",
-      "trendingScore": 29,
+      "trendingScore": 26,
       "breaking": false,
       "clusterId": "cluster-4KSm4KSuIOCksiDgpKog",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -564,7 +577,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/PR-on-support-provided-under-CSR-photo-150x150.png",
       "pubDate": 1790077819000,
       "category": "artha",
-      "trendingScore": 29,
+      "trendingScore": 25,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSo4KSG4KSI4KS4",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -577,7 +590,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/kgh-group-150x150.jpg",
       "pubDate": 1790076630000,
       "category": "artha",
-      "trendingScore": 28,
+      "trendingScore": 25,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCklSDgpKQg4KSo",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -590,7 +603,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/lsss-150x150.jpg",
       "pubDate": 1790076083000,
       "category": "artha",
-      "trendingScore": 28,
+      "trendingScore": 25,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCktyDgpKrgpLIg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -603,7 +616,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/KV-px.jpg-150x150.jpeg",
       "pubDate": 1790075723000,
       "category": "artha",
-      "trendingScore": 28,
+      "trendingScore": 24,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSy4KScIOCklSDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -615,7 +628,7 @@
       "link": "https://arthasarokar.com/2026/09/muktinath-capitals-mischief-selling-mutual-funds-as-ordinary-shares-by-making-investors-owls.html",
       "pubDate": 1790075516000,
       "category": "artha",
-      "trendingScore": 28,
+      "trendingScore": 24,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCklSDgpKQg4KSo",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -628,47 +641,10 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da46/live/b2e867c0-b66a-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1790074392000,
       "category": "artha",
-      "trendingScore": 27,
+      "trendingScore": 24,
       "breaking": false,
       "clusterId": "cluster-4KS2IOCkheCksCDgpKzg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
-    },
-    {
-      "sourceId": "arthasarokar",
-      "title": "सब्स्क्रिप्सन मोडलमा पठाओ, अब राइडरले कमिसन तिर्नुनपर्ने !",
-      "description": "काठमाडौँ । राइड सेयरिङ एप पठाओले राइडर तथा क्याप्टेनहरुका लागि सब्स्क्रिप्सन मोडल लागू गर्ने घोषणा गरेको छ । पठाओले कमिसनमा आधारित आम्दानी प्रणालीलाई परिवर्तन गर्दै सब्स्क्रिप्सनमा आधारित प्रणाली लागू गर्ने घोषणा गरेको हो । नयाँ व्यवस्थाअनुसार पठाओ क्याप्टेनले प्रत्येक राइडको आम्दानीबाट प्रतिशतका आधारमा कमिसन बुझाउनुपर्ने छैन । पठाओका अनुसार कमिसनको सट्टा अब राइडर तथा पठाओ Continue reading \"सब्स्क्रिप्सन मोडलमा पठाओ, अब राइडरले कमिसन तिर्नुनपर्ने !\"",
-      "link": "https://arthasarokar.com/2026/09/send-in-the-subscription-model-now-the-rider-will-not-have-to-pay-a-commission.html",
-      "pubDate": 1790071288000,
-      "category": "artha",
-      "trendingScore": 26,
-      "breaking": false,
-      "clusterId": "cluster-4KS44KSsIOCkuCDgpJUg",
-      "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "सामान्य बढेकाे सेयर बजारमा काराेबार ७ अर्ब नाघ्यो",
-      "description": "काठमाडौं- नेपाल स्टक एक्सचेञ्ज (नेप्से) परिसूचक ७.०६ अंकले बढेर दुई हजार ६५४.२८ मा पुगेको छ । ठूला कम्पनीको कारोबारमापन गर्ने सेन्सेटिभ परिसूचक दुई दशमलव ७१ अंकले बढेर ४७३.७९ मा पुगेको छ । फ्लोट सूचक शून्य दशमलव ५३ अंकले बढेर १८२.९९ मा पुगेको छ । त्यस्तै सेन्सेटिभ फ्लोट सूचक शून्य दशमलव ६८ अंकले बढेर १६० मा […]",
-      "link": "https://www.karobardaily.com/news/419528",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2024/04/Share_lagani-150x150.jpg",
-      "pubDate": 1790071127000,
-      "category": "artha",
-      "trendingScore": 26,
-      "breaking": false,
-      "clusterId": "cluster-4KS4IOCkriDgpKgg4KSv",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "arthasarokar",
-      "title": "मंगलबार ७.०६ अंकले बढ्यो नेप्से परिसूचक, बजार २६५४.२८ बिन्दुमा",
-      "description": "काठमाडौँ । साताको कारोबारको दोश्रो दिन मंगलबार सेयर बजार मापक नेप्से परिसूचक बढेको छ । मंगलबार नेप्से परिसूचक ७.०६ अंकले बढेर २६५४.२८ बिन्दुमा पुगेको हो । नेप्सेमा कुल ३५६ कम्पनीको २ करोड १५ लाख ८९ हजार ७६१ कित्ता सेयर खरिद बिक्री हुँदा रू. ७ अर्ब ५ करोडमाथिको सेयर कारोबार भएको छ । आज सबैभन्दा धेरै Continue reading \"मंगलबार ७.०६ अंकले बढ्यो नेप्से परिसूचक, बजार २६५४.२८ बिन्दुमा\"",
-      "link": "https://arthasarokar.com/2026/09/nepal-stock-exchange-nepse-index-increased-by-7-06-points-to-close-at-2654-28-points-on-tuesday.html",
-      "pubDate": 1790069655000,
-      "category": "artha",
-      "trendingScore": 26,
-      "breaking": false,
-      "clusterId": "cluster-4KSuIOCkl-CksuCkrCDg",
-      "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
     },
     {
       "sourceId": "bbcnepali",
@@ -684,6 +660,43 @@
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
     },
     {
+      "sourceId": "arthasarokar",
+      "title": "सब्स्क्रिप्सन मोडलमा पठाओ, अब राइडरले कमिसन तिर्नुनपर्ने !",
+      "description": "काठमाडौँ । राइड सेयरिङ एप पठाओले राइडर तथा क्याप्टेनहरुका लागि सब्स्क्रिप्सन मोडल लागू गर्ने घोषणा गरेको छ । पठाओले कमिसनमा आधारित आम्दानी प्रणालीलाई परिवर्तन गर्दै सब्स्क्रिप्सनमा आधारित प्रणाली लागू गर्ने घोषणा गरेको हो । नयाँ व्यवस्थाअनुसार पठाओ क्याप्टेनले प्रत्येक राइडको आम्दानीबाट प्रतिशतका आधारमा कमिसन बुझाउनुपर्ने छैन । पठाओका अनुसार कमिसनको सट्टा अब राइडर तथा पठाओ Continue reading \"सब्स्क्रिप्सन मोडलमा पठाओ, अब राइडरले कमिसन तिर्नुनपर्ने !\"",
+      "link": "https://arthasarokar.com/2026/09/send-in-the-subscription-model-now-the-rider-will-not-have-to-pay-a-commission.html",
+      "pubDate": 1790071288000,
+      "category": "artha",
+      "trendingScore": 23,
+      "breaking": false,
+      "clusterId": "cluster-4KS44KSsIOCkuCDgpJUg",
+      "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
+    },
+    {
+      "sourceId": "karobar",
+      "title": "सामान्य बढेकाे सेयर बजारमा काराेबार ७ अर्ब नाघ्यो",
+      "description": "काठमाडौं- नेपाल स्टक एक्सचेञ्ज (नेप्से) परिसूचक ७.०६ अंकले बढेर दुई हजार ६५४.२८ मा पुगेको छ । ठूला कम्पनीको कारोबारमापन गर्ने सेन्सेटिभ परिसूचक दुई दशमलव ७१ अंकले बढेर ४७३.७९ मा पुगेको छ । फ्लोट सूचक शून्य दशमलव ५३ अंकले बढेर १८२.९९ मा पुगेको छ । त्यस्तै सेन्सेटिभ फ्लोट सूचक शून्य दशमलव ६८ अंकले बढेर १६० मा […]",
+      "link": "https://www.karobardaily.com/news/419528",
+      "image": "https://www.karobardaily.com/wp-content/uploads/2024/04/Share_lagani-150x150.jpg",
+      "pubDate": 1790071127000,
+      "category": "artha",
+      "trendingScore": 23,
+      "breaking": false,
+      "clusterId": "cluster-4KS4IOCkriDgpKgg4KSv",
+      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "arthasarokar",
+      "title": "मंगलबार ७.०६ अंकले बढ्यो नेप्से परिसूचक, बजार २६५४.२८ बिन्दुमा",
+      "description": "काठमाडौँ । साताको कारोबारको दोश्रो दिन मंगलबार सेयर बजार मापक नेप्से परिसूचक बढेको छ । मंगलबार नेप्से परिसूचक ७.०६ अंकले बढेर २६५४.२८ बिन्दुमा पुगेको हो । नेप्सेमा कुल ३५६ कम्पनीको २ करोड १५ लाख ८९ हजार ७६१ कित्ता सेयर खरिद बिक्री हुँदा रू. ७ अर्ब ५ करोडमाथिको सेयर कारोबार भएको छ । आज सबैभन्दा धेरै Continue reading \"मंगलबार ७.०६ अंकले बढ्यो नेप्से परिसूचक, बजार २६५४.२८ बिन्दुमा\"",
+      "link": "https://arthasarokar.com/2026/09/nepal-stock-exchange-nepse-index-increased-by-7-06-points-to-close-at-2654-28-points-on-tuesday.html",
+      "pubDate": 1790069655000,
+      "category": "artha",
+      "trendingScore": 22,
+      "breaking": false,
+      "clusterId": "cluster-4KSuIOCkl-CksuCkrCDg",
+      "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
+    },
+    {
       "sourceId": "bbcnepali",
       "title": "नेपालले राष्ट्रसङ्घीय महासभामा उठाउनुपर्ने विषय के हुन्, फाइदा के हुन्छ",
       "description": "बाढीले निम्त्याएको व्यापक क्षतिलाई संसारले देखेको बेला राष्ट्रसङ्घको महासभामा राखिने कुराहरूले अर्थ राख्ने र त्यसले नेपाललाई फाइदा पुग्ने विज्ञहरूले बताएका हुन्।",
@@ -691,7 +704,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1a84/live/7c0dfa20-b5a8-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1790039667000,
       "category": "artha",
-      "trendingScore": 23,
+      "trendingScore": 20,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkqiDgpLLgpLIg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -704,7 +717,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2023/03/mahangi-150x150.jpg",
       "pubDate": 1790058566000,
       "category": "artha",
-      "trendingScore": 22,
+      "trendingScore": 18,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCkpCDgpLAg4KSu",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
