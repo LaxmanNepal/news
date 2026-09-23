@@ -1,5 +1,32 @@
 {
-  "generatedAt": "2026-09-23T01:27:42.308Z",
+  "generatedAt": "2026-09-23T06:27:09.241Z",
   "category": "manoranjan",
-  "articles": []
+  "articles": [
+    {
+      "sourceId": "ratopati",
+      "title": "बलिउड अभिनेता विवेक ओबेरोयलाई साक्षी राखेर नेपाली फिल्म ‘२६ करोड’को घोषणा",
+      "description": "काठमाडौ । बलिउड अभिनेता विवेक ओबेरोयको उपिस्थतिका बिच नेपाली चलचित्र &lsquo;२६ करोड&rsquo; निर्माणको औपचारिक घोषणा गरिएको छ । मंगलबार साँझ भारतको मुम्बईस्थित &lsquo;ताज ल्याण्ड्स एन्ड&rsquo;मा आयोजित समारोहका बीच चलचित्र निर्माणको घोषणा गरिएको हो । ओबेरोयको जन्मदिनको",
+      "link": "https://www.ratopati.com/story/594139/nepali-film-26-crore-announced-with-bollywood-actor-vivek-oberoi-as-a-witness",
+      "image": "https://npcdn.ratopati.com/media/news/capture_BE1vU6cG4l.webp",
+      "pubDate": 1790143407000,
+      "category": "manoranjan",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KSs4KSyIOCkieCkoSDg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "अनमोलको फिल्म ‘बाटुलो जून’ कात्तिक २६ मा आउने",
+      "description": "काठमाडौँ । अभिनेता भुवन केसीको निर्देशन रहेको फिल्म &lsquo;बाटुलो जून&rsquo; भाइटिकाको भोलिपल्ट अर्थात् कात्तिक २६ गतेबाट प्रदर्शनमा आउने भएको छ । निर्माण युनिटले बुधबार फिल्मको एक पोस्टर सार्वजनिक गर्दै प्रदर्शन मिति जानकारी दिएको हो ।",
+      "link": "https://www.ratopati.com/story/594135/anmols-batulo-jun-to-release-on-kartik-26",
+      "image": "https://npcdn.ratopati.com/media/news/whatsapp-image-2026-09-23-at-11.13.48_skcNKeGX9h.webp",
+      "pubDate": 1790142757000,
+      "category": "manoranjan",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KSF4KSo4KSuIOCksuCk",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    }
+  ]
 }

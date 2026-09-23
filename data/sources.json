@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T01:27:42.308Z",
+  "generatedAt": "2026-09-23T06:27:09.241Z",
   "sources": [
     {
       "id": "onlinekhabar",
@@ -90,8 +90,9 @@
       "feed": "https://www.karobardaily.com/feed",
       "category": "artha",
       "tag": "KB",
-      "ok": true,
-      "count": 40
+      "ok": false,
+      "count": 0,
+      "error": "This operation was aborted"
     },
     {
       "id": "kantipur-sports",
@@ -145,7 +146,7 @@
       "category": "bidesh",
       "tag": "BBC",
       "ok": true,
-      "count": 17
+      "count": 19
     },
     {
       "id": "rajdhani",
