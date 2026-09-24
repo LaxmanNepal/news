@@ -1,18 +1,31 @@
 {
-  "generatedAt": "2026-09-24T19:25:53.446Z",
+  "generatedAt": "2026-09-24T22:39:06.663Z",
   "category": "rajaniti",
   "articles": [
     {
       "sourceId": "ratopati",
-      "title": "१० बजे १० समाचार : एमालेमा विद्याको रि इन्ट्री, ७७ वटै जिल्ला प्रशासनलाई गृहको १० बुँदे सर्कुलर",
-      "description": "आज मिति २०८३ साल असोज महिनाको ८ गते बिहीबार । आज दिनभर भएका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १० बजे १० समाचार लिएर हाजिर भएका छौँ&ndash; १. प्रतिकुल मौसम भारी वर्षासँगै बाढी, पहिरो र डुबानको",
-      "link": "https://www.ratopati.com/story/594677/10-news-at-10-vidyas-re-entry-into-uml-10-point-circular-from-home-ministry-to-all-77-district-administrations",
-      "image": "https://npcdn.ratopati.com/media/news/cover-recovered-recovered-recovered-recovered-recovered_pYjfNf3I3e.webp",
-      "pubDate": 1790266500000,
+      "title": "मौसमी जोखिमबाट सतर्क रहन कर्णाली सरकारको अनुरोध",
+      "description": "कर्णाली । कर्णाली प्रदेश सरकारले भारी वर्षाको सम्भावित मौसमी जोखिम र क्षतिबाट सतर्क रहन सर्वसाधारणलाई अनुरोध गरेको छ । कर्णाली प्रदेश विपद् व्यवस्थापन कार्यकारी समितिको बिहीबारको बैठकले बाढी, पहिरो, डुबान तथा सडक दुर्घटनाको जोखिमबाट सर्वसाधारणलाई बचाउन",
+      "link": "https://www.ratopati.com/story/594697/karnali-government-requests-to-be-vigilant-against-seasonal-risks",
+      "image": "https://npcdn.ratopati.com/media/news/karnali-mukhyamantri-karyalaya_kXgdamlLyG.jpg",
+      "pubDate": 1790286224000,
       "category": "rajaniti",
-      "trendingScore": 74,
+      "trendingScore": 85,
       "breaking": true,
-      "clusterId": "cluster-4KWn4KWmIOCkrOCknCDg",
+      "clusterId": "cluster-4KSuIOCkuOCkriDgpJwg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "‘सतर्क रहौँ, सुरक्षित रहौँ’, मधेस सरकारको आग्रह",
+      "description": "धनुषा । भारी वर्षासँगै बाढी, पहिरो, डुबान तथा अन्य सम्भावित विपद्को जोखिम बढेपछि मधेस प्रदेश सरकारले उच्च सतर्कता अपनाउन आग्रह गरेको छ । गृह, सञ्चार तथा कानुन मन्त्रालयले प्रदेश विपद् व्यवस्थापन कार्यकारी समितिको बिहीबार बसेको बैठकको",
+      "link": "https://www.ratopati.com/story/594698/be-vigilant-be-safe-urges-madhesh-government",
+      "image": "https://npcdn.ratopati.com/media/news/grih-sanchar-mantralay_vm0mciZLbp.jpg",
+      "pubDate": 1790287683000,
+      "category": "rajaniti",
+      "trendingScore": 77,
+      "breaking": true,
+      "clusterId": "cluster-4KS44KSk4KSwIOCklSDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
@@ -21,11 +34,24 @@
       "title": "कान्तिपुर सम्पादकीय: सुशासनको परीक्षा",
       "description": "कानुनी राज्यको पालना नै लोकतन्त्रको आधार हो भन्ने सम्पादकीय आज प्रकाशित भएको छ।",
       "link": "https://ekantipur.com",
-      "pubDate": 1790277953446,
+      "pubDate": 1790289546663,
       "fromSnapshot": true,
       "category": "rajaniti",
       "trendingScore": 70,
       "breaking": false
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "१० बजे १० समाचार : एमालेमा विद्याको रि इन्ट्री, ७७ वटै जिल्ला प्रशासनलाई गृहको १० बुँदे सर्कुलर",
+      "description": "आज मिति २०८३ साल असोज महिनाको ८ गते बिहीबार । आज दिनभर भएका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १० बजे १० समाचार लिएर हाजिर भएका छौँ&ndash; १. प्रतिकुल मौसम भारी वर्षासँगै बाढी, पहिरो र डुबानको",
+      "link": "https://www.ratopati.com/story/594677/10-news-at-10-vidyas-re-entry-into-uml-10-point-circular-from-home-ministry-to-all-77-district-administrations",
+      "image": "https://npcdn.ratopati.com/media/news/cover-recovered-recovered-recovered-recovered-recovered_pYjfNf3I3e.webp",
+      "pubDate": 1790266500000,
+      "category": "rajaniti",
+      "trendingScore": 70,
+      "breaking": true,
+      "clusterId": "cluster-4KWn4KWmIOCkrOCknCDg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "arthasarokar",
@@ -34,7 +60,7 @@
       "link": "https://arthasarokar.com/2026/09/work-is-underway-on-critical-path-to-ease-gas-supply-industry-minister-sah.html",
       "pubDate": 1790253173000,
       "category": "rajaniti",
-      "trendingScore": 69,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KSXIOCkryDgpLgg4KSG",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -47,7 +73,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/26bb/live/c0219130-b7f2-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1790247554000,
       "category": "rajaniti",
-      "trendingScore": 67,
+      "trendingScore": 63,
       "breaking": true,
       "clusterId": "cluster-4KS4IOCksOCklSDgpLcg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -60,7 +86,7 @@
       "image": "https://npcdn.ratopati.com/media/news/LzCPy1wSdh.jpg",
       "pubDate": 1790266653000,
       "category": "rajaniti",
-      "trendingScore": 66,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -72,7 +98,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025259/alternative-hospital-set-up-in-nuwakot-after-floods-cause-problems-as-bridges-are-washed-away",
       "pubDate": 1790266370000,
       "category": "rajaniti",
-      "trendingScore": 66,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpLIg4KSq",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -85,7 +111,7 @@
       "image": "https://npcdn.ratopati.com/media/news/vuf35QVXDK.jpg",
       "pubDate": 1790266216000,
       "category": "rajaniti",
-      "trendingScore": 66,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KSK4KSwIOCknCDgpK7g",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -98,7 +124,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/apf-sachi-1.jpg",
       "pubDate": 1790265180000,
       "category": "rajaniti",
-      "trendingScore": 65,
+      "trendingScore": 61,
       "breaking": false,
       "clusterId": "cluster-4KS1IOCkquCkpuCkriDg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -110,7 +136,7 @@
       "link": "https://www.setopati.com/politics/399191",
       "pubDate": 1790263920000,
       "category": "rajaniti",
-      "trendingScore": 65,
+      "trendingScore": 61,
       "breaking": false,
       "clusterId": "cluster-4KST4KSyIOCksiDgpIgg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -122,7 +148,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025226/energy-minister-shrestha-meets-with-adbs-nepal-director-koswa",
       "pubDate": 1790261680000,
       "category": "rajaniti",
-      "trendingScore": 64,
+      "trendingScore": 60,
       "breaking": true,
       "clusterId": "cluster-4KSK4KSwIOCknCDgpK7g",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -134,10 +160,23 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025174/government-tells-employees-not-to-take-leave-as-flood-risk-increases",
       "pubDate": 1790258544000,
       "category": "rajaniti",
-      "trendingScore": 63,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpJUg4KSc",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "भुटानका २८ राजनीतिक बन्दीमध्ये धेरै नेपाली भाषी, तत्काल रिहा गर्न माग",
+      "description": "संस्थाका अनुसार ११ जना बन्दीको मुद्दा तामाङ र राईको मुद्दासँग मिल्दोजुल्दो छ। उनीहरूलाई राजधानी थिम्पु नजिकैको चेमगाङ जेलको ‘राष्ट्रविरोधी शाखा’ र दुर्गम सैन्य जेल रबुनामा राखिएको बताइएको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/international/many-of-bhutan-s-28-political-prisoners-are-nepali-speakers-demand-immediate-release-96-16.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1790258039_Bhutan.jpg",
+      "pubDate": 1790258094000,
+      "category": "rajaniti",
+      "trendingScore": 59,
+      "breaking": true,
+      "clusterId": "cluster-4KStIOCknyDgpKjgpJUg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "rajdhani",
@@ -147,10 +186,23 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-7.29.17-PM.jpeg",
       "pubDate": 1790257853000,
       "category": "rajaniti",
-      "trendingScore": 63,
+      "trendingScore": 59,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCksiDgpJUg4KSf",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "विश्वसनीय, वैध र दिगो शान्ति निर्माणको अपरिहार्य आधार राष्ट्रिय स्वामित्व हो : परराष्ट्रमन्त्री खनाल",
+      "description": "काठमाडौँ । परराष्ट्रमन्त्री शिशिर खनालले दिगो शान्ति निर्माणका लागि राष्ट्रिय स्वामित्व, समावेशी राज्य संस्था र जबाफदेही शासन व्यवस्था अपरिहार्य रहेको बताएका छन् । संयुक्त राष्ट्रसङ्घको ८१औँ महासभाका क्रममा न्युयोर्कस्थित संयुक्त राष्ट्रसङ्घीय मुख्यालयमा बिहीबार आयोजित पिसबिल्डिङ कमिसन",
+      "link": "https://www.ratopati.com/story/594692/national-ownership-is-the-indispensable-basis-for-building-credible-legitimate-and-sustainable-peace-foreign-minister-khanal",
+      "image": "https://npcdn.ratopati.com/media/news/dPopjEkvYV.jpg",
+      "pubDate": 1790278768000,
+      "category": "rajaniti",
+      "trendingScore": 58,
+      "breaking": false,
+      "clusterId": "cluster-4KS1IOCktiDgpLXgpLjg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "setopati",
@@ -159,22 +211,10 @@
       "link": "https://www.setopati.com/social/399188",
       "pubDate": 1790256963000,
       "category": "rajaniti",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkryDgpJkg4KSc",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "arthasarokar",
-      "title": "प्रधानमन्त्री राहत कोषमा १५ अर्ब नाघ्यो",
-      "description": "काठमाडौँ । रसुवाको भोटेकोशी नदीमा आएको बाढी प्रभावितका लागि आर्थिक सहयोग जुट्नेक्रम जारी छ । हालसम्म प्रधानमन्त्री दैवी प्रकोप उद्धार कोष र प्रधानमन्त्री राहत कोषका सबै खातामा गरी रु १५ अर्ब ५० करोडभन्दा बढी मौज्दात छ । प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालयका अनुसार हाल प्रधानमन्त्री दैवी प्रकोप उद्धार कोषका विभिन्न नौ वटा वाणिज्य बैंकमा हाल रु Continue reading \"प्रधानमन्त्री राहत कोषमा १५ अर्ब नाघ्यो\"",
-      "link": "https://arthasarokar.com/2026/09/prime-ministers-relief-fund-crosses-rs-15-billion.html",
-      "pubDate": 1790232210000,
-      "category": "rajaniti",
-      "trendingScore": 62,
-      "breaking": true,
-      "clusterId": "cluster-4KSqIOCksOCkpyDgpKjg",
-      "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
     },
     {
       "sourceId": "ratopati",
@@ -184,7 +224,7 @@
       "image": "https://npcdn.ratopati.com/media/news/krishi-bibhag_dF1lo4g8Hg.jpg",
       "pubDate": 1790275744000,
       "category": "rajaniti",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KStIOCksCDgpLXgpLAg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -197,7 +237,7 @@
       "image": "https://npcdn.ratopati.com/media/news/Tqz7j9X5PG.jpg",
       "pubDate": 1790275175000,
       "category": "rajaniti",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCklyDgpKMg4KSG",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -210,7 +250,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/OLI@BIDD.png",
       "pubDate": 1790253521000,
       "category": "rajaniti",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSuIOCksiDgpK4g",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -223,7 +263,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-6.12.41-PM.jpeg",
       "pubDate": 1790252923000,
       "category": "rajaniti",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCkuCDgpJUg4KSf",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -236,10 +276,22 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/bharat-dahal.jpg",
       "pubDate": 1790252464000,
       "category": "rajaniti",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCknOCkqCDgpKQg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
+    },
+    {
+      "sourceId": "arthasarokar",
+      "title": "प्रधानमन्त्री राहत कोषमा १५ अर्ब नाघ्यो",
+      "description": "काठमाडौँ । रसुवाको भोटेकोशी नदीमा आएको बाढी प्रभावितका लागि आर्थिक सहयोग जुट्नेक्रम जारी छ । हालसम्म प्रधानमन्त्री दैवी प्रकोप उद्धार कोष र प्रधानमन्त्री राहत कोषका सबै खातामा गरी रु १५ अर्ब ५० करोडभन्दा बढी मौज्दात छ । प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालयका अनुसार हाल प्रधानमन्त्री दैवी प्रकोप उद्धार कोषका विभिन्न नौ वटा वाणिज्य बैंकमा हाल रु Continue reading \"प्रधानमन्त्री राहत कोषमा १५ अर्ब नाघ्यो\"",
+      "link": "https://arthasarokar.com/2026/09/prime-ministers-relief-fund-crosses-rs-15-billion.html",
+      "pubDate": 1790232210000,
+      "category": "rajaniti",
+      "trendingScore": 57,
+      "breaking": true,
+      "clusterId": "cluster-4KSqIOCksOCkpyDgpKjg",
+      "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
     },
     {
       "sourceId": "ratopati",
@@ -249,7 +301,7 @@
       "image": "https://npcdn.ratopati.com/media/news/12-news_mw9Pjrd4a6.webp",
       "pubDate": 1790273765000,
       "category": "rajaniti",
-      "trendingScore": 60,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KWn4KWoIOCkrOCknCDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -262,7 +314,7 @@
       "image": "https://npcdn.ratopati.com/media/news/XLLNTEH11A.jpg",
       "pubDate": 1790271625000,
       "category": "rajaniti",
-      "trendingScore": 60,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSy4KShIOCkuCDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -275,7 +327,7 @@
       "image": "https://npcdn.ratopati.com/media/news/cnn-at-white-house_KXHacVM9h5.webp",
       "pubDate": 1790269824000,
       "category": "rajaniti",
-      "trendingScore": 59,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KS5IOCktSDgpIfgpJ8g",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -288,7 +340,7 @@
       "image": "https://npcdn.ratopati.com/media/news/donald-trump_b38Op3spB6.webp",
       "pubDate": 1790268328000,
       "category": "rajaniti",
-      "trendingScore": 59,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSaIOCkqCDgpK8g4KS4",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -300,7 +352,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025262/foreign-minister-khanal-participates-in-the-meeting-of-the-mediation-group",
       "pubDate": 1790267549000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSq4KSw4KSwIOCktyDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -312,10 +364,23 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025049/the-question-is-not-for-oli-but-for-uml-people-do-you-really-want-to-revive-the-old-parliament",
       "pubDate": 1790266304000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KScIOCkqCDgpKog4KSw",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "उदयपुरका आठवटै पालिकामा कांग्रेसको अधिवेशन सम्पन्न, देउवा पक्ष समानान्तर तयारीमा",
+      "description": "१५ औं महाधिवेशन गराईरहेको गगन थापा नेतृत्वको विशेष महाधिवेशनपक्षधर नेपाली कांग्रेसले उदयपुरका ८ वटै स्थानीयतहमा नेतृत्व चयन सकेको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/politics/congress-conventions-concluded-at-all-8-local-levels-18-63.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1786010361_congress.png",
+      "pubDate": 1790266102000,
+      "category": "rajaniti",
+      "trendingScore": 54,
+      "breaking": false,
+      "clusterId": "cluster-4KSJ4KSm4KSv4KSqIOCk",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -324,21 +389,9 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024935/vidya-bhandaris-return-after-11-years-under-uml-leadership",
       "pubDate": 1790266062000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSuIOCksiDgpKgg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "एमालेमा नेतृत्व बदल्ने च्याप्टर बन्द",
-      "description": "पार्टी रुपान्तरणको मुद्दा उठाइरहेकी पूर्वराष्ट्रपति समेत रहेकी एमालेकी पूर्व उपाध्यक्ष विद्यादेवी भण्डारी समेत अब पार्टीभित्रै प्रवेश गरेकी छन् ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2025201/uml-closes-chapter-on-leadership-change",
-      "pubDate": 1790265820000,
-      "category": "rajaniti",
-      "trendingScore": 58,
-      "breaking": false,
-      "clusterId": "cluster-4KSP4KSuIOCksiDgpK4g",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
@@ -349,10 +402,48 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2025/06/Oli@Biddhya.jpg",
       "pubDate": 1790244617000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksCDgpLXgpLAg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "एमालेमा नेतृत्व बदल्ने च्याप्टर बन्द",
+      "description": "पार्टी रुपान्तरणको मुद्दा उठाइरहेकी पूर्वराष्ट्रपति समेत रहेकी एमालेकी पूर्व उपाध्यक्ष विद्यादेवी भण्डारी समेत अब पार्टीभित्रै प्रवेश गरेकी छन् ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2025201/uml-closes-chapter-on-leadership-change",
+      "pubDate": 1790265820000,
+      "category": "rajaniti",
+      "trendingScore": 53,
+      "breaking": false,
+      "clusterId": "cluster-4KSP4KSuIOCksiDgpK4g",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "सुनसरीमा गच्छदार एक्लिँदा ‘हेभीवेट’ नेताहरू गगनको पक्षमा",
+      "description": "नेपाली कांग्रेसको १५ औं महाधिवेशन प्रक्रिया सुरु भएसँगै सुनसरीमा जिल्लाका अधिकांश प्रभावशाली नेताहरू पार्टी सभापति गगन थापा नेतृत्वको संस्थापन पक्षमा गोलबन्द भएका छन्।...",
+      "link": "https://nagariknews.nagariknetwork.com/politics/except-for-bijay-all-other-heavyweight-leaders-in-sunsari-are-heading-towards-gagan-36-52.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1789389009_congress.png",
+      "pubDate": 1790265727000,
+      "category": "rajaniti",
+      "trendingScore": 53,
+      "breaking": false,
+      "clusterId": "cluster-4KS4IOCkqOCkuOCksCDg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "सुदूरपश्चिममा देउवाको विरासत भत्काउँदै गगन पक्ष, ३ जिल्ला सभापतिको पद खोसियो",
+      "description": "पाँचपटक प्रधानमन्त्री बनिसकेका नेपाली कांग्रेसका निवर्तमान सभापति शेरबहादुर देउवाको बलियो पकड मानिँदै आएको सुदूरपश्चिम प्रदेशमा पार्टी सभापति गगन थापा पक्षले आफ्नो प्रभाव तीव्र रूपमा विस्तार गरेको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/politics/deuba-pro-leader-who-did-not-participate-in-the-far-western-province-general-convention-process-was-stripped-of-responsibility-deuba-is-becoming-weak-in-his-home-province-90-59.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1789479178_deuba%20gagan.png",
+      "pubDate": 1790265326000,
+      "category": "rajaniti",
+      "trendingScore": 53,
+      "breaking": false,
+      "clusterId": "cluster-4KS4IOCkpiDgpLDgpKrg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -361,10 +452,23 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025254/prime-ministers-address-to-the-general-assembly-of-the-united-nations-general-assembly-at-545-am-on-friday",
       "pubDate": 1790265261000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "वर्षाबाट हुने सम्भावित जोखिमका लागि सरकारको उच्च सतर्कता, यस्तो छ सबै मन्त्रालयको तयारी",
+      "description": "प्रधानमन्त्री वालेन्द्र शाहले संयुक्त राष्ट्रसंघको महासभामा सहभागी हुन अमेरिका प्रस्थान गर्नुअघि नै सम्पूर्ण आवश्यक सावधानी अपनाउन दिएको निर्देशनअनुसार सम्बन्धित मन्त्रालय र मातहतका निकायहरू तीव्रताका साथ पूर्वतयारी तथा प्रतिकार्यमा जुटेका हुन्।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/government-on-high-alert-for-potential-risks-from-rain-this-is-the-preparation-of-all-ministries-46-15.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1790264124_Tayari.jpg",
+      "pubDate": 1790264138000,
+      "category": "rajaniti",
+      "trendingScore": 53,
+      "breaking": false,
+      "clusterId": "cluster-4KS14KSwIOCktyDgpKwg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -373,49 +477,23 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025243/what-dishes-are-on-offer-at-trump-and-xis-state-dinner",
       "pubDate": 1790264112000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSfIOCksOCkriDgpKog",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
-      "sourceId": "ratopati",
-      "title": "बालेनको पहलपछि मलेसिया रोजगार विवादमा थप छलफल",
-      "description": "काठमाडौँ। नेपाल र मलेसियाबिच नेपाली श्रमिकको रोजगारी तथा वैदेशिक रोजगार व्यवसायीको सूचीकरणलाई लिएर देखिएको विवादमा थप छलफल भएको छ । प्रधानमन्त्री वालेन्द्र(बालेन) शाह र मलेसियाका प्रधानमन्त्री अनवर इब्राहिमबिच असोज ६ गते भएको टेलिफोन संवादपछि युवा, श्रम",
-      "link": "https://www.ratopati.com/story/594666/further-discussion-on-malaysia-employment-dispute-after-balens-initiative",
-      "image": "https://npcdn.ratopati.com/media/news/balen-malesiya-rojgar_eGQgRoqHzU.webp",
-      "pubDate": 1790263678000,
+      "sourceId": "nagarik",
+      "title": "अमेरिकाबाट प्रधानमन्त्रीको विशेष अपिल- सावधान रहौं, सुरक्षित रहौं",
+      "description": "जल तथा मौसम विज्ञान विभागले असोज ९ देखि ११ गतेसम्म देशका विभिन्न स्थानमा भारीदेखि अति भारी वर्षा र हावाहुरीको प्रक्षेपण गरेपछि सरकारले देशभर उच्च सतर्कता अपनाएको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/main-headline-of-the-news-78-51.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1788864357_balen.png",
+      "pubDate": 1790262845000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 52,
       "breaking": false,
-      "clusterId": "cluster-4KSsIOCksiDgpKjgpJUg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "भारी वर्षाको पूर्वानुमान : प्रधानमन्त्री बालेनले गरे यस्तो अपिल",
-      "description": "काठमाडाैँ। प्रधानमन्त्री वालेन्द्र(बालेन) शाह &lsquo;बालेन&rsquo;ले असोज ९ गते शुक्रबारदेखि ११ गते आइतबारसम्म देशका विभिन्न स्थानमा भारीदेखि अति भारी वर्षाको सम्भावना रहेको भन्दै नागरिकलाई उच्च सतर्कता अपनाउन आग्रह गरेका छन्। प्रधानमन्त्री शाहले बिहीबार सामाजिक सञ्जाल फेसबुकमार्फत",
-      "link": "https://www.ratopati.com/story/594664/heavy-rain-forecast-prime-minister-balen-makes-this-appeal",
-      "image": "https://npcdn.ratopati.com/media/news/balen-sambodhan_aqIgogfuHB.webp",
-      "pubDate": 1790262857000,
-      "category": "rajaniti",
-      "trendingScore": 57,
-      "breaking": false,
-      "clusterId": "cluster-4KStIOCksCDgpLXgpLAg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "विपद् जोखिम कम गर्न सबै निकायसँगको समन्वयमा काम भइरहेको छ : मुख्यमन्त्री भट्ट",
-      "description": "सुदूरपश्चिम। सुदूरपश्चिम प्रदेशका मुख्यमन्त्री खगराज भट्टले विपद् जोखिम कम गर्न प्रदेश सरकारले सबै निकायसँग सहकार्य गरी आवश्यक काम गरिरहेको बताएका छन्। आन्तरिक मामिला तथा कानुन मन्त्रालयले बिहीबार कैलालीको धनगढीमा आयोजना गरेको &lsquo;विपद् जोखिम व्यवस्थापन तथा जलवायु",
-      "link": "https://www.ratopati.com/story/594663/work-is-being-done-in-coordination-with-all-agencies-to-reduce-disaster-risk-chief-minister-bhatta",
-      "image": "https://npcdn.ratopati.com/media/news/khagraj-bhatta_qyjrsuq2xz_SJLtSHpj34.png",
-      "pubDate": 1790262558000,
-      "category": "rajaniti",
-      "trendingScore": 56,
-      "breaking": false,
-      "clusterId": "cluster-4KS1IOCkquCkpiDgpJwg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+      "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -424,7 +502,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025232/all-agencies-should-work-in-coordination-to-reduce-disaster-risk-chief-minister-bhatta",
       "pubDate": 1790262431000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KS1IOCkquCkpiDgpJwg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -436,23 +514,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025229/malaysian-labor-minister-urged-to-provide-equal-opportunities-to-all-nepali-manpower",
       "pubDate": 1790262334000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSu4KSyIOCkuCDgpK8g",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "एमालेको तेस्रो केन्द्रीय कमिटी बैठकले दिएको सन्देश",
-      "description": "नेकपा (एमाले) को बिहीबार सम्पन्न केन्द्रीय कमिटीको तेस्रो बैठकलाई गहिरोसँग बुझ्ने हो भने यो बैठक वास्तवमै ऐतिहासिक रूपमा सम्पन्न भएको देखिन्छ । नेपाल भूगोलका हिसाबले ठूलो देश होइन। जनसंख्या पनि तीन करोड पुगनपुग छ। त्यसमध्ये करिब",
-      "link": "https://www.ratopati.com/story/594661/message-from-the-third-central-committee-meeting-of-uml",
-      "image": "https://npcdn.ratopati.com/media/news/gurung_yqw2jdakR1.webp",
-      "pubDate": 1790261749000,
-      "category": "rajaniti",
-      "trendingScore": 56,
-      "breaking": false,
-      "clusterId": "cluster-4KSP4KSuIOCksiDgpJUg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "onlinekhabar",
@@ -461,7 +526,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025222/chinese-president-xi-arrives-at-the-white-house-begins-high-level-talks-with-trump",
       "pubDate": 1790260736000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KS5IOCktSDgpIfgpJ8g",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -473,7 +538,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025207/us-unveils-2-45-billion-plan-for-gaza-reconstruction",
       "pubDate": 1790259968000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSXIOCknCDgpKog4KSo",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -485,10 +550,49 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025186/22-decisions-of-uml-meeting-with-list",
       "pubDate": 1790258691000,
       "category": "rajaniti",
-      "trendingScore": 55,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSuIOCksiDgpKwg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "राष्ट्रसंघ महासभामा प्रधानमन्त्रीको सम्बोधन शुक्रबार बिहान करिब ५/६ बजे आसपास",
+      "description": "संयुक्त राष्ट्रसंघको जारी महासभाको उच्चस्तरीय सत्रलाई प्रधानमन्त्रीले गर्ने सम्बोधनको समयतालिका तय भएको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/prime-minister-s-address-to-the-un-general-assembly-around-5-6-am-on-friday-morning-99-16.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1788864357_balen.png",
+      "pubDate": 1790258546000,
+      "category": "rajaniti",
+      "trendingScore": 51,
+      "breaking": false,
+      "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "सात प्रदेशका २७ स्थानमा खेलकुद पूर्वाधार निर्माण गरिने",
+      "description": "सरकारले खेलकुद क्षेत्रको बृहत्तर विकासका लागि सातै प्रदेशमा नयाँ खेलकुद पूर्वाधार निर्माण गर्ने भएको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/sports/sports-infrastructure-to-be-built-in-27-locations-across-seven-provinces-48-88.html",
+      "pubDate": 1790257540000,
+      "category": "rajaniti",
+      "trendingScore": 51,
+      "breaking": false,
+      "clusterId": "cluster-4KS4IOCkpCDgpKog4KSw",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1790257534_sasmit.jpg"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "बाटोमा भेट्नासाथ माइक तेर्स्याएर ठाडो प्रश्न सोध्ने पत्रकारिता मलाई मन पर्दैन: माधव नेपाल",
+      "description": "नेपाली कम्युनिष्ट पार्टीका सहसंयोजक एवं पूर्वप्रधानमन्त्री माधवकुमार नेपालले बाटोघाटोमा अचानक माइक तेर्स्याएर ठाडो प्रश्न सोध्ने पत्रकारिताको शैली आफूलाई पटक्कै मन नपर्ने बताएका छन्।...",
+      "link": "https://nagariknews.nagariknetwork.com/politics/i-don-t-like-journalism-that-asks-direct-questions-by-raising-the-microphone-when-you-meet-someone-on-the-road-madhav-nepal-11-33.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1790170550_madhav.jpg",
+      "pubDate": 1790257506000,
+      "category": "rajaniti",
+      "trendingScore": 51,
+      "breaking": false,
+      "clusterId": "cluster-4KSsIOCknyDgpK4g4KSt",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "karobar",
@@ -498,22 +602,23 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/santosh-shresstha-150x150.jpeg",
       "pubDate": 1790236634000,
       "category": "rajaniti",
-      "trendingScore": 55,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KS1IOCknCDgpJ4g4KSq",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
-      "sourceId": "onlinekhabar",
-      "title": "सात प्रदेशका २७ स्थानमा खेलकुद पूर्वाधार निर्माण गरिने",
-      "description": "८ असोज, काठमाडौं । सातै प्रदेशमा नयाँ खेलकुद पूर्वाधार निर्माण गर्ने गरी खेलकुद पूर्वाधार सुदृढीकरण तथा नयाँ निर्माण सम्बन्धी समझदारी पत्रमा हस्ताक्षर भएको छ । बिहीबार शिक्षा तथा खेलकुदमन्त्री सस्मित पोखरेलको उपस्थितिमा शहरी विकास तथा भवन निर्माण विभागका महानिर्देशक ई. रवीन्द्र बोहरा र राष्ट्रिय खेलकुद परिषद (राखेप) का सदस्यसचिव रामचरित्र मेहताले उक्त समझदारी पत्रमा हस्ताक्षर […]",
-      "link": "https://www.onlinekhabar.com/2026/09/2025137/sports-infrastructure-to-be-built-in-27-locations-across-seven-provinces",
-      "pubDate": 1790255675000,
+      "sourceId": "nagarik",
+      "title": "हर्क सम्पाङ भन्छन्- हैसियत अनुसारको व्यवहार भएको छ, मन नदुखाउनू",
+      "description": "श्रम संकृति पार्टीका अध्यक्ष हर्क साम्पाङले संयुक्त राष्ट्रसंघको महासभामा भाग लिन अमेरिका पुगेका प्रधानमन्त्रीको स्वागतलाई लिएर भइरहेको चर्चाप्रति टिप्पणी गर्दै अमेरिकाले नेपाललाई उसको वास्तविक हैसियत अनुसारकै व्यवहार गरेको बताएका छन्।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/labor-77-48.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1790256622_sam.png",
+      "pubDate": 1790256571000,
       "category": "rajaniti",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
-      "clusterId": "cluster-4KS4IOCkpCDgpKog4KSw",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+      "clusterId": "cluster-4KS54KSwIOCklSDgpLjg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "arthasarokar",
@@ -522,7 +627,7 @@
       "link": "https://arthasarokar.com/2026/09/rsp-lawmakers-complain-that-parliament-canteen-is-costly-says-allowance-is-not-enough-to-eat-lunch.html",
       "pubDate": 1790234063000,
       "category": "rajaniti",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkuOCkpiDgpJUg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -534,7 +639,7 @@
       "link": "https://www.ujyaaloonline.com/detail/131885",
       "pubDate": 1790253180000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCklyDgpLAg4KS4",
       "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
@@ -547,7 +652,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/02/dhangadi_mukhyamantri-tatha-mantriparishad_sudurpachshim-150x150.jpg",
       "pubDate": 1790231665000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCkpiDgpLYg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -560,7 +665,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/simraungarch-150x150.jpg",
       "pubDate": 1790231050000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSq4KSwIOCkr-Ckn-Ck",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -573,7 +678,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/11/sampadakiya_editorial_karobar_BBG-150x150.jpg",
       "pubDate": 1790228336000,
       "category": "rajaniti",
-      "trendingScore": 52,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSu4KSyIOCkuCDgpK8g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -586,7 +691,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1699/live/fb594f40-b7d4-11f1-bc1f-3f186ca4140c.jpg",
       "pubDate": 1790227685000,
       "category": "rajaniti",
-      "trendingScore": 52,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCkpCDgpJUg4KSw",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -598,7 +703,7 @@
       "link": "https://www.ujyaaloonline.com/detail/131882",
       "pubDate": 1790248320000,
       "category": "rajaniti",
-      "trendingScore": 51,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksCDgpLXgpLAg",
       "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
@@ -610,7 +715,7 @@
       "link": "https://arthasarokar.com/2026/09/schools-colleges-closed-across-the-country-on-september-8-and-9-all-examinations-postponed-for-three-days.html",
       "pubDate": 1790226333000,
       "category": "rajaniti",
-      "trendingScore": 51,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSF4KS4IOCknCDgpa4g",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -623,7 +728,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/RS_KTM_RSS_07_IMG_20260923_121119-150x150.jpg",
       "pubDate": 1790223066000,
       "category": "rajaniti",
-      "trendingScore": 50,
+      "trendingScore": 46,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkqCDgpLAg4KSq",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -636,7 +741,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/sse-150x150.jpg",
       "pubDate": 1790163228000,
       "category": "rajaniti",
-      "trendingScore": 37,
+      "trendingScore": 33,
       "breaking": false,
       "clusterId": "cluster-4KSh4KSsIOCksiDgpKHg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -649,7 +754,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/04/Balen_pm_BBG-150x150.jpg",
       "pubDate": 1790162602000,
       "category": "rajaniti",
-      "trendingScore": 29,
+      "trendingScore": 24,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCkuOCkriDgpLUg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"

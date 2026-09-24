@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-09-24T19:25:53.446Z",
+  "generatedAt": "2026-09-24T22:39:06.663Z",
   "articles": [
+    {
+      "sourceId": "ratopati",
+      "title": "‘सतर्क रहौँ, सुरक्षित रहौँ’, मधेस सरकारको आग्रह",
+      "description": "धनुषा । भारी वर्षासँगै बाढी, पहिरो, डुबान तथा अन्य सम्भावित विपद्को जोखिम बढेपछि मधेस प्रदेश सरकारले उच्च सतर्कता अपनाउन आग्रह गरेको छ । गृह, सञ्चार तथा कानुन मन्त्रालयले प्रदेश विपद् व्यवस्थापन कार्यकारी समितिको बिहीबार बसेको बैठकको",
+      "link": "https://www.ratopati.com/story/594698/be-vigilant-be-safe-urges-madhesh-government",
+      "image": "https://npcdn.ratopati.com/media/news/grih-sanchar-mantralay_vm0mciZLbp.jpg",
+      "pubDate": 1790287683000,
+      "category": "rajaniti",
+      "trendingScore": 77,
+      "breaking": true,
+      "clusterId": "cluster-4KS44KSk4KSwIOCklSDg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "मौसमी जोखिमबाट सतर्क रहन कर्णाली सरकारको अनुरोध",
+      "description": "कर्णाली । कर्णाली प्रदेश सरकारले भारी वर्षाको सम्भावित मौसमी जोखिम र क्षतिबाट सतर्क रहन सर्वसाधारणलाई अनुरोध गरेको छ । कर्णाली प्रदेश विपद् व्यवस्थापन कार्यकारी समितिको बिहीबारको बैठकले बाढी, पहिरो, डुबान तथा सडक दुर्घटनाको जोखिमबाट सर्वसाधारणलाई बचाउन",
+      "link": "https://www.ratopati.com/story/594697/karnali-government-requests-to-be-vigilant-against-seasonal-risks",
+      "image": "https://npcdn.ratopati.com/media/news/karnali-mukhyamantri-karyalaya_kXgdamlLyG.jpg",
+      "pubDate": 1790286224000,
+      "category": "rajaniti",
+      "trendingScore": 85,
+      "breaking": true,
+      "clusterId": "cluster-4KSuIOCkuOCkriDgpJwg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "उदयपुरका दुई लोकमार्गमा रात्रिकालीन यात्रामा रोक",
+      "description": "लगातारको वर्षासँगै बाढी र पहिरोको उच्च जोखिम बढेपछि जिल्ला प्रशासन कार्यालय उदयपुरले जिल्लाका दुई प्रमुख लोकमार्गमा रात्रिकालीन सवारी आवागमनमा रोक लगाएको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/night-travel-banned-on-two-highways-in-udayapur-schools-closed-in-a-hurry-80-52.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1742293886_nagarika.jpg",
+      "pubDate": 1790267365000,
+      "category": "taja",
+      "trendingScore": 70,
+      "breaking": true,
+      "clusterId": "cluster-4KSJ4KSm4KSv4KSqIOCk",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
     {
       "sourceId": "ratopati",
       "title": "बाढी प्रभावित क्षेत्रमा पुनर्निर्माणका लागि सघाउन आग्रह",
@@ -9,7 +48,7 @@
       "image": "https://npcdn.ratopati.com/media/news/LzCPy1wSdh.jpg",
       "pubDate": 1790266653000,
       "category": "rajaniti",
-      "trendingScore": 66,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -21,7 +60,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024513/dont-be-late-to-save-flood-survivors",
       "pubDate": 1790266562000,
       "category": "taja",
-      "trendingScore": 66,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKwg4KSf",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -33,7 +72,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025019/driver-suman-saves-57-students",
       "pubDate": 1790266543000,
       "category": "taja",
-      "trendingScore": 66,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KWr4KWtIOCktSDgpKYg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -46,7 +85,7 @@
       "image": "https://npcdn.ratopati.com/media/news/cover-recovered-recovered-recovered-recovered-recovered_pYjfNf3I3e.webp",
       "pubDate": 1790266500000,
       "category": "rajaniti",
-      "trendingScore": 74,
+      "trendingScore": 70,
       "breaking": true,
       "clusterId": "cluster-4KWn4KWmIOCkrOCknCDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -58,7 +97,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025259/alternative-hospital-set-up-in-nuwakot-after-floods-cause-problems-as-bridges-are-washed-away",
       "pubDate": 1790266370000,
       "category": "rajaniti",
-      "trendingScore": 66,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpLIg4KSq",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -71,7 +110,7 @@
       "image": "https://npcdn.ratopati.com/media/news/vuf35QVXDK.jpg",
       "pubDate": 1790266216000,
       "category": "rajaniti",
-      "trendingScore": 66,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KSK4KSwIOCknCDgpK7g",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -84,7 +123,7 @@
       "image": "https://npcdn.ratopati.com/media/news/4qPjZsENbk.jpg",
       "pubDate": 1790265837000,
       "category": "bidesh",
-      "trendingScore": 66,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCkryDgpKjgpK0g",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -96,7 +135,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025251/santosh-panta-starrer-paisa-tells-the-story-of-the-struggle-between-power-and-wealth-song-rapti-susayo-released",
       "pubDate": 1790265099000,
       "category": "manoranjan",
-      "trendingScore": 65,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KS44KSoIOCkpCDgpLcg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -109,7 +148,7 @@
       "image": "https://npcdn.ratopati.com/media/news/accident1_0HVVwEUEAJ.jpg",
       "pubDate": 1790264975000,
       "category": "artha",
-      "trendingScore": 73,
+      "trendingScore": 69,
       "breaking": true,
       "clusterId": "cluster-4KScIOCkqiDgpKYg4KSw",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -122,22 +161,9 @@
       "image": "https://rpcdn.ratopati.com/media/albums/Deurali_pahiro_ejbNxysxws.jpg",
       "pubDate": 1790264829000,
       "category": "taja",
-      "trendingScore": 65,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSq4KS5IOCksCDgpLIg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "विपद् प्रतिकार्य : ७७ वटै जिल्ला प्रशासनलाई गृहको १० बुँदे सर्कुलर",
-      "description": "काठमाडौँ। भारी वर्षासँगै बाढी, पहिरो र डुबानको उच्च जोखिम बढेपछि गृह मन्त्रालयले विपद् पूर्वतयारी तथा प्रतिकार्यका लागि गृह मन्त्रालयले देशभरका जिल्ला प्रशासनलाई सर्कुलर गरेको छ । गृह मन्त्रालयले स्थानीय प्रशासनलाई १० बुँदे परिपत्र (सर्कुलर) जारी",
-      "link": "https://www.ratopati.com/story/594667/disaster-response-home-ministry-issues-10-point-circular-to-all-77-district-administrations",
-      "image": "https://npcdn.ratopati.com/media/news/home-ministry_PgjvmWym5l.jpg",
-      "pubDate": 1790263995000,
-      "category": "taja",
-      "trendingScore": 73,
-      "breaking": true,
-      "clusterId": "cluster-4KS1IOCkquCkpiDgpKog",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
@@ -147,36 +173,23 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024952/hostels-at-school-for-students-who-lost-their-homes-and-parents-due-to-floods",
       "pubDate": 1790263162000,
       "category": "taja",
-      "trendingScore": 65,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKwg4KSf",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
-      "sourceId": "ratopati",
-      "title": "भोटेकोशी बाढीमा अन्तर्राष्ट्रिय सहायता : कहाँ कहाँबाट आयो सहयोग ?",
-      "description": "काठमाडौँ । गत भदौ १० गते भोटेकोशीमा आएको भीषण बाढीपछि विभिन्न देश तथा अन्तर्राष्ट्रिय निकायहरूबाट सहयोग आउने क्रम अझै जारी छ । परराष्ट्र मन्त्रालयका अनुसार बाढी आएको पहिलो दिनदेखि नै निरन्तर सहयोग प्राप्त भइरहेको छ ।",
-      "link": "https://www.ratopati.com/story/594665/international-aid-for-the-bhotekoshi-floods-where-did-the-aid-come-from",
-      "image": "https://npcdn.ratopati.com/media/news/rasuwa-bhotekoshi-badhi_xJnNFwOg50.webp",
-      "pubDate": 1790262901000,
-      "category": "khelkud",
-      "trendingScore": 65,
-      "breaking": true,
-      "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "आर्या फार्माल्याबको सामाजिक उत्तरदायित्व अर्न्तगत निःशुल्क स्वास्थ्य शिविर सम्पन्न",
-      "description": "काठमाडौँ। बाढी तथा विपद् प्रभावित नागरिकलाई समुदायमै स्वास्थ्य सेवा उपलब्ध गराउने उद्देश्यले आर्या फार्माल्याब र चितवन मेडिकल कलेजको सहकार्यमा नुवाकोटमा सञ्चालित सामुदायिक स्वास्थ्य शिविर सफलतापूर्वक सम्पन्न भएको छ । भदौ ३१ गतेदेखी असोज ५ गतेसम्म नुवाकोटका",
-      "link": "https://www.ratopati.com/story/594662/a-free-health-camp-was-held-as-part-of-arya-pharmalabs-social-responsibility",
-      "image": "https://npcdn.ratopati.com/media/news/arya1_WEScBwCQJ8.webp",
-      "pubDate": 1790261982000,
+      "sourceId": "nagarik",
+      "title": "‘भारी वर्षाको जोखिम छ, असोज ११ गतेसम्म पदयात्रा नगर्नु’",
+      "description": "अविरल वर्षाका कारण नदी तथा खोलामा पानीको बहाव बढ्ने, आकस्मिक बाढी, पहिरो तथा डुबान हुनसक्ने र पदयात्रा मार्ग तथा यातायात सेवा प्रभावित हुने जोखिम रहेकाले पदयात्रा रोक्न टानले आग्रह गरेको हो।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/there-is-a-risk-of-heavy-rain-do-not-trek-until-asoj-11-99-32.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1790262573_Padyatra.jpg",
+      "pubDate": 1790262583000,
       "category": "taja",
-      "trendingScore": 64,
+      "trendingScore": 68,
       "breaking": true,
-      "clusterId": "cluster-4KSG4KSwIOCkryDgpKsg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+      "clusterId": "cluster-4KStIOCksCDgpLXgpLAg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -185,10 +198,23 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025226/energy-minister-shrestha-meets-with-adbs-nepal-director-koswa",
       "pubDate": 1790261680000,
       "category": "rajaniti",
-      "trendingScore": 64,
+      "trendingScore": 60,
       "breaking": true,
       "clusterId": "cluster-4KSK4KSwIOCknCDgpK7g",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "स्याङ्जामा विवाहको भोज खाएर फर्किएको जीप दुर्घटना: एक जनाको मृत्यु, ११ घाइते",
+      "description": "स्याङ्जामा बिहीबार साँझ भएको जीप दुर्घटनामा परी एकको मृत्यु भएको छ। सो घटनामा परी पुतलीबजार-१० बस्ने ७६ वर्षीय उत्तमसिंह गुरुङको मृत्यु भएको जिल्ला प्रहरी कार्यालयका सूचना अधिकारी रमेशदत्त अवस्थीले जानकारी दिए।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/one-dead-in-accident-79-23.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1790261583_bhoj.png",
+      "pubDate": 1790261430000,
+      "category": "artha",
+      "trendingScore": 68,
+      "breaking": true,
+      "clusterId": "cluster-4KS4IOCkryDgpJkg4KSc",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -197,10 +223,23 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025174/government-tells-employees-not-to-take-leave-as-flood-risk-increases",
       "pubDate": 1790258544000,
       "category": "rajaniti",
-      "trendingScore": 63,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpJUg4KSc",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "भुटानका २८ राजनीतिक बन्दीमध्ये धेरै नेपाली भाषी, तत्काल रिहा गर्न माग",
+      "description": "संस्थाका अनुसार ११ जना बन्दीको मुद्दा तामाङ र राईको मुद्दासँग मिल्दोजुल्दो छ। उनीहरूलाई राजधानी थिम्पु नजिकैको चेमगाङ जेलको ‘राष्ट्रविरोधी शाखा’ र दुर्गम सैन्य जेल रबुनामा राखिएको बताइएको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/international/many-of-bhutan-s-28-political-prisoners-are-nepali-speakers-demand-immediate-release-96-16.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1790258039_Bhutan.jpg",
+      "pubDate": 1790258094000,
+      "category": "rajaniti",
+      "trendingScore": 59,
+      "breaking": true,
+      "clusterId": "cluster-4KStIOCknyDgpKjgpJUg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "arthasarokar",
@@ -209,7 +248,7 @@
       "link": "https://arthasarokar.com/2026/09/work-is-underway-on-critical-path-to-ease-gas-supply-industry-minister-sah.html",
       "pubDate": 1790253173000,
       "category": "rajaniti",
-      "trendingScore": 69,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KSXIOCkryDgpLgg4KSG",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -222,7 +261,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/apf-sachi-1.jpg",
       "pubDate": 1790248210000,
       "category": "artha",
-      "trendingScore": 75,
+      "trendingScore": 71,
       "breaking": true,
       "clusterId": "cluster-4KS1IOCkquCkpiDgpLIg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -235,7 +274,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/26bb/live/c0219130-b7f2-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1790247554000,
       "category": "rajaniti",
-      "trendingScore": 67,
+      "trendingScore": 63,
       "breaking": true,
       "clusterId": "cluster-4KS4IOCksOCklSDgpLcg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -248,7 +287,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/apf-11-1.jpg",
       "pubDate": 1790247000000,
       "category": "artha",
-      "trendingScore": 75,
+      "trendingScore": 71,
       "breaking": true,
       "clusterId": "cluster-4KSu4KSo4KS4IOCkqOCk",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -261,7 +300,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/betrawati_s-150x150.png",
       "pubDate": 1790245729000,
       "category": "prabidhi",
-      "trendingScore": 66,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KSn4KSuIOCkp-CkriDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -274,7 +313,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/sadak-chidipani--150x150.jpg",
       "pubDate": 1790237206000,
       "category": "khelkud",
-      "trendingScore": 63,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksiDgpKog4KSV",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -286,7 +325,7 @@
       "link": "https://arthasarokar.com/2026/09/vehicular-movement-banned-on-bp-highway.html",
       "pubDate": 1790236397000,
       "category": "artha",
-      "trendingScore": 71,
+      "trendingScore": 67,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkqiDgpLAg4KSc",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -299,7 +338,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/air-acc-150x150.png",
       "pubDate": 1790235000000,
       "category": "artha",
-      "trendingScore": 63,
+      "trendingScore": 58,
       "breaking": true,
       "clusterId": "cluster-4KScIOCkqyDgpLIg4KSP",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -312,7 +351,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/03/Weather_Karobardaily-150x150.jpg",
       "pubDate": 1790234630000,
       "category": "artha",
-      "trendingScore": 70,
+      "trendingScore": 66,
       "breaking": true,
       "clusterId": "cluster-4KSG4KSXIOCkriDgpLbg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -325,7 +364,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/07/Nuwakot-Trishuli-River-Flood_-903-150x150.jpg",
       "pubDate": 1790232313000,
       "category": "artha",
-      "trendingScore": 62,
+      "trendingScore": 57,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksOCkriDgpJYg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -337,21 +376,9 @@
       "link": "https://arthasarokar.com/2026/09/prime-ministers-relief-fund-crosses-rs-15-billion.html",
       "pubDate": 1790232210000,
       "category": "rajaniti",
-      "trendingScore": 62,
+      "trendingScore": 57,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksOCkpyDgpKjg",
-      "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "arthasarokar",
-      "title": "राहुघाट हाइड्रोपावर निर्माणको १६ वर्षे यात्राः असफल ठेक्कादेखि परीक्षण उत्पादनसम्म",
-      "description": "म्याग्दी । म्याग्दीको बहुप्रतिक्षित राहुघाट जलविद्युत् आयोजना सुरु भएको डेढ दशकको अवधिमा परीक्षण उत्पादनको चरणमा पुगेको छ । पहिलोपटक ३२ मेगावाट क्षमतामा निर्माण अघि बढाइएको आयोजना ठेकेदारको समस्या, ठेक्का रद्द, पुनःसंरचना, नयाँ ठेकेदार छनोट, कोरोना महामारी, बाढीपहिरो, नदीजन्य निर्माण सामग्रीको अभाव लगायतका कारण डेढ दशकपछि सम्पन्न हुन लागेको हो । नेपाल विद्युत् प्राधिकरणको सहायक कम्पनी Continue reading \"राहुघाट हाइड्रोपावर निर्माणको १६ वर्षे यात्राः असफल ठेक्कादेखि परीक्षण उत्पादनसम्म\"",
-      "link": "https://arthasarokar.com/2026/09/16-years-of-rahughat-hydropower-construction-from-failed-contract-to-test-production.html",
-      "pubDate": 1790215881000,
-      "category": "artha",
-      "trendingScore": 64,
-      "breaking": true,
-      "clusterId": "cluster-4KSwIOCkuSDgpJgg4KSf",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
     }
   ]

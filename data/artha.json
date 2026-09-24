@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T19:25:53.446Z",
+  "generatedAt": "2026-09-24T22:39:06.663Z",
   "category": "artha",
   "articles": [
     {
@@ -10,7 +10,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/apf-sachi-1.jpg",
       "pubDate": 1790248210000,
       "category": "artha",
-      "trendingScore": 75,
+      "trendingScore": 71,
       "breaking": true,
       "clusterId": "cluster-4KS1IOCkquCkpiDgpLIg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -23,7 +23,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/apf-11-1.jpg",
       "pubDate": 1790247000000,
       "category": "artha",
-      "trendingScore": 75,
+      "trendingScore": 71,
       "breaking": true,
       "clusterId": "cluster-4KSu4KSo4KS4IOCkqOCk",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -36,10 +36,23 @@
       "image": "https://npcdn.ratopati.com/media/news/accident1_0HVVwEUEAJ.jpg",
       "pubDate": 1790264975000,
       "category": "artha",
-      "trendingScore": 73,
+      "trendingScore": 69,
       "breaking": true,
       "clusterId": "cluster-4KScIOCkqiDgpKYg4KSw",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "स्याङ्जामा विवाहको भोज खाएर फर्किएको जीप दुर्घटना: एक जनाको मृत्यु, ११ घाइते",
+      "description": "स्याङ्जामा बिहीबार साँझ भएको जीप दुर्घटनामा परी एकको मृत्यु भएको छ। सो घटनामा परी पुतलीबजार-१० बस्ने ७६ वर्षीय उत्तमसिंह गुरुङको मृत्यु भएको जिल्ला प्रहरी कार्यालयका सूचना अधिकारी रमेशदत्त अवस्थीले जानकारी दिए।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/one-dead-in-accident-79-23.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1790261583_bhoj.png",
+      "pubDate": 1790261430000,
+      "category": "artha",
+      "trendingScore": 68,
+      "breaking": true,
+      "clusterId": "cluster-4KS4IOCkryDgpJkg4KSc",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "arthasarokar",
@@ -48,7 +61,7 @@
       "link": "https://arthasarokar.com/2026/09/vehicular-movement-banned-on-bp-highway.html",
       "pubDate": 1790236397000,
       "category": "artha",
-      "trendingScore": 71,
+      "trendingScore": 67,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkqiDgpLAg4KSc",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -61,7 +74,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/03/Weather_Karobardaily-150x150.jpg",
       "pubDate": 1790234630000,
       "category": "artha",
-      "trendingScore": 70,
+      "trendingScore": 66,
       "breaking": true,
       "clusterId": "cluster-4KSG4KSXIOCkriDgpLbg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -73,7 +86,7 @@
       "link": "https://www.setopati.com/social/399192",
       "pubDate": 1790266071000,
       "category": "artha",
-      "trendingScore": 66,
+      "trendingScore": 62,
       "breaking": false,
       "clusterId": "cluster-4KSmIOCkquCklSDgpLgg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -86,7 +99,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/08/rastra-bank-Karobardaily-file-150x150.jpg",
       "pubDate": 1790262558000,
       "category": "artha",
-      "trendingScore": 64,
+      "trendingScore": 60,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkleCksiDgpIgg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -98,7 +111,7 @@
       "link": "https://www.setopati.com/politics/399189",
       "pubDate": 1790261263000,
       "category": "artha",
-      "trendingScore": 64,
+      "trendingScore": 60,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksCDgpLUg4KSu",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -110,8 +123,8 @@
       "link": "https://arthasarokar.com/2026/09/16-years-of-rahughat-hydropower-construction-from-failed-contract-to-test-production.html",
       "pubDate": 1790215881000,
       "category": "artha",
-      "trendingScore": 64,
-      "breaking": true,
+      "trendingScore": 60,
+      "breaking": false,
       "clusterId": "cluster-4KSwIOCkuSDgpJgg4KSf",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
     },
@@ -122,10 +135,23 @@
       "link": "https://www.setopati.com/kinmel/banking/399177",
       "pubDate": 1790258520000,
       "category": "artha",
-      "trendingScore": 63,
+      "trendingScore": 59,
       "breaking": false,
       "clusterId": "cluster-4KWt4KWoIOCkrCDgpLAg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "भारी वर्षाको जोखिम: खोटाङमा राति सवारी सञ्चालनमा रोक",
+      "description": "खोटाङ । भारी वर्षाको पूर्वानुमानलाई मध्यनजर गर्दै जिल्ला प्रशासन कार्यालयले मध्यपहाडी लोकमार्गअन्तर्र्गत चखेवाभञ्ज्याङदेखि जयरामघाट सडकखण्डमा राति सवारी आवागमन बन्द गर्न निर्देशन दिएको छ । अविरल वर्षालाई मध्यनजर गर्दै प्रशासनले जोखिम न्यूनीकरण गर्न साँझ ७ः०० देखि बिहान",
+      "link": "https://www.ratopati.com/story/594691/risk-of-heavy-rain-nighttime-vehicle-traffic-banned-in-khotang",
+      "image": "https://npcdn.ratopati.com/media/news/khotang-map_aF2zEZSUAf.jpg",
+      "pubDate": 1790278075000,
+      "category": "artha",
+      "trendingScore": 58,
+      "breaking": false,
+      "clusterId": "cluster-4KStIOCksCDgpLXgpLAg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "karobar",
@@ -135,22 +161,9 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/air-acc-150x150.png",
       "pubDate": 1790235000000,
       "category": "artha",
-      "trendingScore": 63,
+      "trendingScore": 58,
       "breaking": true,
       "clusterId": "cluster-4KScIOCkqyDgpLIg4KSP",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "प्रमुख नदीमा जलसतह बढ्ने पूर्वानुमान",
-      "description": "काठमाडौं- बिहीबारदेखि आगामी पाँच दिनसम्म मुलुकको प्रमुख नदीमा जलसतह बढ्ने पूर्वानुमान गरिएको छ । जल तथा ऊर्जा आयोगको सचिवालयअन्तर्गतको जल विज्ञान तथा जलस्रोत अनुसन्धान केन्द्र, बाढी पूर्वानुमान महाशाखाले उक्त अनुमान गरेको हो । महाशाखाका बाढीविद् सौहार्द जोशीले कोशी, नारायणी, कर्णाली, महाकालीलगायत प्रमुख नदी तथा सहायक नदीमा जलसतह उल्लेख्य बढ्ने पूर्वानुमान गर्दै उच्च सतर्कता अपनाउन आग्रह […]",
-      "link": "https://www.karobardaily.com/news/420212",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2025/07/Nuwakot-Trishuli-River-Flood_-903-150x150.jpg",
-      "pubDate": 1790232313000,
-      "category": "artha",
-      "trendingScore": 62,
-      "breaking": true,
-      "clusterId": "cluster-4KSqIOCksOCkriDgpJYg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
@@ -161,7 +174,7 @@
       "image": "https://npcdn.ratopati.com/media/news/parsa-district-map_0ZIfD6x5iq.jpg",
       "pubDate": 1790275486000,
       "category": "artha",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KSc4KSX4KSw4KSoIOCk",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -173,7 +186,7 @@
       "link": "https://arthasarokar.com/2026/09/police-report-verification-fee-for-uae-workers-to-be-reduced-by-half.html",
       "pubDate": 1790252829000,
       "category": "artha",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KSvIOCkj-CkiCDgpJwg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -185,10 +198,23 @@
       "link": "https://arthasarokar.com/2026/09/nmb-bank-collaborates-with-icimod-for-sustainable-development.html",
       "pubDate": 1790252246000,
       "category": "artha",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSo4KSP4KSu4KSs",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
+    },
+    {
+      "sourceId": "karobar",
+      "title": "प्रमुख नदीमा जलसतह बढ्ने पूर्वानुमान",
+      "description": "काठमाडौं- बिहीबारदेखि आगामी पाँच दिनसम्म मुलुकको प्रमुख नदीमा जलसतह बढ्ने पूर्वानुमान गरिएको छ । जल तथा ऊर्जा आयोगको सचिवालयअन्तर्गतको जल विज्ञान तथा जलस्रोत अनुसन्धान केन्द्र, बाढी पूर्वानुमान महाशाखाले उक्त अनुमान गरेको हो । महाशाखाका बाढीविद् सौहार्द जोशीले कोशी, नारायणी, कर्णाली, महाकालीलगायत प्रमुख नदी तथा सहायक नदीमा जलसतह उल्लेख्य बढ्ने पूर्वानुमान गर्दै उच्च सतर्कता अपनाउन आग्रह […]",
+      "link": "https://www.karobardaily.com/news/420212",
+      "image": "https://www.karobardaily.com/wp-content/uploads/2025/07/Nuwakot-Trishuli-River-Flood_-903-150x150.jpg",
+      "pubDate": 1790232313000,
+      "category": "artha",
+      "trendingScore": 57,
+      "breaking": true,
+      "clusterId": "cluster-4KSqIOCksOCkriDgpJYg",
+      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
       "sourceId": "arthasarokar",
@@ -197,7 +223,7 @@
       "link": "https://arthasarokar.com/2026/09/securities-board-of-nepal-sebon-unveils-concept-paper-to-implement-intraday-trading-in-stock-market.html",
       "pubDate": 1790250712000,
       "category": "artha",
-      "trendingScore": 60,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkr-CksCDgpKzg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -210,7 +236,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Raining_weather_BBG-150x150.jpg",
       "pubDate": 1790249934000,
       "category": "artha",
-      "trendingScore": 60,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KStIOCksCDgpLXgpLAg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -222,10 +248,23 @@
       "link": "https://arthasarokar.com/2026/09/nepal-rastra-bank-introduces-new-banknotes-of-rs-1000-denomination.html",
       "pubDate": 1790247924000,
       "category": "artha",
-      "trendingScore": 59,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "कर्णाली याक्सको ‘हेडगेयर पार्टनर’ मा पल्मबर पाइप, तीन वर्षको सम्झौता",
+      "description": "नेपाल प्रिमियर लिग (एनपिएल) को फ्रेन्चाइज टोली कर्णाली याक्सले जय बागेश्वरी रोटो माउल्डिङ इन्डस्ट्रिजको उत्पादन पल्मबर पाइपसँगको सहकार्यलाई निरन्तरता दिएको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/sports/plumber-pipe-signs-three-year-contract-as-karnali-yaks-headgear-partner-14-29.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1790268272_plumber.jpg",
+      "pubDate": 1790268308000,
+      "category": "artha",
+      "trendingScore": 54,
+      "breaking": false,
+      "clusterId": "cluster-4KSV4KSwIOCkoyDgpLIg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "onlinekhabar",
@@ -234,7 +273,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025115/anyone-who-assaults-a-healthcare-worker-will-be-immediately-arrested-and-imprisoned-for-up-to-5-years",
       "pubDate": 1790266427000,
       "category": "artha",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCktSDgpLgg4KSl",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -246,21 +285,9 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025139/banks-can-sell-their-investments-in-shares-after-45-days",
       "pubDate": 1790266195000,
       "category": "artha",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkleCkueCksCDg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "‘जलवायु मुद्दामा विश्वले आँखा चिम्लिरहे हामीले भन्दा ठूलो विनाश भोग्नेछ’",
-      "description": "नेपालको करिब ४६ प्रतिशत भूभाग वनले ढाकेको छ। नेपालमा बिक्री हुने नयाँ सवारीसाधनमध्ये ७० प्रतिशतभन्दा बढी विद्युतीय सवारीसाधन छन्। हाम्रो ऊर्जाको ९० प्रतिशतभन्दा बढी हिस्सा जलविद्युत्‌बाट आउँछ। तर पनि हामी असर भोगिरहेका छौं ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2025176/the-world-will-suffer-a-greater-disaster-than-we-do-if-it-continues-to-turn-a-blind-eye-to-climate-change",
-      "pubDate": 1790265672000,
-      "category": "artha",
-      "trendingScore": 58,
-      "breaking": false,
-      "clusterId": "cluster-4KSc4KSy4KS1IOCkryDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
@@ -271,7 +298,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/newskarkahna-news927060..webp",
       "pubDate": 1790244704000,
       "category": "artha",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSmIOCkuSDgpLAg4KSF",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -284,10 +311,22 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/04/Share_lagani-150x150.jpg",
       "pubDate": 1790243650000,
       "category": "artha",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KWn4KWnIOCkhSDgpJXg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "‘जलवायु मुद्दामा विश्वले आँखा चिम्लिरहे हामीले भन्दा ठूलो विनाश भोग्नेछ’",
+      "description": "नेपालको करिब ४६ प्रतिशत भूभाग वनले ढाकेको छ। नेपालमा बिक्री हुने नयाँ सवारीसाधनमध्ये ७० प्रतिशतभन्दा बढी विद्युतीय सवारीसाधन छन्। हाम्रो ऊर्जाको ९० प्रतिशतभन्दा बढी हिस्सा जलविद्युत्‌बाट आउँछ। तर पनि हामी असर भोगिरहेका छौं ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2025176/the-world-will-suffer-a-greater-disaster-than-we-do-if-it-continues-to-turn-a-blind-eye-to-climate-change",
+      "pubDate": 1790265672000,
+      "category": "artha",
+      "trendingScore": 53,
+      "breaking": false,
+      "clusterId": "cluster-4KSc4KSy4KS1IOCkryDg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "onlinekhabar",
@@ -296,7 +335,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025235/trump-xi-high-level-talks-discussions-range-from-trade-relations-to-panda-donations",
       "pubDate": 1790263451000,
       "category": "artha",
-      "trendingScore": 57,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSfIOCksOCkriDgpKog",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -308,10 +347,23 @@
       "link": "https://arthasarokar.com/2026/09/nepse-index-increased-by-11-77-points-to-close-at-2629-81-points-on-thursday.html",
       "pubDate": 1790242718000,
       "category": "artha",
-      "trendingScore": 57,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkuSDgpKwg4KSw",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "वर्षाको जोखिम बढेपछि स्थानीय तह ‘हाई अलर्ट’मा, कर्मचारीलाई बिदा नबस्न मन्त्रालयको निर्देशन",
+      "description": "पत्रमार्फत उक्त अवधिमा स्थानीय तहमा कार्यरत कर्मचारीलाई बिदामा नबस्न तथा प्रमुख प्रशासकीय अधिकृतहरूलाई मन्त्रालयसँग नियमित सम्पर्कमा रहन आग्रह गरिएको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/local-levels-on-high-alert-as-risk-of-rain-increases-ministry-directs-employees-not-to-take-leave-31-12.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1790261756_Pani.jpg",
+      "pubDate": 1790261788000,
+      "category": "artha",
+      "trendingScore": 52,
+      "breaking": false,
+      "clusterId": "cluster-4KS14KSwIOCktyDgpJUg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "arthasarokar",
@@ -320,10 +372,35 @@
       "link": "https://arthasarokar.com/2026/09/man-arrested-with-gold-at-tribhuvan-international-airport.html",
       "pubDate": 1790238162000,
       "category": "artha",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSG4KSnIOCklSDgpLIg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "२४ घण्टामा पोखरामा ९५ र ओखलढुङ्गामा ८४ मिलिमिटर वर्षा: कुन ठाउँमा कति पानी पर्‍यो ?",
+      "description": "पछिल्लो २४ घण्टामा देशका प्रमुख मौसम मापन केन्द्रहरूमध्ये पोखरामा सबैभन्दा धेरै ९५.२ मिलिमिटर वर्षा रेकर्ड भएको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/95-mm-of-rain-in-pokhara-and-84-mm-in-okhaldhunga-in-24-hours-how-much-rain-fell-in-which-places-92-70.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1784268563_rain.jpg",
+      "pubDate": 1790258833000,
+      "category": "artha",
+      "trendingScore": 51,
+      "breaking": false,
+      "clusterId": "cluster-4KWo4KWqIOCkmOCkoyDg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "बैंकहरूले यो वर्ष पनि अतिरिक्त पूँजी व्यवस्था गर्नु नपर्ने",
+      "description": "राष्ट्र बैंकले चालु आवदेखि लागु गर्ने भनेको ‘काउन्टर साइक्लिकल बफर क्यापिटल’ को व्यवस्था चालु आवका लागि स्थागित गरेको हो ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2025177/banks-will-not-have-to-provide-additional-capital-this-year-either",
+      "pubDate": 1790257569000,
+      "category": "artha",
+      "trendingScore": 51,
+      "breaking": false,
+      "clusterId": "cluster-4KSsIOCkleCkueCksCDg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "karobar",
@@ -333,22 +410,10 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/08/sadak-hilamme-150x150.png",
       "pubDate": 1790237559000,
       "category": "artha",
-      "trendingScore": 56,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCkmiDgpLAg4KSc",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "बैंकहरूले यो वर्ष पनि अतिरिक्त पूँजी व्यवस्था गर्नु नपर्ने",
-      "description": "राष्ट्र बैंकले चालु आवदेखि लागु गर्ने भनेको ‘काउन्टर साइक्लिकल बफर क्यापिटल’ को व्यवस्था चालु आवका लागि स्थागित गरेको हो ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2025177/banks-will-not-have-to-provide-additional-capital-this-year-either",
-      "pubDate": 1790257569000,
-      "category": "artha",
-      "trendingScore": 55,
-      "breaking": false,
-      "clusterId": "cluster-4KSsIOCkleCkueCksCDg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "arthasarokar",
@@ -357,21 +422,9 @@
       "link": "https://arthasarokar.com/2026/09/esewa-and-citizens-bank-launch-self-reliant-loan-for-differently-abled-people.html",
       "pubDate": 1790236037000,
       "category": "artha",
-      "trendingScore": 55,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSH4KS4IOCktSDgpLAg",
-      "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "arthasarokar",
-      "title": "सिबिफिन अध्यक्ष उपाध्यायले भने- ‘बैंकिङ क्षेत्र अर्थतन्त्रको मुटु हो, होसियारीपूर्वक चलाउनुपर्छ’",
-      "description": "काठमाडौँ । बैंक तथा वित्तीय संस्था परिसंघ नेपाल (सिबिफिन)का अध्यक्ष राजेश उपाध्यायले बैंकिङ क्षेत्र अर्थतन्त्रको मुटु भएकोले यसलाई संवेदनशील र होसियारीपूर्वक संरक्षण गर्नुपर्ने बताएका छन् । काठमाडौँमा आयोजित पत्रकार अन्तरक्रिया कार्यक्रममा बोल्दै अध्यक्ष उपाध्यायले यस्तो बताएका हुन् । उनले देशमा व्याप्त आर्थिक मन्दी, लगानीको प्रतिकुल वातावरण, व्यवसायीहरुको खस्कँदो मनोबल र सरकारका निरन्तर नियन्त्रणमुखी निर्णयकाबीच वित्तीय Continue reading \"सिबिफिन अध्यक्ष उपाध्यायले भने- ‘बैंकिङ क्षेत्र अर्थतन्त्रको मुटु हो, होसियारीपूर्वक चलाउनुपर्छ’\"",
-      "link": "https://arthasarokar.com/2026/09/banking-sector-is-the-heart-of-the-economy-should-be-run-carefully-says-cbfin-chairman-upadhyay.html",
-      "pubDate": 1790235021000,
-      "category": "artha",
-      "trendingScore": 55,
-      "breaking": false,
-      "clusterId": "cluster-4KS4IOCkrCDgpKsg4KSo",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
     },
     {
@@ -381,7 +434,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025168/implementation-of-the-meat-inspection-act-small-business-owners-should-not-be-displaced",
       "pubDate": 1790256942000,
       "category": "artha",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCkuCDgpJwg4KSa",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -393,7 +446,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025165/arrested-on-charges-of-hundi-transactions-worth-over-one-billion",
       "pubDate": 1790256814000,
       "category": "artha",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSVIOCkheCksCDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -405,10 +458,22 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025135/nighttime-vehicle-operation-banned-in-10-districts-of-karnali",
       "pubDate": 1790256487000,
       "category": "artha",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSV4KSwIOCkoyDgpLIg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "arthasarokar",
+      "title": "सिबिफिन अध्यक्ष उपाध्यायले भने- ‘बैंकिङ क्षेत्र अर्थतन्त्रको मुटु हो, होसियारीपूर्वक चलाउनुपर्छ’",
+      "description": "काठमाडौँ । बैंक तथा वित्तीय संस्था परिसंघ नेपाल (सिबिफिन)का अध्यक्ष राजेश उपाध्यायले बैंकिङ क्षेत्र अर्थतन्त्रको मुटु भएकोले यसलाई संवेदनशील र होसियारीपूर्वक संरक्षण गर्नुपर्ने बताएका छन् । काठमाडौँमा आयोजित पत्रकार अन्तरक्रिया कार्यक्रममा बोल्दै अध्यक्ष उपाध्यायले यस्तो बताएका हुन् । उनले देशमा व्याप्त आर्थिक मन्दी, लगानीको प्रतिकुल वातावरण, व्यवसायीहरुको खस्कँदो मनोबल र सरकारका निरन्तर नियन्त्रणमुखी निर्णयकाबीच वित्तीय Continue reading \"सिबिफिन अध्यक्ष उपाध्यायले भने- ‘बैंकिङ क्षेत्र अर्थतन्त्रको मुटु हो, होसियारीपूर्वक चलाउनुपर्छ’\"",
+      "link": "https://arthasarokar.com/2026/09/banking-sector-is-the-heart-of-the-economy-should-be-run-carefully-says-cbfin-chairman-upadhyay.html",
+      "pubDate": 1790235021000,
+      "category": "artha",
+      "trendingScore": 50,
+      "breaking": false,
+      "clusterId": "cluster-4KS4IOCkrCDgpKsg4KSo",
+      "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
     },
     {
       "sourceId": "ujyaalo",
@@ -417,7 +482,7 @@
       "link": "https://www.ujyaaloonline.com/detail/131884",
       "pubDate": 1790251980000,
       "category": "artha",
-      "trendingScore": 53,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSuIOCknOCkqOCk",
       "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
@@ -430,22 +495,9 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/prime-commercial-150x150.jpg",
       "pubDate": 1790229841000,
       "category": "artha",
-      "trendingScore": 53,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksCDgpIfgpK4g",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "दाङमा कृषि विकासका लागि पाँच करोड ९६ लाख बजेट",
-      "description": "दाङ– दाङमा चालु आर्थिक वर्ष २०८३/८४ मा कृषि विकासतर्फ पाँच करोड ९६ लाख २८ हजार रुपैयाँ बजेट विनियोजन गरिएको छ । कृषि उत्पादन वृद्धि, प्रविधिको विस्तार, बजारीकरण तथा कृषकको आयआर्जन बढाउने उद्देश्यसहित कृषि ज्ञान केन्द्र दाङमार्फत् यो रकम खर्च गरिने भएको हो । केन्द्रमार्फत सञ्चालन हुने विभिन्न कृषि विकास, उत्पादन प्रवर्धन, प्राविधिक सेवा तथा लक्षित […]",
-      "link": "https://www.karobardaily.com/news/420156",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/dang-150x150.jpg",
-      "pubDate": 1790229385000,
-      "category": "artha",
-      "trendingScore": 53,
-      "breaking": false,
-      "clusterId": "cluster-4KSmIOCkmeCkriDgpJUg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
@@ -455,10 +507,23 @@
       "link": "https://www.ujyaaloonline.com/detail/131883",
       "pubDate": 1790250000000,
       "category": "artha",
-      "trendingScore": 52,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkleCkn-CksiDg",
       "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
+    },
+    {
+      "sourceId": "karobar",
+      "title": "दाङमा कृषि विकासका लागि पाँच करोड ९६ लाख बजेट",
+      "description": "दाङ– दाङमा चालु आर्थिक वर्ष २०८३/८४ मा कृषि विकासतर्फ पाँच करोड ९६ लाख २८ हजार रुपैयाँ बजेट विनियोजन गरिएको छ । कृषि उत्पादन वृद्धि, प्रविधिको विस्तार, बजारीकरण तथा कृषकको आयआर्जन बढाउने उद्देश्यसहित कृषि ज्ञान केन्द्र दाङमार्फत् यो रकम खर्च गरिने भएको हो । केन्द्रमार्फत सञ्चालन हुने विभिन्न कृषि विकास, उत्पादन प्रवर्धन, प्राविधिक सेवा तथा लक्षित […]",
+      "link": "https://www.karobardaily.com/news/420156",
+      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/dang-150x150.jpg",
+      "pubDate": 1790229385000,
+      "category": "artha",
+      "trendingScore": 48,
+      "breaking": false,
+      "clusterId": "cluster-4KSmIOCkmeCkriDgpJUg",
+      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
       "sourceId": "karobar",
@@ -468,7 +533,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/sadak-bistar-150x150.jpeg",
       "pubDate": 1790228844000,
       "category": "artha",
-      "trendingScore": 52,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KS44KSuIOCknSDgpKQg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -480,7 +545,7 @@
       "link": "https://arthasarokar.com/2026/09/gold-price-down-by-rs-3200-per-tola.html",
       "pubDate": 1790228188000,
       "category": "artha",
-      "trendingScore": 52,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkqOCklSDgpK4g",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -493,10 +558,22 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/06/Gold_Silver_sunchandi_karobardaily_BBG-150x150.jpg",
       "pubDate": 1790227766000,
       "category": "artha",
-      "trendingScore": 52,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KWp4KWoIOCkuOCkryDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "ujyaalo",
+      "title": "नेप्से बढ्याे, काराेबार रकम घट्याे",
+      "description": "हिजो घटेको शेयर बजार आज बढेको छ । आज निर्जीवन बीमा बाहेक सबै समूहको उपसूचक बढेको छ ।",
+      "link": "https://www.ujyaaloonline.com/detail/131881",
+      "pubDate": 1790246827000,
+      "category": "artha",
+      "trendingScore": 47,
+      "breaking": false,
+      "clusterId": "cluster-4KSoIOCkqiDgpLgg4KSs",
+      "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
     },
     {
       "sourceId": "karobar",
@@ -506,7 +583,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/pic-1-150x150.jpg",
       "pubDate": 1790226795000,
       "category": "artha",
-      "trendingScore": 52,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCknCDgpLgg4KSu",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -519,22 +596,10 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/11/dollar_karobar_BBG-150x150.jpg",
       "pubDate": 1790226695000,
       "category": "artha",
-      "trendingScore": 52,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSv4KS4IOCkpCDgpJsg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "ujyaalo",
-      "title": "नेप्से बढ्याे, काराेबार रकम घट्याे",
-      "description": "हिजो घटेको शेयर बजार आज बढेको छ । आज निर्जीवन बीमा बाहेक सबै समूहको उपसूचक बढेको छ ।",
-      "link": "https://www.ujyaaloonline.com/detail/131881",
-      "pubDate": 1790246827000,
-      "category": "artha",
-      "trendingScore": 51,
-      "breaking": false,
-      "clusterId": "cluster-4KSoIOCkqiDgpLgg4KSs",
-      "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
     },
     {
       "sourceId": "karobar",
@@ -544,7 +609,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2023/01/Rin-loan-150x150.jpg",
       "pubDate": 1790222392000,
       "category": "artha",
-      "trendingScore": 50,
+      "trendingScore": 46,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCkqCDgpangpaYg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -556,7 +621,7 @@
       "link": "https://arthasarokar.com/2026/09/turkeys-fuel-prices-have-hit-a-record-putting-pressure-on-the-economy-from-the-kitchen.html",
       "pubDate": 1790222384000,
       "category": "artha",
-      "trendingScore": 50,
+      "trendingScore": 46,
       "breaking": false,
       "clusterId": "cluster-4KSf4KSwIOCklSDgpK4g",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -568,7 +633,7 @@
       "link": "https://arthasarokar.com/2026/09/bank-credit-increased-by-rs-61-billion-in-2-months-while-investment-of-7-banks-including-himalayan-bank-decreased.html",
       "pubDate": 1790219878000,
       "category": "artha",
-      "trendingScore": 49,
+      "trendingScore": 45,
       "breaking": false,
       "clusterId": "cluster-4KWoIOCkruCkuSDgpKgg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -580,7 +645,7 @@
       "link": "https://arthasarokar.com/2026/09/11134-industries-registered-in-tanahun-alone-343-industries-added-in-one-year.html",
       "pubDate": 1790217052000,
       "category": "artha",
-      "trendingScore": 48,
+      "trendingScore": 44,
       "breaking": false,
       "clusterId": "cluster-4KSk4KSo4KS5IOCkriDg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -593,7 +658,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2022/01/dalal-pujibad-samajbad-copy-150x150.jpg",
       "pubDate": 1790214326000,
       "category": "artha",
-      "trendingScore": 47,
+      "trendingScore": 43,
       "breaking": false,
       "clusterId": "cluster-4KS44KSw4KSVIOCksCDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -606,36 +671,10 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/kantimarga_-150x150.jpg",
       "pubDate": 1790163391000,
       "category": "artha",
-      "trendingScore": 45,
+      "trendingScore": 41,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCkqCDgpKQg4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "३२ सयले घट्यो सुन, चाँदी पनि सस्तियो",
-      "description": "आज सुन प्रतितोला तीन हजार दुई सय रूपैयाँ घटेको नेपाल सुनचाँदी व्यवसायी महासंघले जनाएको छ।",
-      "link": "https://nagariknews.nagariknetwork.com/Bazar/gold-falls-by-3200-silver-also-becomes-cheaper-br-56-51.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1781067774_1749361032_gold-1200x560.jpg",
-      "pubDate": 1790228684000,
-      "category": "artha",
-      "trendingScore": 44,
-      "breaking": false,
-      "clusterId": "cluster-4KWp4KWoIOCkuOCkr-Ck",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "आजका लागि तोकियो विदेशी मुद्राको विनिमयदर",
-      "description": "नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ।",
-      "link": "https://nagariknews.nagariknetwork.com/Bazar/foreign-currency-exchange-rates-set-for-today-45-68.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1775521941_Dollar.jpg",
-      "pubDate": 1790210148000,
-      "category": "artha",
-      "trendingScore": 38,
-      "breaking": false,
-      "clusterId": "cluster-4KSG4KSc4KSVIOCksiDg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "karobar",
@@ -645,7 +684,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/04/trade-150x150.jpg",
       "pubDate": 1790182876000,
       "category": "artha",
-      "trendingScore": 36,
+      "trendingScore": 32,
       "breaking": false,
       "clusterId": "cluster-4KWoIOCkruCkuSDgpKgg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -658,7 +697,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/gita-chaudhari_pratinidhisabha-150x150.jpg",
       "pubDate": 1790163071000,
       "category": "artha",
-      "trendingScore": 29,
+      "trendingScore": 25,
       "breaking": false,
       "clusterId": "cluster-4KS44KSZIOCklSDgpLAg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -671,7 +710,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2023/10/IMF_mudra-kosh-150x150.jpg",
       "pubDate": 1790161342000,
       "category": "artha",
-      "trendingScore": 28,
+      "trendingScore": 24,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSyIOCkqCDgpKgg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -684,7 +723,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/02/Share-Market-downturn-nepal_20180701103338_0veAfSxewF_4Zu2ktZcEG-150x150.jpg",
       "pubDate": 1790156890000,
       "category": "artha",
-      "trendingScore": 27,
+      "trendingScore": 22,
       "breaking": false,
       "clusterId": "cluster-4KWp4KWsIOCkhSDgpJXg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -697,7 +736,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Star-Rating-Photo-150x150.jpeg",
       "pubDate": 1790149131000,
       "category": "artha",
-      "trendingScore": 24,
+      "trendingScore": 20,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCkr-CksiDgpJ8g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -710,7 +749,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/siddhartha-bank-150x150.jpg",
       "pubDate": 1790143835000,
       "category": "artha",
-      "trendingScore": 22,
+      "trendingScore": 18,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkpiDgpKcg4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -729,19 +768,6 @@
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
     },
     {
-      "sourceId": "nagarik",
-      "title": "आज सुन १०० रुपैयाँले बढ्यो",
-      "description": "त्यस्तै, मंगलबार प्रतितोला चार हजार ७७५ रुपैयाँ रहेको चाँदीको मूल्य बुधबार ४० रुपैयाँले बढेर चार हजार ८१५ रुपैयाँ पुगेको महासंघले जानकारी दिएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/Bazar/gold-rose-by-rs-100-today-23-45.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1764479330_Gold%20.jpg",
-      "pubDate": 1790139640000,
-      "category": "artha",
-      "trendingScore": 12,
-      "breaking": false,
-      "clusterId": "cluster-4KSG4KScIOCkuCDgpKgg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
       "sourceId": "bbcnepali",
       "title": "शेअर बजारको कारोबार नै बन्द हुने साइबर हमलाले देखाएको जोखिम कस्तो हो",
       "description": "नेपालमा शेअर बजारमा जोडिन आएका लगानीकर्ताहरूको सङ्ख्या करिब ४५ लाख रहे पनि दैनिक सक्रिय रूपमा कारोबार गर्नेहरूको सङ्ख्या भने ४० देखि ४५ हजार रहेको बताइन्छ।",
@@ -753,136 +779,6 @@
       "breaking": false,
       "clusterId": "cluster-4KS2IOCkheCksCDgpKzg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "मंगलबार सुनचाँदीको मूल्य घट्यो",
-      "description": "नेपाल सुनचाँदी व्यवसायी महासंघका अनुसार सोमबार प्रतितोला तीन लाख तीन हजार ९०० रुपैयाँमा कारोबार भएको सुनको मूल्य मंगलबार तीन लाख दुई हजार २०० रुपैयाँ कायम भएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/Bazar/gold-and-silver-prices-fell-on-tuesday-12-56.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1781067774_1749361032_gold-1200x560.jpg",
-      "pubDate": 1790053566000,
-      "category": "artha",
-      "trendingScore": 0,
-      "breaking": false,
-      "clusterId": "cluster-4KSuIOCkl-CksuCkrCDg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "शेयर कारोबार पुनः सञ्चालन",
-      "description": "नेपाल स्टक एक्सचेन्ज (नेप्से) का ७२ कारोबार सदस्यको डाटा सेन्टरमा देखिएको प्राविधिक समस्या समाधान भएपछि नेप्सेमा आजदेखि नियमित धितोपत्र कारोबार सञ्चालन हुने भएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/Bazar/resumption-of-share-trading-73-98.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1757476590_Nepse%2045.jpg",
-      "pubDate": 1790050603000,
-      "category": "artha",
-      "trendingScore": 0,
-      "breaking": false,
-      "clusterId": "cluster-4KS2IOCkr-CksCDgpJUg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "नेपालगन्जको तरकारी बजार पहाडको उत्पादनले धान्दै",
-      "description": "नेपालगन्जस्थित प्रसिद्ध रानी तलाउ तरकारी बजारमा बिक्री हुने तरकारी अहिले नेपालकै पहाडी जिल्लाबाट आयात हुने गरेको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/Bazar/nepalgunj-s-vegetable-market-is-being-supported-by-mountain-produce-64-40.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1790040557_Rani%20Tarkari.jpg",
-      "pubDate": 1790040569000,
-      "category": "artha",
-      "trendingScore": 0,
-      "breaking": false,
-      "clusterId": "cluster-4KSoIOCkqiDgpLLgpJfg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "डाटा सेन्टरमा समस्या आएपछि आजको सेयर कारोबार स्थगित",
-      "description": "सोमबार नेपाल स्टक एक्सचेन्ज (नेप्से)को नियमित कारोबार स्थगित भएको छ।",
-      "link": "https://nagariknews.nagariknetwork.com/Bazar/today-s-share-trading-suspended-due-to-data-center-problem-br-54-22.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1742373473_Nepse.jpg",
-      "pubDate": 1789970791000,
-      "category": "artha",
-      "trendingScore": 0,
-      "breaking": false,
-      "clusterId": "cluster-4KShIOCknyDgpLgg4KSo",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "१३ सयले घट्यो सुन, कतिमा हुँदैछ कारोबार ?",
-      "description": "आज सुन प्रतितोला १ हजार ३ सय रुपैयाँले घटेको नेपाल सुनचाँदी व्यवसायी महासंघले जनाएको छ।",
-      "link": "https://nagariknews.nagariknetwork.com/Bazar/gold-fell-by-1300-what-is-the-trading-price-24-10.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1763961599_Gold%20Price.jpg",
-      "pubDate": 1789968811000,
-      "category": "artha",
-      "trendingScore": 0,
-      "breaking": false,
-      "clusterId": "cluster-4KWn4KWpIOCkuOCkr-Ck",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "आज यस्तो विदेशी मुद्राको विनिमयदर",
-      "description": "राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५३ रुपैयाँ १० पैसा र बिक्रीदर १५३ रुपैयाँ ७० पैसा निर्धारण गरिएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/Bazar/today-s-foreign-exchange-rate-27-72.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1767400190_Dollar.jpg",
-      "pubDate": 1789950813000,
-      "category": "artha",
-      "trendingScore": 0,
-      "breaking": false,
-      "clusterId": "cluster-4KSG4KScIOCkr-CkuCDg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "नयाँ टियागो ईभीको विशेष अफर, जोडी–फुल्ली ईभीमा आकर्षक अफर",
-      "description": "ग्राहकले आफ्नो पुरानो गाडी एक्सचेन्ज गर्दा बेस्ट एक्सचेन्ज भ्यालुएसनको सुविधा पाउनेछन्, जसले नयाँ विद्युतीय गाडीमा अपग्रेड गर्ने प्रक्रियालाई अझ सहज र आकर्षक बनाउनेछ।...",
-      "link": "https://nagariknews.nagariknetwork.com/Bazar/special-offer-on-new-tiago-ev-attractive-offer-on-jodi-fully-ev-28-62.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1789911662_Tiago-ev1.jpg",
-      "pubDate": 1789911704000,
-      "category": "artha",
-      "trendingScore": 0,
-      "breaking": false,
-      "clusterId": "cluster-4KSo4KSvIOCknyDgpK8g",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "सुन–चाँदीको मूल्य बढ्यो, कतिमा हुँदैछ कारोबार ?",
-      "description": "नेपाली सुनचाँदी बजारमा आइतबार सुन र चाँदी दुबैको मूल्य बढेको छ।",
-      "link": "https://nagariknews.nagariknetwork.com/Bazar/gold-and-silver-prices-have-increased-how-much-are-they-being-traded-br-40-17.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1740893392_Gold%20New.jpg",
-      "pubDate": 1789881600000,
-      "category": "artha",
-      "trendingScore": 0,
-      "breaking": false,
-      "clusterId": "cluster-4KS4IOCkqCDgpJog4KSm",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "सुनको मूल्य तीन हजार ६०० रुपैयाँले बढ्यो",
-      "description": "बिहीबार प्रतितोला चार हजार ६२५ रुपैयाँ रहेको चाँदीको मूल्य शुक्रबार १५० रुपैयाँले बढेर चार हजार ७७५ रुपैयाँ कायम भएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/Bazar/gold-price-increases-by-rs-3-600-99-67.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1781067774_1749361032_gold-1200x560.jpg",
-      "pubDate": 1789707605000,
-      "category": "artha",
-      "trendingScore": 0,
-      "breaking": false,
-      "clusterId": "cluster-4KS4IOCkqOCklSDgpK4g",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "विदेशी मुद्राको विनिमयदर निर्धारण",
-      "description": "राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५३ रुपैयाँ २० पैसा र बिक्रीदर १५३ रुपैयाँ ८० पैसा निर्धारण गरिएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/Bazar/determination-of-foreign-exchange-rates-44-21.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1775521941_Dollar.jpg",
-      "pubDate": 1789690959000,
-      "category": "artha",
-      "trendingScore": 0,
-      "breaking": false,
-      "clusterId": "cluster-4KS1IOCkpiDgpLYg4KSu",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     }
   ]
 }
