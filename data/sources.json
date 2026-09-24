@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T10:29:46.302Z",
+  "generatedAt": "2026-09-24T15:27:48.035Z",
   "sources": [
     {
       "id": "onlinekhabar",
@@ -8,8 +8,9 @@
       "feed": "https://www.onlinekhabar.com/feed",
       "category": "taja",
       "tag": "OK",
-      "ok": true,
-      "count": 40
+      "ok": false,
+      "count": 0,
+      "error": "This operation was aborted"
     },
     {
       "id": "ratopati",
@@ -28,9 +29,8 @@
       "feed": "https://nagariknews.nagariknetwork.com/feed",
       "category": "taja",
       "tag": "NG",
-      "ok": false,
-      "count": 0,
-      "error": "No articles parsed"
+      "ok": true,
+      "count": 5
     },
     {
       "id": "ujyaalo",
@@ -72,7 +72,7 @@
       "tag": "GP",
       "ok": false,
       "count": 0,
-      "error": "This operation was aborted"
+      "error": "HTTP 404"
     },
     {
       "id": "arthasarokar",
@@ -146,7 +146,7 @@
       "category": "bidesh",
       "tag": "BBC",
       "ok": true,
-      "count": 18
+      "count": 17
     },
     {
       "id": "rajdhani",

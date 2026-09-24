@@ -1,32 +1,7 @@
 {
-  "generatedAt": "2026-09-24T10:29:46.302Z",
+  "generatedAt": "2026-09-24T15:27:48.035Z",
   "category": "manoranjan",
   "articles": [
-    {
-      "sourceId": "ratopati",
-      "title": "चलिचित्र विकास बोर्ड अध्यक्षमा १२ जनाको आवेदन, छनोट समितिको बैठक बस्दै",
-      "description": "काठमाडौँ । चलचित्र विकास बोर्डको रिक्त अध्यक्ष पदका लागि १२ जनाको आवेदन परेको छ । सञ्चार तथा सूचना प्रविधि मन्त्रालयले केही दिन अघि बोड अध्यक्षका लागि आवेदन मागेको थियो । मन्त्रालयले तोकेको असोज ७ गते बुधबारसम्मको",
-      "link": "https://www.ratopati.com/story/594541/12-people-apply-for-film-development-board-chairmanship-selection-committee-meeting-underway",
-      "image": "https://npcdn.ratopati.com/media/news/film-development-board_uWhvcADrkn.webp",
-      "pubDate": 1790240729000,
-      "category": "manoranjan",
-      "trendingScore": 60,
-      "breaking": false,
-      "clusterId": "cluster-4KSa4KSyIOCkmiDgpKQg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "दशैं-तिहारमा प्रदर्शन हुँदैछन् ११ नेपाली फिल्म, कुन मितिमा कुन ?",
-      "description": "काठमाडौं । दशैं-तिहार नेपाली फिल्मका लागि व्यावसायिक रूपमा महत्त्वपूर्ण समय मानिन्छ । लामो बिदा र चाडपर्वको माहोललाई लक्षित गर्दै यो याममा ठूला बजेट र चर्चित कलाकारका फिल्मबीच बक्सअफिसमा प्रतिस्पर्धा हुने गर्छ । पछिल्ला केही वर्षको प्रवृत्ति हेर्दा चाडपर्वमा केही निर्माताका फिल्म प्रदर्शन हुनु नियमितजस्तै बनेको छ । लामो बिदा, उत्सवको माहोल र मनोरञ्जनमा खर्च गर्ने […]",
-      "link": "https://www.onlinekhabar.com/2026/09/2024787/11-nepali-films-are-being-released-during-dashain-tihar-which-ones-on-which-dates",
-      "pubDate": 1790239034000,
-      "category": "manoranjan",
-      "trendingScore": 60,
-      "breaking": false,
-      "clusterId": "cluster-4KSm4KS2IOCkpCDgpLkg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
     {
       "sourceId": "arthasarokar",
       "title": "सञ्चारकर्मी आचार्य अभिनित म्युजिक भिडियो ‘दशैँको माहोल’ सार्वजनिक",
@@ -34,22 +9,10 @@
       "link": "https://arthasarokar.com/2026/09/journalist-acharyas-music-video-dashainko-mahol-released.html",
       "pubDate": 1790219114000,
       "category": "manoranjan",
-      "trendingScore": 60,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KS44KSeIOCkmiDgpLDg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "बेलडाँगीमा बितेको बाल्यकाल, अमेरिकामा बनेको पहिचान",
-      "description": "जीवनको सुरुवात नै संघर्षबाट भयो । जन्मभूमि छाड्नुपर्‍यो । परिवारसहित नेपाल आएर शरणार्थी शिविरको कठिन जीवन बिताउनुपर्‍यो । अभाव, पीडा र अनिश्चितताबीच हुर्किएका राजेश अर्यालले सायद त्यतिबेला सोचेका पनि थिएनन्– एक दिन यही संघर्षले उनलाई समुद्रपारि अमेरिकासम्म पुर्‍याउनेछ । आज उनी अमेरिकाको पेन्सिलभेनियास्थित ह्यारिसबर्गमा आफ्नै व्यवसाय सञ्चालन गरिरहेका छन् । नेपाली गीत–संगीतमा सक्रिय छन् । […]",
-      "link": "https://www.onlinekhabar.com/2026/09/2024729/a-childhood-spent-in-beldangi-an-identity-formed-in-america",
-      "pubDate": 1790237036000,
-      "category": "manoranjan",
-      "trendingScore": 59,
-      "breaking": false,
-      "clusterId": "cluster-4KSsIOCksuCkoSDgpJcg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     }
   ]
 }

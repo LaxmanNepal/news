@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T10:29:46.302Z",
+  "generatedAt": "2026-09-24T15:27:48.035Z",
   "category": "prabidhi",
   "articles": [
     {
@@ -10,7 +10,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/betrawati_s-150x150.png",
       "pubDate": 1790245729000,
       "category": "prabidhi",
-      "trendingScore": 78,
+      "trendingScore": 72,
       "breaking": true,
       "clusterId": "cluster-4KSn4KSuIOCkp-CkriDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -21,60 +21,11 @@
       "title": "नेपालमा डिजिटल भुक्तानीको प्रयोग तीव्र गतिमा बढ्दै",
       "description": "मोबाइल वालेट र क्यूआर भुक्तानीले साना व्यापारीसम्म पहुँच बढाएको छ।",
       "link": "https://techmandu.com",
-      "pubDate": 1790245786302,
+      "pubDate": 1790263668035,
       "fromSnapshot": true,
       "category": "prabidhi",
       "trendingScore": 70,
       "breaking": false
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "धमाधम खोलिँदै बेत्रावती जोड्ने अस्थायी ट्रयाक (तस्बिरहरू)",
-      "description": "रसुवा । रसुवाको भोटेकोशीमा गत भदौ १० मा आएको बाढीले पछिल्लो २८ दिनदेखि नुवाकोट र रसुवाको सिधा सम्पर्कविच्छेद छ । रसुवागढी नाकासम्म सडक सुचारु गर्ने उद्देश्यले पहिलो चरणमा नुवाकोटको विदुरदेखि बेत्रावतीसम्म जोड्ने सडक खुलाउने काम अन्तिम",
-      "link": "https://www.ratopati.com/story/594565/temporary-track-connecting-betravati-is-being-opened-in-full-swing-photos",
-      "image": "https://npcdn.ratopati.com/media/news/betrawati_qD6XpRDvGc.webp",
-      "pubDate": 1790244538000,
-      "category": "prabidhi",
-      "trendingScore": 70,
-      "breaking": true,
-      "clusterId": "cluster-4KSn4KSuIOCkp-CkriDg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "setopati",
-      "title": "क्लासिक टेकले ल्यायो दसैं अफर",
-      "description": "",
-      "link": "https://www.setopati.com/kinmel/information-technology/399148",
-      "pubDate": 1790244311000,
-      "category": "prabidhi",
-      "trendingScore": 69,
-      "breaking": false,
-      "clusterId": "cluster-4KSVIOCksiDgpLgg4KSV",
-      "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "शल्यक्रियापछि मैदान फर्किएर म्याच विनिङ प्रदर्शन गरेका विल ज्याक्स",
-      "description": "८ असोज, काठमाडौं । इंग्ल्यान्डका अलराउन्डर विल ज्याक्सले गत महिना आफ्नी आमाको ६०औं जन्मदिन मनाउन एडिनबर्ग जाने योजना बनाएका थिए । तर सामान्य पेटको समस्या ठानेको स्वास्थ्य समस्या एपेन्डिसाइटिस भएको खुलेपछि उनको योजना एकाएक अस्पतालको आकस्मिक कक्षतर्फ मोडियो । २७ वर्षीय ज्याक्सलाई तत्काल रोयल इन्फर्मरी अफ एडिनबर्ग लगियो र आकस्मिक शल्यक्रिया गरियो । ‘एक्कासि धेरै […]",
-      "link": "https://www.onlinekhabar.com/2026/09/2024560/will-jacks-returns-to-the-field-after-surgery-with-match-winning-performance",
-      "pubDate": 1790238263000,
-      "category": "prabidhi",
-      "trendingScore": 67,
-      "breaking": true,
-      "clusterId": "cluster-4KS24KSyIOCkr-CklSDg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "कान्ति लोकपथ खुल्यो",
-      "description": "काल्चे माल्टा बाटोमा पहिरो गएपछि बन्द भएको बाटो सञ्चालनमा आएको प्रहरीले बताएको छ ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2024770/kanti-lokpath-opened",
-      "pubDate": 1790237282000,
-      "category": "prabidhi",
-      "trendingScore": 67,
-      "breaking": true,
-      "clusterId": "cluster-4KSVIOCkqCDgpKQg4KSy",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "bbcnepali",
@@ -84,47 +35,10 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7e94/live/1be3ad40-b718-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1790212821000,
       "category": "prabidhi",
-      "trendingScore": 66,
+      "trendingScore": 60,
       "breaking": true,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
-    },
-    {
-      "sourceId": "ujyaalo",
-      "title": "पृथ्वी राजमार्गमा आज रातिदेखि भोलि बिहानसम्म गाडी चलाउन राेक",
-      "description": "धादिङ र आसपासका क्षेत्रमा ठूलाे वर्षाको सम्भावना देखाएपछि जिल्ला प्रशासन कार्यालयले रात्रिकालीन गाडी आवागमनमा रोक लगाएको हो ।",
-      "link": "https://www.ujyaaloonline.com/detail/131877",
-      "pubDate": 1790242860000,
-      "category": "prabidhi",
-      "trendingScore": 61,
-      "breaking": false,
-      "clusterId": "cluster-4KSqIOCkpSDgpLUg4KSw",
-      "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "इन्द्रजात्राका सम्पूर्ण गतिविधि र रथयात्राको रुट अब मोबाइल एपमै",
-      "description": "काठमाडौँ । काठमाडौँमा मनाइने ऐतिहासिक तथा सांस्कृतिक पर्व इन्द्रजात्राका सम्पूर्ण गतिविधि अब मोबाइल एपमार्फत हेर्न र जानकारी लिन सकिने भएको छ। काठमाडौँ महानगरपालिका र &lsquo;गल्ली म्याप&rsquo; को सहकार्यमा मोबाइलबाटै इन्द्रजात्राका गतिविधि, रथयात्राको रुट तथा ट्राफिक अवस्थाबारे",
-      "link": "https://www.ratopati.com/story/594552/all-indrajatra-activities-and-rath-yatra-routes-are-now-available-on-the-mobile-app",
-      "image": "https://npcdn.ratopati.com/media/news/1790239552-8ohlq_oSVHKXFHvt.webp",
-      "pubDate": 1790242323000,
-      "category": "prabidhi",
-      "trendingScore": 61,
-      "breaking": false,
-      "clusterId": "cluster-4KSH4KSoIOCkpiDgpLDg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "कन्टेन्ट क्रिएटर र ब्रान्ड एआईमार्फत जोड्ने प्ल्याटफर्म ‘इनमार्क’ सञ्चालनमा",
-      "description": "क्रिएटर इकोनोमी र डिजिटल मार्केटिङ व्यवस्थित गर्ने ‘अल–इन–वन अपरेटिङ सिस्टम’ का रूपमा यो प्ल्याटफर्म सार्वजनिक गरिएको हो ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2024822/inmark-a-platform-that-connects-content-creators-and-brands-through-ai-is-operational",
-      "pubDate": 1790240347000,
-      "category": "prabidhi",
-      "trendingScore": 60,
-      "breaking": false,
-      "clusterId": "cluster-4KSV4KSoIOCknyDgpKgg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "karobar",
@@ -134,7 +48,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Maitighar-Pradarshan-Trishuli-Hydro_NPL-1-150x150.jpeg",
       "pubDate": 1790160375000,
       "category": "prabidhi",
-      "trendingScore": 47,
+      "trendingScore": 41,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCkpSDgpLIg4KSy",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -147,7 +61,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/dnaaa-150x150.png",
       "pubDate": 1790145138000,
       "category": "prabidhi",
-      "trendingScore": 42,
+      "trendingScore": 35,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkoiDgpK4g4KSs",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -160,7 +74,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7fb7/live/0a2052d0-b677-11f1-bc1f-3f186ca4140c.jpg",
       "pubDate": 1790125865000,
       "category": "prabidhi",
-      "trendingScore": 35,
+      "trendingScore": 29,
       "breaking": false,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
