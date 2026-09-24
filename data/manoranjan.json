@@ -1,7 +1,44 @@
 {
-  "generatedAt": "2026-09-24T15:27:48.035Z",
+  "generatedAt": "2026-09-24T19:25:53.446Z",
   "category": "manoranjan",
   "articles": [
+    {
+      "sourceId": "onlinekhabar",
+      "title": "सन्तोष पन्त अभिनित ‘पैसा’ मा शक्ति र धनको होडबाजीको कथा, ‘राप्ती सुसायो’ गीत रिलिज",
+      "description": "काठमाडौं । नेपाली समाजमा शक्ति, पहुँच र धनको होडबाजीलाई विषय बनाइएको सामाजिक-राजनीतिक फिल्म ‘पैसा’ प्रदर्शन तयारीमा छ । राजेन्द्र सापकोटा निर्देशित यो फिल्मले लिरिकल गीत ‘राप्ती सुसायो’ युट्युबमा सार्वजनिक गरेको छ । गीतमा रसुवाको भोटेकोशीमा हालैको बाढीबाट भएको क्षति, विस्थापन र नागरिकको पीडालाई प्रस्तुत गरिएको छ । गीतले भ्रष्टाचार र सीमा विवादप्रतिको जनआक्रोशसँगै जेन्जी युवाको […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2025251/santosh-panta-starrer-paisa-tells-the-story-of-the-struggle-between-power-and-wealth-song-rapti-susayo-released",
+      "pubDate": 1790265099000,
+      "category": "manoranjan",
+      "trendingScore": 65,
+      "breaking": true,
+      "clusterId": "cluster-4KS44KSoIOCkpCDgpLcg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "बलिउडका चर्चित अभिनेता मुस्ताक खानको क्यान्सरका कारण निधन",
+      "description": "काठमाडौँ । हिन्दी चलचित्रमा आफ्ना स्मरणीय चरित्र तथा हास्य भूमिकाका लागि परिचित अभिनेता मुस्ताक खानको क्यान्सरका कारण बिहीबार साँझ निधन भएको छ । उनका छोरा मोहसिनले समाचार संस्था पीटीआईसँग कुरा गर्दै मुम्बईस्थित नानावती अस्पतालमा साँझ करिब",
+      "link": "https://www.ratopati.com/story/594686/bollywoods-famous-character-actor-mushtaq-khan-dies-of-cancer",
+      "image": "https://npcdn.ratopati.com/media/news/mustak-khan_ZkxqSs2fCe.webp",
+      "pubDate": 1790272332000,
+      "category": "manoranjan",
+      "trendingScore": 60,
+      "breaking": false,
+      "clusterId": "cluster-4KSs4KSyIOCkieCkoeCk",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "चलचित्र विकास बोर्डको अध्यक्षको लागि १२ जनाले दिए दरखास्त",
+      "description": "काठमाडौं । चलचित्र विकास बोर्डको अध्यक्ष पदका लागि १२ जना फिल्मकर्मीले सूचना तथा सञ्चार मन्त्रालयमा दरखास्त हालेका छन् । मन्त्रालयले आवेदन दिएका नामबारे पुष्टि गरेको छ । आवेदन दिनेहरूमा निशा अधिकारी, मनिष पण्डित, नरेशकुमार केसी, नरेशकुमार पौड्याल, जेनिश पहारी श्रेष्ठ, सुवास कोइराला, दीपा पाण्डे बस्नेत, जयन्ती ओझा जया, डम्मरबहादुर बुढाथोकी, हीराप्रसाद सेती, अमरदीप सापकोटा र […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2025190/12-people-applied-for-the-post-of-film-development-board-chairman",
+      "pubDate": 1790259596000,
+      "category": "manoranjan",
+      "trendingScore": 55,
+      "breaking": false,
+      "clusterId": "cluster-4KSa4KSy4KSaIOCkpCDg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
     {
       "sourceId": "arthasarokar",
       "title": "सञ्चारकर्मी आचार्य अभिनित म्युजिक भिडियो ‘दशैँको माहोल’ सार्वजनिक",
@@ -9,7 +46,7 @@
       "link": "https://arthasarokar.com/2026/09/journalist-acharyas-music-video-dashainko-mahol-released.html",
       "pubDate": 1790219114000,
       "category": "manoranjan",
-      "trendingScore": 54,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KS44KSeIOCkmiDgpLDg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
