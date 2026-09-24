@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T22:29:13.649Z",
+  "generatedAt": "2026-09-24T00:48:38.558Z",
   "category": "artha",
   "articles": [
     {
@@ -10,9 +10,22 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/08/ministry-of-health-and-food-.jpeg",
       "pubDate": 1790177538000,
       "category": "artha",
-      "trendingScore": 77,
+      "trendingScore": 74,
       "breaking": true,
       "clusterId": "cluster-4KSmIOCktuCkreCksOCk",
+      "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
+    },
+    {
+      "sourceId": "rajdhani",
+      "title": "यस्तो छ आजका लागि विदेशी मुद्राको विनियमदर",
+      "description": "काठमाडौं । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५२ रुपैयाँ ८९ पैसा र बिक्रीदर १५३ रुपैयाँ ४९ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १७४ रुपैयाँ ४७ पैसा र बिक्रीदर १७५ रुपैयाँ १६ पैसा, युके पाउन्ड स्ट्रलिङ एकको खरिददर २०३ […] The post यस्तो छ आजका लागि विदेशी मुद्राको विनियमदर appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDaily.com - Online Nepali News Portal-Latest Nepali Online News portal of Nepali Polities, economics, news, top stories, national, international, politics, sports, business, finance, entertainment, photo-gallery, audio, video and more... .",
+      "link": "https://rajdhanidaily.com/id/148846",
+      "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/bideshi-mudra.jpg",
+      "pubDate": 1790207346000,
+      "category": "artha",
+      "trendingScore": 69,
+      "breaking": false,
+      "clusterId": "cluster-4KSv4KS4IOCkpCDgpJsg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
     },
     {
@@ -23,10 +36,23 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/kantimarga_-150x150.jpg",
       "pubDate": 1790163391000,
       "category": "artha",
-      "trendingScore": 72,
+      "trendingScore": 69,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCkqCDgpKQg4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "आजका लागि तोकियो विदेशी मुद्राको विनिमयदर",
+      "description": "नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ।",
+      "link": "https://nagariknews.nagariknetwork.com/Bazar/foreign-currency-exchange-rates-set-for-today-45-68.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1775521941_Dollar.jpg",
+      "pubDate": 1790210148000,
+      "category": "artha",
+      "trendingScore": 62,
+      "breaking": false,
+      "clusterId": "cluster-4KSG4KSc4KSVIOCksiDg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "arthasarokar",
@@ -35,10 +61,35 @@
       "link": "https://arthasarokar.com/2026/09/nada-and-department-of-customs-hold-discussion-on-damage-caused-by-floods-in-rasuwa.html",
       "pubDate": 1790166871000,
       "category": "artha",
-      "trendingScore": 65,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KSw4KS4IOCktSDgpKwg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "आज कुन विदेशी मुद्राको विनिमयदर कति ?",
+      "description": "८ असोज, काठमाडौं । नेपाल राष्ट्र बैङ्कले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैङ्कका अनुसार अमेरिकी डलर एकको खरिददर १५२ रुपैयाँ ८९ पैसा र बिक्रीदर १५३ रुपैयाँ ४९ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १७४ रुपैयाँ ४७ पैसा र बिक्रीदर १७५ रुपैयाँ १६ पैसा, युके पाउन्ड स्ट्रलिङ एकको […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2024364/what-is-the-exchange-rate-of-which-foreign-currency-today-24",
+      "pubDate": 1790208726000,
+      "category": "artha",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KSG4KScIOCklSDgpKgg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "बिहीबार यस्तो छ विदेशी मुद्राको विनिमय दर",
+      "description": "काठमाडौँ । नेपाल राष्ट्र बैङ्कले आजका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैङ्कका अनुसार अमेरिकी डलर एकको खरिददर १५२ रुपैयाँ ८९ पैसा र बिक्रीदर १५३ रुपैयाँ ४९ पैसा निर्धारण गरिएको छ",
+      "link": "https://www.ratopati.com/story/594383/this-is-the-foreign-exchange-rate-on-thursday",
+      "image": "https://npcdn.ratopati.com/media/news/forex_g5zWyL63Qc.webp",
+      "pubDate": 1790206600000,
+      "category": "artha",
+      "trendingScore": 60,
+      "breaking": false,
+      "clusterId": "cluster-4KSsIOCkuSDgpKwg4KSw",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "onlinekhabar",
@@ -47,7 +98,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024333/flood-impact-on-foreign-trade-minimal-goods-imported-exceed-4-trillion-in-2-months",
       "pubDate": 1790183095000,
       "category": "artha",
-      "trendingScore": 63,
+      "trendingScore": 60,
       "breaking": true,
       "clusterId": "cluster-4KS1IOCkpiDgpLYg4KSV",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -60,7 +111,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/04/trade-150x150.jpg",
       "pubDate": 1790182876000,
       "category": "artha",
-      "trendingScore": 63,
+      "trendingScore": 60,
       "breaking": false,
       "clusterId": "cluster-4KWoIOCkruCkuSDgpKgg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -73,7 +124,7 @@
       "image": "https://npcdn.ratopati.com/media/news/sital-bajar_OXgBNxbIna.webp",
       "pubDate": 1790182378000,
       "category": "artha",
-      "trendingScore": 63,
+      "trendingScore": 60,
       "breaking": true,
       "clusterId": "cluster-4KSnIOCkpiDgpJngpJUg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -85,7 +136,7 @@
       "link": "https://arthasarokar.com/2026/09/newly-appointed-executive-director-shrestha-of-nepal-electricity-authority-nea-says-that-we-will-not-allow-load-shedding-in-winter.html",
       "pubDate": 1790159733000,
       "category": "artha",
-      "trendingScore": 63,
+      "trendingScore": 60,
       "breaking": true,
       "clusterId": "cluster-4KS1IOCkpiDgpK8g4KSk",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -97,7 +148,7 @@
       "link": "https://www.setopati.com/kinmel/tourism/399101",
       "pubDate": 1790181060000,
       "category": "artha",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": false,
       "clusterId": "cluster-4KSG4KS2IOCksiDgpI_g",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -110,7 +161,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-23-at-1.27.30-PM.jpeg",
       "pubDate": 1790171341000,
       "category": "artha",
-      "trendingScore": 59,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KSG4KSc4KSqIOCkieCk",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -123,7 +174,7 @@
       "image": "https://npcdn.ratopati.com/media/news/parsa_2glcmyd7j0_2aMfxmuNuL.jpg",
       "pubDate": 1790187469000,
       "category": "artha",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSWIOCkpiDgpK8g4KSo",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -136,7 +187,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/gita-chaudhari_pratinidhisabha-150x150.jpg",
       "pubDate": 1790163071000,
       "category": "artha",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KS44KSZIOCklSDgpLAg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -148,7 +199,7 @@
       "link": "https://arthasarokar.com/2026/09/government-debt-reaches-rs-29-73-trillion-target-to-take-another-rs-600-billion.html",
       "pubDate": 1790162656000,
       "category": "artha",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KS44KSw4KSVIOCksCDg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -161,7 +212,7 @@
       "image": "https://npcdn.ratopati.com/media/news/ia-intelligence-artificielle-allegorie-illustration_E2rqxmXSEN.webp",
       "pubDate": 1790183540000,
       "category": "artha",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSG4KSI4KSVIOCk",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -174,7 +225,7 @@
       "image": "https://npcdn.ratopati.com/media/news/egypt_zQMpw23UXf.webp",
       "pubDate": 1790183360000,
       "category": "artha",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSH4KScIOCkqiDgpJ_g",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -186,7 +237,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024144/banana-relief-for-consumers-facing-high-prices",
       "pubDate": 1790183330000,
       "category": "artha",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSa4KSwIOCklSDgpK7g",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -198,7 +249,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2023832/brokers-have-started-offering-margin-lending-services-here-are-the-fees-and-interest-rates",
       "pubDate": 1790182574000,
       "category": "artha",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCksCDgpJXgpLDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -211,7 +262,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2023/10/IMF_mudra-kosh-150x150.jpg",
       "pubDate": 1790161342000,
       "category": "artha",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSyIOCkqCDgpKgg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -224,7 +275,7 @@
       "image": "https://npcdn.ratopati.com/media/news/10_XhXOjgs2R5.webp",
       "pubDate": 1790180100000,
       "category": "artha",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KWn4KWmIOCkrOCknCDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -237,7 +288,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/02/Share-Market-downturn-nepal_20180701103338_0veAfSxewF_4Zu2ktZcEG-150x150.jpg",
       "pubDate": 1790156890000,
       "category": "artha",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KWp4KWsIOCkhSDgpJXg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -249,7 +300,7 @@
       "link": "https://arthasarokar.com/2026/09/nepse-index-declines-by-36-25-points-to-close-at-2618-03-points-on-wednesday.html",
       "pubDate": 1790156669000,
       "category": "artha",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkp-CkrCDgpLAg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -261,7 +312,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024307/ipl-2027-mini-auction-to-be-held-in-goa-in-december",
       "pubDate": 1790175284000,
       "category": "artha",
-      "trendingScore": 52,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSG4KSI4KSqIOCkj-Ck",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -273,7 +324,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024283/new-investors-should-be-brought-into-the-banking-sector-cibfin",
       "pubDate": 1790174101000,
       "category": "artha",
-      "trendingScore": 52,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCklSDgpJkg4KSV",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -285,22 +336,10 @@
       "link": "https://arthasarokar.com/2026/09/2-ipo-in-hydropower-to-be-ensured-for-security-personnel.html",
       "pubDate": 1790151567000,
       "category": "artha",
-      "trendingScore": 52,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KS5IOCkh-CkoSDgpLAg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "दुई महिनामै भारतबाट साढे ३ अर्ब बढीको आलु, प्याज र गोलभेँडा आयात",
-      "description": "स्वदेशी उत्पादनले बजारको दैनिक माग धान्न नसक्दा दुई महिनाकै अवधिमा १ लाख १६ हजार टनभन्दा बढी यी तरकारी आयात गर्नुपरेको देखिएको हो ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2024233/over-3-5-billion-worth-of-potatoes-onions-and-tomatoes-imported-from-india-in-two-months",
-      "pubDate": 1790172535000,
-      "category": "artha",
-      "trendingScore": 51,
-      "breaking": false,
-      "clusterId": "cluster-4KSmIOCkiCDgpK7gpLkg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "karobar",
@@ -310,7 +349,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Star-Rating-Photo-150x150.jpeg",
       "pubDate": 1790149131000,
       "category": "artha",
-      "trendingScore": 51,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCkr-CksiDgpJ8g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -323,22 +362,10 @@
       "image": "https://media.arthasarokar.com/uploads/2026/09/Bv-1.jpg",
       "pubDate": 1790148250000,
       "category": "artha",
-      "trendingScore": 51,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkpCDgpKQg4KSu",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "ujyaalo",
-      "title": "डब्लुडब्लुएफ नेपालद्वारा डेढ करोड सहयोग",
-      "description": "",
-      "link": "https://www.ujyaaloonline.com/detail/131847",
-      "pubDate": 1790165903000,
-      "category": "artha",
-      "trendingScore": 49,
-      "breaking": false,
-      "clusterId": "cluster-4KSh4KSsIOCksiDgpKHg",
-      "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
     },
     {
       "sourceId": "arthasarokar",
@@ -347,7 +374,7 @@
       "link": "https://arthasarokar.com/2026/09/nepal-rastra-bank-imposes-immediate-corrective-action-against-6-microfinance-institutions-4-institutions-cash-penalty-to-2-institutions.html",
       "pubDate": 1790144197000,
       "category": "artha",
-      "trendingScore": 49,
+      "trendingScore": 46,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -360,7 +387,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/siddhartha-bank-150x150.jpg",
       "pubDate": 1790143835000,
       "category": "artha",
-      "trendingScore": 49,
+      "trendingScore": 46,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkpiDgpKcg4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -373,7 +400,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/12/Fly-Dubai-150x150.jpg",
       "pubDate": 1790143190000,
       "category": "artha",
-      "trendingScore": 49,
+      "trendingScore": 46,
       "breaking": false,
       "clusterId": "cluster-4KS1IOCktiDgpLUg4KSq",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -386,7 +413,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/pokhara-sanrachana-150x150.jpg",
       "pubDate": 1790142943000,
       "category": "artha",
-      "trendingScore": 49,
+      "trendingScore": 46,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCkluCksCDgpJUg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -399,7 +426,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/11/sampadakiya_editorial_karobar_BBG-150x150.jpg",
       "pubDate": 1790142607000,
       "category": "artha",
-      "trendingScore": 48,
+      "trendingScore": 45,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCknOCkuCDgpLUg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -412,7 +439,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/12/rastra-bank_NRB-150x150.jpg",
       "pubDate": 1790141560000,
       "category": "artha",
-      "trendingScore": 48,
+      "trendingScore": 45,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -424,23 +451,10 @@
       "link": "https://arthasarokar.com/2026/09/gold-price-soars-by-rs-100.html",
       "pubDate": 1790141100000,
       "category": "artha",
-      "trendingScore": 48,
+      "trendingScore": 45,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkqOCklSDgpK4g",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "पोखराको पर्यटनको पर्याय बन्दै प्याराग्लाइडिङ",
-      "description": "७ कम्पनीबाट सुरु भएको प्याराग्लाइडिङमा अहिले ५७ कम्पनी पुगेका छन्। यसमा हालसम्म करिब एक अर्ब लगानी भएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/social-affairs/paragliding-becomes-synonymous-with-pokhara-tourism-br-47-92.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1790161359_paraglyding.jpg",
-      "pubDate": 1790161366000,
-      "category": "artha",
-      "trendingScore": 47,
-      "breaking": false,
-      "clusterId": "cluster-4KSqIOCkluCksCDgpJUg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "karobar",
@@ -450,7 +464,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/12/us-dollar12-150x150.png",
       "pubDate": 1790139532000,
       "category": "artha",
-      "trendingScore": 47,
+      "trendingScore": 44,
       "breaking": false,
       "clusterId": "cluster-4KSv4KS4IOCkpCDgpJsg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -463,7 +477,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/05/sebon-150x150.jpg",
       "pubDate": 1790138747000,
       "category": "artha",
-      "trendingScore": 47,
+      "trendingScore": 44,
       "breaking": false,
       "clusterId": "cluster-4KSc4KSy4KS1IOCkpiDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -475,7 +489,7 @@
       "link": "https://arthasarokar.com/2026/09/malaysias-average-monthly-income-rises-4-1-in-2025.html",
       "pubDate": 1790133273000,
       "category": "artha",
-      "trendingScore": 45,
+      "trendingScore": 42,
       "breaking": false,
       "clusterId": "cluster-4KSu4KSyIOCkuCDgpK8g",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -488,7 +502,7 @@
       "image": "https://media.arthasarokar.com/uploads/2026/09/pratibedan-1.jpg",
       "pubDate": 1790130693000,
       "category": "artha",
-      "trendingScore": 44,
+      "trendingScore": 41,
       "breaking": false,
       "clusterId": "cluster-ZXhjbHVzaXZlIOCkqCDg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -500,7 +514,7 @@
       "link": "https://arthasarokar.com/2026/09/akbare-chilli-doesnt-get-both-market-and-price-farmers-worried.html",
       "pubDate": 1790128883000,
       "category": "artha",
-      "trendingScore": 44,
+      "trendingScore": 41,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSV4KSs4KSwIOCk",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -512,7 +526,7 @@
       "link": "https://arthasarokar.com/2026/09/flydubai-to-operate-regular-flights-to-pokhara-international-airport.html",
       "pubDate": 1790128160000,
       "category": "artha",
-      "trendingScore": 43,
+      "trendingScore": 40,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCkluCksCDgpIXg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -525,7 +539,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2022/10/Byajdar_20181208044221-150x150.jpg",
       "pubDate": 1790127504000,
       "category": "artha",
-      "trendingScore": 43,
+      "trendingScore": 40,
       "breaking": false,
       "clusterId": "cluster-4KSY4KSfIOCkpiDgpKwg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -538,7 +552,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/08/sadak_22-150x150.jpg",
       "pubDate": 1790074797000,
       "category": "artha",
-      "trendingScore": 32,
+      "trendingScore": 29,
       "breaking": false,
       "clusterId": "cluster-4KSX4KSyIOCkmyDgpLgg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -551,100 +565,10 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Tripureshwor-Bus-Aagalagi_NPL-2-150x150.jpeg",
       "pubDate": 1790059558000,
       "category": "artha",
-      "trendingScore": 27,
+      "trendingScore": 24,
       "breaking": false,
       "clusterId": "cluster-4KSkIOCksCDgpKog4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "दमौली प्रसारण लाइन निर्माण: प्रभावितलाई दश करोड ३३ लाख मुआब्जा",
-      "description": "दमौली- मिलेनियम च्यालेन्ज अकाउन्ट (एमसिए) नेपालअन्तर्गत तनहुँमा विद्युत् प्रसारण लाइन निर्माणको काम अघि बढेको छ । प्रसारण लाइन आयोजनाको रुट लट–२ अन्तर्गत रातमाटादेखि न्यु दमौलीसम्मको ४०.०२ किलोमिटर खण्ड तनहुँका पाँच पालिकाका १८ वडामा पर्नेछ । एमसिए नेपालका तनहुँ सम्पर्क अधिकृत हुमनाथ ढकालका अनुसार उक्त खण्डमा १९९ वटा प्रसारण लाइन टावर निर्माण हुनेछन् । आयोजनाको निर्माण […]",
-      "link": "https://www.karobardaily.com/news/419658",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2023/08/bidhut-prasaran-line-photo-150x150.jpg",
-      "pubDate": 1790078641000,
-      "category": "artha",
-      "trendingScore": 26,
-      "breaking": false,
-      "clusterId": "cluster-4KSm4KSuIOCksiDgpKog",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "एनआईसी एशिया बैंकद्वारा कैलालीका तीन विद्यालय र मकवानपुर मामाघर नेपाल संस्थालाई सहयोग",
-      "description": "काठमाडौं- एनआईसी एशिया बैंकले कैलाली जिल्ला, टिकापुर नगरपालिका–९, झुङ्गास्थित श्री सेती मैयाँ चौधरी माध्यमिक विद्यालय र खक्रौलास्थित श्री भानुभक्त राष्ट्रिय आधारभूत विद्यालय, सोही जिल्लाको टिकापुर नगरपालिका–१ मा रहेको वीरेन्द्र विद्यामन्दिर माध्यमिक विद्यालयलाई पठनपाठन अझ सहज र सरल बनाउँदै गुणस्तरीय शैक्षिक वातावरण सिर्जना गर्न र हेटौंडा–४, कान्तिराजपथ, मकवानपुर अवस्थित सामाजिक संस्था मामाघर नेपाल मकवानपुरलाई उक्त संस्थामा […]",
-      "link": "https://www.karobardaily.com/news/419641",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/PR-on-support-provided-under-CSR-photo-150x150.png",
-      "pubDate": 1790077819000,
-      "category": "artha",
-      "trendingScore": 25,
-      "breaking": false,
-      "clusterId": "cluster-4KSP4KSo4KSG4KSI4KS4",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "मुक्तिनाथ विकास बैंक र केजीएच ग्रुप अफ होटल एण्ड रिसोर्टबीच व्यावसायिक सम्झौता",
-      "description": "काठमाडौं- मुक्तिनाथ विकास बैंक लिमिटेडले आफ्ना ग्राहकहरूलाई थप सेवा तथा सुविधा प्रदान गर्ने उद्देश्यले केजीएच ग्रुप अफ होटल एण्ड रिसोर्टसँग विभिन्न सेवा तथा सुविधामा विशेष छुट प्रदान गर्ने सम्बन्धमा व्यावसायिक सम्झौता गरेको छ । उक्त व्यावसायिक सम्झौताअनुसार मुक्तिनाथ विकास बैंकका ग्राहकहरूले केजीएच ग्रुप अफ होटल एण्ड रिसोर्ट अन्तर्गतका काठमाडौंमा स्थित माया मनोर बुटिक होटल, पोखरामा […]",
-      "link": "https://www.karobardaily.com/news/419633",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/kgh-group-150x150.jpg",
-      "pubDate": 1790076630000,
-      "category": "artha",
-      "trendingScore": 25,
-      "breaking": false,
-      "clusterId": "cluster-4KSuIOCklSDgpKQg4KSo",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "पुष्पलाल इन्भेष्टमेन्ट कम्पनीको साधारण सेयर निष्काशन तथा बिक्री प्रबन्धकमा लक्ष्मी सन्राइज क्यापिटल",
-      "description": "काठमाडौं- लक्ष्मी सन्राइज क्यापिटल लिमिटेडले पुष्पलाल इन्भेष्टमेन्ट कम्पनी लिमिटेडको सर्वसाधारणका लागि जारी गरिने रु.१०० अंकित दरका १५,००,००० कित्ताले हुन आउने रु.१५,००,००,००० रकम बराबरको साधारण सेयर निष्काशन गर्न निष्काशन तथा बिक्री प्रबन्धकमा लक्ष्मी सन्राइज क्यापिटल लिमिटेडलाई नियुक्त गरिएको छ । उक्त सम्झौतामा लक्ष्मी सन्राइज क्यापिटलका तर्फबाट अध्यक्ष राजीव सापकोटा र पुष्पलाल इन्भेष्टमेन्ट कम्पनीका तर्फबाट अध्यक्ष लालप्रसाद […]",
-      "link": "https://www.karobardaily.com/news/419625",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/lsss-150x150.jpg",
-      "pubDate": 1790076083000,
-      "category": "artha",
-      "trendingScore": 25,
-      "breaking": false,
-      "clusterId": "cluster-4KSqIOCktyDgpKrgpLIg",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "‘एलजीको उपहार, मनाऔँ दशैं र तिहार’ योजना सार्वजनिक",
-      "description": "काठमाडौं- यस वर्षको महान् पर्व दशैं तथा तिहारलाई अझ विशेष र उत्साहपूर्ण बनाउन एलजीले विशेष पर्व लक्षित उपहार योजना ”एलजीको उपहार, मनाऔँ दशैं र तिहार” सार्वजनिक गरेको छ । यस योजनाअन्तर्गत ग्राहकहरूले एलजीका विभिन्न घरायसी उपकरण खरिदमा २५ प्रतिशतसम्म नगद छुट तथा आकर्षक उपहारहरू प्राप्त गर्न सक्नेछन् । कम्पनीले आफ्ना विभिन्न उत्पादनहरूमा आकर्षक नगद छुटको […]",
-      "link": "https://www.karobardaily.com/news/419610",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/KV-px.jpg-150x150.jpeg",
-      "pubDate": 1790075723000,
-      "category": "artha",
-      "trendingScore": 24,
-      "breaking": false,
-      "clusterId": "cluster-4KSP4KSy4KScIOCklSDg",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "arthasarokar",
-      "title": "मुक्तिनाथ क्यापिटलको बदमासीः लगानीकर्तालाई ‘उल्लु’ बनाएर म्युचुअल फण्डलाई साधारण सेयर भन्दै बेच्दै !",
-      "description": "काठमाडौँ । मुक्तिनाथ क्यापिटलले लगानीकर्ता झुक्याएर ठगी गरिरहेको पाइएको छ । म्युचअल फण्डको इकाईलाई साधारण सेयर भन्दै क्यापिटलले लगानीकर्ता झुक्याएर ठगी गरेको पाइएको हो । कम्पनीले गत असोज १ गतेदेखि ‘मुक्तिनाथ म्युचुअल फण्ड २’ जारी गरेको थियो । तर, उक्त म्युचुअल फण्डलाई कम्पनीले साधारण सेयर भन्दै लगानीकर्ता झुक्याएको थियो । मेरो सेयरबाट आवेदन दिँदा उक्त Continue reading \"मुक्तिनाथ क्यापिटलको बदमासीः लगानीकर्तालाई ‘उल्लु’ बनाएर म्युचुअल फण्डलाई साधारण सेयर भन्दै बेच्दै !\"",
-      "link": "https://arthasarokar.com/2026/09/muktinath-capitals-mischief-selling-mutual-funds-as-ordinary-shares-by-making-investors-owls.html",
-      "pubDate": 1790075516000,
-      "category": "artha",
-      "trendingScore": 24,
-      "breaking": false,
-      "clusterId": "cluster-4KSuIOCklSDgpKQg4KSo",
-      "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "bbcnepali",
-      "title": "शेअर बजारको कारोबार नै बन्द हुने साइबर हमलाले देखाएको जोखिम कस्तो हो",
-      "description": "नेपालमा शेअर बजारमा जोडिन आएका लगानीकर्ताहरूको सङ्ख्या करिब ४५ लाख रहे पनि दैनिक सक्रिय रूपमा कारोबार गर्नेहरूको सङ्ख्या भने ४० देखि ४५ हजार रहेको बताइन्छ।",
-      "link": "https://www.bbc.com/nepali/articles/cqn745lxerx0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da46/live/b2e867c0-b66a-11f1-a430-4d16ee157c41.jpg",
-      "pubDate": 1790074392000,
-      "category": "artha",
-      "trendingScore": 24,
-      "breaking": false,
-      "clusterId": "cluster-4KS2IOCkheCksCDgpKzg",
-      "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
     },
     {
       "sourceId": "bbcnepali",
@@ -660,13 +584,103 @@
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
     },
     {
+      "sourceId": "karobar",
+      "title": "दमौली प्रसारण लाइन निर्माण: प्रभावितलाई दश करोड ३३ लाख मुआब्जा",
+      "description": "दमौली- मिलेनियम च्यालेन्ज अकाउन्ट (एमसिए) नेपालअन्तर्गत तनहुँमा विद्युत् प्रसारण लाइन निर्माणको काम अघि बढेको छ । प्रसारण लाइन आयोजनाको रुट लट–२ अन्तर्गत रातमाटादेखि न्यु दमौलीसम्मको ४०.०२ किलोमिटर खण्ड तनहुँका पाँच पालिकाका १८ वडामा पर्नेछ । एमसिए नेपालका तनहुँ सम्पर्क अधिकृत हुमनाथ ढकालका अनुसार उक्त खण्डमा १९९ वटा प्रसारण लाइन टावर निर्माण हुनेछन् । आयोजनाको निर्माण […]",
+      "link": "https://www.karobardaily.com/news/419658",
+      "image": "https://www.karobardaily.com/wp-content/uploads/2023/08/bidhut-prasaran-line-photo-150x150.jpg",
+      "pubDate": 1790078641000,
+      "category": "artha",
+      "trendingScore": 23,
+      "breaking": false,
+      "clusterId": "cluster-4KSm4KSuIOCksiDgpKog",
+      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "karobar",
+      "title": "एनआईसी एशिया बैंकद्वारा कैलालीका तीन विद्यालय र मकवानपुर मामाघर नेपाल संस्थालाई सहयोग",
+      "description": "काठमाडौं- एनआईसी एशिया बैंकले कैलाली जिल्ला, टिकापुर नगरपालिका–९, झुङ्गास्थित श्री सेती मैयाँ चौधरी माध्यमिक विद्यालय र खक्रौलास्थित श्री भानुभक्त राष्ट्रिय आधारभूत विद्यालय, सोही जिल्लाको टिकापुर नगरपालिका–१ मा रहेको वीरेन्द्र विद्यामन्दिर माध्यमिक विद्यालयलाई पठनपाठन अझ सहज र सरल बनाउँदै गुणस्तरीय शैक्षिक वातावरण सिर्जना गर्न र हेटौंडा–४, कान्तिराजपथ, मकवानपुर अवस्थित सामाजिक संस्था मामाघर नेपाल मकवानपुरलाई उक्त संस्थामा […]",
+      "link": "https://www.karobardaily.com/news/419641",
+      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/PR-on-support-provided-under-CSR-photo-150x150.png",
+      "pubDate": 1790077819000,
+      "category": "artha",
+      "trendingScore": 22,
+      "breaking": false,
+      "clusterId": "cluster-4KSP4KSo4KSG4KSI4KS4",
+      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "karobar",
+      "title": "मुक्तिनाथ विकास बैंक र केजीएच ग्रुप अफ होटल एण्ड रिसोर्टबीच व्यावसायिक सम्झौता",
+      "description": "काठमाडौं- मुक्तिनाथ विकास बैंक लिमिटेडले आफ्ना ग्राहकहरूलाई थप सेवा तथा सुविधा प्रदान गर्ने उद्देश्यले केजीएच ग्रुप अफ होटल एण्ड रिसोर्टसँग विभिन्न सेवा तथा सुविधामा विशेष छुट प्रदान गर्ने सम्बन्धमा व्यावसायिक सम्झौता गरेको छ । उक्त व्यावसायिक सम्झौताअनुसार मुक्तिनाथ विकास बैंकका ग्राहकहरूले केजीएच ग्रुप अफ होटल एण्ड रिसोर्ट अन्तर्गतका काठमाडौंमा स्थित माया मनोर बुटिक होटल, पोखरामा […]",
+      "link": "https://www.karobardaily.com/news/419633",
+      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/kgh-group-150x150.jpg",
+      "pubDate": 1790076630000,
+      "category": "artha",
+      "trendingScore": 22,
+      "breaking": false,
+      "clusterId": "cluster-4KSuIOCklSDgpKQg4KSo",
+      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "karobar",
+      "title": "पुष्पलाल इन्भेष्टमेन्ट कम्पनीको साधारण सेयर निष्काशन तथा बिक्री प्रबन्धकमा लक्ष्मी सन्राइज क्यापिटल",
+      "description": "काठमाडौं- लक्ष्मी सन्राइज क्यापिटल लिमिटेडले पुष्पलाल इन्भेष्टमेन्ट कम्पनी लिमिटेडको सर्वसाधारणका लागि जारी गरिने रु.१०० अंकित दरका १५,००,००० कित्ताले हुन आउने रु.१५,००,००,००० रकम बराबरको साधारण सेयर निष्काशन गर्न निष्काशन तथा बिक्री प्रबन्धकमा लक्ष्मी सन्राइज क्यापिटल लिमिटेडलाई नियुक्त गरिएको छ । उक्त सम्झौतामा लक्ष्मी सन्राइज क्यापिटलका तर्फबाट अध्यक्ष राजीव सापकोटा र पुष्पलाल इन्भेष्टमेन्ट कम्पनीका तर्फबाट अध्यक्ष लालप्रसाद […]",
+      "link": "https://www.karobardaily.com/news/419625",
+      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/lsss-150x150.jpg",
+      "pubDate": 1790076083000,
+      "category": "artha",
+      "trendingScore": 22,
+      "breaking": false,
+      "clusterId": "cluster-4KSqIOCktyDgpKrgpLIg",
+      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "karobar",
+      "title": "‘एलजीको उपहार, मनाऔँ दशैं र तिहार’ योजना सार्वजनिक",
+      "description": "काठमाडौं- यस वर्षको महान् पर्व दशैं तथा तिहारलाई अझ विशेष र उत्साहपूर्ण बनाउन एलजीले विशेष पर्व लक्षित उपहार योजना ”एलजीको उपहार, मनाऔँ दशैं र तिहार” सार्वजनिक गरेको छ । यस योजनाअन्तर्गत ग्राहकहरूले एलजीका विभिन्न घरायसी उपकरण खरिदमा २५ प्रतिशतसम्म नगद छुट तथा आकर्षक उपहारहरू प्राप्त गर्न सक्नेछन् । कम्पनीले आफ्ना विभिन्न उत्पादनहरूमा आकर्षक नगद छुटको […]",
+      "link": "https://www.karobardaily.com/news/419610",
+      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/KV-px.jpg-150x150.jpeg",
+      "pubDate": 1790075723000,
+      "category": "artha",
+      "trendingScore": 21,
+      "breaking": false,
+      "clusterId": "cluster-4KSP4KSy4KScIOCklSDg",
+      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "arthasarokar",
+      "title": "मुक्तिनाथ क्यापिटलको बदमासीः लगानीकर्तालाई ‘उल्लु’ बनाएर म्युचुअल फण्डलाई साधारण सेयर भन्दै बेच्दै !",
+      "description": "काठमाडौँ । मुक्तिनाथ क्यापिटलले लगानीकर्ता झुक्याएर ठगी गरिरहेको पाइएको छ । म्युचअल फण्डको इकाईलाई साधारण सेयर भन्दै क्यापिटलले लगानीकर्ता झुक्याएर ठगी गरेको पाइएको हो । कम्पनीले गत असोज १ गतेदेखि ‘मुक्तिनाथ म्युचुअल फण्ड २’ जारी गरेको थियो । तर, उक्त म्युचुअल फण्डलाई कम्पनीले साधारण सेयर भन्दै लगानीकर्ता झुक्याएको थियो । मेरो सेयरबाट आवेदन दिँदा उक्त Continue reading \"मुक्तिनाथ क्यापिटलको बदमासीः लगानीकर्तालाई ‘उल्लु’ बनाएर म्युचुअल फण्डलाई साधारण सेयर भन्दै बेच्दै !\"",
+      "link": "https://arthasarokar.com/2026/09/muktinath-capitals-mischief-selling-mutual-funds-as-ordinary-shares-by-making-investors-owls.html",
+      "pubDate": 1790075516000,
+      "category": "artha",
+      "trendingScore": 21,
+      "breaking": false,
+      "clusterId": "cluster-4KSuIOCklSDgpKQg4KSo",
+      "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
+    },
+    {
+      "sourceId": "bbcnepali",
+      "title": "शेअर बजारको कारोबार नै बन्द हुने साइबर हमलाले देखाएको जोखिम कस्तो हो",
+      "description": "नेपालमा शेअर बजारमा जोडिन आएका लगानीकर्ताहरूको सङ्ख्या करिब ४५ लाख रहे पनि दैनिक सक्रिय रूपमा कारोबार गर्नेहरूको सङ्ख्या भने ४० देखि ४५ हजार रहेको बताइन्छ।",
+      "link": "https://www.bbc.com/nepali/articles/cqn745lxerx0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da46/live/b2e867c0-b66a-11f1-a430-4d16ee157c41.jpg",
+      "pubDate": 1790074392000,
+      "category": "artha",
+      "trendingScore": 21,
+      "breaking": false,
+      "clusterId": "cluster-4KS2IOCkheCksCDgpKzg",
+      "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
+    },
+    {
       "sourceId": "arthasarokar",
       "title": "सब्स्क्रिप्सन मोडलमा पठाओ, अब राइडरले कमिसन तिर्नुनपर्ने !",
       "description": "काठमाडौँ । राइड सेयरिङ एप पठाओले राइडर तथा क्याप्टेनहरुका लागि सब्स्क्रिप्सन मोडल लागू गर्ने घोषणा गरेको छ । पठाओले कमिसनमा आधारित आम्दानी प्रणालीलाई परिवर्तन गर्दै सब्स्क्रिप्सनमा आधारित प्रणाली लागू गर्ने घोषणा गरेको हो । नयाँ व्यवस्थाअनुसार पठाओ क्याप्टेनले प्रत्येक राइडको आम्दानीबाट प्रतिशतका आधारमा कमिसन बुझाउनुपर्ने छैन । पठाओका अनुसार कमिसनको सट्टा अब राइडर तथा पठाओ Continue reading \"सब्स्क्रिप्सन मोडलमा पठाओ, अब राइडरले कमिसन तिर्नुनपर्ने !\"",
       "link": "https://arthasarokar.com/2026/09/send-in-the-subscription-model-now-the-rider-will-not-have-to-pay-a-commission.html",
       "pubDate": 1790071288000,
       "category": "artha",
-      "trendingScore": 23,
+      "trendingScore": 20,
       "breaking": false,
       "clusterId": "cluster-4KS44KSsIOCkuCDgpJUg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -679,7 +693,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/04/Share_lagani-150x150.jpg",
       "pubDate": 1790071127000,
       "category": "artha",
-      "trendingScore": 23,
+      "trendingScore": 20,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkriDgpKgg4KSv",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -691,7 +705,7 @@
       "link": "https://arthasarokar.com/2026/09/nepal-stock-exchange-nepse-index-increased-by-7-06-points-to-close-at-2654-28-points-on-tuesday.html",
       "pubDate": 1790069655000,
       "category": "artha",
-      "trendingScore": 22,
+      "trendingScore": 19,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCkl-CksuCkrCDg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -704,7 +718,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1a84/live/7c0dfa20-b5a8-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1790039667000,
       "category": "artha",
-      "trendingScore": 20,
+      "trendingScore": 17,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkqiDgpLLgpLIg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -717,7 +731,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2023/03/mahangi-150x150.jpg",
       "pubDate": 1790058566000,
       "category": "artha",
-      "trendingScore": 18,
+      "trendingScore": 15,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCkpCDgpLAg4KSu",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
