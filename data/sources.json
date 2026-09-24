@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T05:32:26.102Z",
+  "generatedAt": "2026-09-24T10:29:46.302Z",
   "sources": [
     {
       "id": "onlinekhabar",
@@ -28,8 +28,9 @@
       "feed": "https://nagariknews.nagariknetwork.com/feed",
       "category": "taja",
       "tag": "NG",
-      "ok": true,
-      "count": 20
+      "ok": false,
+      "count": 0,
+      "error": "No articles parsed"
     },
     {
       "id": "ujyaalo",
@@ -71,7 +72,7 @@
       "tag": "GP",
       "ok": false,
       "count": 0,
-      "error": "HTTP 404"
+      "error": "This operation was aborted"
     },
     {
       "id": "arthasarokar",

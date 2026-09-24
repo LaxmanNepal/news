@@ -1,69 +1,55 @@
 {
-  "generatedAt": "2026-09-24T05:32:26.102Z",
+  "generatedAt": "2026-09-24T10:29:46.302Z",
   "category": "manoranjan",
   "articles": [
     {
+      "sourceId": "ratopati",
+      "title": "चलिचित्र विकास बोर्ड अध्यक्षमा १२ जनाको आवेदन, छनोट समितिको बैठक बस्दै",
+      "description": "काठमाडौँ । चलचित्र विकास बोर्डको रिक्त अध्यक्ष पदका लागि १२ जनाको आवेदन परेको छ । सञ्चार तथा सूचना प्रविधि मन्त्रालयले केही दिन अघि बोड अध्यक्षका लागि आवेदन मागेको थियो । मन्त्रालयले तोकेको असोज ७ गते बुधबारसम्मको",
+      "link": "https://www.ratopati.com/story/594541/12-people-apply-for-film-development-board-chairmanship-selection-committee-meeting-underway",
+      "image": "https://npcdn.ratopati.com/media/news/film-development-board_uWhvcADrkn.webp",
+      "pubDate": 1790240729000,
+      "category": "manoranjan",
+      "trendingScore": 60,
+      "breaking": false,
+      "clusterId": "cluster-4KSa4KSyIOCkmiDgpKQg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "दशैं-तिहारमा प्रदर्शन हुँदैछन् ११ नेपाली फिल्म, कुन मितिमा कुन ?",
+      "description": "काठमाडौं । दशैं-तिहार नेपाली फिल्मका लागि व्यावसायिक रूपमा महत्त्वपूर्ण समय मानिन्छ । लामो बिदा र चाडपर्वको माहोललाई लक्षित गर्दै यो याममा ठूला बजेट र चर्चित कलाकारका फिल्मबीच बक्सअफिसमा प्रतिस्पर्धा हुने गर्छ । पछिल्ला केही वर्षको प्रवृत्ति हेर्दा चाडपर्वमा केही निर्माताका फिल्म प्रदर्शन हुनु नियमितजस्तै बनेको छ । लामो बिदा, उत्सवको माहोल र मनोरञ्जनमा खर्च गर्ने […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2024787/11-nepali-films-are-being-released-during-dashain-tihar-which-ones-on-which-dates",
+      "pubDate": 1790239034000,
+      "category": "manoranjan",
+      "trendingScore": 60,
+      "breaking": false,
+      "clusterId": "cluster-4KSm4KS2IOCkpCDgpLkg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
       "sourceId": "arthasarokar",
       "title": "सञ्चारकर्मी आचार्य अभिनित म्युजिक भिडियो ‘दशैँको माहोल’ सार्वजनिक",
-      "description": "काठमाडौँ । सञ्चारकर्मी सुप्रिया आचार्यको अभिनय रहेको म्युजिक भिडियो ’दशैँको माहोल’ सार्वजनिक भएको छ । गायक राजु परियार र गायिका पम्फा बान्जाडेको स्वरमा रहेको गीतको नयाँ म्युजिक भिडियो सार्वजनिक भएको हो । अशोक कुमार सापकोटाको शब्द तथा विष्णु तामाङको संगीत तथा एरेन्जमा तयार भएको गीतको भिडियो सार्वजनिक गरिएको हो । गीतको मिक्सिङ तथा मास्टरिङ कुमार Continue reading \"सञ्चारकर्मी आचार्य अभिनित म्युजिक भिडियो ‘दशैँको माहोल’ सार्वजनिक\"",
+      "description": "काठमाडौँ । सञ्चारकर्मी सुप्रिया आचार्यको अभिनय रहेको म्युजिक भिडियो ’दशैँको माहोल’ सार्वजनिक भएको छ । गायक राजु परियार र गायिका पम्फा बन्जाडेको स्वरमा रहेको गीतको नयाँ म्युजिक भिडियो सार्वजनिक भएको हो । अशोक कुमार सापकोटाको शब्द तथा विष्णु तामाङको संगीत तथा एरेन्जमा तयार भएको गीतको भिडियो सार्वजनिक गरिएको हो । गीतको मिक्सिङ तथा मास्टरिङ कुमार Continue reading \"सञ्चारकर्मी आचार्य अभिनित म्युजिक भिडियो ‘दशैँको माहोल’ सार्वजनिक\"",
       "link": "https://arthasarokar.com/2026/09/journalist-acharyas-music-video-dashainko-mahol-released.html",
       "pubDate": 1790219114000,
       "category": "manoranjan",
-      "trendingScore": 67,
+      "trendingScore": 60,
       "breaking": false,
       "clusterId": "cluster-4KS44KSeIOCkmiDgpLDg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
     },
     {
       "sourceId": "onlinekhabar",
-      "title": "अन्तिम गीत : रंगकर्मीको रित्तोपन",
-      "description": "के हामी कलाकारलाई मञ्चमा छउन्जेल मात्र माया गर्छौं अनि नाटक सकिएपछि उसलाई एक्लै छाडिदिन्छौं ?",
-      "link": "https://www.onlinekhabar.com/2026/09/2024110/last-song-the-artists-emptiness",
-      "pubDate": 1790227006000,
+      "title": "बेलडाँगीमा बितेको बाल्यकाल, अमेरिकामा बनेको पहिचान",
+      "description": "जीवनको सुरुवात नै संघर्षबाट भयो । जन्मभूमि छाड्नुपर्‍यो । परिवारसहित नेपाल आएर शरणार्थी शिविरको कठिन जीवन बिताउनुपर्‍यो । अभाव, पीडा र अनिश्चितताबीच हुर्किएका राजेश अर्यालले सायद त्यतिबेला सोचेका पनि थिएनन्– एक दिन यही संघर्षले उनलाई समुद्रपारि अमेरिकासम्म पुर्‍याउनेछ । आज उनी अमेरिकाको पेन्सिलभेनियास्थित ह्यारिसबर्गमा आफ्नै व्यवसाय सञ्चालन गरिरहेका छन् । नेपाली गीत–संगीतमा सक्रिय छन् । […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2024729/a-childhood-spent-in-beldangi-an-identity-formed-in-america",
+      "pubDate": 1790237036000,
       "category": "manoranjan",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": false,
-      "clusterId": "cluster-4KSF4KSoIOCkpCDgpK4g",
+      "clusterId": "cluster-4KSsIOCksuCkoSDgpJcg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "कमल खत्रीको ‘यो आँखामा’ करण र साहारा",
-      "description": "काठमाडौं । गायक कमल खत्रीको नयाँ गीत &lsquo;यो आँखामा&rsquo; सार्वजनिक भएको छ। शालु श्रेष्ठको शब्द, कमलकै संगीत रहेको गीतमा कमललाई गायनमा गायिका शोभा अधिकारीले साथ दिएकी छिन् । विजेश्वर तन्डुकारको संगीत संयोजन गीतमा छ । गीतको",
-      "link": "https://www.ratopati.com/story/594432/karan-and-sahara-in-kamal-khatris-yo-aankhma",
-      "image": "https://npcdn.ratopati.com/media/news/nhwbd08d-0u-sd_Hz2miJk2py.webp",
-      "pubDate": 1790226168000,
-      "category": "manoranjan",
-      "trendingScore": 61,
-      "breaking": false,
-      "clusterId": "cluster-4KSV4KSu4KSyIOCkluCk",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "‘१२ गाउँ २’ को टिजर सार्वजनिक, बिराज–समीरको दमदार एक्सन",
-      "description": "काठमाडौँ । अभिनेता बिराज भट्टको निर्देशन रहेको फिल्म &lsquo;१२ गाउँ २&rsquo; टिजर सार्वजनिक गरिएको छ । टिजरमा बिराज भट्ट र समीर भट्टलाई दमदार एक्सन अवतारमा प्रस्तुत गरिएको छ । बिराज र समीरलाई केन्द्रमा राखेर तयार",
-      "link": "https://www.ratopati.com/story/594421/teaser-of-12-villages-2-released-biraj-samirs-powerful-action",
-      "image": "https://npcdn.ratopati.com/media/news/12-gaun_7FY6zOhq8w.webp",
-      "pubDate": 1790224560000,
-      "category": "manoranjan",
-      "trendingScore": 61,
-      "breaking": false,
-      "clusterId": "cluster-4KWn4KWoIOCklyDgpIkg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "विदेशी फिल्मको प्रभाव घटाउने प्रयासमा छु : निखिल उप्रेती",
-      "description": "काठमाडौँ । अभिनेता तथा निर्देशक निखिल उप्रेतीले नेपाली फिल्ममा विदेशी फिल्मको प्रभाव कम गर्दै नेपाली दर्शकलाई आफ्नै फिल्ममार्फत अन्तर्राष्ट्रिय स्तरको स्वाद र प्रस्तुति दिने प्रयासमा आफू रहेको बताए । यही प्रयास स्वरूप आफ्नो निर्देशन तथा",
-      "link": "https://www.ratopati.com/story/594417/i-am-trying-to-reduce-the-influence-of-foreign-films-nikhil-upreti",
-      "image": "https://npcdn.ratopati.com/media/news/capture_0BOTSd5Hfe.webp",
-      "pubDate": 1790223279000,
-      "category": "manoranjan",
-      "trendingScore": 60,
-      "breaking": false,
-      "clusterId": "cluster-4KS1IOCkpiDgpLYg4KSr",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     }
   ]
 }
