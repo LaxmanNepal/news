@@ -1,19 +1,18 @@
 {
-  "generatedAt": "2026-09-24T22:39:06.663Z",
+  "generatedAt": "2026-09-25T00:49:28.668Z",
   "category": "bidesh",
   "articles": [
     {
-      "sourceId": "ratopati",
-      "title": "क्यानभासमा उतारिँदै हिमाली सङ्कट",
-      "description": "पाेखरा । हिमनदी भत्केर भोटेकोशी-त्रिशूली नदीमा आएको विनाशकारी बाढीपछि नेपालको हिमाली क्षेत्रले झेलिरहेको जलवायु सङ्कटको मुद्दा विश्वव्यापी रूपमा उठिरहेको छ । अमेरिकामा जारी संयुक्त राष्ट्रसङ्घको ८१औँ महासभामासमेत यो विषयले महत्वका साथ प्रवेश पाएको छ । संयुक्त",
-      "link": "https://www.ratopati.com/story/594673/the-himalayan-crisis-is-being-portrayed-on-canvas",
-      "image": "https://npcdn.ratopati.com/media/news/4qPjZsENbk.jpg",
-      "pubDate": 1790265837000,
+      "sourceId": "onlinekhabar",
+      "title": "राष्ट्रसंघमा नेतान्याहुले सम्बोधन गर्दा प्रतिनिधिहरूले हल छाडे",
+      "description": "९ असोज, काठमाडौं । इजरायली प्रधानमन्त्री बेन्जामिन नेतान्याहुले संयुक्त राष्ट्रसंघको महासभामा इरान, गाजा र मध्यपूर्वका अन्य क्षेत्रमा इजरायलले गरिरहेको सैन्य कारबाहीको कडा बचाउ गरेका छन्। उनी मञ्चमा उक्लनेबित्तिकै दर्जनौँ देशका प्रतिनिधिहरूले विरोधस्वरूप हल छाडेर बाहिरिएका थिए। प्रतिनिधिहरू बाहिरिएपछि नेतान्याहुले भने, ‘हामीले जित्नेछौँ। हामीसँग अर्को कुनै विकल्प छैन।’ उनले थपे, ‘यदि हल नछाडेका अन्य कुनै नैतिक […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2025275/delegates-walk-out-of-the-hall-as-netanyahu-addresses-the-un",
+      "pubDate": 1790293351000,
       "category": "bidesh",
       "trendingScore": 61,
-      "breaking": true,
-      "clusterId": "cluster-4KSVIOCkryDgpKjgpK0g",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+      "breaking": false,
+      "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "ratopati",
@@ -23,7 +22,7 @@
       "image": "https://npcdn.ratopati.com/media/news/RjKbNWFxuF.jpg",
       "pubDate": 1790279660000,
       "category": "bidesh",
-      "trendingScore": 58,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KS44KSX4KSw4KSuIOCk",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -36,7 +35,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/irani.jpg",
       "pubDate": 1790251442000,
       "category": "bidesh",
-      "trendingScore": 56,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -49,7 +48,7 @@
       "image": "https://npcdn.ratopati.com/media/news/hamas_zp7HZ9sCV4.png",
       "pubDate": 1790270771000,
       "category": "bidesh",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KS2IOCkqCDgpKQg4KS4",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -62,7 +61,7 @@
       "image": "https://npcdn.ratopati.com/media/news/taliban_wAykXGsXkE.webp",
       "pubDate": 1790269227000,
       "category": "bidesh",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCklSDgpLgg4KSk",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -74,7 +73,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024910/why-were-the-visas-of-88-foreigners-working-at-the-sindhuli-marine-meat-factory-cancelled",
       "pubDate": 1790266456000,
       "category": "bidesh",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkqCDgpKcg4KSy",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -86,7 +85,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025027/balen-may-give-a-speech-targeting-the-us-at-the-un-only-one-diplomatic-meeting",
       "pubDate": 1790266371000,
       "category": "bidesh",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -98,7 +97,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025248/xi-told-trump-us-and-china-should-work-together-to-keep-ai-under-human-control",
       "pubDate": 1790264692000,
       "category": "bidesh",
-      "trendingScore": 53,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSfIOCksOCkriDgpKrg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -111,7 +110,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc83/live/c29581f0-b7f3-11f1-bc1f-3f186ca4140c.jpg",
       "pubDate": 1790241359000,
       "category": "bidesh",
-      "trendingScore": 53,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KS14KSwIOCktyDgpJUg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -124,7 +123,7 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1790259837_Pakistan.jpg",
       "pubDate": 1790260636000,
       "category": "bidesh",
-      "trendingScore": 52,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSfIOCksOCkriDgpKrg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -136,7 +135,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024492/threats-to-allies-red-carpet-to-rivals-trumps-warm-hospitality-to-xi-in-the-us",
       "pubDate": 1790260404000,
       "category": "bidesh",
-      "trendingScore": 52,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KS44KS54KSvIOCklyDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -148,7 +147,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025196/iranian-and-ukrainian-foreign-ministers-meet-on-the-sidelines-of-the-un-general-assembly",
       "pubDate": 1790259143000,
       "category": "bidesh",
-      "trendingScore": 51,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -161,7 +160,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5a8e/live/770c8150-b7c3-11f1-bc1f-3f186ca4140c.jpg",
       "pubDate": 1790219795000,
       "category": "bidesh",
-      "trendingScore": 45,
+      "trendingScore": 42,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -174,7 +173,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Pokhara-Land-Fly-Dubai_NPL_Sushant-Gaha-3-150x150.jpg",
       "pubDate": 1790187037000,
       "category": "bidesh",
-      "trendingScore": 33,
+      "trendingScore": 30,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCkluCksCDgpKwg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -187,7 +186,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/EL-NINO-150x150.jpg",
       "pubDate": 1790161756000,
       "category": "bidesh",
-      "trendingScore": 32,
+      "trendingScore": 29,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSyIOCkqCDgpKgg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -200,7 +199,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/06/petroleum-gas-container-150x150.jpg",
       "pubDate": 1790162150000,
       "category": "bidesh",
-      "trendingScore": 24,
+      "trendingScore": 21,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -213,7 +212,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c5b8/live/fd47ee80-b5d4-11f1-b1d1-571ed4d7ff2c.png",
       "pubDate": 1790159537000,
       "category": "bidesh",
-      "trendingScore": 23,
+      "trendingScore": 21,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCknCDgpKgg4KSq",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -226,7 +225,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0244/live/1a5ee760-b72b-11f1-bc1f-3f186ca4140c.png",
       "pubDate": 1790158224000,
       "category": "bidesh",
-      "trendingScore": 23,
+      "trendingScore": 20,
       "breaking": false,
       "clusterId": "cluster-4KSs4KSZIOCklyDgpLLg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -239,7 +238,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/kajariya-tiles-150x150.jpeg",
       "pubDate": 1790143699000,
       "category": "bidesh",
-      "trendingScore": 18,
+      "trendingScore": 15,
       "breaking": false,
       "clusterId": "cluster-4KSV4KScIOCksCDgpK8g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -252,7 +251,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9fd8/live/b6d6b350-b6f6-11f1-bc1f-3f186ca4140c.jpg",
       "pubDate": 1790132256000,
       "category": "bidesh",
-      "trendingScore": 14,
+      "trendingScore": 11,
       "breaking": false,
       "clusterId": "cluster-4KSmIOCkiCDgpKYg4KS2",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"

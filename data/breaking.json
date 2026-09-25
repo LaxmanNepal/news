@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-09-24T22:39:06.663Z",
+  "generatedAt": "2026-09-25T00:49:28.668Z",
   "articles": [
+    {
+      "sourceId": "nagarik",
+      "title": "जलवायु संकटका विषयमा भूराजनीतिक स्वार्थको मुद्दा बनाउने नेपालको कुनै चाहना छैन : प्रम शाह",
+      "description": "प्रधानमन्त्री बालेन्द्र शाहले हालैको बाढीपहिरोले नेपालमा ठूलो जनधनको क्षति पुर्‍याएको बताएका छन्।...",
+      "link": "https://nagariknews.nagariknetwork.com/politics/nepal-has-no-desire-to-make-the-climate-crisis-an-issue-of-geopolitical-interests-pm-shah-23-76.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1790296773_Balen.jpg",
+      "pubDate": 1790296885000,
+      "category": "rajaniti",
+      "trendingScore": 78,
+      "breaking": true,
+      "clusterId": "cluster-4KSc4KSy4KS1IOCkryDg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "धादिङको कृष्णभिरमा पहिरो, पृथ्वी राजमार्ग अवरुद्ध",
+      "description": "९ असोज, काठमाडौं । धादिङको कृष्णभिरमा पहिरो खसेपछि पृथ्वी राजमार्ग अवरुद्ध भएको छ । गएराति ढुंगासहितको पहिरो खसेकाले राजमार्ग अवरुद्ध भएको हो । वर्षासँगैको बाढीपहिरोको जोखिमका कारण रातभर पृथ्वीराजमार्ग बन्द गरिएको थियो । आज बिहान पाँच बजेदेखि राजमार्गमा गाडी सन्चालन गर्ने भनिए पनि पहिरो खसेपछि गाडी चलेका छैनन् । पहिरो पन्छाउने काम भैरहेको तर निरन्तर […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2025294/landslide-in-krishna-bhir-dhading-blocks-prithvi-highway",
+      "pubDate": 1790296165000,
+      "category": "khelkud",
+      "trendingScore": 78,
+      "breaking": true,
+      "clusterId": "cluster-4KSnIOCkpiDgpJngpJUg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "पहिरो खसेपछि कृष्णभीर सडक पूर्ण रूपमा अवरुद्ध",
+      "description": "काठमाडौँ । बिहीबारदेखि परेको अविरल वर्षाका कारण कृष्णभीरमा फेरि पहिरो खस्दा सडक पूर्ण रूपमा अवरुद्ध भएको छ । इलाका प्रहरी कार्यालय गजुरीका अनुसार बिहीबार राति सडकमाथिबाट ठुला ढुङ्गा र चट्टानसहितको पहिरो खसेपछि आवागमन पूर्ण रूपमा ठप्प",
+      "link": "https://www.ratopati.com/story/594708/krishnabhir-road-completely-blocked-after-landslide",
+      "image": "https://npcdn.ratopati.com/media/news/krishnaveer-kulman_ChUpudIbQt.webp",
+      "pubDate": 1790294678000,
+      "category": "taja",
+      "trendingScore": 69,
+      "breaking": true,
+      "clusterId": "cluster-4KSq4KS5IOCksCDgpJbg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ujyaalo",
+      "title": "कृष्णभीरमा पहिरो खसेपछि पृथ्वी राजमार्ग अवरुद्ध",
+      "description": "",
+      "link": "https://www.ujyaaloonline.com/detail/131887",
+      "pubDate": 1790293620000,
+      "category": "taja",
+      "trendingScore": 69,
+      "breaking": true,
+      "clusterId": "cluster-4KSVIOCktyDgpKPgpK0g",
+      "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "दुई महिनामा चितवनमा ४३ सवारी दुर्घटना, १५ जनाको मृत्यु",
+      "description": "चितवन । चितवनमा चालु आर्थिक वर्षको पहिलो दुई महिनामा ४३ वटा सवारी दुर्घटना हुँदा १५ जनाको मृत्यु भएको छ । जिल्ला ट्राफिक प्रहरी कार्यालयको तथ्याङ्कअनुसार गत साउन र भदौमा भएका ती दुर्घटनामा ८७ जना घाइते भएका",
+      "link": "https://www.ratopati.com/story/594699/43-vehicle-accidents-in-chitwan-in-two-months-15-people-killed",
+      "image": "https://npcdn.ratopati.com/media/news/chitwan_map_hQtNsfDIYC.jpg",
+      "pubDate": 1790290021000,
+      "category": "taja",
+      "trendingScore": 75,
+      "breaking": true,
+      "clusterId": "cluster-4KSmIOCkiCDgpK7gpLkg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
     {
       "sourceId": "ratopati",
       "title": "‘सतर्क रहौँ, सुरक्षित रहौँ’, मधेस सरकारको आग्रह",
@@ -9,7 +72,7 @@
       "image": "https://npcdn.ratopati.com/media/news/grih-sanchar-mantralay_vm0mciZLbp.jpg",
       "pubDate": 1790287683000,
       "category": "rajaniti",
-      "trendingScore": 77,
+      "trendingScore": 75,
       "breaking": true,
       "clusterId": "cluster-4KS44KSk4KSwIOCklSDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -22,7 +85,7 @@
       "image": "https://npcdn.ratopati.com/media/news/karnali-mukhyamantri-karyalaya_kXgdamlLyG.jpg",
       "pubDate": 1790286224000,
       "category": "rajaniti",
-      "trendingScore": 85,
+      "trendingScore": 82,
       "breaking": true,
       "clusterId": "cluster-4KSuIOCkuOCkriDgpJwg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -35,23 +98,10 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1742293886_nagarika.jpg",
       "pubDate": 1790267365000,
       "category": "taja",
-      "trendingScore": 70,
+      "trendingScore": 67,
       "breaking": true,
       "clusterId": "cluster-4KSJ4KSm4KSv4KSqIOCk",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "बाढी प्रभावित क्षेत्रमा पुनर्निर्माणका लागि सघाउन आग्रह",
-      "description": "भक्तपुर। बागमती प्रदेशका मुख्यमन्त्री किरण थापामगरले भोटेकोशी बाढीबाट क्षतिग्रस्त भौतिक संरचनाहरूको पुनर्निर्माणमा सघाउन स्थानीय सरकालाई आग्रह गरेका छन्। भक्तपुरको चाँगुनारायण नगरपालिकाले बिहीबार आयोजना गरेको कार्यक्रममा उहाँले बागमती प्रदेश भित्रका र देशभरका स्थानीय तहलाई पुनर्निर्माणमा सघाउन आह्वान",
-      "link": "https://www.ratopati.com/story/594676/request-for-assistance-for-reconstruction-in-flood-affected-areas",
-      "image": "https://npcdn.ratopati.com/media/news/LzCPy1wSdh.jpg",
-      "pubDate": 1790266653000,
-      "category": "rajaniti",
-      "trendingScore": 62,
-      "breaking": true,
-      "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "onlinekhabar",
@@ -60,7 +110,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024513/dont-be-late-to-save-flood-survivors",
       "pubDate": 1790266562000,
       "category": "taja",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKwg4KSf",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -72,23 +122,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025019/driver-suman-saves-57-students",
       "pubDate": 1790266543000,
       "category": "taja",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KWr4KWtIOCktSDgpKYg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "१० बजे १० समाचार : एमालेमा विद्याको रि इन्ट्री, ७७ वटै जिल्ला प्रशासनलाई गृहको १० बुँदे सर्कुलर",
-      "description": "आज मिति २०८३ साल असोज महिनाको ८ गते बिहीबार । आज दिनभर भएका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १० बजे १० समाचार लिएर हाजिर भएका छौँ&ndash; १. प्रतिकुल मौसम भारी वर्षासँगै बाढी, पहिरो र डुबानको",
-      "link": "https://www.ratopati.com/story/594677/10-news-at-10-vidyas-re-entry-into-uml-10-point-circular-from-home-ministry-to-all-77-district-administrations",
-      "image": "https://npcdn.ratopati.com/media/news/cover-recovered-recovered-recovered-recovered-recovered_pYjfNf3I3e.webp",
-      "pubDate": 1790266500000,
-      "category": "rajaniti",
-      "trendingScore": 70,
-      "breaking": true,
-      "clusterId": "cluster-4KWn4KWmIOCkrOCknCDg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "onlinekhabar",
@@ -97,36 +134,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025259/alternative-hospital-set-up-in-nuwakot-after-floods-cause-problems-as-bridges-are-washed-away",
       "pubDate": 1790266370000,
       "category": "rajaniti",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpLIg4KSq",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "ऊर्जामन्त्री श्रेष्ठ र एडिबी राष्ट्रिय निर्देशक कोशवाबिच भेटवार्ता",
-      "description": "काठमाडौँ। एसियाली विकास बैङ्क (एडिबी) का नेपाल राष्ट्रिय निर्देशक आर्नो कोशवाले ऊर्जा, जलस्रोत तथा सिँचाइमन्त्री विराजभक्त श्रेष्ठसँग भेटवार्ता गरेका छन्। भेटमा भोटेकोशीको बाढीको वैज्ञानिक अध्ययन र क्षति मूल्याङ्कन, जलवायुमैत्री विद्युत् पूर्वाधार निर्माणमा सहकार्य र सहयोग गर्ने",
-      "link": "https://www.ratopati.com/story/594675/meeting-between-energy-minister-shrestha-and-adb-country-director-koshwa",
-      "image": "https://npcdn.ratopati.com/media/news/vuf35QVXDK.jpg",
-      "pubDate": 1790266216000,
-      "category": "rajaniti",
-      "trendingScore": 62,
-      "breaking": true,
-      "clusterId": "cluster-4KSK4KSwIOCknCDgpK7g",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "क्यानभासमा उतारिँदै हिमाली सङ्कट",
-      "description": "पाेखरा । हिमनदी भत्केर भोटेकोशी-त्रिशूली नदीमा आएको विनाशकारी बाढीपछि नेपालको हिमाली क्षेत्रले झेलिरहेको जलवायु सङ्कटको मुद्दा विश्वव्यापी रूपमा उठिरहेको छ । अमेरिकामा जारी संयुक्त राष्ट्रसङ्घको ८१औँ महासभामासमेत यो विषयले महत्वका साथ प्रवेश पाएको छ । संयुक्त",
-      "link": "https://www.ratopati.com/story/594673/the-himalayan-crisis-is-being-portrayed-on-canvas",
-      "image": "https://npcdn.ratopati.com/media/news/4qPjZsENbk.jpg",
-      "pubDate": 1790265837000,
-      "category": "bidesh",
-      "trendingScore": 61,
-      "breaking": true,
-      "clusterId": "cluster-4KSVIOCkryDgpKjgpK0g",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "onlinekhabar",
@@ -135,36 +146,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025251/santosh-panta-starrer-paisa-tells-the-story-of-the-struggle-between-power-and-wealth-song-rapti-susayo-released",
       "pubDate": 1790265099000,
       "category": "manoranjan",
-      "trendingScore": 61,
+      "trendingScore": 58,
       "breaking": true,
       "clusterId": "cluster-4KS44KSoIOCkpCDgpLcg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "जीप दुर्घटनामा एक जनाको मृत्यु",
-      "description": "स्याङ्जा । स्याङ्जामा बिहीबार साँझ भएको जीप दुर्घटनामा परी एकको मृत्यु भएको छ । सो घटनामा परी पुतलीबजार&ndash;१० बस्ने ७६ वर्षीय उत्तमसिंह गुरुङको मृत्यु भएको जिल्ला प्रहरी कार्यालयका सूचना अधिकारी रमेशदत्त अवस्थीले जानकारी दिए। भीरकोट&ndash;३ बजादीमा",
-      "link": "https://www.ratopati.com/story/594671/one-person-dies-in-jeep-accident",
-      "image": "https://npcdn.ratopati.com/media/news/accident1_0HVVwEUEAJ.jpg",
-      "pubDate": 1790264975000,
-      "category": "artha",
-      "trendingScore": 69,
-      "breaking": true,
-      "clusterId": "cluster-4KScIOCkqiDgpKYg4KSw",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "पहिरोले खाँदबारी-किमाथाङ्का सडक अवरुद्ध",
-      "description": "सङ्खुवासभा। उत्तर-दक्षिण कोशी राजमार्गअन्तर्गत खाँदबारी-किमाथाङ्का सडकखण्डको भोटखोला गाउँपालिका-३ हुङहुङमा पहिरो खसेपछि आवागमन अवरुद्ध भएको छ । लगातारको वर्षासँगै आएको पहिरोले राजमार्गअन्तर्गत खाँदबारी-किमाथाङ्का सडकखण्ड अवरुद्ध भएको हो । उत्तर-दक्षिण सडक आयोजना कार्यालयका प्रमुख एवं इन्जिनियर रामबहादुर गुरुङले",
-      "link": "https://www.ratopati.com/story/594670/landslide-blocks-khandbari-kimathanka-road",
-      "image": "https://rpcdn.ratopati.com/media/albums/Deurali_pahiro_ejbNxysxws.jpg",
-      "pubDate": 1790264829000,
-      "category": "taja",
-      "trendingScore": 61,
-      "breaking": true,
-      "clusterId": "cluster-4KSq4KS5IOCksCDgpLIg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "onlinekhabar",
@@ -173,7 +158,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2024952/hostels-at-school-for-students-who-lost-their-homes-and-parents-due-to-floods",
       "pubDate": 1790263162000,
       "category": "taja",
-      "trendingScore": 61,
+      "trendingScore": 58,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKwg4KSf",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -186,7 +171,7 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1790262573_Padyatra.jpg",
       "pubDate": 1790262583000,
       "category": "taja",
-      "trendingScore": 68,
+      "trendingScore": 66,
       "breaking": true,
       "clusterId": "cluster-4KStIOCksCDgpLXgpLAg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -198,7 +183,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025226/energy-minister-shrestha-meets-with-adbs-nepal-director-koswa",
       "pubDate": 1790261680000,
       "category": "rajaniti",
-      "trendingScore": 60,
+      "trendingScore": 57,
       "breaking": true,
       "clusterId": "cluster-4KSK4KSwIOCknCDgpK7g",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -211,34 +196,9 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790261583_bhoj.png",
       "pubDate": 1790261430000,
       "category": "artha",
-      "trendingScore": 68,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KS4IOCkryDgpJkg4KSc",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "बाढीको जोखिम बढ्न सक्ने भन्दै कर्मचारीलाई सरकारको निर्देशन – बिदामा नबस्नू",
-      "description": "स्थानीय तहमा कार्यरत कर्मचारीलाई बिदामा नबस्न तथा प्रमुख प्रशासकीय अधिकृतहरूलाई मन्त्रालयसँग नियमित सम्पर्कमा रहन आग्रह गरिएको छ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2025174/government-tells-employees-not-to-take-leave-as-flood-risk-increases",
-      "pubDate": 1790258544000,
-      "category": "rajaniti",
-      "trendingScore": 59,
-      "breaking": true,
-      "clusterId": "cluster-4KSsIOCkoiDgpJUg4KSc",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "भुटानका २८ राजनीतिक बन्दीमध्ये धेरै नेपाली भाषी, तत्काल रिहा गर्न माग",
-      "description": "संस्थाका अनुसार ११ जना बन्दीको मुद्दा तामाङ र राईको मुद्दासँग मिल्दोजुल्दो छ। उनीहरूलाई राजधानी थिम्पु नजिकैको चेमगाङ जेलको ‘राष्ट्रविरोधी शाखा’ र दुर्गम सैन्य जेल रबुनामा राखिएको बताइएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/international/many-of-bhutan-s-28-political-prisoners-are-nepali-speakers-demand-immediate-release-96-16.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1790258039_Bhutan.jpg",
-      "pubDate": 1790258094000,
-      "category": "rajaniti",
-      "trendingScore": 59,
-      "breaking": true,
-      "clusterId": "cluster-4KStIOCknyDgpKjgpJUg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
@@ -248,7 +208,7 @@
       "link": "https://arthasarokar.com/2026/09/work-is-underway-on-critical-path-to-ease-gas-supply-industry-minister-sah.html",
       "pubDate": 1790253173000,
       "category": "rajaniti",
-      "trendingScore": 65,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KSXIOCkryDgpLgg4KSG",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -261,7 +221,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/apf-sachi-1.jpg",
       "pubDate": 1790248210000,
       "category": "artha",
-      "trendingScore": 71,
+      "trendingScore": 68,
       "breaking": true,
       "clusterId": "cluster-4KS1IOCkquCkpiDgpLIg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -274,7 +234,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/26bb/live/c0219130-b7f2-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1790247554000,
       "category": "rajaniti",
-      "trendingScore": 63,
+      "trendingScore": 60,
       "breaking": true,
       "clusterId": "cluster-4KS4IOCksOCklSDgpLcg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -287,7 +247,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/apf-11-1.jpg",
       "pubDate": 1790247000000,
       "category": "artha",
-      "trendingScore": 71,
+      "trendingScore": 68,
       "breaking": true,
       "clusterId": "cluster-4KSu4KSo4KS4IOCkqOCk",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -300,7 +260,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/betrawati_s-150x150.png",
       "pubDate": 1790245729000,
       "category": "prabidhi",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KSn4KSuIOCkp-CkriDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -313,7 +273,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/sadak-chidipani--150x150.jpg",
       "pubDate": 1790237206000,
       "category": "khelkud",
-      "trendingScore": 59,
+      "trendingScore": 56,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksiDgpKog4KSV",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -325,7 +285,7 @@
       "link": "https://arthasarokar.com/2026/09/vehicular-movement-banned-on-bp-highway.html",
       "pubDate": 1790236397000,
       "category": "artha",
-      "trendingScore": 67,
+      "trendingScore": 64,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkqiDgpLAg4KSc",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -338,7 +298,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/air-acc-150x150.png",
       "pubDate": 1790235000000,
       "category": "artha",
-      "trendingScore": 58,
+      "trendingScore": 56,
       "breaking": true,
       "clusterId": "cluster-4KScIOCkqyDgpLIg4KSP",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -351,35 +311,10 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/03/Weather_Karobardaily-150x150.jpg",
       "pubDate": 1790234630000,
       "category": "artha",
-      "trendingScore": 66,
+      "trendingScore": 63,
       "breaking": true,
       "clusterId": "cluster-4KSG4KSXIOCkriDgpLbg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "प्रमुख नदीमा जलसतह बढ्ने पूर्वानुमान",
-      "description": "काठमाडौं- बिहीबारदेखि आगामी पाँच दिनसम्म मुलुकको प्रमुख नदीमा जलसतह बढ्ने पूर्वानुमान गरिएको छ । जल तथा ऊर्जा आयोगको सचिवालयअन्तर्गतको जल विज्ञान तथा जलस्रोत अनुसन्धान केन्द्र, बाढी पूर्वानुमान महाशाखाले उक्त अनुमान गरेको हो । महाशाखाका बाढीविद् सौहार्द जोशीले कोशी, नारायणी, कर्णाली, महाकालीलगायत प्रमुख नदी तथा सहायक नदीमा जलसतह उल्लेख्य बढ्ने पूर्वानुमान गर्दै उच्च सतर्कता अपनाउन आग्रह […]",
-      "link": "https://www.karobardaily.com/news/420212",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2025/07/Nuwakot-Trishuli-River-Flood_-903-150x150.jpg",
-      "pubDate": 1790232313000,
-      "category": "artha",
-      "trendingScore": 57,
-      "breaking": true,
-      "clusterId": "cluster-4KSqIOCksOCkriDgpJYg",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "arthasarokar",
-      "title": "प्रधानमन्त्री राहत कोषमा १५ अर्ब नाघ्यो",
-      "description": "काठमाडौँ । रसुवाको भोटेकोशी नदीमा आएको बाढी प्रभावितका लागि आर्थिक सहयोग जुट्नेक्रम जारी छ । हालसम्म प्रधानमन्त्री दैवी प्रकोप उद्धार कोष र प्रधानमन्त्री राहत कोषका सबै खातामा गरी रु १५ अर्ब ५० करोडभन्दा बढी मौज्दात छ । प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालयका अनुसार हाल प्रधानमन्त्री दैवी प्रकोप उद्धार कोषका विभिन्न नौ वटा वाणिज्य बैंकमा हाल रु Continue reading \"प्रधानमन्त्री राहत कोषमा १५ अर्ब नाघ्यो\"",
-      "link": "https://arthasarokar.com/2026/09/prime-ministers-relief-fund-crosses-rs-15-billion.html",
-      "pubDate": 1790232210000,
-      "category": "rajaniti",
-      "trendingScore": 57,
-      "breaking": true,
-      "clusterId": "cluster-4KSqIOCksOCkpyDgpKjg",
-      "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
     }
   ]
 }
