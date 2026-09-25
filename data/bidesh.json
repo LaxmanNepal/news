@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T19:28:39.843Z",
+  "generatedAt": "2026-09-25T22:42:33.871Z",
   "category": "bidesh",
   "articles": [
     {
@@ -10,7 +10,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/photo-1-1.jpeg",
       "pubDate": 1790340696000,
       "category": "bidesh",
-      "trendingScore": 69,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KS44KSh4KSVIOCksCDg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -22,7 +22,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025317/glaciers-and-floods-do-not-travel-with-a-visa-stamp-in-the-passport",
       "pubDate": 1790352982000,
       "category": "bidesh",
-      "trendingScore": 66,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KS5IOCkruCkqOCkpiDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -35,7 +35,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2023/09/sudur.jpg",
       "pubDate": 1790342716000,
       "category": "bidesh",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSVIOCkruCkuSDg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -48,7 +48,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b829/live/97a44680-b8ab-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1790320266000,
       "category": "bidesh",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCktyDgpKPgpK0g",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -61,23 +61,10 @@
       "image": "https://rpcdn.ratopati.com/media/albums/kaski_zVE0A1gexY.jpg",
       "pubDate": 1790360537000,
       "category": "bidesh",
-      "trendingScore": 61,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KS1IOCktiDgpLUg4KSq",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "काठमाडौं–सांघाई सिधा उडान पुन: सुरु हुँदै",
-      "description": "काठमाडौं– हिमालय एयरलाइन्सले काठमाडौं–सांघाई सिधा उडान आगामी सेप्टेम्बर २८ देखि पुन: सुरु हुने भएको छ । कम्पनीले चीनको सांघाईस्थित पुडोङ अन्तर्राष्ट्रिय विमानस्थलमा नियमित उडान गर्न लागेको हो । कम्पनीका अनुसार यस रुटमा नियमित उडान गर्ने हिमालय एयरलाइन्स एक मात्र नेपाली वायुसेवा कम्पनी हो । प्रारम्भिक चरणमा सातामा दुईवटा उडान सञ्चालन हुनेछन् । काठमाडौंबाट सांघाईका लागि […]",
-      "link": "https://www.karobardaily.com/news/420710",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/himalayan_air-150x150.jpg",
-      "pubDate": 1790332807000,
-      "category": "bidesh",
-      "trendingScore": 59,
-      "breaking": false,
-      "clusterId": "cluster-4KSVIOCkoOCkriDgpKEg",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
       "sourceId": "ratopati",
@@ -87,7 +74,7 @@
       "image": "https://npcdn.ratopati.com/media/news/817296326_978405725293279_3562270625971529185_n_09UVJkMeGx.webp",
       "pubDate": 1790353820000,
       "category": "bidesh",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSq4KSw4KSwIOCktyDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -100,7 +87,7 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1790353608_China",
       "pubDate": 1790353724000,
       "category": "bidesh",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -113,7 +100,7 @@
       "image": "https://npcdn.ratopati.com/media/news/816926330_1092704143164095_7780669422163655582_n_z5k8KYijds.webp",
       "pubDate": 1790353405000,
       "category": "bidesh",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkqiDgpLIg4KSw",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -126,10 +113,23 @@
       "image": "https://npcdn.ratopati.com/media/news/festival_yoIsafh3Fq.webp",
       "pubDate": 1790352749000,
       "category": "bidesh",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KS1IOCktiDgpLUg4KSq",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "karobar",
+      "title": "काठमाडौं–सांघाई सिधा उडान पुन: सुरु हुँदै",
+      "description": "काठमाडौं– हिमालय एयरलाइन्सले काठमाडौं–सांघाई सिधा उडान आगामी सेप्टेम्बर २८ देखि पुन: सुरु हुने भएको छ । कम्पनीले चीनको सांघाईस्थित पुडोङ अन्तर्राष्ट्रिय विमानस्थलमा नियमित उडान गर्न लागेको हो । कम्पनीका अनुसार यस रुटमा नियमित उडान गर्ने हिमालय एयरलाइन्स एक मात्र नेपाली वायुसेवा कम्पनी हो । प्रारम्भिक चरणमा सातामा दुईवटा उडान सञ्चालन हुनेछन् । काठमाडौंबाट सांघाईका लागि […]",
+      "link": "https://www.karobardaily.com/news/420710",
+      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/himalayan_air-150x150.jpg",
+      "pubDate": 1790332807000,
+      "category": "bidesh",
+      "trendingScore": 54,
+      "breaking": false,
+      "clusterId": "cluster-4KSVIOCkoOCkriDgpKEg",
+      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
       "sourceId": "onlinekhabar",
@@ -138,7 +138,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025779/defense-university-will-it-be-a-military-or-academic-institution",
       "pubDate": 1790352345000,
       "category": "bidesh",
-      "trendingScore": 58,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCkpCDgpLDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -151,7 +151,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/80f4/live/3b328000-b8b6-11f1-bc1f-3f186ca4140c.jpg",
       "pubDate": 1790322927000,
       "category": "bidesh",
-      "trendingScore": 55,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSF4KS5IOCksiDgpJUg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -164,7 +164,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1766589993_Pokhara.jpg",
       "pubDate": 1790338024000,
       "category": "bidesh",
-      "trendingScore": 52,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KS14KSwIOCktyDgpLIg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -177,7 +177,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/84d4/live/74998e50-b73b-11f1-bc1f-3f186ca4140c.jpg",
       "pubDate": 1790315726000,
       "category": "bidesh",
-      "trendingScore": 52,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSH4KSwIOCkqCDgpK8g",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -190,7 +190,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc83/live/c29581f0-b7f3-11f1-bc1f-3f186ca4140c.jpg",
       "pubDate": 1790241359000,
       "category": "bidesh",
-      "trendingScore": 26,
+      "trendingScore": 22,
       "breaking": false,
       "clusterId": "cluster-4KS14KSwIOCktyDgpJUg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -203,7 +203,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5a8e/live/770c8150-b7c3-11f1-bc1f-3f186ca4140c.jpg",
       "pubDate": 1790219795000,
       "category": "bidesh",
-      "trendingScore": 18,
+      "trendingScore": 14,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"

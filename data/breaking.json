@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-09-25T19:28:39.843Z",
+  "generatedAt": "2026-09-25T22:42:33.871Z",
   "articles": [
+    {
+      "sourceId": "ratopati",
+      "title": "बाढी पसेपछि सुस्तावासी समस्यामा",
+      "description": "नवलपरासी (बर्दघाट सुस्ता पश्चिम) । निरन्तरको वर्षाले पश्चिम नवलपरासीको सुस्तामा नारायणी नदीको क्बाढीबस्तीमा पस्न थालेपछि स्थानीयवासी समस्या परेका छन् । जिल्लाको सुस्ता गाउँपालिका&ndash;५ सुस्तास्थित थारु टोलका घरपरिवार बाढी पसेपछि सुस्तामै रहेको सामुदायिक भवन तथा आफन्तकहाँ आश्रय",
+      "link": "https://www.ratopati.com/story/594968/susta-residents-in-trouble-after-floods",
+      "image": "https://rpcdn.ratopati.com/archived-media/narayani-nadi.jpg",
+      "pubDate": 1790376127000,
+      "category": "khelkud",
+      "trendingScore": 70,
+      "breaking": true,
+      "clusterId": "cluster-4KSsIOCkoiDgpKrgpLgg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "झापामा ‘ड्रोन’ बाट बाढीको जोखिम निगरानी",
+      "description": "झापा । बङ्गालको खाडीबाट अगाडि बढिरहेको वर्षा प्रणालीका कारण बाढी तथा डुबानको जोखिम बढेपछि झापामा जोखिम क्षेत्रको निगरानीका लागि पहिलोपटक ड्रोन प्रयोगमा ल्याइएको छ । जिल्ला विपद् व्यवस्थापन समितिले बाढी तथा डुबानको जोखिम निगरानी र",
+      "link": "https://www.ratopati.com/story/594967/flood-risk-monitoring-using-drones-in-jhapa",
+      "image": "https://npcdn.ratopati.com/media/news/jhapa__dhzolqasr2_QnjZRO8TPN.webp",
+      "pubDate": 1790375879000,
+      "category": "taja",
+      "trendingScore": 70,
+      "breaking": true,
+      "clusterId": "cluster-4KSdIOCkqiDgpK4g4KSh",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "बाढीको जोखिममा राप्ती तटीय क्षेत्रका बासिन्दा",
+      "description": "बाँके । बाँकेमा दुई दिनदेखि जारी अविरल वर्षाको कारण राप्ती नदी तटीय क्षेत्रका बासिन्दा बाढीको जोखिममा परेका छन् । राप्ती नदीले राप्ती सोनारीको २ नं वडादेखि नरैनापुरसम्मकै तल्लोतटीय क्षेत्रका बासिन्दालाई वर्षेनी जोखिम राख्दै आएको छ ।",
+      "link": "https://www.ratopati.com/story/594965/residents-of-rapti-coastal-areas-at-risk-of-flooding",
+      "image": "https://rpcdn.ratopati.com/media/albums/rapti-river_MNNUTspPKh.jpg",
+      "pubDate": 1790375483000,
+      "category": "taja",
+      "trendingScore": 70,
+      "breaking": true,
+      "clusterId": "cluster-4KSsIOCkoiDgpJUg4KSc",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
     {
       "sourceId": "ratopati",
       "title": "घाँसीकुवाको पहिरो पन्छाइयो : पृथ्वी राजमार्गमा यातायात सेवा पुनः सञ्चालन",
@@ -9,7 +48,7 @@
       "image": "https://npcdn.ratopati.com/media/news/tanahu-map_us5mlswuc2_MPGIzBN5w0.jpg",
       "pubDate": 1790356008000,
       "category": "artha",
-      "trendingScore": 67,
+      "trendingScore": 63,
       "breaking": true,
       "clusterId": "cluster-4KSYIOCkuCDgpJUg4KS1",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -22,7 +61,7 @@
       "image": "https://npcdn.ratopati.com/media/news/hjdyt0UCSW.jpg",
       "pubDate": 1790354626000,
       "category": "khelkud",
-      "trendingScore": 66,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksiDgpKog4KSu",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -35,7 +74,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/roshi-scaled-1.jpg",
       "pubDate": 1790353227000,
       "category": "rajaniti",
-      "trendingScore": 74,
+      "trendingScore": 70,
       "breaking": true,
       "clusterId": "cluster-4KSwIOCktiDgpJYg4KSy",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -47,7 +86,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025317/glaciers-and-floods-do-not-travel-with-a-visa-stamp-in-the-passport",
       "pubDate": 1790352982000,
       "category": "bidesh",
-      "trendingScore": 66,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KS5IOCkruCkqOCkpiDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -59,7 +98,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025964/prime-ministers-proposal-to-create-a-trilateral-climate-mechanism-experts-say-lets-expand-it-further",
       "pubDate": 1790352806000,
       "category": "rajaniti",
-      "trendingScore": 82,
+      "trendingScore": 78,
       "breaking": true,
       "clusterId": "cluster-4KSkIOCksCDgpKYg4KS2",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -71,7 +110,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025999/bagmati-government-immediately-requests-rs-1-billion-from-the-association-for-post-flood-reconstruction",
       "pubDate": 1790351090000,
       "category": "rajaniti",
-      "trendingScore": 73,
+      "trendingScore": 69,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKrgpJsg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -84,7 +123,7 @@
       "image": "https://npcdn.ratopati.com/media/news/prithivi-highway_pahiro-(5)_C9Gqr6nqHg.webp",
       "pubDate": 1790351000000,
       "category": "taja",
-      "trendingScore": 65,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSy4KSXIOCkpCDgpLDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -97,22 +136,9 @@
       "image": "https://npcdn.ratopati.com/media/news/krishna-veer_oAfH2ewQhk.webp",
       "pubDate": 1790350535000,
       "category": "taja",
-      "trendingScore": 65,
+      "trendingScore": 61,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCkpSDgpLUg4KSw",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "च्यासलमा बाढीको जोखिम बढेपछि अखिल (क्रान्तिकारी) जनचेतना अभियानमा",
-      "description": "ललितपुर । च्यासल क्षेत्रमा पानीको बहाव बढेसँगै बाढीको जोखिम बढ्न थालेपछि अखिल (क्रान्तिकारी) ले जनचेतना अभियान सञ्चालन गरेको छ। खोला किनारमा हिँडिरहेका नागरिकलाई सुरक्षित स्थानमा बस्न र अनावश्यक रूपमा खोला आसपास नजान आग्रह गर्दै सङ्गठनका स्वयंसेवकहरू",
-      "link": "https://www.ratopati.com/story/594938/all-out-revolutionary-public-awareness-campaign-launched-as-flood-risk-increases-in-chyasal",
-      "image": "https://npcdn.ratopati.com/media/news/uml-party-office-(7)_xKEkp9b7eU.webp",
-      "pubDate": 1790349225000,
-      "category": "taja",
-      "trendingScore": 65,
-      "breaking": true,
-      "clusterId": "cluster-4KSaIOCkryDgpLjgpLLg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
@@ -123,7 +149,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/sachin-113.jpeg",
       "pubDate": 1790347644000,
       "category": "artha",
-      "trendingScore": 72,
+      "trendingScore": 68,
       "breaking": true,
       "clusterId": "cluster-4KSuIOCkuOCkriDgpLAg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -135,7 +161,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025966/richa-who-went-missing-in-the-bhotekoshi-flood-passes-the-civil-service-exam",
       "pubDate": 1790347047000,
       "category": "prabidhi",
-      "trendingScore": 64,
+      "trendingScore": 60,
       "breaking": true,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -147,7 +173,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025955/police-recover-bike-buried-in-landslide-at-ghansikuwa-section-of-prithvi-highway",
       "pubDate": 1790345310000,
       "category": "artha",
-      "trendingScore": 63,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCkpSDgpLUg4KSw",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -159,7 +185,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025942/dr-singh-takes-care-of-siblings-who-lost-their-father-in-the-flood-and-their-mother-to-cancer",
       "pubDate": 1790343852000,
       "category": "prabidhi",
-      "trendingScore": 63,
+      "trendingScore": 58,
       "breaking": true,
       "clusterId": "cluster-4KShIOCkuCDgpLngpLIg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -172,7 +198,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/apf-11-1.jpg",
       "pubDate": 1790343497000,
       "category": "prabidhi",
-      "trendingScore": 78,
+      "trendingScore": 74,
       "breaking": true,
       "clusterId": "cluster-4KStIOCksCDgpLXgpLAg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -185,7 +211,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2024/06/pahero.jpg",
       "pubDate": 1790342579000,
       "category": "khelkud",
-      "trendingScore": 70,
+      "trendingScore": 66,
       "breaking": true,
       "clusterId": "cluster-4KSq4KS5IOCksCDgpLIg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -198,7 +224,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/photo-1-1.jpeg",
       "pubDate": 1790340696000,
       "category": "bidesh",
-      "trendingScore": 69,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KS44KSh4KSVIOCksCDg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -211,7 +237,7 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1787911795_Bhotekoshi%20Badi.jpg",
       "pubDate": 1790340021000,
       "category": "prabidhi",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -223,7 +249,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025890/maharjan-who-was-rescued-alive-after-being-trapped-in-a-tunnel-for-10-days-has-been-discharged-from-the-hospital",
       "pubDate": 1790339891000,
       "category": "prabidhi",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": true,
       "clusterId": "cluster-4KS4IOCksCDgpJngpK0g",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -235,7 +261,7 @@
       "link": "https://www.ujyaaloonline.com/detail/131918",
       "pubDate": 1790336520000,
       "category": "artha",
-      "trendingScore": 60,
+      "trendingScore": 56,
       "breaking": true,
       "clusterId": "cluster-4KSy4KSXIOCkpCDgpLAg",
       "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
@@ -247,7 +273,7 @@
       "link": "https://arthasarokar.com/2026/09/priority-to-be-given-to-online-bus-ticket-booking-during-festivals.html",
       "pubDate": 1790336327000,
       "category": "artha",
-      "trendingScore": 76,
+      "trendingScore": 72,
       "breaking": true,
       "clusterId": "cluster-4KSaIOCkoeCkquCksCDg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -260,7 +286,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/china_nepal-150x150.jpg",
       "pubDate": 1790332026000,
       "category": "rajaniti",
-      "trendingScore": 66,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KSw4KS4IOCktSDgpJfg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -273,7 +299,7 @@
       "image": "https://media.arthasarokar.com/uploads/2026/09/chovar-1.jpg",
       "pubDate": 1790322248000,
       "category": "prabidhi",
-      "trendingScore": 63,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCkoOCkriDgpKEg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -286,7 +312,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/jilla_pashasan_dang-150x150.jpg",
       "pubDate": 1790321652000,
       "category": "artha",
-      "trendingScore": 71,
+      "trendingScore": 66,
       "breaking": true,
       "clusterId": "cluster-4KSmIOCkmeCklSDgpJwg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -299,7 +325,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/pokhara-sawari-band-150x150.jpg",
       "pubDate": 1790321463000,
       "category": "artha",
-      "trendingScore": 71,
+      "trendingScore": 66,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCkuCDgpJUg4KSu",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -312,7 +338,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b829/live/97a44680-b8ab-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1790320266000,
       "category": "bidesh",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCktyDgpKPgpK0g",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -324,7 +350,7 @@
       "link": "https://arthasarokar.com/2026/09/narayangadh-muglin-road-closed-for-indefinite-period.html",
       "pubDate": 1790319094000,
       "category": "khelkud",
-      "trendingScore": 70,
+      "trendingScore": 66,
       "breaking": true,
       "clusterId": "cluster-4KSuIOCklyDgpLIg4KSo",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -337,7 +363,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/krishnabhir-sadak-bhasieko-150x150.jpg",
       "pubDate": 1790317126000,
       "category": "khelkud",
-      "trendingScore": 69,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCktyDgpKPgpK0g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -350,35 +376,10 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e1f/live/2f216510-b89d-11f1-b1d1-571ed4d7ff2c.jpg",
       "pubDate": 1790313676000,
       "category": "rajaniti",
-      "trendingScore": 60,
+      "trendingScore": 56,
       "breaking": true,
       "clusterId": "cluster-4KSc4KSy4KS1IOCkryDg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
-    },
-    {
-      "sourceId": "arthasarokar",
-      "title": "राष्ट्रसंघमा बालेनले भने- ‘घर जलिरहँदा फारम भर्न लगाइँदैन, तत्काल उद्धार गरिन्छ, जलवायु न्यायको अर्थ यही हुनुपर्छ’",
-      "description": "काठमाडौँ । प्रधानमन्त्री बालेन्द्र शाह (बालेन)ले नेपालको भोटेकोशी र त्रिशूलीमा आएको विनाशकारी बाढीलाई विश्व समुदायका लागि एक गम्भीर चेतावनी भएको बताएका छन् । संयुक्त राष्ट्रसंघको ८१औँ महासभालाई सम्बोधन गर्दै उनले जलवायु परिवर्तनका कारण भोग्नुपरेको यो त्रासदी केवल नेपालको मात्र नभई सम्पूर्ण मानवताको साझा संकट भएको बताएका हुन् । न्युयोर्कस्थित संयुक्त राष्ट्रसंघको मुख्यालयमा आफ्नो पहिलो सम्बोधनका Continue reading \"राष्ट्रसंघमा बालेनले भने- ‘घर जलिरहँदा फारम भर्न लगाइँदैन, तत्काल उद्धार गरिन्छ, जलवायु न्यायको अर्थ यही हुनुपर्छ’\"",
-      "link": "https://arthasarokar.com/2026/09/when-houses-are-burning-people-are-not-asked-to-fill-out-forms-they-are-immediately-rescued-this-is-what-climate-justice-should-mean-balen-told-the-united-nations.html",
-      "pubDate": 1790311095000,
-      "category": "rajaniti",
-      "trendingScore": 67,
-      "breaking": true,
-      "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
-      "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "प्रकृति हिंस्रक मात्र होइन, सौम्य पनि छ",
-      "description": "नेपालको भौगोलिक इतिहासमा प्रकृतिले स्वतःसिद्ध रूपमा जन्माएका काला दिनहरूको अंकगणित, हाम्रो विवेकहीन विकास र प्रकृतिप्रतिको उदासीनताले मृत्यु र विनाशको भयावह हिसाबमा बदलिँदै गएको हाम्रा हरेक पुस्ताले युगौँदेखि अनुभव गर्दै आइरहेको संसारका आँखाअगाडि नाङ्गो सत्यझैँ उभिएको, जसले गर्दा हामी सधैँ मित्रराष्ट्रहरू र वैश्विक हितकारी संस्थाहरूको करुणा र कृपाका पात्र बनिरहनुपरेको यथार्थ न विगतमा न वर्तमानमा कहिल्यै […]",
-      "link": "https://www.karobardaily.com/news/420370",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/RK_Pokhara0D9A3904_3-150x150.jpg",
-      "pubDate": 1790300753000,
-      "category": "rajaniti",
-      "trendingScore": 55,
-      "breaking": true,
-      "clusterId": "cluster-4KSqIOCksOCklSDgpKQg",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     }
   ]
 }

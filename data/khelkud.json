@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T19:28:39.843Z",
+  "generatedAt": "2026-09-25T22:42:33.871Z",
   "category": "khelkud",
   "articles": [
     {
@@ -8,11 +8,24 @@
       "title": "राष्ट्रिय क्रिकेट टोलीको घोषणा, नयाँ खेलाडीलाई अवसर",
       "description": "आगामी सिरिजका लागि टोली घोषणा गर्दै प्रशिक्षकले युवा खेलाडीलाई समावेश गरेका छन्।",
       "link": "https://ekantipur.com/sports",
-      "pubDate": 1790364519843,
+      "pubDate": 1790376153871,
       "fromSnapshot": true,
       "category": "khelkud",
       "trendingScore": 70,
       "breaking": false
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "बाढी पसेपछि सुस्तावासी समस्यामा",
+      "description": "नवलपरासी (बर्दघाट सुस्ता पश्चिम) । निरन्तरको वर्षाले पश्चिम नवलपरासीको सुस्तामा नारायणी नदीको क्बाढीबस्तीमा पस्न थालेपछि स्थानीयवासी समस्या परेका छन् । जिल्लाको सुस्ता गाउँपालिका&ndash;५ सुस्तास्थित थारु टोलका घरपरिवार बाढी पसेपछि सुस्तामै रहेको सामुदायिक भवन तथा आफन्तकहाँ आश्रय",
+      "link": "https://www.ratopati.com/story/594968/susta-residents-in-trouble-after-floods",
+      "image": "https://rpcdn.ratopati.com/archived-media/narayani-nadi.jpg",
+      "pubDate": 1790376127000,
+      "category": "khelkud",
+      "trendingScore": 70,
+      "breaking": true,
+      "clusterId": "cluster-4KSsIOCkoiDgpKrgpLgg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "rajdhani",
@@ -22,7 +35,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2024/06/pahero.jpg",
       "pubDate": 1790342579000,
       "category": "khelkud",
-      "trendingScore": 70,
+      "trendingScore": 66,
       "breaking": true,
       "clusterId": "cluster-4KSq4KS5IOCksCDgpLIg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -34,7 +47,7 @@
       "link": "https://arthasarokar.com/2026/09/narayangadh-muglin-road-closed-for-indefinite-period.html",
       "pubDate": 1790319094000,
       "category": "khelkud",
-      "trendingScore": 70,
+      "trendingScore": 66,
       "breaking": true,
       "clusterId": "cluster-4KSuIOCklyDgpLIg4KSo",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -47,10 +60,36 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/krishnabhir-sadak-bhasieko-150x150.jpg",
       "pubDate": 1790317126000,
       "category": "khelkud",
-      "trendingScore": 69,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCktyDgpKPgpK0g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "एमबाप्पेको निर्णायक गोलमा फ्रान्स विजयी",
+      "description": "काठमाडौँ । नेसन्स लिग अन्तर्गत समूह &lsquo;ए&rsquo; को पहिलो खेलमा फ्रान्सले टर्किएलाई १&ndash;० गोलअन्तरले पराजित गरेको छ । खेलको ५४औँ मिनेटमा किलियन एमबाप्पेले गरेको गोल नै फ्रान्सको जितका लागि निर्णायक बन्यो । यता खेलको ८७औँ मिनेटमा उगुरकान",
+      "link": "https://www.ratopati.com/story/594964/france-wins-with-mbappes-decisive-goal",
+      "image": "https://npcdn.ratopati.com/media/news/france_m0iiqHZ6EJ.webp",
+      "pubDate": 1790375294000,
+      "category": "khelkud",
+      "trendingScore": 62,
+      "breaking": false,
+      "clusterId": "cluster-4KSP4KSu4KSsIOCkqiDg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "नेसन्स लिगमा इटालीमाथि बेल्जियमको सहज जित",
+      "description": "काठमाडौँ । नेसन्स लिग अन्तर्गत समूह &lsquo;ए&rsquo; को पहिलो खेलमा बेल्जियमले इटालीलाई २&ndash;० गोलअन्तरले पराजित गरेको छ । खेलको २०औँ मिनेटमा मिका गोट्सले गोल गर्दै बेल्जियमलाई सुरुवाती अग्रता दिलाएका थिए । त्यसपछि खेलको ६९औँ मिनेटमा डोडी",
+      "link": "https://www.ratopati.com/story/594963/belgium-comfortably-beat-italy-in-nations-league",
+      "image": "https://npcdn.ratopati.com/media/news/belguim-vs-italy_o8V66rNA7D.webp",
+      "pubDate": 1790375060000,
+      "category": "khelkud",
+      "trendingScore": 62,
+      "breaking": false,
+      "clusterId": "cluster-4KSoIOCkuOCkqCDgpLgg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "ratopati",
@@ -60,7 +99,7 @@
       "image": "https://npcdn.ratopati.com/media/news/hjdyt0UCSW.jpg",
       "pubDate": 1790354626000,
       "category": "khelkud",
-      "trendingScore": 66,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksiDgpKog4KSu",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -73,7 +112,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/pani-scaled.jpg",
       "pubDate": 1790349124000,
       "category": "khelkud",
-      "trendingScore": 64,
+      "trendingScore": 60,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkpiDgpLDgpKrg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -86,7 +125,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/rohit-paudel.jpg",
       "pubDate": 1790343075000,
       "category": "khelkud",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KSfIOClqOClpiDgpLXg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -98,7 +137,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2026009/india-draws-with-panama-in-friendly-football-match",
       "pubDate": 1790356683000,
       "category": "khelkud",
-      "trendingScore": 59,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCkpCDgpLAg4KSq",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -110,7 +149,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025611/after-12-years-nepal-took-revenge-on-afghanistan-at-the-asian-games",
       "pubDate": 1790353044000,
       "category": "khelkud",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KWn4KWoIOCkteCksCDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -123,7 +162,7 @@
       "image": "https://npcdn.ratopati.com/media/news/pokhara-airport_RsrXVise7l.png",
       "pubDate": 1790352335000,
       "category": "khelkud",
-      "trendingScore": 58,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCkpCDgpJUg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -135,7 +174,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025944/nepal-to-play-japan-in-second-match-of-asian-games-mens-cricket",
       "pubDate": 1790344898000,
       "category": "khelkud",
-      "trendingScore": 55,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSP4KS4IOCkr-CkqCDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -147,7 +186,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025939/nepali-youth-taekwondo-team-in-china",
       "pubDate": 1790343699000,
       "category": "khelkud",
-      "trendingScore": 55,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkqiDgpLIg4KSv",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -159,21 +198,9 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025934/continuation-of-partnership-between-nepal-lube-and-janakpur-bolts",
       "pubDate": 1790343543000,
       "category": "khelkud",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkqiDgpLIg4KSy",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "फुडपार्क भेट्रान फुटसल प्रतियोगिता आयोजना हुँदै",
-      "description": "९ असोज, काठमाडौं । फुडपार्कको आयोजनामा नेपाली भेट्रान फुटबल खेलाडीहरूबीचको भेट्रान फुटसल प्रतियोगिता आयोजना हुने भएको छ । प्रतियोगिता आगामी अक्टोबर ९ र १० अर्थात् असोज २३ र २४ गते हब स्पोर्ट्स सेन्टर र मेडन एरिनामा सञ्चालन हुनेछ । प्रतियोगिताको विजेता टोलीले १० लाख रुपैयाँ तथा उपविजेताले ३ लाख २५ हजार रुपैयाँ नगद पुरस्कार प्राप्त […]",
-      "link": "https://www.onlinekhabar.com/2026/09/2025901/food-park-veteran-futsal-tournament-being-organized",
-      "pubDate": 1790341015000,
-      "category": "khelkud",
-      "trendingScore": 54,
-      "breaking": false,
-      "clusterId": "cluster-4KSrIOCkoeCkqiDgpLAg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
@@ -184,10 +211,22 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/06/israel-150x150.jpg",
       "pubDate": 1790320600000,
       "category": "khelkud",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSH4KSc4KSwIOCkr-Ck",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "फुडपार्क भेट्रान फुटसल प्रतियोगिता आयोजना हुँदै",
+      "description": "९ असोज, काठमाडौं । फुडपार्कको आयोजनामा नेपाली भेट्रान फुटबल खेलाडीहरूबीचको भेट्रान फुटसल प्रतियोगिता आयोजना हुने भएको छ । प्रतियोगिता आगामी अक्टोबर ९ र १० अर्थात् असोज २३ र २४ गते हब स्पोर्ट्स सेन्टर र मेडन एरिनामा सञ्चालन हुनेछ । प्रतियोगिताको विजेता टोलीले १० लाख रुपैयाँ तथा उपविजेताले ३ लाख २५ हजार रुपैयाँ नगद पुरस्कार प्राप्त […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2025901/food-park-veteran-futsal-tournament-being-organized",
+      "pubDate": 1790341015000,
+      "category": "khelkud",
+      "trendingScore": 49,
+      "breaking": false,
+      "clusterId": "cluster-4KSrIOCkoeCkqiDgpLAg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "nagarik",
@@ -197,7 +236,7 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1790339431_play.jpg",
       "pubDate": 1790339467000,
       "category": "khelkud",
-      "trendingScore": 53,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSrIOCkryDgpJzgpKgg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -210,7 +249,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/sadak-chidipani--150x150.jpg",
       "pubDate": 1790237206000,
       "category": "khelkud",
-      "trendingScore": 32,
+      "trendingScore": 28,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksiDgpKog4KSV",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -222,7 +261,7 @@
       "link": "https://arthasarokar.com/2026/09/narayangadh-muglin-road-section-to-remain-closed-for-vehicular-movement-throughout-night-due-to-heavy-rain.html",
       "pubDate": 1790247419000,
       "category": "khelkud",
-      "trendingScore": 28,
+      "trendingScore": 24,
       "breaking": false,
       "clusterId": "cluster-4KStIOCksCDgpLXgpLAg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -235,7 +274,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/kabadi_w-150x150.jpg",
       "pubDate": 1790246172000,
       "category": "khelkud",
-      "trendingScore": 28,
+      "trendingScore": 23,
       "breaking": false,
       "clusterId": "cluster-4KSu4KS5IOCksiDgpJXg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -248,7 +287,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/bajaj-150x150.jpeg",
       "pubDate": 1790230727000,
       "category": "khelkud",
-      "trendingScore": 22,
+      "trendingScore": 18,
       "breaking": false,
       "clusterId": "cluster-4KSs4KScIOCknOCklSDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"

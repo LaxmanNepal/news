@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T19:28:39.843Z",
+  "generatedAt": "2026-09-25T22:42:33.871Z",
   "category": "rajaniti",
   "articles": [
     {
@@ -9,10 +9,22 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025964/prime-ministers-proposal-to-create-a-trilateral-climate-mechanism-experts-say-lets-expand-it-further",
       "pubDate": 1790352806000,
       "category": "rajaniti",
-      "trendingScore": 82,
+      "trendingScore": 78,
       "breaking": true,
       "clusterId": "cluster-4KSkIOCksCDgpKYg4KS2",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "id": "ekantipur::snap-0",
+      "sourceId": "ekantipur",
+      "title": "कान्तिपुर सम्पादकीय: सुशासनको परीक्षा",
+      "description": "कानुनी राज्यको पालना नै लोकतन्त्रको आधार हो भन्ने सम्पादकीय आज प्रकाशित भएको छ।",
+      "link": "https://ekantipur.com",
+      "pubDate": 1790376153871,
+      "fromSnapshot": true,
+      "category": "rajaniti",
+      "trendingScore": 70,
+      "breaking": false
     },
     {
       "sourceId": "rajdhani",
@@ -22,7 +34,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/roshi-scaled-1.jpg",
       "pubDate": 1790353227000,
       "category": "rajaniti",
-      "trendingScore": 74,
+      "trendingScore": 70,
       "breaking": true,
       "clusterId": "cluster-4KSwIOCktiDgpJYg4KSy",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -34,22 +46,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025999/bagmati-government-immediately-requests-rs-1-billion-from-the-association-for-post-flood-reconstruction",
       "pubDate": 1790351090000,
       "category": "rajaniti",
-      "trendingScore": 73,
+      "trendingScore": 69,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKrgpJsg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "id": "ekantipur::snap-0",
-      "sourceId": "ekantipur",
-      "title": "कान्तिपुर सम्पादकीय: सुशासनको परीक्षा",
-      "description": "कानुनी राज्यको पालना नै लोकतन्त्रको आधार हो भन्ने सम्पादकीय आज प्रकाशित भएको छ।",
-      "link": "https://ekantipur.com",
-      "pubDate": 1790364519843,
-      "fromSnapshot": true,
-      "category": "rajaniti",
-      "trendingScore": 70,
-      "breaking": false
     },
     {
       "sourceId": "arthasarokar",
@@ -58,8 +58,8 @@
       "link": "https://arthasarokar.com/2026/09/when-houses-are-burning-people-are-not-asked-to-fill-out-forms-they-are-immediately-rescued-this-is-what-climate-justice-should-mean-balen-told-the-united-nations.html",
       "pubDate": 1790311095000,
       "category": "rajaniti",
-      "trendingScore": 67,
-      "breaking": true,
+      "trendingScore": 63,
+      "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
     },
@@ -71,7 +71,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/china_nepal-150x150.jpg",
       "pubDate": 1790332026000,
       "category": "rajaniti",
-      "trendingScore": 66,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KSw4KS4IOCktSDgpJfg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -83,7 +83,7 @@
       "link": "https://www.setopati.com/politics/399256",
       "pubDate": 1790346966000,
       "category": "rajaniti",
-      "trendingScore": 64,
+      "trendingScore": 60,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCkpyDgpKjg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -95,7 +95,7 @@
       "link": "https://www.setopati.com/kinmel/agriculture/399262",
       "pubDate": 1790343960000,
       "category": "rajaniti",
-      "trendingScore": 63,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KS5IOCktSDgpLkg4KSw",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -107,7 +107,7 @@
       "link": "https://www.setopati.com/kinmel/automobiles/399260",
       "pubDate": 1790343569000,
       "category": "rajaniti",
-      "trendingScore": 62,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkryDgpJUg4KSu",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
@@ -120,23 +120,10 @@
       "image": "https://npcdn.ratopati.com/media/news/12-news_ctZAxilkds.webp",
       "pubDate": 1790360100000,
       "category": "rajaniti",
-      "trendingScore": 60,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KWn4KWoIOCkrOCknCDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "ऊर्जाका आयोजना निर्माणमा अवरोध गर्ने नेता–कार्यकर्तालाई कारबाही गर्छौं : गगन थापा",
-      "description": "काठमाडौं– नेपाली कांग्रेसका सभापति गगन थापाले जलविद्युत तथा ऊर्जाका निर्माणाधीन आयोजनामा स्थानीय तहबाट अवरोध गर्ने आफ्नै पार्टीका नेता–कार्यकर्तामाथि कारबाही गर्ने प्रतिबद्धता जनाएका छन् । स्वतन्त्र ऊर्जा उत्पादकहरूको संस्था, नेपाल (इप्पान) को राजनीतिक दलहरुसँग छलफल तथा संवाद गर्ने क्रममा उनले कानुनसम्मत रूपमा ऊर्जाका आयोजना निर्माण गर्न खोजिरहेका ऊर्जा उद्यमीलाई कांग्रेससम्बद्ध स्थानीय तह वा कार्यकर्ताले दु:ख दिए […]",
-      "link": "https://www.karobardaily.com/news/420727",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/gagan-ipan-150x150.jpg",
-      "pubDate": 1790335327000,
-      "category": "rajaniti",
-      "trendingScore": 60,
-      "breaking": false,
-      "clusterId": "cluster-4KSK4KSwIOCknCDgpJUg",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
       "sourceId": "bbcnepali",
@@ -146,7 +133,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e1f/live/2f216510-b89d-11f1-b1d1-571ed4d7ff2c.jpg",
       "pubDate": 1790313676000,
       "category": "rajaniti",
-      "trendingScore": 60,
+      "trendingScore": 56,
       "breaking": true,
       "clusterId": "cluster-4KSc4KSy4KS1IOCkryDg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -159,7 +146,7 @@
       "image": "https://npcdn.ratopati.com/media/news/austria-china_FhVsbCYVoF.webp",
       "pubDate": 1790356475000,
       "category": "rajaniti",
-      "trendingScore": 59,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSaIOCkqCDgpIXgpLgg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -172,10 +159,23 @@
       "image": "https://npcdn.ratopati.com/media/news/srilanka-falg_G0joNuC6Lx.png",
       "pubDate": 1790355974000,
       "category": "rajaniti",
-      "trendingScore": 59,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KS2IOCksCDgpLLgpJkg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "karobar",
+      "title": "ऊर्जाका आयोजना निर्माणमा अवरोध गर्ने नेता–कार्यकर्तालाई कारबाही गर्छौं : गगन थापा",
+      "description": "काठमाडौं– नेपाली कांग्रेसका सभापति गगन थापाले जलविद्युत तथा ऊर्जाका निर्माणाधीन आयोजनामा स्थानीय तहबाट अवरोध गर्ने आफ्नै पार्टीका नेता–कार्यकर्तामाथि कारबाही गर्ने प्रतिबद्धता जनाएका छन् । स्वतन्त्र ऊर्जा उत्पादकहरूको संस्था, नेपाल (इप्पान) को राजनीतिक दलहरुसँग छलफल तथा संवाद गर्ने क्रममा उनले कानुनसम्मत रूपमा ऊर्जाका आयोजना निर्माण गर्न खोजिरहेका ऊर्जा उद्यमीलाई कांग्रेससम्बद्ध स्थानीय तह वा कार्यकर्ताले दु:ख दिए […]",
+      "link": "https://www.karobardaily.com/news/420727",
+      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/gagan-ipan-150x150.jpg",
+      "pubDate": 1790335327000,
+      "category": "rajaniti",
+      "trendingScore": 55,
+      "breaking": false,
+      "clusterId": "cluster-4KSK4KSwIOCknCDgpJUg",
+      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
       "sourceId": "karobar",
@@ -185,7 +185,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/guthiwasi_janakpur-150x150.jpg",
       "pubDate": 1790333295000,
       "category": "rajaniti",
-      "trendingScore": 59,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSXIOCkoCDgpJzgpJcg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -197,7 +197,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025792/nepal-expresses-serious-concern-through-its-youngest-prime-minister",
       "pubDate": 1790352924000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCkqCDgpJsg4KSq",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -209,7 +209,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2026006/15-committees-formed-for-congress-general-convention-gagan-to-be-coordinator-of-steering-committee",
       "pubDate": 1790352905000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCklyDgpLAg4KS4",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -221,7 +221,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025353/balens-address-to-the-un-general-assembly-pointing-out-weaknesses-seeking-cooperation",
       "pubDate": 1790352842000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSvIOCkpiDgpKcg4KSw",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -233,7 +233,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025900/nepals-political-context-was-missed-in-the-prime-ministers-un-address",
       "pubDate": 1790352683000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCkpyDgpKjg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -245,7 +245,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025236/government-is-becoming-weak-in-market-management-due-to-the-fear-of-transmission",
       "pubDate": 1790352659000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KS44KSwIOCktSDgpIbg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -257,7 +257,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025949/turtle-pace-in-the-implementation-of-national-pride-projects-where-is-the-problem",
       "pubDate": 1790352562000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -269,7 +269,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025871/nepal-risks-falling-into-tier-3-if-human-trafficking-law-is-not-enacted-as-per-parlemo-protocol",
       "pubDate": 1790352508000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksCDgpLIg4KSu",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -281,7 +281,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025897/now-the-national-service-corps-will-be-non-military-in-nature-capable-of-providing-training-to-anyone-other-than-the-military",
       "pubDate": 1790352460000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSsIOCksCDgpLcg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -294,7 +294,7 @@
       "image": "https://npcdn.ratopati.com/media/news/mangal-shahi_EX5dDbVMLG.webp",
       "pubDate": 1790352052000,
       "category": "rajaniti",
-      "trendingScore": 58,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCktSDgpJcg4KSw",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -307,7 +307,7 @@
       "image": "https://npcdn.ratopati.com/media/news/congress-office_Gx0xPlD6v4.webp",
       "pubDate": 1790351391000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCklyDgpLAg4KS4",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -320,22 +320,9 @@
       "image": "https://npcdn.ratopati.com/media/news/bm_XDutA8CFq2.webp",
       "pubDate": 1790349993000,
       "category": "rajaniti",
-      "trendingScore": 57,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSc4KSo4KSV4KSqIOCk",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "औद्योगिक विकासका लागि कर प्रणाली पुनरवलोकन र पूर्वाधार निर्माण गर्न माग",
-      "description": "विराटनगर। नेपाल उद्योग परिसंघ (सिएनआई) कोशी प्रदेशले देशको समग्र औद्योगिक तथा आर्थिक विकासका लागि कर संरचनामा व्यापक सुधार, विद्युत् महसुलमा लगाइएको मूल्य अभिवृद्धि कर (भ्याट) खारेजी तथा रुग्ण पूर्वाधारहरूको शीघ्र निर्माणको माग गर्दै सरकारलाई सुझावपत्र",
-      "link": "https://www.ratopati.com/story/594937/koshi-province-demands-review-of-tax-system-and-construction-of-infrastructure-for-industrial-development",
-      "image": "https://npcdn.ratopati.com/media/news/uddhog_Xyw6EkCmeK.webp",
-      "pubDate": 1790348861000,
-      "category": "rajaniti",
-      "trendingScore": 56,
-      "breaking": false,
-      "clusterId": "cluster-4KSU4KSmIOCkryDgpJcg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
@@ -346,36 +333,10 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1790348521_Balen%20(1).png",
       "pubDate": 1790348579000,
       "category": "rajaniti",
-      "trendingScore": 56,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KS1IOCknCDgpJ4g4KSt",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "‘हुँकार मधेस’ घोषणा : संयोजक बन्न स्नातकोत्तरदेखि १० वर्षे राजनीतिक अनुभवसम्मको मापदण्ड",
-      "description": "काठमाडौँ। विभिन्न राजनीतिक दल परित्याग गरेका युवाहरूको भेलाले &lsquo;हुँकार मधेस&rsquo; नामक नयाँ राजनीतिक सङ्गठन घोषणा गरेको छ । मधेसको समग्र अधिकार, सुशासन र वैकल्पिक राजनीतिको एजेन्डासहित अघि बढ्ने घोषणा गरिएको सङ्गठनले ११८ सदस्यीय केन्द्रीय अभियन्ताको",
-      "link": "https://www.ratopati.com/story/594935/hunkar-madhes-announcement-criteria-for-becoming-a-coordinator-range-from-a-masters-degree-to-10-years-of-political-experience",
-      "image": "https://npcdn.ratopati.com/media/news/hunkar-madhesh_YeR8tmNyYq.webp",
-      "pubDate": 1790348141000,
-      "category": "rajaniti",
-      "trendingScore": 56,
-      "breaking": false,
-      "clusterId": "cluster-4KS5IOCklSDgpLAg4KSu",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "ओलीको ‘विद्या कार्ड’ले उब्जाएको संशय : वामपन्थी एकता कि विरोधीको मुख बन्द ?",
-      "description": "काठमाडौँ। नेकपा एमालेमा पूर्वउपाध्यक्ष विद्यादेवी भण्डारीको पुनरागमनले वामपन्थी एकता, सहकार्य र ध्रुवीकरणले नयाँ मोड लिनसक्ने चर्चा राजनीतिक वृत्तमा चलेको छ । बिहीबार ललितपुरको भनिमण्डलस्थित रामबाघमा सम्पन्न एमालेको केन्द्रीय समिति बैठकले पूर्वराष्ट्रपति भण्डारीलाई सम्मानित वरिष्ठ नेतामा मनोनीत",
-      "link": "https://www.ratopati.com/story/594915/olis-education-card-raises-doubts-leftist-unity-or-silencing-the-opposition",
-      "image": "https://npcdn.ratopati.com/media/news/oli-bidhya_ZvysNSQMuS.webp",
-      "pubDate": 1790347500000,
-      "category": "rajaniti",
-      "trendingScore": 56,
-      "breaking": false,
-      "clusterId": "cluster-4KST4KSyIOCklSDgpLUg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "bbcnepali",
@@ -385,7 +346,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/894d/live/47dd3720-b8b4-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1790322044000,
       "category": "rajaniti",
-      "trendingScore": 55,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCkliDgpK8g4KSw",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -398,8 +359,8 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/RK_Pokhara0D9A3904_3-150x150.jpg",
       "pubDate": 1790300753000,
       "category": "rajaniti",
-      "trendingScore": 55,
-      "breaking": true,
+      "trendingScore": 51,
+      "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCklSDgpKQg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
@@ -410,21 +371,9 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025916/imran-khans-son-warns-of-counterattack",
       "pubDate": 1790341862000,
       "category": "rajaniti",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSH4KSu4KSwIOCkqOCk",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "कतारद्वारा नेतान्याहुको आरोप अस्वीकार",
-      "description": "९ असोज, दोहा (रासस/एएनआई) । कतारले इजरायली प्रधानमन्त्री बेन्जामिन नेतान्याहुले संयुक्त राष्ट्रसङ्घको ८१औँ महासभामा कतारविरुद्ध लगाउनुभएको आरोप अस्वीकार गर्दै त्यसलाई इजरायलको कार्यबाट ध्यान हटाउने प्रयास भएको बताएको छ । कतारको विदेश मन्त्रालयका प्रवक्ता माजेद अल–अन्सारीले सामाजिक सञ्जाल एक्समार्फत नेतान्याहुको आरोप स्पष्ट रूपमा अस्वीकार गरेका हुन्। उनले‍ कतारले इजरायलविरुद्ध जनमत प्रभावित पार्ने अभियान चलाइरहेको भन्ने आरोप निराधार रहेको […]",
-      "link": "https://www.onlinekhabar.com/2026/09/2025883/qatar-rejects-netanyahus-accusations",
-      "pubDate": 1790341101000,
-      "category": "rajaniti",
-      "trendingScore": 54,
-      "breaking": false,
-      "clusterId": "cluster-4KSV4KSkIOCksOCkpiDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
@@ -435,10 +384,22 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Cold-Store-150x150.jpeg",
       "pubDate": 1790320299000,
       "category": "rajaniti",
-      "trendingScore": 54,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCksiDgpKEg4KSa",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "कतारद्वारा नेतान्याहुको आरोप अस्वीकार",
+      "description": "९ असोज, दोहा (रासस/एएनआई) । कतारले इजरायली प्रधानमन्त्री बेन्जामिन नेतान्याहुले संयुक्त राष्ट्रसङ्घको ८१औँ महासभामा कतारविरुद्ध लगाउनुभएको आरोप अस्वीकार गर्दै त्यसलाई इजरायलको कार्यबाट ध्यान हटाउने प्रयास भएको बताएको छ । कतारको विदेश मन्त्रालयका प्रवक्ता माजेद अल–अन्सारीले सामाजिक सञ्जाल एक्समार्फत नेतान्याहुको आरोप स्पष्ट रूपमा अस्वीकार गरेका हुन्। उनले‍ कतारले इजरायलविरुद्ध जनमत प्रभावित पार्ने अभियान चलाइरहेको भन्ने आरोप निराधार रहेको […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2025883/qatar-rejects-netanyahus-accusations",
+      "pubDate": 1790341101000,
+      "category": "rajaniti",
+      "trendingScore": 49,
+      "breaking": false,
+      "clusterId": "cluster-4KSV4KSkIOCksOCkpiDg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "onlinekhabar",
@@ -447,7 +408,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025887/ai-training-for-80000-employees-in-singapore",
       "pubDate": 1790340030000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkmSDgpJcg4KSq",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -459,7 +420,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025891/trumps-decision-to-allow-ukraine-to-produce-patriot-missiles",
       "pubDate": 1790339983000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSvIOCklSDgpLAg4KSo",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -472,7 +433,7 @@
       "image": "https://images.nagariknewscdn.com/2025/third-party/1790338310_kumari%2010.jpg",
       "pubDate": 1790338227000,
       "category": "rajaniti",
-      "trendingScore": 53,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -484,7 +445,7 @@
       "link": "https://www.ujyaaloonline.com/detail/131919",
       "pubDate": 1790337836000,
       "category": "rajaniti",
-      "trendingScore": 52,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
@@ -497,7 +458,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/balen_rastrasangh-150x150.jpg",
       "pubDate": 1790314530000,
       "category": "rajaniti",
-      "trendingScore": 52,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -509,7 +470,7 @@
       "link": "https://arthasarokar.com/2026/09/gokul-baskota-praises-balens-un-address-says-it-was-firm-and-emphatic.html",
       "pubDate": 1790313181000,
       "category": "rajaniti",
-      "trendingScore": 52,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSXIOCklSDgpLIg4KSs",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -522,7 +483,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f01/live/bee75d80-b834-11f1-b1d1-571ed4d7ff2c.png",
       "pubDate": 1790307458000,
       "category": "rajaniti",
-      "trendingScore": 50,
+      "trendingScore": 45,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkteCksCDgpLfg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -535,7 +496,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/GD_KTM_RSS_08__DG_6281-150x150.jpeg",
       "pubDate": 1790302163000,
       "category": "rajaniti",
-      "trendingScore": 48,
+      "trendingScore": 43,
       "breaking": false,
       "clusterId": "cluster-4KStIOCksCDgpLXgpLAg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -547,7 +508,7 @@
       "link": "https://arthasarokar.com/2026/09/work-is-underway-on-critical-path-to-ease-gas-supply-industry-minister-sah.html",
       "pubDate": 1790253173000,
       "category": "rajaniti",
-      "trendingScore": 38,
+      "trendingScore": 34,
       "breaking": false,
       "clusterId": "cluster-4KSXIOCkryDgpLgg4KSG",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -560,7 +521,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/26bb/live/c0219130-b7f2-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1790247554000,
       "category": "rajaniti",
-      "trendingScore": 36,
+      "trendingScore": 32,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCksOCklSDgpLcg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -573,7 +534,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/santosh-shresstha-150x150.jpeg",
       "pubDate": 1790236634000,
       "category": "rajaniti",
-      "trendingScore": 24,
+      "trendingScore": 20,
       "breaking": false,
       "clusterId": "cluster-4KS1IOCknCDgpJ4g4KSq",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -586,7 +547,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/02/dhangadi_mukhyamantri-tatha-mantriparishad_sudurpachshim-150x150.jpg",
       "pubDate": 1790231665000,
       "category": "rajaniti",
-      "trendingScore": 22,
+      "trendingScore": 18,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCkpiDgpLYg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -599,7 +560,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/simraungarch-150x150.jpg",
       "pubDate": 1790231050000,
       "category": "rajaniti",
-      "trendingScore": 22,
+      "trendingScore": 18,
       "breaking": false,
       "clusterId": "cluster-4KSq4KSwIOCkr-Ckn-Ck",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"

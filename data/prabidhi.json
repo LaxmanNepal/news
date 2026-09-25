@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T19:28:39.843Z",
+  "generatedAt": "2026-09-25T22:42:33.871Z",
   "category": "prabidhi",
   "articles": [
     {
@@ -10,7 +10,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/apf-11-1.jpg",
       "pubDate": 1790343497000,
       "category": "prabidhi",
-      "trendingScore": 78,
+      "trendingScore": 74,
       "breaking": true,
       "clusterId": "cluster-4KStIOCksCDgpLXgpLAg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -21,7 +21,7 @@
       "title": "नेपालमा डिजिटल भुक्तानीको प्रयोग तीव्र गतिमा बढ्दै",
       "description": "मोबाइल वालेट र क्यूआर भुक्तानीले साना व्यापारीसम्म पहुँच बढाएको छ।",
       "link": "https://techmandu.com",
-      "pubDate": 1790364519843,
+      "pubDate": 1790376153871,
       "fromSnapshot": true,
       "category": "prabidhi",
       "trendingScore": 70,
@@ -34,7 +34,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025966/richa-who-went-missing-in-the-bhotekoshi-flood-passes-the-civil-service-exam",
       "pubDate": 1790347047000,
       "category": "prabidhi",
-      "trendingScore": 64,
+      "trendingScore": 60,
       "breaking": true,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -46,22 +46,10 @@
       "link": "https://www.setopati.com/kinmel/tourism/399263",
       "pubDate": 1790345436000,
       "category": "prabidhi",
-      "trendingScore": 63,
+      "trendingScore": 59,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCkuOCkriDgpJbg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "डा. सिंहले लिइन् बाढीमा बुबा र क्यान्सरले आमा गुमाएका दाजु–बहिनीको जिम्मा",
-      "description": "विपन्न परिवारका उनीहरूलाई हेर्ने र पढाउने कोही नभएपछि डा. सिंहले जिम्मेवारी लिने घोषणा गरेकी हुन् ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2025942/dr-singh-takes-care-of-siblings-who-lost-their-father-in-the-flood-and-their-mother-to-cancer",
-      "pubDate": 1790343852000,
-      "category": "prabidhi",
-      "trendingScore": 63,
-      "breaking": true,
-      "clusterId": "cluster-4KShIOCkuCDgpLngpLIg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "arthasarokar",
@@ -71,10 +59,22 @@
       "image": "https://media.arthasarokar.com/uploads/2026/09/chovar-1.jpg",
       "pubDate": 1790322248000,
       "category": "prabidhi",
-      "trendingScore": 63,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCkoOCkriDgpKEg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "डा. सिंहले लिइन् बाढीमा बुबा र क्यान्सरले आमा गुमाएका दाजु–बहिनीको जिम्मा",
+      "description": "विपन्न परिवारका उनीहरूलाई हेर्ने र पढाउने कोही नभएपछि डा. सिंहले जिम्मेवारी लिने घोषणा गरेकी हुन् ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2025942/dr-singh-takes-care-of-siblings-who-lost-their-father-in-the-flood-and-their-mother-to-cancer",
+      "pubDate": 1790343852000,
+      "category": "prabidhi",
+      "trendingScore": 58,
+      "breaking": true,
+      "clusterId": "cluster-4KShIOCkuCDgpLngpLIg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "rajdhani",
@@ -84,7 +84,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/01/pakrau-1.jpg",
       "pubDate": 1790340967000,
       "category": "prabidhi",
-      "trendingScore": 62,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCklSDgpLDgpJUg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -97,7 +97,7 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1787911795_Bhotekoshi%20Badi.jpg",
       "pubDate": 1790340021000,
       "category": "prabidhi",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -109,7 +109,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025890/maharjan-who-was-rescued-alive-after-being-trapped-in-a-tunnel-for-10-days-has-been-discharged-from-the-hospital",
       "pubDate": 1790339891000,
       "category": "prabidhi",
-      "trendingScore": 61,
+      "trendingScore": 57,
       "breaking": true,
       "clusterId": "cluster-4KS4IOCksCDgpJngpK0g",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -122,7 +122,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/jalabiddhyut_ayojana_BBG-150x150.jpg",
       "pubDate": 1790330478000,
       "category": "prabidhi",
-      "trendingScore": 58,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSnIOCksiDgpJfgpJkg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -135,7 +135,7 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1790351440_Jumla.jpg",
       "pubDate": 1790351451000,
       "category": "prabidhi",
-      "trendingScore": 57,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KS5IOCkiSDgpK4g4KSl",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -148,7 +148,7 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1790340438_bode.jpg",
       "pubDate": 1790340444000,
       "category": "prabidhi",
-      "trendingScore": 53,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkoSDgpLAg4KSu",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -161,7 +161,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/betrawati_s-150x150.png",
       "pubDate": 1790245729000,
       "category": "prabidhi",
-      "trendingScore": 35,
+      "trendingScore": 31,
       "breaking": false,
       "clusterId": "cluster-4KSn4KSuIOCkp-CkriDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -174,7 +174,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7e94/live/1be3ad40-b718-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1790212821000,
       "category": "prabidhi",
-      "trendingScore": 24,
+      "trendingScore": 19,
       "breaking": false,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
