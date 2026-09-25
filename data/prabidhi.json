@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T00:49:28.668Z",
+  "generatedAt": "2026-09-25T05:30:38.672Z",
   "category": "prabidhi",
   "articles": [
     {
@@ -8,11 +8,24 @@
       "title": "नेपालमा डिजिटल भुक्तानीको प्रयोग तीव्र गतिमा बढ्दै",
       "description": "मोबाइल वालेट र क्यूआर भुक्तानीले साना व्यापारीसम्म पहुँच बढाएको छ।",
       "link": "https://techmandu.com",
-      "pubDate": 1790297368668,
+      "pubDate": 1790314238672,
       "fromSnapshot": true,
       "category": "prabidhi",
       "trendingScore": 70,
       "breaking": false
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "पाल्पाका दुई स्थानमा पहिरो खस्दा सडक अवरुद्ध",
+      "description": "बुटवल । लगातारको वर्षाका कारण पाल्पाका दुई स्थानमा पहिरो खस्दा सडक अवरुद्ध भएको छ। तिनाउ गाउँपालिका&ndash;५ अन्तर्गत चरचरे र जोरधाराबीच सिद्धार्थ राजमार्गमा सडक माथिबाट पहिरो खस्दा केही समयदेखि सडक अवरुद्ध भएको हो। सडक अवरुद्ध भएपछि बीच",
+      "link": "https://www.ratopati.com/story/594768/landslides-block-roads-in-two-places-in-palpa",
+      "image": "https://rpcdn.ratopati.com/media/albums/road-closed-traffic-control-standing-sign-vector-26268429_DQOANjarT3.jpg",
+      "pubDate": 1790313239000,
+      "category": "prabidhi",
+      "trendingScore": 70,
+      "breaking": true,
+      "clusterId": "cluster-4KSqIOCksiDgpKog4KSV",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "karobar",
@@ -22,23 +35,10 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/betrawati_s-150x150.png",
       "pubDate": 1790245729000,
       "category": "prabidhi",
-      "trendingScore": 59,
-      "breaking": true,
+      "trendingScore": 53,
+      "breaking": false,
       "clusterId": "cluster-4KSn4KSuIOCkp-CkriDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "ट्रम्प-सी वार्ता : चीनले अमेरिकामा दुई पाण्डा पठाउने, एआई मानव नियन्त्रणमै राख्नुपर्नेमा सीको जोड",
-      "description": "ट्रम्प र सीले अमेरिका-चीन सम्बन्धलाई स्थिर र सहकार्यमा आधारित बनाउनुपर्नेमा जोड दिएका छन्। दुवै नेताले व्यापार, कृत्रिम बौद्धिकता (एआई), सुरक्षा, प्रविधि, सैन्य संवाद र दुई देशका जनताबिचको सम्बन्धलगायत विषयमा आफ्ना धारणा राखेका हुन्।...",
-      "link": "https://nagariknews.nagariknetwork.com/international/trump-australia-talks-china-to-send-two-pandas-to-us-xi-insists-ai-should-be-kept-under-human-control-20-71.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1790268275_Trump%20Xi.jpg",
-      "pubDate": 1790268293000,
-      "category": "prabidhi",
-      "trendingScore": 52,
-      "breaking": false,
-      "clusterId": "cluster-4KSfIOCksOCkriDgpKog",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "bbcnepali",
@@ -48,7 +48,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7e94/live/1be3ad40-b718-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1790212821000,
       "category": "prabidhi",
-      "trendingScore": 48,
+      "trendingScore": 42,
       "breaking": false,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -61,22 +61,9 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Maitighar-Pradarshan-Trishuli-Hydro_NPL-1-150x150.jpeg",
       "pubDate": 1790160375000,
       "category": "prabidhi",
-      "trendingScore": 29,
-      "breaking": false,
-      "clusterId": "cluster-4KSuIOCkpSDgpLIg4KSy",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "बाढीमा बेपत्ताको पहिचान गर्न अब नास्टमा पनि डीएनए परीक्षण",
-      "description": "काठमाडौं- भोटेकोशी बाढीमा बेपत्ताको पहिचान गर्न अब नास्टमा पनि डीएनए परीक्षण हुने भएको छ । राष्ट्रिय विधि विज्ञान प्रयोगशाला र प्रहरीको प्रयोगशालाले मात्र नभ्याएपछि नेपाल विज्ञान तथा प्रविधि प्रज्ञा प्रतिष्ठान (नास्ट)ले पनि परीक्षण थालेको हो । यसमा चीनले प्राविधिक सहयोग गरेको छ । नास्टले ८०७ वटा नमुना प्राप्त गरेको छ र त्यसको परीक्षणपछि प्राप्त नतिजा […]",
-      "link": "https://www.karobardaily.com/news/419897",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/dnaaa-150x150.png",
-      "pubDate": 1790145138000,
-      "category": "prabidhi",
       "trendingScore": 23,
       "breaking": false,
-      "clusterId": "cluster-4KSsIOCkoiDgpK4g4KSs",
+      "clusterId": "cluster-4KSuIOCkpSDgpLIg4KSy",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {

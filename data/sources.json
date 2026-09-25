@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T00:49:28.668Z",
+  "generatedAt": "2026-09-25T05:30:38.672Z",
   "sources": [
     {
       "id": "onlinekhabar",
@@ -8,8 +8,9 @@
       "feed": "https://www.onlinekhabar.com/feed",
       "category": "taja",
       "tag": "OK",
-      "ok": true,
-      "count": 40
+      "ok": false,
+      "count": 0,
+      "error": "This operation was aborted"
     },
     {
       "id": "ratopati",
