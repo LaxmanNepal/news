@@ -1,55 +1,31 @@
 {
-  "generatedAt": "2026-09-25T10:29:54.767Z",
+  "generatedAt": "2026-09-25T15:29:39.550Z",
   "category": "manoranjan",
   "articles": [
     {
+      "sourceId": "setopati",
+      "title": "एउटा सुपरहिट कोरियन फिल्म, हेर्नुस् युट्युबमा",
+      "description": "नदीबाट अचानक अजीवको जीव निस्कियो भने मानिसहरू के गर्लान्? भाग्नेछन्, लुक्नेछन् वा त्यसको सामना गर्नेछन्?",
+      "link": "https://www.setopati.com/art/interview/399251",
+      "pubDate": 1790343240000,
+      "category": "manoranjan",
+      "trendingScore": 68,
+      "breaking": false,
+      "clusterId": "cluster-4KSP4KSJ4KSfIOCkuCDg",
+      "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
+    },
+    {
       "sourceId": "ratopati",
-      "title": "‘झिंगे दाउ २’को नयाँ गीत ‘आमा भए पो स्वर्ग हुन्छ घर’ सार्वजनिक",
-      "description": "काठमाडौं । असोज २ गतेदेखि प्रदर्शनमा आएको फिल्म &lsquo;झिंगे दाउ २&rsquo;ले दर्शकबाट राम्रो प्रतिक्रिया पाइरहेको निर्माणपक्षले जनाएको छ । फिल्मको कथावस्तु, कलाकारको अभिनय, प्रस्तुति तथा गीतसंगीतलाई दर्शकले रुचाएका छन् । फिल्म रिलिज भएको एक सातापछि निर्माणपक्षले",
-      "link": "https://www.ratopati.com/story/594877/new-song-from-jhinge-dau-2-aama-baane-po-swarg-hunko-ghar-released",
-      "image": "https://npcdn.ratopati.com/media/news/capture_g0bZVu4eyx.webp",
-      "pubDate": 1790331742000,
+      "title": "‘जलाकी’को गीत ‘जाले रुमाल मायालाई’मा उपासना र सोनमको रोमान्स",
+      "description": "काठमाडौँ। अशोक थापा मगर निर्देशित फिल्म &lsquo;जलाकी&rsquo;को नयाँ गीत &lsquo;जाले रुमाल मायालाई&rsquo; शुक्रबार सार्वजनिक गरिएको छ। गण्डकी क्षेत्रमा प्रचलित कौडाको शैलीको गीतमा एसडी योगी र रेश्मा पुनको स्वर तथा सुरेन्द्र रानाको शब्द छ। गायक एसडी",
+      "link": "https://www.ratopati.com/story/594926/upasana-and-sonams-romance-in-the-song-jale-rumal-mayalai-from-jalaki",
+      "image": "https://npcdn.ratopati.com/media/news/jalaki_RUCqoiJm0M.webp",
+      "pubDate": 1790344602000,
       "category": "manoranjan",
-      "trendingScore": 62,
+      "trendingScore": 60,
       "breaking": false,
-      "clusterId": "cluster-4KSdIOCklyDgpKYg4KSJ",
+      "clusterId": "cluster-4KSc4KSyIOCklSDgpJUg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "अन्योलबीच कपिल शर्मा शोको पाँचौ सिजन नेटफ्ल्क्सिमा आउने पक्का, हेर्नुहोस् ट्रेलर",
-      "description": "मुम्बई । बलिउड कमेडियन कपिल शर्माको लोकप्रिय कमेडी कार्यक्रम ‘द ग्रेट इन्डियन कपिल शो’ पाँचौं सिजनसहित नेटफ्लिक्समा फर्किने भएको छ । सेप्टेम्बर २६ देखि प्रसारण हुने नयाँ सिजनको पहिलो एपिसोडमा बलिउड अभिनेता अजय देवगनसहित फिल्म ‘दृश्यम ३’को टोली अतिथिका रूपमा देखिनेछ । सार्वजनिक ट्रेलरमा बलिउड, ओटीटी र क्रिकेट क्षेत्रका चर्चित व्यक्तित्वको सहभागिता देखाइएको छ । नयाँ […]",
-      "link": "https://www.onlinekhabar.com/2026/09/2025687/amidst-confusion-the-fifth-season-of-the-kapil-sharma-show-is-sure-to-come-to-netflix-watch-the-trailer",
-      "pubDate": 1790328547000,
-      "category": "manoranjan",
-      "trendingScore": 61,
-      "breaking": false,
-      "clusterId": "cluster-4KSF4KSoIOCkryDgpLLg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "‘कथा डबली’मा लाखे र कुमारीका कथा",
-      "description": "काठमाडौं । बिहीबार नेपाल प्रज्ञा–प्रतिष्ठानको आँगनमा फरक तामझाम देखियो । त्यहाँ लाखे र कुमारीको कथा भनिदै थियो । यसको मेसो ‘इन्द्रजात्राः शारदीय पर्व’ ले मिलाएको रहेछ । ‘कथा डबली–१’ अन्तर्गत आयोजित सहरको कथा सुन्ने यस विशेष उत्सवमा उपस्थितहरू शताब्दीऔँ पुराना नेवारी सांस्कृतिक कथा र मिथकमा प्रवेश गरे । प्रज्ञा–प्रतिष्ठानको सभाकक्षमा जात्राकै वास्तविक सांगीतिक र जीवन्त […]",
-      "link": "https://www.onlinekhabar.com/2026/09/2025680/when-the-story-of-lakhe-and-kumari-came-to-life-in-katha-dabli",
-      "pubDate": 1790327589000,
-      "category": "manoranjan",
-      "trendingScore": 60,
-      "breaking": false,
-      "clusterId": "cluster-4KSV4KSlIOCkoeCkrOCk",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "आफूलाई निष्कासन गरेको फिल्मसँगै भिड्दै बलेको ‘डल्लेले इन्ट्री मार्‍यो’",
-      "description": "काठमाडौं । अभिनेता सागर लम्साल ‘बले’ अभिनीत फिल्म ‘डल्लेले इन्ट्री मार्‍यो’ को प्रदर्शन मिति घोषणा गरिएको छ । बलेले नयाँ पोस्टर सार्वजनिक गर्दै फिल्म आगामी २० कात्तिकदेखि प्रदर्शनमा आउने जानकारी दिएका छन् । प्रदर्शन मिति घोषणा गर्दै उनले सामाजिक सञ्जालमा लेखेका छन्, ‘यो वर्षको तिहारसँगै मनाउँला है । कात्तिक २० मा ।’ रोचक संयोग के […]",
-      "link": "https://www.onlinekhabar.com/2026/09/2025668/dalleys-entry-maryo-which-was-released-in-a-clash-with-the-film-that-expelled-it-was-released-in-a-row",
-      "pubDate": 1790327316000,
-      "category": "manoranjan",
-      "trendingScore": 60,
-      "breaking": false,
-      "clusterId": "cluster-4KSG4KSrIOCksiDgpIgg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     }
   ]
 }
