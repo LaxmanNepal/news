@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T15:29:39.550Z",
+  "generatedAt": "2026-09-25T19:28:39.843Z",
   "category": "prabidhi",
   "articles": [
     {
@@ -10,7 +10,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/apf-11-1.jpg",
       "pubDate": 1790343497000,
       "category": "prabidhi",
-      "trendingScore": 84,
+      "trendingScore": 78,
       "breaking": true,
       "clusterId": "cluster-4KStIOCksCDgpLXgpLAg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -21,11 +21,23 @@
       "title": "नेपालमा डिजिटल भुक्तानीको प्रयोग तीव्र गतिमा बढ्दै",
       "description": "मोबाइल वालेट र क्यूआर भुक्तानीले साना व्यापारीसम्म पहुँच बढाएको छ।",
       "link": "https://techmandu.com",
-      "pubDate": 1790350179550,
+      "pubDate": 1790364519843,
       "fromSnapshot": true,
       "category": "prabidhi",
       "trendingScore": 70,
       "breaking": false
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "भोटेकोशी बाढीमा बेपत्ता ऋचा लोकसेवामा पास",
+      "description": "९ असोज, विराटनगर । विराटनगर महानगरपालिका–३ की २४ वर्षीया ऋचा निरौला पछिल्लो ३० दिनदेखि सम्पर्कविहीन छिन्। अपर त्रिशूली–१ आयोजनामा कार्यरत उनी भदौ १० को भोटेकोशी बाढीमा परेर बेपत्ता भएकी हुन्। आफ्नी छोरीको खबरको प्रतिक्षामा रहेका परिवारमा पुग्यो बिहीबार लोकसेवा आयोगको लिखित परीक्षामा उत्तीर्ण भएको नतिजा। लोकसेवा आयोगले बिहीबार सार्वजनिक गरेको सब-इन्जिनियर पदको लिखित परीक्षाको नतिजामा ऋचाले […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2025966/richa-who-went-missing-in-the-bhotekoshi-flood-passes-the-civil-service-exam",
+      "pubDate": 1790347047000,
+      "category": "prabidhi",
+      "trendingScore": 64,
+      "breaking": true,
+      "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "setopati",
@@ -34,10 +46,22 @@
       "link": "https://www.setopati.com/kinmel/tourism/399263",
       "pubDate": 1790345436000,
       "category": "prabidhi",
-      "trendingScore": 68,
+      "trendingScore": 63,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCkuOCkriDgpJbg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "डा. सिंहले लिइन् बाढीमा बुबा र क्यान्सरले आमा गुमाएका दाजु–बहिनीको जिम्मा",
+      "description": "विपन्न परिवारका उनीहरूलाई हेर्ने र पढाउने कोही नभएपछि डा. सिंहले जिम्मेवारी लिने घोषणा गरेकी हुन् ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2025942/dr-singh-takes-care-of-siblings-who-lost-their-father-in-the-flood-and-their-mother-to-cancer",
+      "pubDate": 1790343852000,
+      "category": "prabidhi",
+      "trendingScore": 63,
+      "breaking": true,
+      "clusterId": "cluster-4KShIOCkuCDgpLngpLIg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "arthasarokar",
@@ -47,7 +71,7 @@
       "image": "https://media.arthasarokar.com/uploads/2026/09/chovar-1.jpg",
       "pubDate": 1790322248000,
       "category": "prabidhi",
-      "trendingScore": 68,
+      "trendingScore": 63,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCkoOCkriDgpKEg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -60,10 +84,87 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/01/pakrau-1.jpg",
       "pubDate": 1790340967000,
       "category": "prabidhi",
-      "trendingScore": 67,
+      "trendingScore": 62,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCklSDgpLDgpJUg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "बाढी प्रभावित क्षेत्रबाट ल्याइएका विद्यार्थीबारे जानकारी दिन निर्देशन",
+      "description": "जिल्ला प्रशासन कार्यालय काठमाडौंले भदौ १० गते रसुवाको भोटेकोशीमा गएको बाढीबाट प्रभावित क्षेत्रबाट ल्याइएका विद्यार्थीहरुका बारेमा जानकारी दिन निर्देशन दिएको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/instructions-to-provide-information-about-students-brought-from-flood-affected-areas-br-12-40.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1787911795_Bhotekoshi%20Badi.jpg",
+      "pubDate": 1790340021000,
+      "category": "prabidhi",
+      "trendingScore": 61,
+      "breaking": true,
+      "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "सुरुङभित्र १० दिन फसेर जीवितै उद्धार गरिएका महर्जन अस्पतालबाट डिस्चार्ज",
+      "description": "९ असोज, काठमाडौं । रसुवास्थित माथिल्लो त्रिशूली ३–ए जलविद्युत् आयोजनाको सुरुङमा १० दिनसम्म फसेर जीवितै उद्धार गरिएका मेकानिकल सुपरभाइजर कविर महर्जन अस्पतालबाट डिस्चार्ज भएका छन् । स्वास्थ्यमा उल्लेख्य सुधार आएपछि शुक्रवार अस्पतालबाट बिदा गरिएका महर्जनलाई ललितपुरस्थित उनको स्वागत गरिएको छ । गत भदौ १० गते आएको भीषण बाढीका कारण जलविद्युत आयोजनाको सुरुङभित्र फसेका महर्जनको उद्धार […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2025890/maharjan-who-was-rescued-alive-after-being-trapped-in-a-tunnel-for-10-days-has-been-discharged-from-the-hospital",
+      "pubDate": 1790339891000,
+      "category": "prabidhi",
+      "trendingScore": 61,
+      "breaking": true,
+      "clusterId": "cluster-4KS4IOCksCDgpJngpK0g",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "karobar",
+      "title": "धौलीगङ्गा जलविद्युत्को बाँध खोलिँदै, महकाली तटीय क्षेत्रमा सतर्कता अपनाउन आग्रह",
+      "description": "बैतडी- भारतको उत्तराखण्ड प्रदेशको पिढौरागढस्थित धौलीगङ्गा जलविद्युत् परियोजनाको बाँध पुन: खोलिने भएको छ । एनएचपीसी लिमिटेड, धौलीगङ्गा पावर स्टेशन भारतबाट प्राप्त पत्रअनुसार आइतबार राति १२:०० बजेदेखि सोमबार बिहान १०:०० बजेसम्म सिल्ट सफाइ (जलविद्युत् आयोजना, सिँचाइ नहर, ढलको लेदो, बाक्लो माटो वा बालुवा सफा गर्ने प्रविधि)का लागि बाँध खोलिने भएको हो । यसअघि गत साउन १३ […]",
+      "link": "https://www.karobardaily.com/news/420682",
+      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/jalabiddhyut_ayojana_BBG-150x150.jpg",
+      "pubDate": 1790330478000,
+      "category": "prabidhi",
+      "trendingScore": 58,
+      "breaking": false,
+      "clusterId": "cluster-4KSnIOCksiDgpJfgpJkg",
+      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "हिउँमा थुनिएका सबै गोठाला सम्पर्कमा, पाँच सय भेडा अझै अज्ञात",
+      "description": "लगातारको वर्षासँगै बाक्लो हिमपात भएपछि जुम्लाको चन्दननाथ नगरपालिका-८ बाट भेडा लिएर गिडीदह आसपासको गैरीगुम पाटन पुगेका ८ गोठाला सम्पर्कमा आएका छन्।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/six-shepherds-trapped-in-snow-contacted-500-sheep-still-missing-55-21.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1790351440_Jumla.jpg",
+      "pubDate": 1790351451000,
+      "category": "prabidhi",
+      "trendingScore": 57,
+      "breaking": false,
+      "clusterId": "cluster-4KS5IOCkiSDgpK4g4KSl",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "बोडे र मूलपानी जोड्ने पुल भासिएपछि यातायात आवागमन बन्द",
+      "description": "भक्तपुरको बोडे र काठमाडौंको मूलपानी जोड्ने मनोहरा खोलाको पुलसँगैको जमिन भासिएपछि यातायातका साधनलाई आवतजावतमा रोक लगाइएको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/traffic-movement-suspended-after-bridge-connecting-bode-and-mulpani-collapses-br-67-87.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1790340438_bode.jpg",
+      "pubDate": 1790340444000,
+      "category": "prabidhi",
+      "trendingScore": 53,
+      "breaking": false,
+      "clusterId": "cluster-4KSsIOCkoSDgpLAg4KSu",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "karobar",
+      "title": "धमाधम खोलिँदै बेत्रावती जोड्ने अस्थायी ट्रयाक",
+      "description": "नुवाकोट- रसुवाको भोटेकोशीमा गत भदौ १० मा आएको बाढीले पछिल्लो २८ दिनदेखि नुवाकोट र रसुवाको सिधा सम्पर्कविच्छेद छ । रसुवागढी नाकासम्म सडक सुचारू गर्ने उद्देश्यले पहिलो चरणमा नुवाकोटको विदुरदेखि बेत्रावतीसम्म जोड्ने सडक खुलाउने काम अन्तिम चरणमा पुगेको छ । सडक विभागअन्तर्गतको गल्छी–त्रिशुली–मैलुङ–स्याफ्रुवेंशी–रसुवागढी सडक योजनाले तिरतिरे भीरदेखि बेत्रावतीसम्म २० वटा मेसिन प्रयोग गरेर धमाधम अस्थायी ट्रयाक […]",
+      "link": "https://www.karobardaily.com/news/420328",
+      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/betrawati_s-150x150.png",
+      "pubDate": 1790245729000,
+      "category": "prabidhi",
+      "trendingScore": 35,
+      "breaking": false,
+      "clusterId": "cluster-4KSn4KSuIOCkp-CkriDg",
+      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
       "sourceId": "bbcnepali",
@@ -73,7 +174,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7e94/live/1be3ad40-b718-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1790212821000,
       "category": "prabidhi",
-      "trendingScore": 29,
+      "trendingScore": 24,
       "breaking": false,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"

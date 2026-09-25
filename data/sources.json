@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T15:29:39.550Z",
+  "generatedAt": "2026-09-25T19:28:39.843Z",
   "sources": [
     {
       "id": "onlinekhabar",
@@ -8,9 +8,8 @@
       "feed": "https://www.onlinekhabar.com/feed",
       "category": "taja",
       "tag": "OK",
-      "ok": false,
-      "count": 0,
-      "error": "This operation was aborted"
+      "ok": true,
+      "count": 40
     },
     {
       "id": "ratopati",
@@ -29,9 +28,8 @@
       "feed": "https://nagariknews.nagariknetwork.com/feed",
       "category": "taja",
       "tag": "NG",
-      "ok": false,
-      "count": 0,
-      "error": "No articles parsed"
+      "ok": true,
+      "count": 20
     },
     {
       "id": "ujyaalo",
@@ -92,9 +90,8 @@
       "feed": "https://www.karobardaily.com/feed",
       "category": "artha",
       "tag": "KB",
-      "ok": false,
-      "count": 0,
-      "error": "This operation was aborted"
+      "ok": true,
+      "count": 40
     },
     {
       "id": "kantipur-sports",
