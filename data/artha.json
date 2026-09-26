@@ -1,7 +1,44 @@
 {
-  "generatedAt": "2026-09-25T22:42:33.871Z",
+  "generatedAt": "2026-09-26T00:55:59.725Z",
   "category": "artha",
   "articles": [
+    {
+      "sourceId": "onlinekhabar",
+      "title": "रिडी–तम्घास सडक पहिरोले अवरुद्ध",
+      "description": "१० असोज, गुल्मी । गुल्मीको रुरुक्षेत्र गाउँपालिका–१ स्यालबिसौनामा पहिरो खसेपछि रिडी–तम्घास सडकखण्ड पूर्णरूपमा अवरुद्ध भएको छ। शुक्रबार राति करिब ९:४५ बजे लेदोसहितको पहिरो खसेर मदन भण्डारी राजमार्गको सडकखण्ड अवरुद्ध भएको जिल्ला प्रहरी कार्यालय गुल्मीका प्रहरी उपरीक्षक (एसपी) भीमकिरण बोगटीले बताए । पहिरोका कारण उक्त सडकखण्डमा सवारी आवागमन पूर्णरूपमा रोकिएको छ । पहिरो हटाउन इलाका प्रहरी […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2026017/ridi-tamghas-road-blocked-by-landslide",
+      "pubDate": 1790383519000,
+      "category": "artha",
+      "trendingScore": 70,
+      "breaking": true,
+      "clusterId": "cluster-4KSwIOCkoSDgpKTgpK4g",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "karobar",
+      "title": "यस्तो छ आजका लागि विदेशी मुद्राको विनिमयदर",
+      "description": "काठमाडौं । नेपाल राष्ट्र बैंकले शनिबारका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५३ रुपैयाँ ०१ पैसा र बिक्रीदर १५३ रुपैयाँ ८१ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १७४ रुपैयाँ ३२ पैसा र बिक्रीदर १७५ रुपैयाँ ०० पैसा, युके पाउन्ड स्ट्रलिङ एकको खरिददर २०२ […] The post यस्तो छ आजका लागि विदेशी मुद्राको विनिमयदर appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDaily.com - Online Nepali News Portal-Latest Nepali Online News portal of Nepali Polities, economics, news, top stories, national, international, politics, sports, business, finance, entertainment, photo-gallery, audio, video and more... .",
+      "link": "https://rajdhanidaily.com/id/148989",
+      "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/bideshi-mudra.jpg",
+      "pubDate": 1790382776000,
+      "category": "artha",
+      "trendingScore": 70,
+      "breaking": false,
+      "clusterId": "cluster-4KSv4KS4IOCkpCDgpJsg",
+      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "ujyaalo",
+      "title": "लगातारको वर्षाले भोटेकोशीको बाढी प्रभावितसहित विभिन्न ठाउँमा जनजीवन कष्टकर",
+      "description": "",
+      "link": "https://www.ujyaaloonline.com/detail/131923",
+      "pubDate": 1790381940000,
+      "category": "artha",
+      "trendingScore": 69,
+      "breaking": true,
+      "clusterId": "cluster-4KSy4KSXIOCkpCDgpLDg",
+      "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
+    },
     {
       "sourceId": "arthasarokar",
       "title": "चाडपर्वमा अनलाइन बस टिकट बुकिङलाई प्राथमिकता दिइने",
@@ -9,7 +46,7 @@
       "link": "https://arthasarokar.com/2026/09/priority-to-be-given-to-online-bus-ticket-booking-during-festivals.html",
       "pubDate": 1790336327000,
       "category": "artha",
-      "trendingScore": 72,
+      "trendingScore": 69,
       "breaking": true,
       "clusterId": "cluster-4KSaIOCkoeCkquCksCDg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -22,7 +59,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/sachin-113.jpeg",
       "pubDate": 1790347644000,
       "category": "artha",
-      "trendingScore": 68,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KSuIOCkuOCkriDgpLAg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -35,7 +72,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/jilla_pashasan_dang-150x150.jpg",
       "pubDate": 1790321652000,
       "category": "artha",
-      "trendingScore": 66,
+      "trendingScore": 64,
       "breaking": true,
       "clusterId": "cluster-4KSmIOCkmeCklSDgpJwg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -48,10 +85,86 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/pokhara-sawari-band-150x150.jpg",
       "pubDate": 1790321463000,
       "category": "artha",
-      "trendingScore": 66,
+      "trendingScore": 64,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCkuCDgpJUg4KSu",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "ujyaalo",
+      "title": "युक्रेनी हतियार कोषको साढे ७ अर्ब डलर प्रयोग गर्न दिन ईयू सदस्य देशहरु सहमत",
+      "description": "",
+      "link": "https://www.ujyaaloonline.com/detail/131924",
+      "pubDate": 1790383312000,
+      "category": "artha",
+      "trendingScore": 62,
+      "breaking": false,
+      "clusterId": "cluster-4KSvIOCklSDgpLAg4KSo",
+      "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "अर्थकै बेरुजु डेढ खर्ब",
+      "description": "वित्तीय सुशासन कायम गर्नुपर्ने अर्थ मन्त्रालयकै बेरुजु रकम करिब डेढ खर्ब रुपैयाँ पुग्न लागेको छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/economy/the-money-is-worth-one-and-a-half-trillion-the-money-is-worth-one-and-a-half-trillion-97-31.html",
+      "image": "https://images.nagariknewscdn.com/2024/third-party/1790383009_kitu%20%2097.jpg",
+      "pubDate": 1790382906000,
+      "category": "artha",
+      "trendingScore": 62,
+      "breaking": false,
+      "clusterId": "cluster-4KSF4KSwIOCkpeCklSDg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "आजका लागि तोकियो विदेशी मुद्राको विनिमयदर",
+      "description": "नेपाल राष्ट्र बैंकले शनिबारका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ।",
+      "link": "https://nagariknews.nagariknetwork.com/Bazar/foreign-currency-exchange-rates-set-for-today-81-51.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1764894723_Dollar.jpg",
+      "pubDate": 1790382508000,
+      "category": "artha",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KSG4KSc4KSVIOCksiDg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "यस्तो छ आज विदेशी मुद्राको विनिमयदर",
+      "description": "१० असोज, काठमाडौँ । नेपाल राष्ट्र बैंकले शनिबारका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५३ रुपैयाँ ०१ पैसा र बिक्रीदर १५३ रुपैयाँ ८१ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १७४ रुपैयाँ ३२ पैसा र बिक्रीदर १७५ रुपैयाँ ०० पैसा, युके पाउन्ड स्ट्रलिङ एकको […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2026012/this-is-the-foreign-exchange-rate-today-93",
+      "pubDate": 1790382046000,
+      "category": "artha",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KSv4KS4IOCkpCDgpJsg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "यस्तो छ आजका लागि विदेशी मुद्राको विनिमय दर",
+      "description": "काठमाडौँ । नेपाल राष्ट्र बैंकले शनिबारका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५३ रुपैयाँ ०१ पैसा र बिक्रीदर १५३ रुपैयाँ ८१ पैसा निर्धारण गरिएको छ",
+      "link": "https://www.ratopati.com/story/594973/this-is-the-foreign-currency-exchange-rate-for-today",
+      "image": "https://npcdn.ratopati.com/media/news/forex_g5zWyL63Qc.webp",
+      "pubDate": 1790380745000,
+      "category": "artha",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KSv4KS4IOCkpCDgpJsg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "साल्ट ट्रेडिङ कर्पोरेशनको सुपथ मूल्य पसल: उपभोक्ताको आकर्षण",
+      "description": "बागलुङ । साल्ट ट्रेडिङ कर्पोरेशन लिमिटेडद्वारा दसैँ , तिहार तथा छठ पर्वलाई लक्षित गरी सञ्चालन गरिएको सुपथ मूल्य पसलले उपभोक्तालाई राहत मिलेको छ । कर्पोरेसनले जिल्लामा यही असोज ५ गते सोमबारदेखि चाडपर्व लक्षित सुपथ मूल्य पसल",
+      "link": "https://www.ratopati.com/story/594971/salt-trading-corporations-fair-price-shop-consumer-attraction",
+      "image": "https://npcdn.ratopati.com/media/news/17-baglung-supath-mulya-pasal_npl_dammarbudhamagar-(16)_XEDmarPJCC.webp",
+      "pubDate": 1790378564000,
+      "category": "artha",
+      "trendingScore": 60,
+      "breaking": false,
+      "clusterId": "cluster-4KS4IOCksiDgpJ8g4KSf",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "ratopati",
@@ -61,7 +174,7 @@
       "image": "https://npcdn.ratopati.com/media/news/tanahu-map_us5mlswuc2_MPGIzBN5w0.jpg",
       "pubDate": 1790356008000,
       "category": "artha",
-      "trendingScore": 63,
+      "trendingScore": 60,
       "breaking": true,
       "clusterId": "cluster-4KSYIOCkuCDgpJUg4KS1",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -74,7 +187,7 @@
       "image": "https://npcdn.ratopati.com/media/news/bidusi-rana_648oCJzZwb.jpg",
       "pubDate": 1790375740000,
       "category": "artha",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": false,
       "clusterId": "cluster-4KS1IOCkquCkpiDgpIbg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -86,23 +199,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025955/police-recover-bike-buried-in-landslide-at-ghansikuwa-section-of-prithvi-highway",
       "pubDate": 1790345310000,
       "category": "artha",
-      "trendingScore": 59,
+      "trendingScore": 56,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCkpSDgpLUg4KSw",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "rajdhani",
-      "title": "साल्ट ट्रेडिङको सुपथ मूल्य पसलमा उपभोक्ताको लाइन",
-      "description": "डडेल्धुरा । बजारमा प्रतिकेजी १५० रुपैयाँ पर्ने चिनी साल्ट ट्रेडिङको सुपथ मूल्य पसलमा एक सय रुपैयाँमा बिक्रि गरिन थालेपछि उपभोक्ताको लामो लाईन लागेको छ । दसैँ, तिहार र छठजस्ता ठूला चाडपर्व नजिकिएसँगै डडेल्धुरामा साल्ट ट्रेडिङ कर्पाेरेसन लिमिटेडले सुपथ मूल्य पसल सञ्चालनमा ल्याएको छ । चाडपर्वका बेला दैनिक उपभोग्य वस्तुको माग र बजार मूल्य बढ्न सक्ने […] The post साल्ट ट्रेडिङको सुपथ मूल्य पसलमा उपभोक्ताको लाइन appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDaily.com - Online Nepali News Portal-Latest Nepali Online News portal of Nepali Polities, economics, news, top stories, national, international, politics, sports, business, finance, entertainment, photo-gallery, ",
-      "link": "https://rajdhanidaily.com/id/148970",
-      "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/Sufat-pasal.jpg",
-      "pubDate": 1790340338000,
-      "category": "artha",
-      "trendingScore": 57,
-      "breaking": false,
-      "clusterId": "cluster-4KS4IOCksiDgpJ8g4KSf",
-      "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
     },
     {
       "sourceId": "arthasarokar",
@@ -111,7 +211,7 @@
       "link": "https://arthasarokar.com/2026/09/jagadish-khadka-quits-esewa-372-times-since-he-assumed-office.html",
       "pubDate": 1790339329000,
       "category": "artha",
-      "trendingScore": 57,
+      "trendingScore": 54,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCksCDgpK_gpJUg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -124,7 +224,7 @@
       "image": "https://npcdn.ratopati.com/media/news/ukhu_nLIiuhQQp4.jpg",
       "pubDate": 1790358319000,
       "category": "artha",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSF4KS1IOCksOCksiDg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -136,22 +236,10 @@
       "link": "https://arthasarokar.com/2026/09/niraj-sharma-appointed-new-ceo-of-esewa.html",
       "pubDate": 1790337532000,
       "category": "artha",
-      "trendingScore": 56,
+      "trendingScore": 53,
       "breaking": false,
       "clusterId": "cluster-4KSH4KS4IOCktSDgpJUg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "ujyaalo",
-      "title": "लगातार वर्षा : भोटेकोशी बाढीबाट प्रभावितको जनजीवन थप कष्टकर",
-      "description": "टेन्टभित्र पानी पसेपछि राहतमा प्राप्त भएको खाद्यान्न, लत्ताकपडा तथा अन्य सामग्री जोगाउन प्रभावितलाई समस्या भएको छ ।",
-      "link": "https://www.ujyaaloonline.com/detail/131918",
-      "pubDate": 1790336520000,
-      "category": "artha",
-      "trendingScore": 56,
-      "breaking": true,
-      "clusterId": "cluster-4KSy4KSXIOCkpCDgpLAg",
-      "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
     },
     {
       "sourceId": "arthasarokar",
@@ -160,7 +248,7 @@
       "link": "https://arthasarokar.com/2026/09/hundreds-of-thousands-of-bank-employees-will-go-on-the-streets-for-3-days-in-india-demanding-two-days-off-in-a-week.html",
       "pubDate": 1790333006000,
       "category": "artha",
-      "trendingScore": 55,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KS54KSqIOCkpCDgpJUg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -173,22 +261,9 @@
       "image": "https://npcdn.ratopati.com/media/news/screenshot-2026-09-25-220345_ZVmn73aoKM.webp",
       "pubDate": 1790353160000,
       "category": "artha",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSrIOCksOCkqCDgpJ_g",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "एनपीएल प्रसारणको टाइटल स्पोन्सर बन्यो रेड बुल",
-      "description": "काठमाडौं । नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणको प्रत्यक्ष प्रसारणका लागि रेड बुल टाइटल स्पोन्सरका रूपमा आबद्ध भएको छ। अब हिमालय टेलिभिजनमा एनपीएलको प्रसारण रेड बुलको मुख्य प्रायोजनमा हुनेछ। नेपालमा क्रिकेटप्रतिको बढ्दो उत्साह र एनपीएलको",
-      "link": "https://www.ratopati.com/story/594950/red-bull-becomes-title-sponsor-of-npl-broadcasts",
-      "image": "https://npcdn.ratopati.com/media/news/dd_P0Qr1bGd94.webp",
-      "pubDate": 1790352933000,
-      "category": "artha",
-      "trendingScore": 54,
-      "breaking": false,
-      "clusterId": "cluster-4KSP4KSo4KSqIOCkj-Ck",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
@@ -198,23 +273,34 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025596/new-distortion-in-cooperatives-commission-on-savings-collection",
       "pubDate": 1790352778000,
       "category": "artha",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KS44KS54KSVIOCksCDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
-      "sourceId": "ratopati",
-      "title": "इर्यू राष्ट्रहरूद्वारा युक्रेनी हतियार कोषको ६.६ अर्ब युरो प्रयोग गर्न दिने सहमति",
-      "description": "काठमाडौँ । युरोपेली सङ्घ (ईयू) सदस्य राष्ट्रहरूले युक्रेनलाई आपूर्ति गरिएका हतियारको थप आपूर्ति गर्न बनाइएको कोषबाट ६.६ अर्ब युरो (७.५ अर्ब डलर) जारी गर्न सहमति जनाएका समूहकी शीर्ष कूटनीतिज्ञले शुक्रबार बताएकी छन् । ईयू राष्ट्रहरू वर्षौंदेखि समूहको",
-      "link": "https://www.ratopati.com/story/594948/eu-nations-agree-to-use-eur66-billion-of-ukrainian-arms-fund",
-      "image": "https://npcdn.ratopati.com/media/news/kaja_Z5Eecy0uvX.png",
-      "pubDate": 1790352733000,
+      "sourceId": "onlinekhabar",
+      "title": "सरकारी बैंकमा हिनामिना भए भ्रष्टाचार मुद्दा चल्छ कि बैंकिङ कसुर ?",
+      "description": "कृषि विकास बैंकको करिब चार करोड रुपैयाँ हिनामिनाको मुद्दामा ‘दोहोरो खतराको सिद्धान्त’ आकर्षित हुनसक्ने भएपछि सर्वोच्चले मुद्दा पूर्ण इजलासमा पठाउन आदेश दिएको हो ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2025684/if-there-is-embezzlement-in-a-government-bank-is-it-a-corruption-case-or-a-banking-offense",
+      "pubDate": 1790352383000,
       "category": "artha",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
-      "clusterId": "cluster-4KSH4KSwIOCkryDgpLAg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+      "clusterId": "cluster-4KS44KSw4KSVIOCksCDg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "हिमालय स्पोर्टस्‌मा एनपीएल प्रसारणको ‘टाइटल स्पोन्सर’ बन्यो रेड बुल",
+      "description": "नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणको हिमालय टेलिभिजनमार्फत हुने प्रत्यक्ष प्रसारणका लागि रेड बुल ‘टाइटल स्पोन्सर’ का रूपमा आबद्ध भएको छ ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2026003/red-bull-becomes-the-title-sponsor-of-npl-broadcast-on-himalaya-television",
+      "pubDate": 1790352244000,
+      "category": "artha",
+      "trendingScore": 51,
+      "breaking": false,
+      "clusterId": "cluster-4KS5IOCkriDgpLLgpK8g",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "arthasarokar",
@@ -223,7 +309,7 @@
       "link": "https://arthasarokar.com/2026/09/garbage-management-in-kathmandu-valley-hampered-by-regular-rains.html",
       "pubDate": 1790331966000,
       "category": "artha",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkr-CkriDgpKQg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -235,7 +321,7 @@
       "link": "https://arthasarokar.com/2026/09/nrbs-inspection-team-says-cooperatives-have-been-paying-commission-to-those-who-bring-in-savings.html",
       "pubDate": 1790331901000,
       "category": "artha",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -248,34 +334,10 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2022/06/Swollen-Saptakoshi-River-after-incessant-rainfall-at-the-Koshi-Barrage-150x150.jpg",
       "pubDate": 1790331764000,
       "category": "artha",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KS44KSqIOCkpOCklSDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "सरकारी बैंकमा हिनामिना भए भ्रष्टाचार मुद्दा चल्छ कि बैंकिङ कसुर ?",
-      "description": "कृषि विकास बैंकको करिब चार करोड रुपैयाँ हिनामिनाको मुद्दामा ‘दोहोरो खतराको सिद्धान्त’ आकर्षित हुनसक्ने भएपछि सर्वोच्चले मुद्दा पूर्ण इजलासमा पठाउन आदेश दिएको हो ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2025684/if-there-is-embezzlement-in-a-government-bank-is-it-a-corruption-case-or-a-banking-offense",
-      "pubDate": 1790352383000,
-      "category": "artha",
-      "trendingScore": 53,
-      "breaking": false,
-      "clusterId": "cluster-4KS44KSw4KSVIOCksCDg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "हिमालय स्पोर्टस्‌मा एनपीएल प्रसारणको ‘टाइटल स्पोन्सर’ बन्यो रेड बुल",
-      "description": "नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणको हिमालय टेलिभिजनमार्फत हुने प्रत्यक्ष प्रसारणका लागि रेड बुल ‘टाइटल स्पोन्सर’ का रूपमा आबद्ध भएको छ ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2026003/red-bull-becomes-the-title-sponsor-of-npl-broadcast-on-himalaya-television",
-      "pubDate": 1790352244000,
-      "category": "artha",
-      "trendingScore": 53,
-      "breaking": false,
-      "clusterId": "cluster-4KS5IOCkriDgpLLgpK8g",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "nagarik",
@@ -285,7 +347,7 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1788616773_Road111.jpg",
       "pubDate": 1790351897000,
       "category": "artha",
-      "trendingScore": 53,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSvIOClqOClqyDgpJwg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -297,7 +359,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025971/banks-under-pressure-for-core-capital-loans-not-growing-average-at-9-8-percent",
       "pubDate": 1790350996000,
       "category": "artha",
-      "trendingScore": 53,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkleCkueCksCDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -309,7 +371,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025997/heavy-rain-likely-for-three-days-in-karnali",
       "pubDate": 1790350698000,
       "category": "artha",
-      "trendingScore": 53,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KSV4KSwIOCkoyDgpLIg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -321,7 +383,7 @@
       "link": "https://arthasarokar.com/2026/09/flights-disrupted-due-to-bad-weather.html",
       "pubDate": 1790324202000,
       "category": "artha",
-      "trendingScore": 51,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCkpCDgpJUg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -334,7 +396,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/dhan-bali-150x150.jpg",
       "pubDate": 1790321822000,
       "category": "artha",
-      "trendingScore": 51,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KScIOCkriDgpLIg4KSV",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -346,7 +408,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025925/heavy-rains-and-wind-damage-sugarcane-planted-on-two-bighas-in-siraha",
       "pubDate": 1790343311000,
       "category": "artha",
-      "trendingScore": 50,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KS5IOCktSDgpLkg4KSw",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -358,10 +420,23 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025926/complete-traffic-shutdown-in-25-districts-tomorrow-as-well",
       "pubDate": 1790343270000,
       "category": "artha",
-      "trendingScore": 50,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KWo4KWrIOCknCDgpLIg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "लोकप्रियता स्थायी हुँदैन",
+      "description": "सूर्यको गति रोकिँदैन। उसको उचाइ स्थायी हुँदैन। तर सूर्य अस्ताएको अर्थ उसको अस्तित्व समाप्त भएको होइन। भोलिपल्ट फेरि उदाउने उसको आफ्नै समय हुन्छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/blog/popularity-is-not-permanent-30-89.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1790341256_Krishna.png",
+      "pubDate": 1790341271000,
+      "category": "artha",
+      "trendingScore": 47,
+      "breaking": false,
+      "clusterId": "cluster-4KSyIOCkleCkqiDgpLAg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "karobar",
@@ -371,7 +446,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/cold-store-150x150.jpg",
       "pubDate": 1790320984000,
       "category": "artha",
-      "trendingScore": 50,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSV4KSwIOCkoSDgpJbg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -384,7 +459,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/08/madhya-modi-jalabiddhyut_-150x150.jpg",
       "pubDate": 1790320493000,
       "category": "artha",
-      "trendingScore": 50,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSu4KSnIOCkryDgpK4g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -396,7 +471,7 @@
       "link": "https://arthasarokar.com/2026/09/man-arrested-for-banking-accounts-in-52-banks-and-financial-institutions.html",
       "pubDate": 1790320226000,
       "category": "artha",
-      "trendingScore": 50,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KWr4KWoIOCkrCDgpJUg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -409,7 +484,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/cbfin-150x150.jpeg",
       "pubDate": 1790319577000,
       "category": "artha",
-      "trendingScore": 50,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCklSDgpJkg4KSV",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -422,35 +497,10 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/metlife-2-150x150.jpg",
       "pubDate": 1790319122000,
       "category": "artha",
-      "trendingScore": 50,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCkn-CksiDgpIfg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "लोकप्रियता स्थायी हुँदैन",
-      "description": "सूर्यको गति रोकिँदैन। उसको उचाइ स्थायी हुँदैन। तर सूर्य अस्ताएको अर्थ उसको अस्तित्व समाप्त भएको होइन। भोलिपल्ट फेरि उदाउने उसको आफ्नै समय हुन्छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/blog/popularity-is-not-permanent-30-89.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1790341256_Krishna.png",
-      "pubDate": 1790341271000,
-      "category": "artha",
-      "trendingScore": 49,
-      "breaking": false,
-      "clusterId": "cluster-4KSyIOCkleCkqiDgpLAg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "ujyaalo",
-      "title": "सिङ्गापुरकाे वित्तीय क्षेत्रले ८० हजार कर्मचारीलाई एआई तालिम दिने",
-      "description": "आईबीएफबाट मान्यताप्राप्त कार्यक्रममार्फत आधाभन्दा धेरै कर्मचारीले एआई तालिम लिइसकेका छन् ।",
-      "link": "https://www.ujyaaloonline.com/detail/131920",
-      "pubDate": 1790338679000,
-      "category": "artha",
-      "trendingScore": 49,
-      "breaking": false,
-      "clusterId": "cluster-4KS4IOCkmSDgpJcg4KSq",
-      "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
     },
     {
       "sourceId": "karobar",
@@ -460,7 +510,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/muktinath-150x150.jpg",
       "pubDate": 1790318911000,
       "category": "artha",
-      "trendingScore": 49,
+      "trendingScore": 47,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCklSDgpKQg4KSo",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -473,7 +523,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/11/sampadakiya_editorial_karobar_BBG-150x150.jpg",
       "pubDate": 1790318618000,
       "category": "artha",
-      "trendingScore": 49,
+      "trendingScore": 46,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSG4KSIIOCkryDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -486,7 +536,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/raghu-150x150.png",
       "pubDate": 1790318047000,
       "category": "artha",
-      "trendingScore": 49,
+      "trendingScore": 46,
       "breaking": false,
       "clusterId": "cluster-4KWq4KWmIOCkriDgpJcg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -499,7 +549,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/08/yatayat-niti-150x150.jpg",
       "pubDate": 1790316064000,
       "category": "artha",
-      "trendingScore": 48,
+      "trendingScore": 46,
       "breaking": false,
       "clusterId": "cluster-4KSm4KS2IOCkpCDgpLkg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -511,23 +561,10 @@
       "link": "https://arthasarokar.com/2026/09/how-much-has-the-price-of-gold-fallen-3.html",
       "pubDate": 1790314729000,
       "category": "artha",
-      "trendingScore": 48,
+      "trendingScore": 45,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkqOCklSDgpK4g",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "यस्ताे छ आजका लागि विदेशी मुद्राको विनिमयदर",
-      "description": "काठमाडौं- नेपाल राष्ट्र बैंकले शुक्रबारका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५३ रुपैयाँ २४ पैसा र बिक्रीदर १५३ रुपैयाँ ८४ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १७४ रुपैयाँ २९ पैसा र बिक्रीदर १७४ रुपैयाँ ९७ पैसा, युके पाउन्ड स्ट्रलिङ एकको खरिददर २०२ रुपैयाँ […]",
-      "link": "https://www.karobardaily.com/news/420470",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2025/11/dollar_karobar_BBG-150x150.jpg",
-      "pubDate": 1790314096000,
-      "category": "artha",
-      "trendingScore": 48,
-      "breaking": false,
-      "clusterId": "cluster-4KSv4KS4IOCkpCDgpJsg",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
       "sourceId": "karobar",
@@ -537,7 +574,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/first-aid-150x150.jpg",
       "pubDate": 1790304280000,
       "category": "artha",
-      "trendingScore": 44,
+      "trendingScore": 41,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksCDgpKXgpK4g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -549,7 +586,7 @@
       "link": "https://arthasarokar.com/2026/09/banks-and-financial-institutions-should-hold-their-investments-in-shares-and-debentures-for-45-days.html",
       "pubDate": 1790301929000,
       "category": "artha",
-      "trendingScore": 43,
+      "trendingScore": 40,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCklSDgpKTgpKUg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -562,7 +599,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b29/live/aaf14390-b2bc-11f1-bc1f-3f186ca4140c.png",
       "pubDate": 1790298999000,
       "category": "artha",
-      "trendingScore": 42,
+      "trendingScore": 39,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCkj-CkhuCkiOCk",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -575,7 +612,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/03/Weather_Karobardaily-150x150.jpg",
       "pubDate": 1790234630000,
       "category": "artha",
-      "trendingScore": 35,
+      "trendingScore": 32,
       "breaking": false,
       "clusterId": "cluster-4KSG4KSXIOCkriDgpLbg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -588,7 +625,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/08/rastra-bank-Karobardaily-file-150x150.jpg",
       "pubDate": 1790262558000,
       "category": "artha",
-      "trendingScore": 29,
+      "trendingScore": 26,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkleCksiDgpIgg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -601,9 +638,22 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/air-acc-150x150.png",
       "pubDate": 1790235000000,
       "category": "artha",
-      "trendingScore": 27,
+      "trendingScore": 24,
       "breaking": false,
       "clusterId": "cluster-4KScIOCkqyDgpLIg4KSP",
+      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "karobar",
+      "title": "प्रमुख नदीमा जलसतह बढ्ने पूर्वानुमान",
+      "description": "काठमाडौं- बिहीबारदेखि आगामी पाँच दिनसम्म मुलुकको प्रमुख नदीमा जलसतह बढ्ने पूर्वानुमान गरिएको छ । जल तथा ऊर्जा आयोगको सचिवालयअन्तर्गतको जल विज्ञान तथा जलस्रोत अनुसन्धान केन्द्र, बाढी पूर्वानुमान महाशाखाले उक्त अनुमान गरेको हो । महाशाखाका बाढीविद् सौहार्द जोशीले कोशी, नारायणी, कर्णाली, महाकालीलगायत प्रमुख नदी तथा सहायक नदीमा जलसतह उल्लेख्य बढ्ने पूर्वानुमान गर्दै उच्च सतर्कता अपनाउन आग्रह […]",
+      "link": "https://www.karobardaily.com/news/420212",
+      "image": "https://www.karobardaily.com/wp-content/uploads/2025/07/Nuwakot-Trishuli-River-Flood_-903-150x150.jpg",
+      "pubDate": 1790232313000,
+      "category": "artha",
+      "trendingScore": 24,
+      "breaking": false,
+      "clusterId": "cluster-4KSqIOCksOCkriDgpJYg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
@@ -613,7 +663,7 @@
       "link": "https://arthasarokar.com/2026/09/police-report-verification-fee-for-uae-workers-to-be-reduced-by-half.html",
       "pubDate": 1790252829000,
       "category": "artha",
-      "trendingScore": 26,
+      "trendingScore": 23,
       "breaking": false,
       "clusterId": "cluster-4KSvIOCkj-CkiCDgpJwg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -625,23 +675,10 @@
       "link": "https://arthasarokar.com/2026/09/nmb-bank-collaborates-with-icimod-for-sustainable-development.html",
       "pubDate": 1790252246000,
       "category": "artha",
-      "trendingScore": 26,
+      "trendingScore": 23,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSo4KSP4KSu4KSs",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "प्रमुख नदीमा जलसतह बढ्ने पूर्वानुमान",
-      "description": "काठमाडौं- बिहीबारदेखि आगामी पाँच दिनसम्म मुलुकको प्रमुख नदीमा जलसतह बढ्ने पूर्वानुमान गरिएको छ । जल तथा ऊर्जा आयोगको सचिवालयअन्तर्गतको जल विज्ञान तथा जलस्रोत अनुसन्धान केन्द्र, बाढी पूर्वानुमान महाशाखाले उक्त अनुमान गरेको हो । महाशाखाका बाढीविद् सौहार्द जोशीले कोशी, नारायणी, कर्णाली, महाकालीलगायत प्रमुख नदी तथा सहायक नदीमा जलसतह उल्लेख्य बढ्ने पूर्वानुमान गर्दै उच्च सतर्कता अपनाउन आग्रह […]",
-      "link": "https://www.karobardaily.com/news/420212",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2025/07/Nuwakot-Trishuli-River-Flood_-903-150x150.jpg",
-      "pubDate": 1790232313000,
-      "category": "artha",
-      "trendingScore": 26,
-      "breaking": false,
-      "clusterId": "cluster-4KSqIOCksOCkriDgpJYg",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     },
     {
       "sourceId": "arthasarokar",
@@ -650,7 +687,7 @@
       "link": "https://arthasarokar.com/2026/09/securities-board-of-nepal-sebon-unveils-concept-paper-to-implement-intraday-trading-in-stock-market.html",
       "pubDate": 1790250712000,
       "category": "artha",
-      "trendingScore": 25,
+      "trendingScore": 22,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkr-CksCDgpKzg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -663,7 +700,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Raining_weather_BBG-150x150.jpg",
       "pubDate": 1790249934000,
       "category": "artha",
-      "trendingScore": 25,
+      "trendingScore": 22,
       "breaking": false,
       "clusterId": "cluster-4KStIOCksCDgpLXgpLAg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -675,7 +712,7 @@
       "link": "https://arthasarokar.com/2026/09/nepal-rastra-bank-introduces-new-banknotes-of-rs-1000-denomination.html",
       "pubDate": 1790247924000,
       "category": "artha",
-      "trendingScore": 24,
+      "trendingScore": 21,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -688,7 +725,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/04/Share_lagani-150x150.jpg",
       "pubDate": 1790243650000,
       "category": "artha",
-      "trendingScore": 22,
+      "trendingScore": 20,
       "breaking": false,
       "clusterId": "cluster-4KWn4KWnIOCkhSDgpJXg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -701,7 +738,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/08/sadak-hilamme-150x150.png",
       "pubDate": 1790237559000,
       "category": "artha",
-      "trendingScore": 20,
+      "trendingScore": 17,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCkmiDgpLAg4KSc",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -714,7 +751,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/prime-commercial-150x150.jpg",
       "pubDate": 1790229841000,
       "category": "artha",
-      "trendingScore": 18,
+      "trendingScore": 15,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksCDgpIfgpK4g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T22:42:33.871Z",
+  "generatedAt": "2026-09-26T00:55:59.725Z",
   "category": "bidesh",
   "articles": [
     {
@@ -10,10 +10,23 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/photo-1-1.jpeg",
       "pubDate": 1790340696000,
       "category": "bidesh",
-      "trendingScore": 65,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KS44KSh4KSVIOCksCDg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "देशभर मनसुनी र पश्चिमी वायुको दोहोरो प्रभाव, आज यी प्रदेशमा हुनेछ अति भारी वर्षा",
+      "description": "काठमाडौँ । हाल देशभर मनसुनी वायुको साथै पश्चिमी वायुको पनि आंशिक प्रभाव रहेको मौसम पूर्वानुमान महाशाखाले जनाएको छ। साथै बलियो न्यून चापीय प्रणाली भारतको उत्तर महाराष्ट्र तथा छत्तिसगढ प्रदेश आसपासको रहेको छ। यो प्रणाली उत्तर&ndash;पश्चिमतर्फ",
+      "link": "https://www.ratopati.com/story/594978/the-dual-effect-of-monsoon-and-westerly-winds-will-prevail-across-the-country-very-heavy-rain-will-be-expected-in-these-states-today",
+      "image": "https://npcdn.ratopati.com/media/news/rain_3gUVbWNqzv.webp",
+      "pubDate": 1790382372000,
+      "category": "bidesh",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KSmIOCktuCkreCksCDg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "onlinekhabar",
@@ -22,7 +35,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025317/glaciers-and-floods-do-not-travel-with-a-visa-stamp-in-the-passport",
       "pubDate": 1790352982000,
       "category": "bidesh",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KS5IOCkruCkqOCkpiDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -35,7 +48,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2023/09/sudur.jpg",
       "pubDate": 1790342716000,
       "category": "bidesh",
-      "trendingScore": 58,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSVIOCkruCkuSDg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -48,7 +61,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b829/live/97a44680-b8ab-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1790320266000,
       "category": "bidesh",
-      "trendingScore": 58,
+      "trendingScore": 55,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCktyDgpKPgpK0g",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -60,58 +73,6 @@
       "link": "https://www.ratopati.com/story/594962/street-festival-to-be-held-on-world-tourism-day",
       "image": "https://rpcdn.ratopati.com/media/albums/kaski_zVE0A1gexY.jpg",
       "pubDate": 1790360537000,
-      "category": "bidesh",
-      "trendingScore": 56,
-      "breaking": false,
-      "clusterId": "cluster-4KS1IOCktiDgpLUg4KSq",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "परराष्ट्रमन्त्री खनाल र राष्ट्रसंघका उपमहासचिव खरेबिच शान्ति स्थापनाबारे छलफल",
-      "description": "अमेरिका । परराष्ट्र मन्त्री शिशिर खनालले संयुक्त राष्ट्रसङ्घका उपमहासचिव तथा डिपार्टमेन्ट अफ अपरेसन सपोर्टका प्रमुख अतुल खरेसँग भेटवार्ता गरेका छन् । संयुक्त राष्ट्रसङ्घको ८१औँ महासभाका क्रममा न्युयोर्कमा भएको साइडलाइन भेटवार्तामा नेपाल&ndash;संयुक्त राष्ट्रसङ्घ सहकार्य तथा राष्ट्रसङ्घीय शान्ति",
-      "link": "https://www.ratopati.com/story/594953/foreign-minister-khanal-and-un-under-secretary-general-khare-discuss-peacekeeping",
-      "image": "https://npcdn.ratopati.com/media/news/817296326_978405725293279_3562270625971529185_n_09UVJkMeGx.webp",
-      "pubDate": 1790353820000,
-      "category": "bidesh",
-      "trendingScore": 54,
-      "breaking": false,
-      "clusterId": "cluster-4KSq4KSw4KSwIOCktyDg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "अमेरिकामा चीनकी प्रथम महिला पेङको ‘सफ्ट पावर’ कूटनीति",
-      "description": "अन्तर्राष्ट्रिय शिखर सम्मेलन तथा उच्चस्तरीय कार्यक्रममा देखिँदा उनले पश्चिमी विलासी ब्रान्डभन्दा चिनियाँ स्थानीय ब्रान्ड र आधुनिक चिनियाँ शैलीका पहिरन रोज्दै आएकी छन्।...",
-      "link": "https://nagariknews.nagariknetwork.com/international/china-s-first-lady-peng-s-soft-power-diplomacy-in-the-us-84-22.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1790353608_China",
-      "pubDate": 1790353724000,
-      "category": "bidesh",
-      "trendingScore": 54,
-      "breaking": false,
-      "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "नेपाल र रुवान्डाबिच ‘जेनेरल को-अपरेसन अग्रिमेट’ मा हस्ताक्षर",
-      "description": "अमेरिका । नेपाल र रुवान्डाबिच &lsquo;जेनेरल को-अपरेसन अग्रिमेट&rsquo; मा हस्ताक्षर भएको छ। संयुक्त राष्ट्रसङ्घको ८१औँ महासभाका क्रममा न्युयोर्कमा आयोजित साइडलाइन कार्यक्रममा नेपालका परराष्ट्रमन्त्री शिशिर खनाल र रुवान्डाका परराष्ट्र तथा अन्तर्राष्ट्रिय सहयोगमन्त्री ओलिभियर जाँ प्याट्रिक न्दुहुन्गिरेहेले",
-      "link": "https://www.ratopati.com/story/594952/nepal-and-rwanda-sign-general-cooperation-agreement",
-      "image": "https://npcdn.ratopati.com/media/news/816926330_1092704143164095_7780669422163655582_n_z5k8KYijds.webp",
-      "pubDate": 1790353405000,
-      "category": "bidesh",
-      "trendingScore": 54,
-      "breaking": false,
-      "clusterId": "cluster-4KSoIOCkqiDgpLIg4KSw",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "विश्व पर्यटन दिवसमा पोखरामा मिनी स्ट्रिट फेस्टिभल",
-      "description": "पोखरा। विश्व पर्यटन दिवसको अवसरमा पोखराको लेकसाइडमा मिनी सडक महोत्सव हुने भएको छ। आइतबार रेस्टुरेन्ट एण्ड बार एसोसिएसन (रेवान) पोखराले विश्वभर मनाइने ४७ औँ विश्व पर्यटन दिवसका अवसरमा मिनी सडक महोत्सव आयोजना गर्न लागेको हो। पर्यटनलाई",
-      "link": "https://www.ratopati.com/story/594949/mini-street-festival-in-pokhara-on-world-tourism-day",
-      "image": "https://npcdn.ratopati.com/media/news/festival_yoIsafh3Fq.webp",
-      "pubDate": 1790352749000,
       "category": "bidesh",
       "trendingScore": 54,
       "breaking": false,
@@ -126,10 +87,49 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/himalayan_air-150x150.jpg",
       "pubDate": 1790332807000,
       "category": "bidesh",
-      "trendingScore": 54,
+      "trendingScore": 52,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCkoOCkriDgpKEg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "परराष्ट्रमन्त्री खनाल र राष्ट्रसंघका उपमहासचिव खरेबिच शान्ति स्थापनाबारे छलफल",
+      "description": "अमेरिका । परराष्ट्र मन्त्री शिशिर खनालले संयुक्त राष्ट्रसङ्घका उपमहासचिव तथा डिपार्टमेन्ट अफ अपरेसन सपोर्टका प्रमुख अतुल खरेसँग भेटवार्ता गरेका छन् । संयुक्त राष्ट्रसङ्घको ८१औँ महासभाका क्रममा न्युयोर्कमा भएको साइडलाइन भेटवार्तामा नेपाल&ndash;संयुक्त राष्ट्रसङ्घ सहकार्य तथा राष्ट्रसङ्घीय शान्ति",
+      "link": "https://www.ratopati.com/story/594953/foreign-minister-khanal-and-un-under-secretary-general-khare-discuss-peacekeeping",
+      "image": "https://npcdn.ratopati.com/media/news/817296326_978405725293279_3562270625971529185_n_09UVJkMeGx.webp",
+      "pubDate": 1790353820000,
+      "category": "bidesh",
+      "trendingScore": 51,
+      "breaking": false,
+      "clusterId": "cluster-4KSq4KSw4KSwIOCktyDg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "अमेरिकामा चीनकी प्रथम महिला पेङको ‘सफ्ट पावर’ कूटनीति",
+      "description": "अन्तर्राष्ट्रिय शिखर सम्मेलन तथा उच्चस्तरीय कार्यक्रममा देखिँदा उनले पश्चिमी विलासी ब्रान्डभन्दा चिनियाँ स्थानीय ब्रान्ड र आधुनिक चिनियाँ शैलीका पहिरन रोज्दै आएकी छन्।...",
+      "link": "https://nagariknews.nagariknetwork.com/international/china-s-first-lady-peng-s-soft-power-diplomacy-in-the-us-84-22.html",
+      "image": "https://images.nagariknewscdn.com/2026/third-party/1790353608_China",
+      "pubDate": 1790353724000,
+      "category": "bidesh",
+      "trendingScore": 51,
+      "breaking": false,
+      "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "नेपाल र रुवान्डाबिच ‘जेनेरल को-अपरेसन अग्रिमेट’ मा हस्ताक्षर",
+      "description": "अमेरिका । नेपाल र रुवान्डाबिच &lsquo;जेनेरल को-अपरेसन अग्रिमेट&rsquo; मा हस्ताक्षर भएको छ। संयुक्त राष्ट्रसङ्घको ८१औँ महासभाका क्रममा न्युयोर्कमा आयोजित साइडलाइन कार्यक्रममा नेपालका परराष्ट्रमन्त्री शिशिर खनाल र रुवान्डाका परराष्ट्र तथा अन्तर्राष्ट्रिय सहयोगमन्त्री ओलिभियर जाँ प्याट्रिक न्दुहुन्गिरेहेले",
+      "link": "https://www.ratopati.com/story/594952/nepal-and-rwanda-sign-general-cooperation-agreement",
+      "image": "https://npcdn.ratopati.com/media/news/816926330_1092704143164095_7780669422163655582_n_z5k8KYijds.webp",
+      "pubDate": 1790353405000,
+      "category": "bidesh",
+      "trendingScore": 51,
+      "breaking": false,
+      "clusterId": "cluster-4KSoIOCkqiDgpLIg4KSw",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "onlinekhabar",
@@ -138,7 +138,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025779/defense-university-will-it-be-a-military-or-academic-institution",
       "pubDate": 1790352345000,
       "category": "bidesh",
-      "trendingScore": 53,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCkpCDgpLDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -151,23 +151,10 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/80f4/live/3b328000-b8b6-11f1-bc1f-3f186ca4140c.jpg",
       "pubDate": 1790322927000,
       "category": "bidesh",
-      "trendingScore": 51,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSF4KS5IOCksiDgpJUg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "वर्षाले पोखरा अन्तर्राष्ट्रिय विमानस्थल खुल्नै सकेन, सबै उडान रद्द",
-      "description": "अविरल वर्षाले भिजिविलिटी नपुग्दा पोखरा अन्तर्राष्ट्रिय विमानस्थल खुल्न सकेको छैन।",
-      "link": "https://nagariknews.nagariknetwork.com/social-affairs/pokhara-international-airport-could-not-open-due-to-rain-all-flights-canceled-br-81-40.html",
-      "image": "https://images.nagariknewscdn.com/2025/third-party/1766589993_Pokhara.jpg",
-      "pubDate": 1790338024000,
-      "category": "bidesh",
-      "trendingScore": 48,
-      "breaking": false,
-      "clusterId": "cluster-4KS14KSwIOCktyDgpLIg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "bbcnepali",
@@ -177,7 +164,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/84d4/live/74998e50-b73b-11f1-bc1f-3f186ca4140c.jpg",
       "pubDate": 1790315726000,
       "category": "bidesh",
-      "trendingScore": 48,
+      "trendingScore": 45,
       "breaking": false,
       "clusterId": "cluster-4KSH4KSwIOCkqCDgpK8g",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -190,7 +177,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc83/live/c29581f0-b7f3-11f1-bc1f-3f186ca4140c.jpg",
       "pubDate": 1790241359000,
       "category": "bidesh",
-      "trendingScore": 22,
+      "trendingScore": 19,
       "breaking": false,
       "clusterId": "cluster-4KS14KSwIOCktyDgpJUg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -203,7 +190,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5a8e/live/770c8150-b7c3-11f1-bc1f-3f186ca4140c.jpg",
       "pubDate": 1790219795000,
       "category": "bidesh",
-      "trendingScore": 14,
+      "trendingScore": 11,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"

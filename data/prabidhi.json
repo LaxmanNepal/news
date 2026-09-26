@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T22:42:33.871Z",
+  "generatedAt": "2026-09-26T00:55:59.725Z",
   "category": "prabidhi",
   "articles": [
     {
@@ -10,7 +10,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/apf-11-1.jpg",
       "pubDate": 1790343497000,
       "category": "prabidhi",
-      "trendingScore": 74,
+      "trendingScore": 71,
       "breaking": true,
       "clusterId": "cluster-4KStIOCksCDgpLXgpLAg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -21,11 +21,24 @@
       "title": "नेपालमा डिजिटल भुक्तानीको प्रयोग तीव्र गतिमा बढ्दै",
       "description": "मोबाइल वालेट र क्यूआर भुक्तानीले साना व्यापारीसम्म पहुँच बढाएको छ।",
       "link": "https://techmandu.com",
-      "pubDate": 1790376153871,
+      "pubDate": 1790384159725,
       "fromSnapshot": true,
       "category": "prabidhi",
       "trendingScore": 70,
       "breaking": false
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "भोटेकोशी बाढीको महाविपद एक महिना : खोज, उद्धार तथा राहत वितरण जारी, पुनर्निर्माणमा चुनौती",
+      "description": "काठमाडौँ । रसुवाको भोटेकोशी नदीमा अकस्मात् बाढी गएको एक महिना भएको छ । गत भदौ १० गते बिहान गएको सो अकल्पनीय बाढीको महाविपदबाट रसुवा, नुवाकोट, धादिङ सहितको जिल्लाका विभिन्न स्थानहरूमा अकल्पनीय मानवीय र भौतिक संरचनामा",
+      "link": "https://www.ratopati.com/story/594972/one-month-after-the-bhotekoshi-flood-disaster-search-rescue-and-relief-distribution-continue-challenges-in-reconstruction",
+      "image": "https://npcdn.ratopati.com/media/news/rasuwa-bhotekoshi-badhi_xJnNFwOg50.webp",
+      "pubDate": 1790379585000,
+      "category": "prabidhi",
+      "trendingScore": 68,
+      "breaking": true,
+      "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "onlinekhabar",
@@ -34,7 +47,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025966/richa-who-went-missing-in-the-bhotekoshi-flood-passes-the-civil-service-exam",
       "pubDate": 1790347047000,
       "category": "prabidhi",
-      "trendingScore": 60,
+      "trendingScore": 57,
       "breaking": true,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -46,10 +59,22 @@
       "link": "https://www.setopati.com/kinmel/tourism/399263",
       "pubDate": 1790345436000,
       "category": "prabidhi",
-      "trendingScore": 59,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCkuOCkriDgpJbg",
       "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "डा. सिंहले लिइन् बाढीमा बुबा र क्यान्सरले आमा गुमाएका दाजु–बहिनीको जिम्मा",
+      "description": "विपन्न परिवारका उनीहरूलाई हेर्ने र पढाउने कोही नभएपछि डा. सिंहले जिम्मेवारी लिने घोषणा गरेकी हुन् ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2025942/dr-singh-takes-care-of-siblings-who-lost-their-father-in-the-flood-and-their-mother-to-cancer",
+      "pubDate": 1790343852000,
+      "category": "prabidhi",
+      "trendingScore": 56,
+      "breaking": true,
+      "clusterId": "cluster-4KShIOCkuCDgpLngpLIg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "arthasarokar",
@@ -59,22 +84,10 @@
       "image": "https://media.arthasarokar.com/uploads/2026/09/chovar-1.jpg",
       "pubDate": 1790322248000,
       "category": "prabidhi",
-      "trendingScore": 59,
+      "trendingScore": 56,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCkoOCkriDgpKEg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "डा. सिंहले लिइन् बाढीमा बुबा र क्यान्सरले आमा गुमाएका दाजु–बहिनीको जिम्मा",
-      "description": "विपन्न परिवारका उनीहरूलाई हेर्ने र पढाउने कोही नभएपछि डा. सिंहले जिम्मेवारी लिने घोषणा गरेकी हुन् ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2025942/dr-singh-takes-care-of-siblings-who-lost-their-father-in-the-flood-and-their-mother-to-cancer",
-      "pubDate": 1790343852000,
-      "category": "prabidhi",
-      "trendingScore": 58,
-      "breaking": true,
-      "clusterId": "cluster-4KShIOCkuCDgpLngpLIg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "rajdhani",
@@ -84,35 +97,10 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/01/pakrau-1.jpg",
       "pubDate": 1790340967000,
       "category": "prabidhi",
-      "trendingScore": 57,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCklSDgpLDgpJUg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "बाढी प्रभावित क्षेत्रबाट ल्याइएका विद्यार्थीबारे जानकारी दिन निर्देशन",
-      "description": "जिल्ला प्रशासन कार्यालय काठमाडौंले भदौ १० गते रसुवाको भोटेकोशीमा गएको बाढीबाट प्रभावित क्षेत्रबाट ल्याइएका विद्यार्थीहरुका बारेमा जानकारी दिन निर्देशन दिएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/social-affairs/instructions-to-provide-information-about-students-brought-from-flood-affected-areas-br-12-40.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1787911795_Bhotekoshi%20Badi.jpg",
-      "pubDate": 1790340021000,
-      "category": "prabidhi",
-      "trendingScore": 57,
-      "breaking": true,
-      "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "सुरुङभित्र १० दिन फसेर जीवितै उद्धार गरिएका महर्जन अस्पतालबाट डिस्चार्ज",
-      "description": "९ असोज, काठमाडौं । रसुवास्थित माथिल्लो त्रिशूली ३–ए जलविद्युत् आयोजनाको सुरुङमा १० दिनसम्म फसेर जीवितै उद्धार गरिएका मेकानिकल सुपरभाइजर कविर महर्जन अस्पतालबाट डिस्चार्ज भएका छन् । स्वास्थ्यमा उल्लेख्य सुधार आएपछि शुक्रवार अस्पतालबाट बिदा गरिएका महर्जनलाई ललितपुरस्थित उनको स्वागत गरिएको छ । गत भदौ १० गते आएको भीषण बाढीका कारण जलविद्युत आयोजनाको सुरुङभित्र फसेका महर्जनको उद्धार […]",
-      "link": "https://www.onlinekhabar.com/2026/09/2025890/maharjan-who-was-rescued-alive-after-being-trapped-in-a-tunnel-for-10-days-has-been-discharged-from-the-hospital",
-      "pubDate": 1790339891000,
-      "category": "prabidhi",
-      "trendingScore": 57,
-      "breaking": true,
-      "clusterId": "cluster-4KS4IOCksCDgpJngpK0g",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "karobar",
@@ -122,7 +110,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/jalabiddhyut_ayojana_BBG-150x150.jpg",
       "pubDate": 1790330478000,
       "category": "prabidhi",
-      "trendingScore": 54,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSnIOCksiDgpJfgpJkg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -135,22 +123,9 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1790351440_Jumla.jpg",
       "pubDate": 1790351451000,
       "category": "prabidhi",
-      "trendingScore": 53,
+      "trendingScore": 50,
       "breaking": false,
       "clusterId": "cluster-4KS5IOCkiSDgpK4g4KSl",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "बोडे र मूलपानी जोड्ने पुल भासिएपछि यातायात आवागमन बन्द",
-      "description": "भक्तपुरको बोडे र काठमाडौंको मूलपानी जोड्ने मनोहरा खोलाको पुलसँगैको जमिन भासिएपछि यातायातका साधनलाई आवतजावतमा रोक लगाइएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/social-affairs/traffic-movement-suspended-after-bridge-connecting-bode-and-mulpani-collapses-br-67-87.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1790340438_bode.jpg",
-      "pubDate": 1790340444000,
-      "category": "prabidhi",
-      "trendingScore": 49,
-      "breaking": false,
-      "clusterId": "cluster-4KSsIOCkoSDgpLAg4KSu",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
@@ -161,7 +136,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/betrawati_s-150x150.png",
       "pubDate": 1790245729000,
       "category": "prabidhi",
-      "trendingScore": 31,
+      "trendingScore": 28,
       "breaking": false,
       "clusterId": "cluster-4KSn4KSuIOCkp-CkriDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -174,7 +149,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7e94/live/1be3ad40-b718-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1790212821000,
       "category": "prabidhi",
-      "trendingScore": 19,
+      "trendingScore": 17,
       "breaking": false,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"

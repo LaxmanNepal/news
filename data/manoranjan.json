@@ -1,18 +1,19 @@
 {
-  "generatedAt": "2026-09-25T22:42:33.871Z",
+  "generatedAt": "2026-09-26T00:55:59.725Z",
   "category": "manoranjan",
   "articles": [
     {
-      "sourceId": "setopati",
-      "title": "एउटा सुपरहिट कोरियन फिल्म, हेर्नुस् युट्युबमा",
-      "description": "नदीबाट अचानक अजीवको जीव निस्कियो भने मानिसहरू के गर्लान्? भाग्नेछन्, लुक्नेछन् वा त्यसको सामना गर्नेछन्?",
-      "link": "https://www.setopati.com/art/interview/399251",
-      "pubDate": 1790343240000,
+      "sourceId": "ratopati",
+      "title": "प्रसाईँको कृति ‘सीताराम दाइ’ लोकार्पण",
+      "description": "काठमाडौँ । महासमालोचक प्राडा वासुदेव त्रिपाठीले राजधानी काठमाडौँमा एक समारोहबिच नरेन्द्रराज प्रसाईद्वारा लिखित &lsquo;सीताराम दाइ&rsquo; नामक निबन्ध सङ्ग्रहको लोकार्पण गरेका छन् । त्यस अवसरमा उनले सिद्धहस्त जीवनीकार, निबन्धकार तथा गीतकार नरेन्द्रराज प्रसाईँबाट सीताराम प्रसाईमाथि केन्द्रित भएर",
+      "link": "https://www.ratopati.com/story/594979/prasais-work-sitaram-dai-launched",
+      "image": "https://npcdn.ratopati.com/media/news/f5e5f5e0-1a9a-49d4-a64f-95c43ac16006_ZT796NEwuH.webp",
+      "pubDate": 1790383056000,
       "category": "manoranjan",
-      "trendingScore": 58,
+      "trendingScore": 62,
       "breaking": false,
-      "clusterId": "cluster-4KSP4KSJ4KSfIOCkuCDg",
-      "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
+      "clusterId": "cluster-4KSqIOCksOCkuCDgpIgg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "nagarik",
@@ -22,7 +23,7 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1790347367_Ba%20(1).png",
       "pubDate": 1790347383000,
       "category": "manoranjan",
-      "trendingScore": 52,
+      "trendingScore": 49,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkj-CklSDgpK8g",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
@@ -34,7 +35,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025953/jhinge-dau-2-song-aama-bhaye-po-swarg-hungo-ghar-released",
       "pubDate": 1790345240000,
       "category": "manoranjan",
-      "trendingScore": 51,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSdIOCklyDgpKYg4KSJ",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -47,7 +48,7 @@
       "image": "https://images.nagariknewscdn.com/2026/third-party/1790344761_Kumar.png",
       "pubDate": 1790344732000,
       "category": "manoranjan",
-      "trendingScore": 51,
+      "trendingScore": 48,
       "breaking": false,
       "clusterId": "cluster-4KSa4KSy4KSaIOCkpCDg",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"

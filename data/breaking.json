@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-09-25T22:42:33.871Z",
+  "generatedAt": "2026-09-26T00:55:59.725Z",
   "articles": [
+    {
+      "sourceId": "ratopati",
+      "title": "बाढीको जोखिममा राप्ती तटीय क्षेत्रका बासिन्दा",
+      "description": "बाँकेमा दुई दिनदेखि जारी अविरल वर्षाको कारण राप्ती नदी तटीय क्षेत्रका बासिन्दा बाढीको जोखिममा परेका छन्।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/residents-of-rapti-coastal-areas-at-risk-of-flooding-16-21.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1790383839_rapti.jpg",
+      "pubDate": 1790383865000,
+      "category": "taja",
+      "trendingScore": 70,
+      "breaking": true,
+      "clusterId": "cluster-4KSsIOCkoiDgpJUg4KSc",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "रिडी–तम्घास सडक पहिरोले अवरुद्ध",
+      "description": "१० असोज, गुल्मी । गुल्मीको रुरुक्षेत्र गाउँपालिका–१ स्यालबिसौनामा पहिरो खसेपछि रिडी–तम्घास सडकखण्ड पूर्णरूपमा अवरुद्ध भएको छ। शुक्रबार राति करिब ९:४५ बजे लेदोसहितको पहिरो खसेर मदन भण्डारी राजमार्गको सडकखण्ड अवरुद्ध भएको जिल्ला प्रहरी कार्यालय गुल्मीका प्रहरी उपरीक्षक (एसपी) भीमकिरण बोगटीले बताए । पहिरोका कारण उक्त सडकखण्डमा सवारी आवागमन पूर्णरूपमा रोकिएको छ । पहिरो हटाउन इलाका प्रहरी […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2026017/ridi-tamghas-road-blocked-by-landslide",
+      "pubDate": 1790383519000,
+      "category": "artha",
+      "trendingScore": 70,
+      "breaking": true,
+      "clusterId": "cluster-4KSwIOCkoSDgpKTgpK4g",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "नारायणीको बाढी बस्तीमा पस्यो, स्थानीयलाई सुरक्षित स्थानमा बस्न आग्रह",
+      "description": "निरन्तरको वर्षाले पश्चिम नवलपरासीको सुस्तामा नारायणी नदीको बाढी बस्तीमा पस्न थालेपछि स्थानीयवासी समस्या परेका छन्।...",
+      "link": "https://nagariknews.nagariknetwork.com/social-affairs/floods-in-narayani-enter-settlements-locals-urged-to-stay-in-safe-places-15-71.html",
+      "image": "https://images.nagariknewscdn.com/2024/third-party/1720692846_narayani_nadi.jpg",
+      "pubDate": 1790383371000,
+      "category": "khelkud",
+      "trendingScore": 70,
+      "breaking": true,
+      "clusterId": "cluster-4KSoIOCksCDgpK_gpKMg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "कालीगण्डकी र रिडीमा बाढी, जोखिममा परेका बस्ती खाली गराइयो",
+      "description": "१० असोज, गुल्मी । गुल्मीको रुरु क्षेत्र गाउँपालिका–१ अन्तर्गत लामोचौपारी आसपासका बस्तीमा कालीगण्डकी र रिडी खोलाको प्रभाव बढेपछि स्थानीयलाई सजग गराउँदै बस्ती खाली गराउन थालिएको छ । खोलाको बहाव र जोखिम बढेपछि स्थानीयले घरमा रहेका सामानहरू सुरक्षित स्थानमा स्थानान्तरण गरेका छन् । गएराति रुरुक्षेत्र गाउँपालिका वडा नम्बर १ का वडाध्यक्ष नवराज विकसहित, स्थानीय युवाहरूले जोखिममा […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2026014/floods-in-kaligandaki-and-ridi-vulnerable-settlements-evacuated",
+      "pubDate": 1790383263000,
+      "category": "taja",
+      "trendingScore": 70,
+      "breaking": true,
+      "clusterId": "cluster-4KSVIOCksiDgpJfgpKMg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "ujyaalo",
+      "title": "लगातारको वर्षाले भोटेकोशीको बाढी प्रभावितसहित विभिन्न ठाउँमा जनजीवन कष्टकर",
+      "description": "",
+      "link": "https://www.ujyaaloonline.com/detail/131923",
+      "pubDate": 1790381940000,
+      "category": "artha",
+      "trendingScore": 69,
+      "breaking": true,
+      "clusterId": "cluster-4KSy4KSXIOCkpCDgpLDg",
+      "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "भोटेकोशी बाढीको महाविपद एक महिना : खोज, उद्धार तथा राहत वितरण जारी, पुनर्निर्माणमा चुनौती",
+      "description": "काठमाडौँ । रसुवाको भोटेकोशी नदीमा अकस्मात् बाढी गएको एक महिना भएको छ । गत भदौ १० गते बिहान गएको सो अकल्पनीय बाढीको महाविपदबाट रसुवा, नुवाकोट, धादिङ सहितको जिल्लाका विभिन्न स्थानहरूमा अकल्पनीय मानवीय र भौतिक संरचनामा",
+      "link": "https://www.ratopati.com/story/594972/one-month-after-the-bhotekoshi-flood-disaster-search-rescue-and-relief-distribution-continue-challenges-in-reconstruction",
+      "image": "https://npcdn.ratopati.com/media/news/rasuwa-bhotekoshi-badhi_xJnNFwOg50.webp",
+      "pubDate": 1790379585000,
+      "category": "prabidhi",
+      "trendingScore": 68,
+      "breaking": true,
+      "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
     {
       "sourceId": "ratopati",
       "title": "बाढी पसेपछि सुस्तावासी समस्यामा",
@@ -9,7 +84,7 @@
       "image": "https://rpcdn.ratopati.com/archived-media/narayani-nadi.jpg",
       "pubDate": 1790376127000,
       "category": "khelkud",
-      "trendingScore": 70,
+      "trendingScore": 67,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKrgpLgg",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -22,22 +97,9 @@
       "image": "https://npcdn.ratopati.com/media/news/jhapa__dhzolqasr2_QnjZRO8TPN.webp",
       "pubDate": 1790375879000,
       "category": "taja",
-      "trendingScore": 70,
+      "trendingScore": 67,
       "breaking": true,
       "clusterId": "cluster-4KSdIOCkqiDgpK4g4KSh",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "बाढीको जोखिममा राप्ती तटीय क्षेत्रका बासिन्दा",
-      "description": "बाँके । बाँकेमा दुई दिनदेखि जारी अविरल वर्षाको कारण राप्ती नदी तटीय क्षेत्रका बासिन्दा बाढीको जोखिममा परेका छन् । राप्ती नदीले राप्ती सोनारीको २ नं वडादेखि नरैनापुरसम्मकै तल्लोतटीय क्षेत्रका बासिन्दालाई वर्षेनी जोखिम राख्दै आएको छ ।",
-      "link": "https://www.ratopati.com/story/594965/residents-of-rapti-coastal-areas-at-risk-of-flooding",
-      "image": "https://rpcdn.ratopati.com/media/albums/rapti-river_MNNUTspPKh.jpg",
-      "pubDate": 1790375483000,
-      "category": "taja",
-      "trendingScore": 70,
-      "breaking": true,
-      "clusterId": "cluster-4KSsIOCkoiDgpJUg4KSc",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
@@ -48,7 +110,7 @@
       "image": "https://npcdn.ratopati.com/media/news/tanahu-map_us5mlswuc2_MPGIzBN5w0.jpg",
       "pubDate": 1790356008000,
       "category": "artha",
-      "trendingScore": 63,
+      "trendingScore": 60,
       "breaking": true,
       "clusterId": "cluster-4KSYIOCkuCDgpJUg4KS1",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -61,7 +123,7 @@
       "image": "https://npcdn.ratopati.com/media/news/hjdyt0UCSW.jpg",
       "pubDate": 1790354626000,
       "category": "khelkud",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCksiDgpKog4KSu",
       "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
@@ -74,7 +136,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/roshi-scaled-1.jpg",
       "pubDate": 1790353227000,
       "category": "rajaniti",
-      "trendingScore": 70,
+      "trendingScore": 67,
       "breaking": true,
       "clusterId": "cluster-4KSwIOCktiDgpJYg4KSy",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -86,7 +148,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025317/glaciers-and-floods-do-not-travel-with-a-visa-stamp-in-the-passport",
       "pubDate": 1790352982000,
       "category": "bidesh",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KS5IOCkruCkqOCkpiDg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -98,7 +160,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025964/prime-ministers-proposal-to-create-a-trilateral-climate-mechanism-experts-say-lets-expand-it-further",
       "pubDate": 1790352806000,
       "category": "rajaniti",
-      "trendingScore": 78,
+      "trendingScore": 75,
       "breaking": true,
       "clusterId": "cluster-4KSkIOCksCDgpKYg4KS2",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -110,36 +172,10 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025999/bagmati-government-immediately-requests-rs-1-billion-from-the-association-for-post-flood-reconstruction",
       "pubDate": 1790351090000,
       "category": "rajaniti",
-      "trendingScore": 69,
+      "trendingScore": 66,
       "breaking": true,
       "clusterId": "cluster-4KSsIOCkoiDgpKrgpJsg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "लगातारको वर्षाले प्रमुख राजमार्गमा यातायात प्रभावित, पृथ्वी र बीपी राजमार्ग पूर्ण बन्द",
-      "description": "काठमाडौँ । अविरल वर्षा र पहिरोका कारण देशका विभिन्न प्रमुख राजमार्गमा यातायात प्रभावित भएको छ। सडक विभागले शुक्रबार राति साढे ८ बजेसम्मको अवस्थामा यात्रु तथा सवारी चालकलाई सडकको पछिल्लो अवस्था बुझेर मात्रै यात्रा गर्न आग्रह",
-      "link": "https://www.ratopati.com/story/594943/continuous-rains-affect-traffic-on-major-highways-prithvi-and-bp-highways-completely-closed",
-      "image": "https://npcdn.ratopati.com/media/news/prithivi-highway_pahiro-(5)_C9Gqr6nqHg.webp",
-      "pubDate": 1790351000000,
-      "category": "taja",
-      "trendingScore": 61,
-      "breaking": true,
-      "clusterId": "cluster-4KSy4KSXIOCkpCDgpLDg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "पृथ्वी राजमार्गका ८ स्थानमा अवरोध",
-      "description": "काठमाडौँ। लगातारको वर्षाका कारण धादिङमा पृथ्वी राजमार्गका विभिन्न स्थानमा पहिरो खस्दा सडक अवरुद्ध भएको छ। जिल्ला प्रशासन तथा सम्बन्धित निकायले सार्वजनिक गरेको पछिल्लो अपडेटअनुसार शुक्रबार राति साढे ८ बजेसम्म राजमार्गका ८ स्थानमा सडक अवरोध रहेको छ। बेनीघाट",
-      "link": "https://www.ratopati.com/story/594942/obstruction-at-8-places-on-prithvi-highway-road-closed-due-to-landslide-in-dhading",
-      "image": "https://npcdn.ratopati.com/media/news/krishna-veer_oAfH2ewQhk.webp",
-      "pubDate": 1790350535000,
-      "category": "taja",
-      "trendingScore": 61,
-      "breaking": true,
-      "clusterId": "cluster-4KSqIOCkpSDgpLUg4KSw",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "rajdhani",
@@ -149,7 +185,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/sachin-113.jpeg",
       "pubDate": 1790347644000,
       "category": "artha",
-      "trendingScore": 68,
+      "trendingScore": 65,
       "breaking": true,
       "clusterId": "cluster-4KSuIOCkuOCkriDgpLAg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -161,7 +197,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025966/richa-who-went-missing-in-the-bhotekoshi-flood-passes-the-civil-service-exam",
       "pubDate": 1790347047000,
       "category": "prabidhi",
-      "trendingScore": 60,
+      "trendingScore": 57,
       "breaking": true,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -173,7 +209,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025955/police-recover-bike-buried-in-landslide-at-ghansikuwa-section-of-prithvi-highway",
       "pubDate": 1790345310000,
       "category": "artha",
-      "trendingScore": 59,
+      "trendingScore": 56,
       "breaking": true,
       "clusterId": "cluster-4KSqIOCkpSDgpLUg4KSw",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -185,7 +221,7 @@
       "link": "https://www.onlinekhabar.com/2026/09/2025942/dr-singh-takes-care-of-siblings-who-lost-their-father-in-the-flood-and-their-mother-to-cancer",
       "pubDate": 1790343852000,
       "category": "prabidhi",
-      "trendingScore": 58,
+      "trendingScore": 56,
       "breaking": true,
       "clusterId": "cluster-4KShIOCkuCDgpLngpLIg",
       "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
@@ -198,7 +234,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/apf-11-1.jpg",
       "pubDate": 1790343497000,
       "category": "prabidhi",
-      "trendingScore": 74,
+      "trendingScore": 71,
       "breaking": true,
       "clusterId": "cluster-4KStIOCksCDgpLXgpLAg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -211,7 +247,7 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2024/06/pahero.jpg",
       "pubDate": 1790342579000,
       "category": "khelkud",
-      "trendingScore": 66,
+      "trendingScore": 63,
       "breaking": true,
       "clusterId": "cluster-4KSq4KS5IOCksCDgpLIg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
@@ -224,47 +260,10 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/photo-1-1.jpeg",
       "pubDate": 1790340696000,
       "category": "bidesh",
-      "trendingScore": 65,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KS44KSh4KSVIOCksCDg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "बाढी प्रभावित क्षेत्रबाट ल्याइएका विद्यार्थीबारे जानकारी दिन निर्देशन",
-      "description": "जिल्ला प्रशासन कार्यालय काठमाडौंले भदौ १० गते रसुवाको भोटेकोशीमा गएको बाढीबाट प्रभावित क्षेत्रबाट ल्याइएका विद्यार्थीहरुका बारेमा जानकारी दिन निर्देशन दिएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/social-affairs/instructions-to-provide-information-about-students-brought-from-flood-affected-areas-br-12-40.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1787911795_Bhotekoshi%20Badi.jpg",
-      "pubDate": 1790340021000,
-      "category": "prabidhi",
-      "trendingScore": 57,
-      "breaking": true,
-      "clusterId": "cluster-4KSsIOCkoiDgpKog4KSw",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "सुरुङभित्र १० दिन फसेर जीवितै उद्धार गरिएका महर्जन अस्पतालबाट डिस्चार्ज",
-      "description": "९ असोज, काठमाडौं । रसुवास्थित माथिल्लो त्रिशूली ३–ए जलविद्युत् आयोजनाको सुरुङमा १० दिनसम्म फसेर जीवितै उद्धार गरिएका मेकानिकल सुपरभाइजर कविर महर्जन अस्पतालबाट डिस्चार्ज भएका छन् । स्वास्थ्यमा उल्लेख्य सुधार आएपछि शुक्रवार अस्पतालबाट बिदा गरिएका महर्जनलाई ललितपुरस्थित उनको स्वागत गरिएको छ । गत भदौ १० गते आएको भीषण बाढीका कारण जलविद्युत आयोजनाको सुरुङभित्र फसेका महर्जनको उद्धार […]",
-      "link": "https://www.onlinekhabar.com/2026/09/2025890/maharjan-who-was-rescued-alive-after-being-trapped-in-a-tunnel-for-10-days-has-been-discharged-from-the-hospital",
-      "pubDate": 1790339891000,
-      "category": "prabidhi",
-      "trendingScore": 57,
-      "breaking": true,
-      "clusterId": "cluster-4KS4IOCksCDgpJngpK0g",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "ujyaalo",
-      "title": "लगातार वर्षा : भोटेकोशी बाढीबाट प्रभावितको जनजीवन थप कष्टकर",
-      "description": "टेन्टभित्र पानी पसेपछि राहतमा प्राप्त भएको खाद्यान्न, लत्ताकपडा तथा अन्य सामग्री जोगाउन प्रभावितलाई समस्या भएको छ ।",
-      "link": "https://www.ujyaaloonline.com/detail/131918",
-      "pubDate": 1790336520000,
-      "category": "artha",
-      "trendingScore": 56,
-      "breaking": true,
-      "clusterId": "cluster-4KSy4KSXIOCkpCDgpLAg",
-      "id": "ujyaalo::aHR0cHM6Ly93d3cudWp5YWFsb29ubGlu"
     },
     {
       "sourceId": "arthasarokar",
@@ -273,7 +272,7 @@
       "link": "https://arthasarokar.com/2026/09/priority-to-be-given-to-online-bus-ticket-booking-during-festivals.html",
       "pubDate": 1790336327000,
       "category": "artha",
-      "trendingScore": 72,
+      "trendingScore": 69,
       "breaking": true,
       "clusterId": "cluster-4KSaIOCkoeCkquCksCDg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -286,7 +285,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/china_nepal-150x150.jpg",
       "pubDate": 1790332026000,
       "category": "rajaniti",
-      "trendingScore": 62,
+      "trendingScore": 59,
       "breaking": true,
       "clusterId": "cluster-4KSw4KS4IOCktSDgpJfg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -299,7 +298,7 @@
       "image": "https://media.arthasarokar.com/uploads/2026/09/chovar-1.jpg",
       "pubDate": 1790322248000,
       "category": "prabidhi",
-      "trendingScore": 59,
+      "trendingScore": 56,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCkoOCkriDgpKEg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -312,7 +311,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/jilla_pashasan_dang-150x150.jpg",
       "pubDate": 1790321652000,
       "category": "artha",
-      "trendingScore": 66,
+      "trendingScore": 64,
       "breaking": true,
       "clusterId": "cluster-4KSmIOCkmeCklSDgpJwg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -325,7 +324,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/pokhara-sawari-band-150x150.jpg",
       "pubDate": 1790321463000,
       "category": "artha",
-      "trendingScore": 66,
+      "trendingScore": 64,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCkuCDgpJUg4KSu",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -338,47 +337,9 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b829/live/97a44680-b8ab-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1790320266000,
       "category": "bidesh",
-      "trendingScore": 58,
+      "trendingScore": 55,
       "breaking": true,
       "clusterId": "cluster-4KSVIOCktyDgpKPgpK0g",
-      "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
-    },
-    {
-      "sourceId": "arthasarokar",
-      "title": "मुग्लिन-नारायणगढ सडक अनिश्चितकालका लागि बन्द !",
-      "description": "काठमाडौँ । अविरल वर्षाका कारण नारायणगढ–मुग्लिन सडक र पृथ्वी राजमार्गअन्तर्गत चितवन तथा धादिङका विभिन्न स्थानमा पहिरो खस्दा सडक पूर्ण रूपमा अवरुद्ध भएको छ । नेपाल प्रहरी राजमार्ग सुरक्षा तथा ट्राफिक व्यवस्थापन कार्यालय रामनगरका प्रमुख प्रहरी उपरीक्षक डिल्लीनारायण पाण्डेका अनुसार राजमार्गका विभिन्न स्थानमा लगातार साना–ठूला पहिरो खसिरहेकाले तत्काल सडक सञ्चालनमा ल्याउन सकिने अवस्था छैन । निरन्तर Continue reading \"मुग्लिन-नारायणगढ सडक अनिश्चितकालका लागि बन्द !\"",
-      "link": "https://arthasarokar.com/2026/09/narayangadh-muglin-road-closed-for-indefinite-period.html",
-      "pubDate": 1790319094000,
-      "category": "khelkud",
-      "trendingScore": 66,
-      "breaking": true,
-      "clusterId": "cluster-4KSuIOCklyDgpLIg4KSo",
-      "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "कृष्णभिरमा सडकको नदीतर्फको ग्याबिन केही तल झर्‍यो",
-      "description": "चितवन- अविरल वर्षाका कारण नारायणगढ–मुग्लिन सडक र पृथ्वी राजमार्गअन्तर्गत चितवन तथा धादिङका विभिन्न स्थानमा पहिरो खस्दा सडक पूर्ण रूपमा अवरुद्ध भएको छ । नेपाल प्रहरी राजमार्ग सुरक्षा तथा ट्राफिक व्यवस्थापन कार्यालय रामनगरका प्रमुख प्रहरी उपरीक्षक डिल्लीनारायण पाण्डेका अनुसार राजमार्गका विभिन्न स्थानमा लगातार साना–ठूला पहिरो खसिरहेकाले तत्काल सडक सञ्चालनमा ल्याउन सकिने अवस्था छैन । निरन्तर वर्षा […]",
-      "link": "https://www.karobardaily.com/news/420524",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/krishnabhir-sadak-bhasieko-150x150.jpg",
-      "pubDate": 1790317126000,
-      "category": "khelkud",
-      "trendingScore": 65,
-      "breaking": true,
-      "clusterId": "cluster-4KSVIOCktyDgpKPgpK0g",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "bbcnepali",
-      "title": "'जलवायु न्यायको कुरा नारामा सीमित हुनु हुन्न': राष्ट्रसङ्घीय महासभामा वालेन्द्र शाहले अरू के भने",
-      "description": "प्रधानमन्त्री वालेन्द्र शाह 'बालेन'ले राष्ट्रसङ्घीय महासभामा भोटेकोशी-त्रिशूली बाढीले पुर्‍याएको क्षतिदेखि हरितगृह ग्यास उत्सर्जन, जलवायु न्यायसम्मका विषय उठाएका छन्।",
-      "link": "https://www.bbc.com/nepali/articles/crp3k0p84d9do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e1f/live/2f216510-b89d-11f1-b1d1-571ed4d7ff2c.jpg",
-      "pubDate": 1790313676000,
-      "category": "rajaniti",
-      "trendingScore": 56,
-      "breaking": true,
-      "clusterId": "cluster-4KSc4KSy4KS1IOCkryDg",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
     }
   ]
