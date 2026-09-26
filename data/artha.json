@@ -1,7 +1,31 @@
 {
-  "generatedAt": "2026-09-26T10:48:13.146Z",
+  "generatedAt": "2026-09-26T14:46:16.442Z",
   "category": "artha",
   "articles": [
+    {
+      "sourceId": "onlinekhabar",
+      "title": "बिहीबारयता बाढी, पहिरो लगायतका विपद्‍मा परी ६ जनाको मृत्यु",
+      "description": "१० असोज, काठमाडौं । अविरल वर्षाको कारण गत असोज ८ गतेदेखि देशका विभिन्न स्थानमा आएको बाढी, पहिरो लगायतका विपद्‍मा परी हालसम्म ६ जनाको मृत्यु भएको छ । बाढी, पहिरो लगायतका विपद्‍मा परी बागमती प्रदेशमा २ जना, लुम्बिनी प्रदेशमा २ जना, गण्डकी प्रदेशमा १ जना र कर्णाली प्रदेशमा १ जना गरी जम्मा ६ जनाको मृत्यु भएको […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2026411/six-people-have-died-in-floods-landslides-and-other-disasters-since-thursday",
+      "pubDate": 1790428538000,
+      "category": "artha",
+      "trendingScore": 84,
+      "breaking": true,
+      "clusterId": "cluster-4KSsIOCkuSDgpKwg4KSw",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "बागलुङका दुई मुख्य राजमार्ग अवरुद्ध",
+      "description": "१० असोज, बागलुङ । बाढी तथा पहिरोका कारण बागलुङका दुई राष्ट्रिय राजमार्ग शुक्रबार साँझदेखि अवरूद्व भएको छ । कालीगण्डकी करिडोर बागलुङ खण्डको जैमिनी नगरपालिका र मध्यपहाडी लोकमार्गको बागलुङ खण्डको निसोखोला गाउँपालिकामा अवरुद्ध भएको छ । अविरल वर्षाका कारण जैमिनी नगरपालिका–८ छिस्ती बेलबगरमा पहिरो खस्दा कालीगण्डकी करिडोर सडक ठप्प भएको हो । यस्तै, मध्यपहाडी लोकमार्गअन्तर्गत बागलुङको […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2026408/two-main-highways-in-baglung-blocked",
+      "pubDate": 1790428262000,
+      "category": "artha",
+      "trendingScore": 76,
+      "breaking": true,
+      "clusterId": "cluster-4KSsIOCkl-CksiDgpJng",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
     {
       "sourceId": "karobar",
       "title": "वर्षाले देशभरका ११ राजमार्ग अवरुद्ध",
@@ -10,7 +34,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/gulmi-sadak-150x150.jpg",
       "pubDate": 1790404829000,
       "category": "artha",
-      "trendingScore": 81,
+      "trendingScore": 76,
       "breaking": true,
       "clusterId": "cluster-4KS14KSwIOCktyDgpLIg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -23,10 +47,47 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/08/nuwakot_badi-150x150.jpg",
       "pubDate": 1790394425000,
       "category": "artha",
-      "trendingScore": 77,
+      "trendingScore": 72,
       "breaking": true,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
+    },
+    {
+      "sourceId": "setopati",
+      "title": "पाथीभरा पुग्दाको त्यो पावन क्षण",
+      "description": "यात्रा गर्दै जाँदा थाहा भयो, तमोर करिडोर त पूर्वी पहाडको लागि जीवनरेखा नै रहेछ।",
+      "link": "https://www.setopati.com/ghumphir/ghumphir-experience/399302",
+      "pubDate": 1790427057000,
+      "category": "artha",
+      "trendingScore": 68,
+      "breaking": false,
+      "clusterId": "cluster-4KSqIOCkpSDgpK3gpLAg",
+      "id": "setopati::aHR0cHM6Ly93d3cuc2V0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "सडक सञ्जाल अवरुद्ध हुँदा रसुवामा खाद्यान्न अभाव, बिरामी मारमा",
+      "description": "रसुवा । भोटेकोशी बाढीका कारण चीनसँगको सीमावर्ती जिल्ला रसुवाको सडक सञ्जाल पूर्णरूपमा टुटेपछि स्थानीय जनजीवन कष्टकर बनेको छ । सडक यातायात ठप्प हुँदा जिल्लामा खाद्यान्न सङ्कट गहिरिन थालेको छ भने स्थानीय कृषक र व्यवसायीहरू आर्थिक",
+      "link": "https://www.ratopati.com/story/595123/food-shortage-illness-grip-rasuwa-as-road-network-disrupted",
+      "pubDate": 1790425439000,
+      "category": "artha",
+      "trendingScore": 67,
+      "breaking": true,
+      "clusterId": "cluster-4KS44KSh4KSVIOCkuOCk",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy",
+      "image": "https://npcdn.ratopati.com/media/news/rasuwa-bhotekoshi-trishuli-flood_npl-(4)_dqxgrzoifi_hjSXfoLzWu.webp"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "पहिरोका कारण जोमसोम–कोरला सडक अवरुद्ध",
+      "description": "१० असोज, मुस्ताङ । लगातार परेको वर्षाका कारण जोमसोम–कोरला सडक आजदेखि अवरुद्ध भएको छ । जोमसोम–कोरला नाका जोड्ने सडकखण्डको तीन स्थानमा पहिरो खसेपछि सडक अवरुद्ध भएको जिल्ला प्रहरी कार्यालय मुस्ताङले जनाएको छ । कोरला नाका जाड्ने जोमसोम–कोरला राष्ट्रिय राजमार्गअन्तर्गत बारागुङ मुक्तिक्षेत्रको चैले गाउँभन्दा माथि कालोभीर, कागबेनीदेखि ताङ्वे सडक र उपल्लो मुस्ताङको लोघेकर दामोदरकुण्ड–२ घमीस्थित सेल्फीडाँडा […]",
+      "link": "https://www.onlinekhabar.com/2026/09/2026349/landslide-blocks-jomsom-korla-road",
+      "pubDate": 1790423548000,
+      "category": "artha",
+      "trendingScore": 66,
+      "breaking": true,
+      "clusterId": "cluster-4KSq4KS5IOCksCDgpJUg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "bbcnepali",
@@ -36,7 +97,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/deb6/live/a64086d0-b98d-11f1-90f2-0d8b78b18143.jpg",
       "pubDate": 1790418064000,
       "category": "artha",
-      "trendingScore": 69,
+      "trendingScore": 64,
       "breaking": false,
       "clusterId": "cluster-4KSnIOCksCDgpK0g4KSw",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -49,10 +110,23 @@
       "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/apf-20.jpg",
       "pubDate": 1790414238000,
       "category": "artha",
-      "trendingScore": 68,
+      "trendingScore": 63,
       "breaking": false,
       "clusterId": "cluster-4KS44KS24KS4IOCkpCDg",
       "id": "rajdhani::aHR0cHM6Ly9yYWpkaGFuaWRhaWx5LmNv"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "अर्थमन्त्री वाग्ले कतार प्रस्थान",
+      "description": "काठमाडौँ । अर्थमन्त्री डा स्वर्णिम वाग्ले एसियाली पूर्वाधार लगानी विकास बैंक (एआइआइबी)को सञ्चालक समितिको ११औँ वार्षिक बैठकमा सहभागी हुन कतार प्रस्थान गरेका छन् । बैठकमा भाग लिन नेपाली प्रतिनिधिमण्डलको नेतृत्व गर्दै मन्त्री वाग्ले आज साँझ कतारको",
+      "link": "https://www.ratopati.com/story/595135/finance-minister-wagle-departs-for-qatar",
+      "image": "https://npcdn.ratopati.com/media/news/swarnim-wagle_4vvA4DkiiP.jpg",
+      "pubDate": 1790433563000,
+      "category": "artha",
+      "trendingScore": 62,
+      "breaking": false,
+      "clusterId": "cluster-4KSF4KSwIOCkpeCkruCk",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "bbcnepali",
@@ -62,10 +136,71 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/db59/live/5cc8ea60-b8f7-11f1-b57c-437a6c3aeb18.jpg",
       "pubDate": 1790388525000,
       "category": "artha",
-      "trendingScore": 67,
+      "trendingScore": 62,
       "breaking": true,
       "clusterId": "cluster-4KStIOCknyDgpJUg4KS2",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "हात्तीले फेरेको कञ्चनपुरवासीको रातचर्या",
+      "description": "भारतको दुधुवा राष्ट्रिय निकुञ्जबाट नेपाल प्रवेश गर्ने हात्ती लालझाडी–मोहना करिडोर हुँदै कञ्चनपुरका विभिन्न क्षेत्रमा पुग्ने गरेका छन् ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2026205/the-night-life-of-the-people-of-kanchanpur-changed-by-elephants",
+      "pubDate": 1790432500000,
+      "category": "artha",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KS5IOCkpCDgpKQg4KSy",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "हुम्लाको सिमिकोटमा ‘रेकर्ड ब्रेक’ वर्षा",
+      "description": "हुम्ला सदरमुकाम सिमिकोटमा गएको २४ घण्टा अवधिमा भएको वर्षाले ४८ वर्ष अवधिको पुरानो उच्च रेकर्ड तोडेको हो ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2026437/record-breaking-rainfall-in-simikot-humla",
+      "pubDate": 1790431889000,
+      "category": "artha",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KS5IOCkriDgpLIg4KSV",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "उपभोक्तालाई ‘विष’ बेच्दै व्यापारी, चियापत्तीदेखि पुष्टकारीसम्म दूषित",
+      "description": "खाद्य प्रविधि तथा गुण नियन्त्रण विभागले यही ६ र ८ असोजमा गरेका बजार अनुगमन र त्यसपछि जारी गरेका सूचना केलाउने हो भने अहिले नेपाली बजार उपभोक्ताका लागि विष किन्ने थलो जस्तै बनेको छ ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2025979/traders-selling-poison-to-consumers-contaminated-everything-from-tea-leaves-to-supplements",
+      "pubDate": 1790431715000,
+      "category": "artha",
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KSJ4KSq4KStIOCklSDg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "onlinekhabar",
+      "title": "तम्घासमा परम्परागत फल्चा (तस्वीरहरू)",
+      "description": "परम्परागत वास्तुकलाको झल्को दिने शैली र आधुनिक निर्माण प्रविधिको संयोजनमा निर्माण गरिएका यी फल्चा अहिले तम्घास बजारको नयाँ आकर्षणका रूपमा देखिन थालेका छन् ।",
+      "link": "https://www.onlinekhabar.com/2026/09/2026364/traditional-falcha-in-tamghas-pictures",
+      "pubDate": 1790426302000,
+      "category": "artha",
+      "trendingScore": 59,
+      "breaking": false,
+      "clusterId": "cluster-4KSk4KSuIOCkmCDgpLjg",
+      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "नेपालमा सुरक्षित गर्भपतन : ७१ प्रतिशत महिलाको पहिलो रोजाइमा औषधि",
+      "description": "काठमाडौँ । आर्थिक वर्ष २०८२/८३ मा देशभर एक लाख ५ हजार ६ सय २८ जना महिलाले सुरक्षित गर्भपतन सेवा लिएका छन् । अघिल्लो वर्षको तुलनामा यसमा केही कमी आए तापनि सेवाग्राहीमध्ये बहुसङ्ख्यक अर्थात् ७१.२५ प्रतिशत महिलाले",
+      "link": "https://www.ratopati.com/story/595069/safe-abortion-in-nepal-medication-is-the-first-choice-for-71-percent-of-women",
+      "image": "https://npcdn.ratopati.com/media/news/safe-abortion_mUT6c2L88w.webp",
+      "pubDate": 1790424900000,
+      "category": "artha",
+      "trendingScore": 59,
+      "breaking": false,
+      "clusterId": "cluster-4KSoIOCkqiDgpLLgpK4g",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "karobar",
@@ -75,23 +210,10 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/sss-150x150.jpg",
       "pubDate": 1790399187000,
       "category": "artha",
-      "trendingScore": 63,
+      "trendingScore": 58,
       "breaking": false,
       "clusterId": "cluster-4KS2IOCksCDgpKgg4KSq",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "तीन महिनामा मधेसबाट २७ करोडका सामान बरामद",
-      "description": "काठमाडौँ । पछिल्लो तीन महिनामा सशस्त्र प्रहरीले मधेस प्रदेशबाट झण्डै रु २७ करोड ८५ लाख बराबरको राजस्व छलिका सामान बरामद गरेको छ । सशस्त्र प्रहरीले उक्त परिमाणको किराना सामान, लत्ताकपडा, सुर्तीजन्य पदार्थ, इलेक्ट्रोनिक्स, हार्डवयर, मोटरपाट्र्स तथा",
-      "link": "https://www.ratopati.com/story/595086/goods-worth-rs-270-million-seized-from-madhesh-in-three-months",
-      "image": "https://npcdn.ratopati.com/media/news/baramad_19xFqDrmLB.jpg",
-      "pubDate": 1790419240000,
-      "category": "artha",
-      "trendingScore": 62,
-      "breaking": false,
-      "clusterId": "cluster-4KSkIOCkqCDgpK7gpLkg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "karobar",
@@ -101,35 +223,10 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Syakar-Trading-Company-ties-with-NIC-asia1-150x150.jpeg",
       "pubDate": 1790397985000,
       "category": "artha",
-      "trendingScore": 62,
+      "trendingScore": 57,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkryDgpJUg4KSw",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "हात्तीले फेरेको कञ्चनपुरवासीको रातचर्या",
-      "description": "भारतको दुधुवा राष्ट्रिय निकुञ्जबाट नेपाल प्रवेश गर्ने हात्ती लालझाडी–मोहना करिडोर हुँदै कञ्चनपुरका विभिन्न क्षेत्रमा पुग्ने गरेका छन् ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2026205/the-night-life-of-the-people-of-kanchanpur-changed-by-elephants",
-      "pubDate": 1790418220000,
-      "category": "artha",
-      "trendingScore": 61,
-      "breaking": false,
-      "clusterId": "cluster-4KS5IOCkpCDgpKQg4KSy",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "अमेरिकी डिजेल निर्यातमा प्रतिबन्धको तयारी : विश्व बजारमा इन्धन सङ्कटको जोखिम",
-      "description": "वासिङ्टन डिसी । अमेरिकाले डिजेल निर्यातमा प्रतिबन्ध लगाए वा कटौती गरे त्यसको असर घरेलु बजारमा मात्रै नभई विश्वभर इन्धनको मूल्यमा पर्न सक्ने ऊर्जा विज्ञहरूले चेतावनी दिएका छन्। अमेरिका विश्वकै ठुलो डिजेल निर्यातकर्ता भएकाले उसको निर्यातमा आएको",
-      "link": "https://www.ratopati.com/story/595053/preparations-for-ban-on-us-diesel-exports-risk-of-fuel-crisis-in-global-market",
-      "image": "https://npcdn.ratopati.com/media/news/disel-export_bwC8LDQTw4.webp",
-      "pubDate": 1790417700000,
-      "category": "artha",
-      "trendingScore": 61,
-      "breaking": false,
-      "clusterId": "cluster-4KSF4KSuIOCksCDgpJUg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     },
     {
       "sourceId": "karobar",
@@ -139,7 +236,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/03/arun-tesro-rr-150x150.jpg",
       "pubDate": 1790395473000,
       "category": "artha",
-      "trendingScore": 61,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KSF4KSwIOCkoyDgpKQg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -152,7 +249,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/12/us-dollar12-150x150.png",
       "pubDate": 1790394997000,
       "category": "artha",
-      "trendingScore": 61,
+      "trendingScore": 56,
       "breaking": false,
       "clusterId": "cluster-4KSv4KS4IOCkpCDgpJsg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -165,110 +262,10 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dc36/live/9aab6df0-b959-11f1-a430-4d16ee157c41.jpg",
       "pubDate": 1790393457000,
       "category": "artha",
-      "trendingScore": 61,
+      "trendingScore": 55,
       "breaking": false,
       "clusterId": "cluster-4KS5IOCksCDgpK4g4KSc",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "कोमलसँगको सम्बन्धको चर्चामा गोविन्दाको स्पष्टीकरण: यो मलाई परिवारबाट टाढा बनाउने योजनाबद्ध प्रयास हो",
-      "description": "केही दिनअघि मुम्बईको प्रसिद्ध लालबागचा राजाको दर्शनका क्रममा गोविन्दा कोमलसँगै देखिएपछि सामाजिक सञ्जालमा उनीहरूबीचको सम्बन्धलाई लिएर विभिन्न चर्चा चलेका थिए ।...",
-      "link": "https://nagariknews.nagariknetwork.com/arts/govinda-claims-there-was-a-planned-conspiracy-against-him-70-70.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1790417381_Govindas1.jpg",
-      "pubDate": 1790415422000,
-      "category": "artha",
-      "trendingScore": 60,
-      "breaking": false,
-      "clusterId": "cluster-4KSVIOCkruCksuCkuCDg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "कर्णालीमा भारी वर्षा : कुन–कुन सडकखण्ड बने अवरुद्ध ?",
-      "description": "कर्णाली राजमार्गअन्तर्गत तिलागुफा नगरपालिका–१ भिग्मामा पनि सडक अवरुद्ध भएको प्रहरीले जनाएको छ ।",
-      "link": "https://www.onlinekhabar.com/2026/09/2026256/heavy-rains-in-karnali-which-road-sections-were-blocked",
-      "pubDate": 1790415387000,
-      "category": "artha",
-      "trendingScore": 60,
-      "breaking": false,
-      "clusterId": "cluster-4KSV4KSwIOCkoyDgpLIg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "ratopati",
-      "title": "हावाहुरी चलेको बेला के गर्ने ? के नगर्ने ?",
-      "description": "काठमाडौँ । गृह मन्त्रालय अन्तर्गतको राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणले हावाहुरीको जोखिमबाट बच्न सर्वसाधारणका लागि विशेष सतर्कता अपनाउन सार्वजनिक अपिल जारी गरेको छ । प्राधिकरणका अनुसार हावाहुरी चलेको बेला घरका झ्याल र ढोका पूर्ण",
-      "link": "https://www.ratopati.com/story/595072/what-to-do-during-a-storm-what-not-to-do",
-      "image": "https://rpcdn.ratopati.com/media/albums/kanchanpur_hawahuri_1_KSw3lvFDnR.jpg",
-      "pubDate": 1790415120000,
-      "category": "artha",
-      "trendingScore": 60,
-      "breaking": false,
-      "clusterId": "cluster-4KS5IOCktSDgpLkg4KSw",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "सुस्ताका स्थानीयलाई सुरक्षित स्थानमा सारिँदै",
-      "description": "सुस्ता बस्तीमा पानी पस्न सुरु भएलगतै विपद् उद्धारका लागि सुरक्षाकर्मी परिचालन गरी स्थानीयलाई सुरक्षित स्थानमा स्थानान्तरण गर्न सुरु गरिएको जिल्ला प्रशासन कार्यालय नवलपरासीले जनाएको छ।...",
-      "link": "https://nagariknews.nagariknetwork.com/social-affairs/locals-of-susta-are-being-evacuated-to-a-safe-place-br-94-80.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1790414978_SUSTA.jpg",
-      "pubDate": 1790414898000,
-      "category": "artha",
-      "trendingScore": 60,
-      "breaking": false,
-      "clusterId": "cluster-4KS4IOCkuCDgpKQg4KSV",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "‘मौसमी जोखिमबाट क्षति हुन नदिन पूर्वतयारी अवस्थामा छौँ ’",
-      "description": "कर्णाली प्रदेशका दश जिल्लाका प्रमुख जिल्ला अधिकारीहरूले मौसमजन्य जोखिमबाट क्षति हुन नदिने गरी पूर्वतयारी अवस्थामा रहेको बताएका छन्।...",
-      "link": "https://nagariknews.nagariknetwork.com/social-affairs/we-are-in-a-state-of-preparedness-to-prevent-damage-from-seasonal-hazards-16-56.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1774054607_Karnali.jpg",
-      "pubDate": 1790414309000,
-      "category": "artha",
-      "trendingScore": 60,
-      "breaking": false,
-      "clusterId": "cluster-4KSuIOCkuOCkriDgpJwg",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "सल्यानमा शुक्रबार रातिदेखि विद्युत् अवरुद्ध, राप्ती राजमार्ग पनि बन्द",
-      "description": "९ असोज, काठमाडौं । सल्यानमा निरन्तरको वर्षा र हावाहुरीका कारण १० गते रातिदेखि अवरुद्ध विद्युत् सेवा अझै सञ्चालनमा आउन सकेको छैन । विभिन्न स्थानमा रूख ढल्दा ३३ केभी प्रसारण लाइनमा क्षति पुगेपछि विद्युत् सेवा अवरुद्ध भएको हो । नेपाल विद्युत् प्राधिकरण सल्यान वितरण केन्द्रका अनुसार, ३३ केभी प्रसारण लाइनअन्तर्गत लुहाम, अरिङ्गालेफेदी (खारखोला) खण्डमा रुख ढलेर […]",
-      "link": "https://www.onlinekhabar.com/2026/09/2026238/electricity-has-been-disrupted-in-salyan-since-friday-night-rapti-highway-has-also-been-closed",
-      "pubDate": 1790414236000,
-      "category": "artha",
-      "trendingScore": 60,
-      "breaking": false,
-      "clusterId": "cluster-4KS44KSyIOCkryDgpKjg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "कर्णालीका १० सीडीओले भने– मौसमी जोखिमबाट क्षति हुन नदिन पूर्वतयारी अवस्थामा छौं",
-      "description": "१० असोज, कर्णाली । कर्णाली प्रदेशका दश जिल्लाका प्रमुख जिल्ला अधिकारीहरूले मौसमजन्य जोखिमबाट क्षति हुन नदिने गरी पूर्वतयारी अवस्थामा रहेको बताएका छन् । कर्णाली प्रदेश विपद् व्यवस्थापन कार्यकारी समितिको असोज ८ गतेको बैठकको निर्णयको निर्देशनअनुसार मौसमी विपद् जोखिमबाट क्षति हुन नदिन सबै प्रमुख जिल्ला अधिकारीहरूले उपलब्ध जनशक्ति तथा साधनस्रोतसहित पूर्वतयारी अवस्थामा रहेको बताएका हुन् । […]",
-      "link": "https://www.onlinekhabar.com/2026/09/2026235/10-cdos-of-karnali-said-we-are-in-a-state-of-preparedness-to-prevent-damage-from-seasonal-risks",
-      "pubDate": 1790413812000,
-      "category": "artha",
-      "trendingScore": 60,
-      "breaking": false,
-      "clusterId": "cluster-4KSV4KSwIOCkoyDgpLIg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "लगातारको वर्षाले सुर्खेतमा विद्युत् सेवा प्रभावित",
-      "description": "१० असोज, सुर्खेत । लगातार वर्षाका कारण प्रदेश राजधानी वीरेन्द्रनगरसहित सुर्खेतका विभिन्न क्षेत्रमा विद्युत् सेवा प्रभावित भएको छ । वर्षाका कारण विद्युत् प्रसारणका पोलहरुमा रुख ढल्दा जिल्लाका अधिकांश ठाउँमा विद्युत् सेवा प्रभावित भएको हो । विद्युत् प्राधिकरण सुर्खेतका अनुसार सुब्बाकुना–रामघाट ३३ केभी लाइनमा रुख ढलेर अवरुद्ध भएको छ । रुख हटाई मर्मतसम्भारको काम भइरहेकाले उक्त […]",
-      "link": "https://www.onlinekhabar.com/2026/09/2026174/continuous-rain-affects-electricity-service-in-surkhet",
-      "pubDate": 1790408997000,
-      "category": "artha",
-      "trendingScore": 58,
-      "breaking": false,
-      "clusterId": "cluster-4KSy4KSXIOCkpCDgpLDg",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
     },
     {
       "sourceId": "arthasarokar",
@@ -277,10 +274,23 @@
       "link": "https://arthasarokar.com/2026/09/priority-to-be-given-to-online-bus-ticket-booking-during-festivals.html",
       "pubDate": 1790336327000,
       "category": "artha",
-      "trendingScore": 56,
+      "trendingScore": 51,
       "breaking": false,
       "clusterId": "cluster-4KSaIOCkoeCkquCksCDg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
+    },
+    {
+      "sourceId": "nagarik",
+      "title": "शिक्षक खोज्दै अनसनमा बसेका विद्यार्थीबिच मध्यरातमा सहमति",
+      "description": "‘शिक्षा, स्वास्थ्य, पर्यटन तथा व्यापारिक पूर्वाधार, बहुसाँस्कृतिक, आवासीय समृद्ध सहर’ धरान उपमहानगरपालिकाको पहिचान बोकेको यो नाराले शिक्षालाई पहिलो प्राथमिकतामै राख्छ।...",
+      "link": "https://nagariknews.nagariknetwork.com/education/students-on-hunger-strike-seeking-teacher-reach-midnight-agreement-37-91.html",
+      "image": "https://images.nagariknewscdn.com/2025/third-party/1790391764_pic.jpg",
+      "pubDate": 1790389282000,
+      "category": "artha",
+      "trendingScore": 46,
+      "breaking": false,
+      "clusterId": "cluster-4KS2IOCklSDgpLfgpJUg",
+      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     },
     {
       "sourceId": "karobar",
@@ -290,7 +300,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/jilla_pashasan_dang-150x150.jpg",
       "pubDate": 1790321652000,
       "category": "artha",
-      "trendingScore": 51,
+      "trendingScore": 46,
       "breaking": false,
       "clusterId": "cluster-4KSmIOCkmeCklSDgpJwg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -303,7 +313,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/pokhara-sawari-band-150x150.jpg",
       "pubDate": 1790321463000,
       "category": "artha",
-      "trendingScore": 51,
+      "trendingScore": 46,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCkuCDgpJUg4KSu",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -315,7 +325,7 @@
       "link": "https://arthasarokar.com/2026/09/jagadish-khadka-quits-esewa-372-times-since-he-assumed-office.html",
       "pubDate": 1790339329000,
       "category": "artha",
-      "trendingScore": 41,
+      "trendingScore": 36,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCksCDgpK_gpJUg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -327,7 +337,7 @@
       "link": "https://arthasarokar.com/2026/09/niraj-sharma-appointed-new-ceo-of-esewa.html",
       "pubDate": 1790337532000,
       "category": "artha",
-      "trendingScore": 41,
+      "trendingScore": 35,
       "breaking": false,
       "clusterId": "cluster-4KSH4KS4IOCktSDgpJUg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -339,7 +349,7 @@
       "link": "https://arthasarokar.com/2026/09/hundreds-of-thousands-of-bank-employees-will-go-on-the-streets-for-3-days-in-india-demanding-two-days-off-in-a-week.html",
       "pubDate": 1790333006000,
       "category": "artha",
-      "trendingScore": 39,
+      "trendingScore": 34,
       "breaking": false,
       "clusterId": "cluster-4KS54KSqIOCkpCDgpJUg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -351,7 +361,7 @@
       "link": "https://arthasarokar.com/2026/09/garbage-management-in-kathmandu-valley-hampered-by-regular-rains.html",
       "pubDate": 1790331966000,
       "category": "artha",
-      "trendingScore": 39,
+      "trendingScore": 33,
       "breaking": false,
       "clusterId": "cluster-4KSoIOCkr-CkriDgpKQg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -363,7 +373,7 @@
       "link": "https://arthasarokar.com/2026/09/nrbs-inspection-team-says-cooperatives-have-been-paying-commission-to-those-who-bring-in-savings.html",
       "pubDate": 1790331901000,
       "category": "artha",
-      "trendingScore": 39,
+      "trendingScore": 33,
       "breaking": false,
       "clusterId": "cluster-4KSwIOCktyDgpJ8g4KSw",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -376,7 +386,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2022/06/Swollen-Saptakoshi-River-after-incessant-rainfall-at-the-Koshi-Barrage-150x150.jpg",
       "pubDate": 1790331764000,
       "category": "artha",
-      "trendingScore": 38,
+      "trendingScore": 33,
       "breaking": false,
       "clusterId": "cluster-4KS44KSqIOCkpOCklSDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -388,7 +398,7 @@
       "link": "https://arthasarokar.com/2026/09/flights-disrupted-due-to-bad-weather.html",
       "pubDate": 1790324202000,
       "category": "artha",
-      "trendingScore": 36,
+      "trendingScore": 31,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksOCkpCDgpJUg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -401,7 +411,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/dhan-bali-150x150.jpg",
       "pubDate": 1790321822000,
       "category": "artha",
-      "trendingScore": 35,
+      "trendingScore": 30,
       "breaking": false,
       "clusterId": "cluster-4KScIOCkriDgpLIg4KSV",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -414,7 +424,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/cold-store-150x150.jpg",
       "pubDate": 1790320984000,
       "category": "artha",
-      "trendingScore": 35,
+      "trendingScore": 29,
       "breaking": false,
       "clusterId": "cluster-4KSV4KSwIOCkoSDgpJbg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -427,7 +437,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/08/madhya-modi-jalabiddhyut_-150x150.jpg",
       "pubDate": 1790320493000,
       "category": "artha",
-      "trendingScore": 34,
+      "trendingScore": 29,
       "breaking": false,
       "clusterId": "cluster-4KSu4KSnIOCkryDgpK4g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -439,7 +449,7 @@
       "link": "https://arthasarokar.com/2026/09/man-arrested-for-banking-accounts-in-52-banks-and-financial-institutions.html",
       "pubDate": 1790320226000,
       "category": "artha",
-      "trendingScore": 34,
+      "trendingScore": 29,
       "breaking": false,
       "clusterId": "cluster-4KWr4KWoIOCkrCDgpJUg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -452,7 +462,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/cbfin-150x150.jpeg",
       "pubDate": 1790319577000,
       "category": "artha",
-      "trendingScore": 34,
+      "trendingScore": 29,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCklSDgpJkg4KSV",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -465,7 +475,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/metlife-2-150x150.jpg",
       "pubDate": 1790319122000,
       "category": "artha",
-      "trendingScore": 34,
+      "trendingScore": 29,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCkn-CksiDgpIfg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -478,7 +488,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/muktinath-150x150.jpg",
       "pubDate": 1790318911000,
       "category": "artha",
-      "trendingScore": 34,
+      "trendingScore": 29,
       "breaking": false,
       "clusterId": "cluster-4KSuIOCklSDgpKQg4KSo",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -491,7 +501,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2025/11/sampadakiya_editorial_karobar_BBG-150x150.jpg",
       "pubDate": 1790318618000,
       "category": "artha",
-      "trendingScore": 34,
+      "trendingScore": 29,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSG4KSIIOCkryDg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -504,7 +514,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/raghu-150x150.png",
       "pubDate": 1790318047000,
       "category": "artha",
-      "trendingScore": 34,
+      "trendingScore": 28,
       "breaking": false,
       "clusterId": "cluster-4KWq4KWmIOCkriDgpJcg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -517,7 +527,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/08/yatayat-niti-150x150.jpg",
       "pubDate": 1790316064000,
       "category": "artha",
-      "trendingScore": 33,
+      "trendingScore": 28,
       "breaking": false,
       "clusterId": "cluster-4KSm4KS2IOCkpCDgpLkg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -529,7 +539,7 @@
       "link": "https://arthasarokar.com/2026/09/how-much-has-the-price-of-gold-fallen-3.html",
       "pubDate": 1790314729000,
       "category": "artha",
-      "trendingScore": 32,
+      "trendingScore": 27,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkqOCklSDgpK4g",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -542,7 +552,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/first-aid-150x150.jpg",
       "pubDate": 1790304280000,
       "category": "artha",
-      "trendingScore": 29,
+      "trendingScore": 23,
       "breaking": false,
       "clusterId": "cluster-4KSqIOCksCDgpKXgpK4g",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -554,7 +564,7 @@
       "link": "https://arthasarokar.com/2026/09/banks-and-financial-institutions-should-hold-their-investments-in-shares-and-debentures-for-45-days.html",
       "pubDate": 1790301929000,
       "category": "artha",
-      "trendingScore": 28,
+      "trendingScore": 23,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCklSDgpKTgpKUg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -567,7 +577,7 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b29/live/aaf14390-b2bc-11f1-bc1f-3f186ca4140c.png",
       "pubDate": 1790298999000,
       "category": "artha",
-      "trendingScore": 27,
+      "trendingScore": 22,
       "breaking": false,
       "clusterId": "cluster-4KSVIOCkj-CkhuCkiOCk",
       "id": "bbcnepali::aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXBh"
@@ -580,7 +590,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2024/08/rastra-bank-Karobardaily-file-150x150.jpg",
       "pubDate": 1790262558000,
       "category": "artha",
-      "trendingScore": 14,
+      "trendingScore": 8,
       "breaking": false,
       "clusterId": "cluster-4KSsIOCkleCksiDgpIgg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -592,7 +602,7 @@
       "link": "https://arthasarokar.com/2026/09/police-report-verification-fee-for-uae-workers-to-be-reduced-by-half.html",
       "pubDate": 1790252829000,
       "category": "artha",
-      "trendingScore": 10,
+      "trendingScore": 8,
       "breaking": false,
       "clusterId": "cluster-4KSvIOCkj-CkiCDgpJwg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -604,7 +614,7 @@
       "link": "https://arthasarokar.com/2026/09/nmb-bank-collaborates-with-icimod-for-sustainable-development.html",
       "pubDate": 1790252246000,
       "category": "artha",
-      "trendingScore": 10,
+      "trendingScore": 8,
       "breaking": false,
       "clusterId": "cluster-4KSP4KSo4KSP4KSu4KSs",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -616,7 +626,7 @@
       "link": "https://arthasarokar.com/2026/09/securities-board-of-nepal-sebon-unveils-concept-paper-to-implement-intraday-trading-in-stock-market.html",
       "pubDate": 1790250712000,
       "category": "artha",
-      "trendingScore": 9,
+      "trendingScore": 8,
       "breaking": false,
       "clusterId": "cluster-4KS4IOCkr-CksCDgpKzg",
       "id": "arthasarokar::aHR0cHM6Ly9hcnRoYXNhcm9rYXIuY29t"
@@ -629,7 +639,7 @@
       "image": "https://www.karobardaily.com/wp-content/uploads/2026/09/Raining_weather_BBG-150x150.jpg",
       "pubDate": 1790249934000,
       "category": "artha",
-      "trendingScore": 9,
+      "trendingScore": 8,
       "breaking": false,
       "clusterId": "cluster-4KStIOCksCDgpLXgpLAg",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
@@ -657,19 +667,6 @@
       "trendingScore": 8,
       "breaking": false,
       "clusterId": "cluster-4KWn4KWnIOCkhSDgpJXg",
-      "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
-    },
-    {
-      "sourceId": "karobar",
-      "title": "मेची राजमार्ग र करिडोरमा यातायात सञ्चालनमा रोक",
-      "description": "इलाम- मेची राजमार्ग र मेची करिडोर (केचना–कञ्चनजङ्गा सडक)मा बिहीबारदेखि रातको समयमा सवारीसाधन सञ्चालनमा रोक लगाइएको छ । जिल्ला प्रशासन कार्यालय इलामले एक सूचना जारी गर्दै असोज ८ गते बेलुका ७:०० बजेदेखि ११ गते बिहान ५:०० बजेसम्म मेची राजमार्ग बन्द गरिने जनाएको हो । जल तथा मौसम विज्ञान विभागको मौसमसम्बन्धी बुलेटिन अनुसार असोज ९ देखि ११ […]",
-      "link": "https://www.karobardaily.com/news/420284",
-      "image": "https://www.karobardaily.com/wp-content/uploads/2026/08/sadak-hilamme-150x150.png",
-      "pubDate": 1790237559000,
-      "category": "artha",
-      "trendingScore": 8,
-      "breaking": false,
-      "clusterId": "cluster-4KSuIOCkmiDgpLAg4KSc",
       "id": "karobar::aHR0cHM6Ly93d3cua2Fyb2JhcmRhaWx5"
     }
   ]
