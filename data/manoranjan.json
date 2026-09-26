@@ -1,19 +1,32 @@
 {
-  "generatedAt": "2026-09-26T05:52:05.857Z",
+  "generatedAt": "2026-09-26T10:48:13.146Z",
   "category": "manoranjan",
   "articles": [
     {
-      "sourceId": "nagarik",
-      "title": "पाठकीय आँखामा ‘फूलको जीवन मनको आगो’",
-      "description": "सुन्दर एउटा गीतमा सुन्दर एउटा कवितामा पाइने सबै गुण एवम् क्षमता हुन्छ।",
-      "link": "https://nagariknews.nagariknetwork.com/arts/song-collection-flower-life-fire-of-the-mind-br-94-83.html",
-      "image": "https://images.nagariknewscdn.com/2024/third-party/1790394757_Final%2098.jpg",
-      "pubDate": 1790393040000,
+      "sourceId": "ratopati",
+      "title": "पेन्सन पट्टा : लाहुरे सपनाभित्र लुकेको प्रेम र पर्खाइको कथा",
+      "description": "&lsquo;प्रेम हुनु र जीवन चलाउनु फरक कुरा रहेछ । मेरो बाउले मेरो आमासँग जीवन मात्र चलाएको रहेछ, प्रेम त तपाईंलाई नै गरेको रहेछ ।&rsquo; चलचित्रको मुख्य पात्र राजन गुरुङ (दयाहाङ राई) ले चलचित्रको उत्तरार्धमा आफ्नी",
+      "link": "https://www.ratopati.com/story/595041/pension-patta-a-story-of-love-and-waiting-hidden-within-a-dream",
+      "image": "https://npcdn.ratopati.com/media/news/pension-patta_gzDMmoJpF5.webp",
+      "pubDate": 1790415900000,
       "category": "manoranjan",
-      "trendingScore": 67,
-      "breaking": true,
-      "clusterId": "cluster-4KSqIOCkoOCklSDgpK8g",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
+      "trendingScore": 61,
+      "breaking": false,
+      "clusterId": "cluster-4KSqIOCkqCDgpLjgpKgg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
+    },
+    {
+      "sourceId": "ratopati",
+      "title": "ओस्कारको बाटोमा ‘अङ्घ’: विश्व सिनेमामा नागाल्यान्डको नयाँ छलाङ",
+      "description": "मुम्बई । भारतीय फिल्म &lsquo;अङ्घ&rsquo;को यात्रालाई हेर्दा यो केही हदसम्म अविश्वसनीय जस्तो लाग्छ । यो फिल्म भारतको उत्तरपूर्वी सीमावर्ती पहाडी राज्य नागाल्यान्डबाट आएको हो, जहाँ २० लाखभन्दा कम मानिस बस्छन् । फिल्म कोन्याक भाषामा बनेको छ,",
+      "link": "https://www.ratopati.com/story/595034/angh-on-the-way-to-oscars-nagalands-new-leap-into-world-cinema",
+      "image": "https://npcdn.ratopati.com/media/news/angh_B5BjraExVZ.webp",
+      "pubDate": 1790412300000,
+      "category": "manoranjan",
+      "trendingScore": 59,
+      "breaking": false,
+      "clusterId": "cluster-4KST4KS4IOCklSDgpLDg",
+      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
     }
   ]
 }
