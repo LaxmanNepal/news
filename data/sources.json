@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T00:55:59.725Z",
+  "generatedAt": "2026-09-26T05:52:05.857Z",
   "sources": [
     {
       "id": "onlinekhabar",
@@ -133,9 +133,8 @@
       "feed": "https://techmandu.com/feed/",
       "category": "prabidhi",
       "tag": "TM",
-      "ok": false,
-      "count": 0,
-      "error": "No articles parsed"
+      "ok": true,
+      "count": 1
     },
     {
       "id": "bbcnepali",

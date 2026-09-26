@@ -1,56 +1,18 @@
 {
-  "generatedAt": "2026-09-26T00:55:59.725Z",
+  "generatedAt": "2026-09-26T05:52:05.857Z",
   "category": "manoranjan",
   "articles": [
     {
-      "sourceId": "ratopati",
-      "title": "प्रसाईँको कृति ‘सीताराम दाइ’ लोकार्पण",
-      "description": "काठमाडौँ । महासमालोचक प्राडा वासुदेव त्रिपाठीले राजधानी काठमाडौँमा एक समारोहबिच नरेन्द्रराज प्रसाईद्वारा लिखित &lsquo;सीताराम दाइ&rsquo; नामक निबन्ध सङ्ग्रहको लोकार्पण गरेका छन् । त्यस अवसरमा उनले सिद्धहस्त जीवनीकार, निबन्धकार तथा गीतकार नरेन्द्रराज प्रसाईँबाट सीताराम प्रसाईमाथि केन्द्रित भएर",
-      "link": "https://www.ratopati.com/story/594979/prasais-work-sitaram-dai-launched",
-      "image": "https://npcdn.ratopati.com/media/news/f5e5f5e0-1a9a-49d4-a64f-95c43ac16006_ZT796NEwuH.webp",
-      "pubDate": 1790383056000,
-      "category": "manoranjan",
-      "trendingScore": 62,
-      "breaking": false,
-      "clusterId": "cluster-4KSqIOCksOCkuCDgpIgg",
-      "id": "ratopati::aHR0cHM6Ly93d3cucmF0b3BhdGkuY29t"
-    },
-    {
       "sourceId": "nagarik",
-      "title": "बा: एक योद्धा:- सन्तानको सपना पूरा गराउन आफ्नै संसार गुमाउने बाबुको कथा",
-      "description": "चलचित्रको समापनमा पुग्दा सन्तानको भविष्यका लागि आफ्नो वर्तमान समर्पण गर्ने अभिभावकको भविष्यको जिम्मेवारी कसले लिने भन्ने भावुक प्रश्न दर्शकमाझ देखा पर्नेछ ।...",
-      "link": "https://nagariknews.nagariknetwork.com/arts/father-a-warrior-the-story-of-a-father-who-lost-his-own-world-to-make-his-son-s-dream-come-true-64-39.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1790347367_Ba%20(1).png",
-      "pubDate": 1790347383000,
+      "title": "पाठकीय आँखामा ‘फूलको जीवन मनको आगो’",
+      "description": "सुन्दर एउटा गीतमा सुन्दर एउटा कवितामा पाइने सबै गुण एवम् क्षमता हुन्छ।",
+      "link": "https://nagariknews.nagariknetwork.com/arts/song-collection-flower-life-fire-of-the-mind-br-94-83.html",
+      "image": "https://images.nagariknewscdn.com/2024/third-party/1790394757_Final%2098.jpg",
+      "pubDate": 1790393040000,
       "category": "manoranjan",
-      "trendingScore": 49,
-      "breaking": false,
-      "clusterId": "cluster-4KSsIOCkj-CklSDgpK8g",
-      "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
-    },
-    {
-      "sourceId": "onlinekhabar",
-      "title": "‘झिँगे दाउ २’ को ‘आमा भए पो स्वर्ग हुन्छ घर’ गीत रिलिज",
-      "description": "काठमाडौं । असोजको २ गतेबाट रिलिजमा आएको फिल्म ‘झिंगे दाउ २’ ले दर्शकको उत्कृष्ट प्रतिक्रिया पाइरहेको छ । हलमा फिल्म हेरेका दर्शकले यसको कथावस्तु, कलाकारको अभिनय, प्रस्तुति, गीतसंगीतलाई निकै मन पराएको निर्माताको भनाइ छ । यसैबिच, यसको निर्माणपक्षले फिल्म रिलिजको भएको एक सातापछि नयाँ गीत ‘आमा भए पो स्वर्ग हुन्छ घर’ सार्वजनिक गरेको छ । […]",
-      "link": "https://www.onlinekhabar.com/2026/09/2025953/jhinge-dau-2-song-aama-bhaye-po-swarg-hungo-ghar-released",
-      "pubDate": 1790345240000,
-      "category": "manoranjan",
-      "trendingScore": 48,
-      "breaking": false,
-      "clusterId": "cluster-4KSdIOCklyDgpKYg4KSJ",
-      "id": "onlinekhabar::aHR0cHM6Ly93d3cub25saW5la2hhYmFy"
-    },
-    {
-      "sourceId": "nagarik",
-      "title": "चलचित्र विकास बोर्ड अध्यक्ष : अब कामले चिनिने समय",
-      "description": "चलचित्रको नीति, पूर्वाधार, बजार, प्रविधि, कलाकार, प्राविधिक, प्रदर्शन, वितरण र अन्तर्राष्ट्रिय पहुँचजस्ता धेरै विषयसँग यो पद जोडिएको हुन्छ ।...",
-      "link": "https://nagariknews.nagariknetwork.com/arts/film-development-board-chairman-now-is-the-time-to-be-known-by-your-work-80-63.html",
-      "image": "https://images.nagariknewscdn.com/2026/third-party/1790344761_Kumar.png",
-      "pubDate": 1790344732000,
-      "category": "manoranjan",
-      "trendingScore": 48,
-      "breaking": false,
-      "clusterId": "cluster-4KSa4KSy4KSaIOCkpCDg",
+      "trendingScore": 67,
+      "breaking": true,
+      "clusterId": "cluster-4KSqIOCkoOCklSDgpK8g",
       "id": "nagarik::aHR0cHM6Ly9uYWdhcmlrbmV3cy5uYWdh"
     }
   ]
